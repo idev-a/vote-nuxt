@@ -1,0 +1,32 @@
+[
+  {
+    "change": "changed-MA-Dartmouth, Town of-Dartmouth Town Clerk-1390",
+    "newEmail": "Clerk@town.dartmouth.ma.us",
+    "oldEmail": "lmedeiros@town.dartmouth.ma.us",
+    "newEffectiveDate": "2020-08-04T13:25:19",
+    "oldEffectiveDate": "2017-09-20T14:40:08"
+  },
+  {
+    "change": "changed-MI-Lincoln Charter Township (Berrien County)-Lincoln Township Clerk-23679",
+    "newEmail": "sloar-porter@lctberrien.org",
+    "oldEmail": "cconnell@lctberrien.org",
+    "newEffectiveDate": "2020-08-04T12:59:16",
+    "oldEffectiveDate": "2019-08-12T16:48:54"
+  },
+  {
+    "change": "changed-NC-Henderson-Henderson County Board of Elections-2303",
+    "newEmail": "hcelections@hendersoncountync.gov",
+    "oldEmail": "elections@hendersoncountync.gov",
+    "newEffectiveDate": "2020-08-04T13:18:27",
+    "oldEffectiveDate": "2019-05-24T10:47:10"
+  },
+  {
+    "change": "changed-WI-CITY OF ELKHORN - WALWORTH COUNTY-CITY OF ELKHORN - WALWORTH COUNTY-27005",
+    "newPhone": "262-723-2219",
+    "oldPhone": "262-723-2219 x112",
+    "newEmail": "cityclerk@cityofelkhorn.org",
+    "oldEmail": "cvirrueta@cityofelkhorn.org",
+    "newEffectiveDate": "2020-08-04T08:11:52",
+    "oldEffectiveDate": "2019-08-13T14:03:18"
+  }
+]

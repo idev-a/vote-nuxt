@@ -1,0 +1,22 @@
+[
+  {
+    "change": "changed-MI-Pleasantview Township (Emmet County)-Pleasantview Township Clerk-24329",
+    "newFax": "231-526-0890",
+    "oldFax": "231-526-8140",
+    "newEmail": "plvtwp@gmail.com",
+    "oldEmail": "plvtwp@hughes.net",
+    "newEffectiveDate": "2020-07-28T11:47:15",
+    "oldEffectiveDate": "2019-08-12T16:48:55"
+  },
+  {
+    "change": "changed-MI-Stephenson Township (Menominee County)-Stephenson Township Clerk-24757",
+    "newFax": "",
+    "oldFax": "906-753-4361",
+    "newPhone": "906-290-2521",
+    "oldPhone": "906-753-4361",
+    "newEffectiveDate": "2020-07-28T12:07:02",
+    "oldEffectiveDate": "2019-08-08T16:18:23",
+    "newAddress1": "N7984 Hendrickson Road K-4",
+    "oldAddress1": "W3932 Co Rd 348"
+  }
+]

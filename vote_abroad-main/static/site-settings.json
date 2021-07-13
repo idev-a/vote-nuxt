@@ -1,0 +1,140 @@
+{
+  "faq-categories": [
+    {
+      "category": "votingAbroad",
+      "faqs": [
+        {
+          "faq": "1"
+        },
+        {
+          "faq": "3"
+        },
+        {
+          "faq": "4"
+        },
+        {
+          "faq": "2"
+        }
+      ]
+    },
+    {
+      "category": "returningBallot",
+      "faqs": [
+        {
+          "faq": "21"
+        },
+        {
+          "faq": "23"
+        },
+        {
+          "faq": "22"
+        }
+      ]
+    },
+    {
+      "category": "fwab",
+      "faqs": [
+        {
+          "faq": "24"
+        }
+      ]
+    },
+    {
+      "category": "voterRegistration",
+      "faqs": [
+        {
+          "faq": "5"
+        },
+        {
+          "faq": "6"
+        },
+        {
+          "faq": "7"
+        },
+        {
+          "faq": "8"
+        },
+        {
+          "faq": "9"
+        }
+      ]
+    },
+    {
+      "category": "neverResided",
+      "faqs": [
+        {
+          "faq": "10"
+        },
+        {
+          "faq": "11"
+        }
+      ]
+    },
+    {
+      "category": "fpca",
+      "faqs": [
+        {
+          "faq": "13"
+        },
+        {
+          "faq": "14"
+        },
+        {
+          "faq": "15"
+        },
+        {
+          "faq": "16"
+        },
+        {
+          "faq": "17"
+        },
+        {
+          "faq": "18"
+        },
+        {
+          "faq": "19"
+        },
+        {
+          "faq": "20"
+        },
+        {
+          "faq": "12"
+        }
+      ]
+    },
+    {
+      "category": "taxImplications",
+      "faqs": [
+        {
+          "faq": "25"
+        },
+        {
+          "faq": "26"
+        },
+        {
+          "faq": "27"
+        }
+      ]
+    },
+    {
+      "category": "studyAbroad",
+      "faqs": [
+        {
+          "faq": "28"
+        },
+        {
+          "faq": "29"
+        },
+        {
+          "faq": "30"
+        },
+        {
+          "faq": "31"
+        },
+        {
+          "faq": "32"
+        }
+      ]
+    }
+  ]
+}

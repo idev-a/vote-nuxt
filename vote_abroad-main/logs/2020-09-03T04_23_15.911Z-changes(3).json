@@ -1,0 +1,25 @@
+[
+  {
+    "change": "changed-CO-El Paso-El Paso County Clerk and Recorder-239",
+    "newPhone": "(719) 520-7325",
+    "oldPhone": "719-520-7094",
+    "newEmail": "uocava@elpasoco.com",
+    "oldEmail": "naungmoreland@elpasoco.com",
+    "newEffectiveDate": "2020-09-02T14:09:00",
+    "oldEffectiveDate": "2017-09-06T15:00:08"
+  },
+  {
+    "change": "changed-NM-Union-Union County Clerk-2793",
+    "newEmail": "marylou.harkins@unionnm.us",
+    "oldEmail": "unioncountyclerk@hotmail.com",
+    "newEffectiveDate": "2020-09-02T13:59:23",
+    "oldEffectiveDate": "2017-09-12T16:20:19"
+  },
+  {
+    "change": "changed-PA-Butler-Butler County Board of Elections-3084",
+    "newEmail": "asheasle@co.butler.pa.us",
+    "oldEmail": "mherrit@co.butler.pa.us",
+    "newEffectiveDate": "2020-09-02T14:43:00",
+    "oldEffectiveDate": "2020-06-19T11:04:11"
+  }
+]

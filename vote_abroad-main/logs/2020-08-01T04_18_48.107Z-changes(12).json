@@ -1,0 +1,120 @@
+[
+  {
+    "change": "changed-CA-Santa Clara-Santa Clara Registrar of Voters-203",
+    "newEffectiveDate": "2020-07-31T13:33:14",
+    "oldEffectiveDate": "2019-09-11T14:47:57"
+  },
+  {
+    "change": "changed-GA-Ben Hill-Ben Hill Board of Elections and Voter Registration-531",
+    "newFax": "",
+    "oldFax": "(229) 426-5152",
+    "newPhone": "(229) 922-0241",
+    "oldPhone": "(229) 426-5151",
+    "newEffectiveDate": "2020-07-31T15:04:49",
+    "oldEffectiveDate": "2015-08-31T13:36:24",
+    "newAddress1": "602 S. Grant St.",
+    "oldAddress1": "115 W Pine St"
+  },
+  {
+    "change": "changed-GA-Dougherty-Dougherty County Election Supervisor-569",
+    "newEffectiveDate": "2020-07-31T14:58:00",
+    "oldEffectiveDate": "2019-11-05T14:42:36"
+  },
+  {
+    "change": "changed-MI-Bay De Noc Township (Delta County)-Bay De Noc Township Clerk-22135",
+    "newPhone": "906-474-6286",
+    "oldPhone": "906-474-6014",
+    "newEffectiveDate": "2020-07-31T15:00:46",
+    "oldEffectiveDate": "2018-10-15T10:01:20",
+    "newAddress1": "5870 County 513 T Road",
+    "oldAddress1": "7847 Old K-10 17th Rd"
+  },
+  {
+    "change": "changed-MI-Holton Township (Muskegon County)-Holton Township Clerk-23373",
+    "newEmail": "holtonclerk@holtontownship.com",
+    "oldEmail": "holtonsecretary@holtontownship.com",
+    "newEffectiveDate": "2020-07-31T15:19:11",
+    "oldEffectiveDate": "2019-08-12T16:48:54"
+  },
+  {
+    "change": "changed-MI-Lincoln Township (Osceola County)-Lincoln Township Clerk-23695",
+    "newFax": "",
+    "oldFax": "989-687-6658",
+    "newPhone": "231-388-4974",
+    "oldPhone": "989-687-6658",
+    "newEmail": "lincolntownshipclerk@gmail.com",
+    "oldEmail": "clerk@lincoln-twp.org",
+    "newEffectiveDate": "2020-07-31T15:24:51",
+    "oldEffectiveDate": "2019-08-12T16:48:54",
+    "newAddress1": "19700 11 Mile Rd",
+    "oldAddress1": "1441 E Price Rd",
+    "newCity": "Le Roy",
+    "oldCity": "Midland",
+    "newZip": "49655",
+    "oldZip": "48642"
+  },
+  {
+    "change": "changed-MI-Richland Township (Kalamazoo County)-Richland Township Clerk-24435",
+    "newEmail": "clerk@richlandtwp.net",
+    "oldEmail": "dladuke@richlandtwp.net",
+    "newEffectiveDate": "2020-07-31T07:42:16",
+    "oldEffectiveDate": "2019-08-12T16:48:55"
+  },
+  {
+    "change": "changed-MI-Sciota Township (Shiawassee County)-Sciota Township Clerk-24583",
+    "newEmail": "clerk@sciotatownship.net",
+    "oldEmail": "sciotaclerk@gmail.com",
+    "newEffectiveDate": "2020-07-31T14:34:18",
+    "oldEffectiveDate": "2019-08-12T16:48:56"
+  },
+  {
+    "change": "changed-MI-Wright Township (Hillsdale County)-Wright Township Clerk-25105",
+    "newFax": "517-286-6496",
+    "oldFax": "616-677-3046",
+    "newPhone": "517-286-6486",
+    "oldPhone": "616-677-3048",
+    "newEmail": "wrightwal@wcomco.net",
+    "oldEmail": "clerk@ocwrighttwp.org",
+    "newEffectiveDate": "2020-07-31T15:12:52",
+    "oldEffectiveDate": "2019-08-12T16:54:51",
+    "newAddress1": "11891 Waldron Road",
+    "oldAddress1": "1565 Jackson, PO Box 255",
+    "newCity": "Waldron",
+    "oldCity": "Marne",
+    "newZip": "49288",
+    "oldZip": "49435"
+  },
+  {
+    "change": "changed-MI-Wright Township (Ottawa County)-Wright Township Clerk-25107",
+    "newFax": "616-677-3046",
+    "oldFax": "517-286-6496",
+    "newPhone": "616-677-3048",
+    "oldPhone": "517-286-6486",
+    "newEmail": "clerk@ocwrighttwp.org",
+    "oldEmail": "wrightwal@wcomco.net",
+    "newEffectiveDate": "2020-07-31T15:14:46",
+    "oldEffectiveDate": "2019-08-12T16:54:51",
+    "newAddress1": "1565 Jackson",
+    "oldAddress1": "11891 Waldron Road",
+    "newAddress2": "PO Box 255",
+    "oldAddress2": "",
+    "newCity": "Marne",
+    "oldCity": "Waldron",
+    "newZip": "49435",
+    "oldZip": "49288"
+  },
+  {
+    "change": "changed-NE-Dakota-Dakota County Clerk-2433",
+    "newPhone": "(402) 987-2129",
+    "oldPhone": "(402) 987-2125",
+    "newEffectiveDate": "2020-07-31T11:17:53",
+    "oldEffectiveDate": "2017-09-06T16:34:00"
+  },
+  {
+    "change": "changed-WI-TOWN OF LAMARTINE - FOND DU LAC COUNTY-TOWN OF LAMARTINE - FOND DU LAC COUNTY-25829",
+    "newEffectiveDate": "2020-07-31T15:05:59",
+    "oldEffectiveDate": "2019-08-13T14:03:08",
+    "newAddress1": "N5269 Schaefer Dr",
+    "oldAddress1": "N5269 SCHAEFER DR"
+  }
+]

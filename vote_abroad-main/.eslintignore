@@ -1,0 +1,14 @@
+# js vendor file with import/require
+assets/vendor/**
+# static vendor file . use with nuxt.config.js script
+static/**
+# dependencies
+node_modules
+node_modules/**
+# Nuxt build
+.nuxt
+# Nuxt generate
+dist
+# AWS files
+aws-exports-dev.js
+aws-exports-prod.js

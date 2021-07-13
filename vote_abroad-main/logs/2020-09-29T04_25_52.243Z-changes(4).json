@@ -1,0 +1,32 @@
+[
+  {
+    "change": "changed-KS-Doniphan-Doniphan County Clerk-1053",
+    "newEmail": "clerk@dpcountyks.com",
+    "oldEmail": "dpcoclerk@rainbowtel.net",
+    "newEffectiveDate": "2020-09-28T13:41:06",
+    "oldEffectiveDate": "2015-08-31T09:10:13"
+  },
+  {
+    "change": "changed-MI-Norwich Township (Newaygo County)-Norwich Township Clerk-24125",
+    "newPhone": "231-796-3919",
+    "oldPhone": "231-598-4872",
+    "newEmail": "annie1992@yahoo.com",
+    "oldEmail": "plwentland@gmail.com",
+    "newEffectiveDate": "2020-09-28T11:25:33",
+    "oldEffectiveDate": "2019-08-12T16:48:55",
+    "newAddress1": "6952 Hungerford Lake Drive",
+    "oldAddress1": "6481 N Cypress Ave"
+  },
+  {
+    "change": "changed-PA-Northumberland-Northumberland County Board of Elections-3123",
+    "newEffectiveDate": "2020-09-28T09:25:52",
+    "oldEffectiveDate": "2020-09-14T13:36:54"
+  },
+  {
+    "change": "changed-VA-Caroline-Caroline General Registrar-3692",
+    "newEmail": "kmcvay@vote.carolinecountyva.gov",
+    "oldEmail": "kmcvay@co.caroline.va.us",
+    "newEffectiveDate": "2020-09-28T10:12:43",
+    "oldEffectiveDate": "2015-09-03T10:01:30"
+  }
+]

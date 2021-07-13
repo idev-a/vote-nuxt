@@ -1,0 +1,16 @@
+[
+  {
+    "change": "changed-SD-Dewey-Dewey County Auditor-3247",
+    "newEmail": "auditor@deweycounty.biz",
+    "oldEmail": "Kyrie.Lemburg@state.sd.us",
+    "newEffectiveDate": "2020-08-10T17:00:35",
+    "oldEffectiveDate": "2015-08-31T14:51:50"
+  },
+  {
+    "change": "changed-TX-Nueces-Nueces County Early Voting Clerk-3566",
+    "newEmail": "vote.by.mail@nuecesco.com",
+    "oldEmail": "votebymail@nuecesco.com",
+    "newEffectiveDate": "2020-08-10T15:16:01",
+    "oldEffectiveDate": "2020-01-08T09:56:24"
+  }
+]

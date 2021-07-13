@@ -1,0 +1,93 @@
+[
+  {
+    "change": "changed-CA-Ventura-Ventura County Clerk-Elections-216",
+    "newFax": "1 (805) 654-3989",
+    "oldFax": "(805) 648-9200",
+    "newEffectiveDate": "2020-09-11T14:48:12",
+    "oldEffectiveDate": "2020-08-31T16:08:52"
+  },
+  {
+    "change": "changed-MA-Arlington, Town of-Arlington Town Clerk-1330",
+    "newEmail": "townclerk@town.arlington.ma.us",
+    "oldEmail": "jweber@town.arlington.ma.us",
+    "newEffectiveDate": "2020-09-10T10:20:06",
+    "oldEffectiveDate": "2020-08-03T11:55:16"
+  },
+  {
+    "change": "changed-MI-Marion Township (Livingston County)-Marion Township Clerk-23821",
+    "newFax": "231-547-2154",
+    "oldFax": "",
+    "newPhone": "231-547-2154",
+    "oldPhone": "810-376-8229",
+    "newEmail": "clerkmatchett@gmail.com",
+    "oldEmail": "mariontwp17@gmail.com",
+    "newEffectiveDate": "2020-09-10T11:46:05",
+    "oldEffectiveDate": "2019-08-12T16:48:54",
+    "newAddress1": "01362 Matchett Road",
+    "oldAddress1": "2920 E. Deckerville",
+    "newCity": "Charlevoix",
+    "oldCity": "Deckerville",
+    "newZip": "49720",
+    "oldZip": "48427"
+  },
+  {
+    "change": "changed-MI-Marion Township (Sanilac County)-Marion Township Clerk-23827",
+    "newFax": "",
+    "oldFax": "231-547-2154",
+    "newPhone": "810-404-8226",
+    "oldPhone": "231-547-2154",
+    "newEmail": "mariontwp17@gmail.com",
+    "oldEmail": "clerkmatchett@gmail.com",
+    "newEffectiveDate": "2020-09-10T11:44:19",
+    "oldEffectiveDate": "2019-08-12T16:48:55",
+    "newAddress1": "2920 E. Deckerville",
+    "oldAddress1": "01362 Matchett Road",
+    "newCity": "Deckerville",
+    "oldCity": "Charlevoix",
+    "newZip": "48427",
+    "oldZip": "49720"
+  },
+  {
+    "change": "changed-PA-Venango-Venango County Board of Elections-3135",
+    "newPhone": "(814) 437-9514",
+    "oldPhone": "(814) 432-9508",
+    "newEmail": "mbailey@co.venango.pa.us",
+    "oldEmail": "gmcguinness@co.venango.pa.us",
+    "newEffectiveDate": "2020-09-10T10:18:55",
+    "oldEffectiveDate": "2019-07-26T15:54:46"
+  },
+  {
+    "change": "changed-PA-Westmoreland-Westmoreland County Board of Elections-3139",
+    "newEmail": "slink@co.westmoreland.pa.us",
+    "oldEmail": "blechman@co.westmoreland.pa.us",
+    "newEffectiveDate": "2020-09-11T08:44:57",
+    "oldEffectiveDate": "2016-02-16T15:24:27"
+  },
+  {
+    "change": "changed-TX-Blanco-Blanco County Clerk-3404",
+    "newFax": "(830) 868-7788",
+    "oldFax": "(830) 868-4158",
+    "newPhone": "(830) 868-7168",
+    "oldPhone": "(830) 868-7357",
+    "newEmail": "electionsadmin@co.blanco.tx.us",
+    "oldEmail": "countyclerk@co.blanco.tx.us",
+    "newEffectiveDate": "2020-09-10T11:09:53",
+    "oldEffectiveDate": "2019-12-20T11:36:16",
+    "newAddress1": "P.O. Box 13",
+    "oldAddress1": "P.O. Box 65"
+  },
+  {
+    "change": "changed-TX-Hood-Hood County Early Voting Clerk-3499",
+    "newEmail": "mcarew@co.hood.tx.us",
+    "oldEmail": "elections@co.hood.tx.us",
+    "newEffectiveDate": "2020-09-10T09:49:08",
+    "oldEffectiveDate": "2018-04-18T12:02:59"
+  },
+  {
+    "change": "changed-WI-VILLAGE OF TWIN LAKES - KENOSHA COUNTY-VILLAGE OF TWIN LAKES - KENOSHA COUNTY-26093",
+    "newEmail": "waswo@twinlakeswi.net",
+    "oldEmail": "roesslein@twinlakeswi.net",
+    "newEffectiveDate": "2020-09-11T10:47:40",
+    "oldEffectiveDate": "2018-09-12T08:40:24"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "change": "changed-CT-Simsbury-Simsbury Town Clerk-409",
+    "newEmail": "ebutler@simsbury-ct.gov",
+    "oldEmail": "ckeily@simsbury.k12.ct.us",
+    "newEffectiveDate": "2020-10-05T09:52:23",
+    "oldEffectiveDate": "2019-06-25T09:56:32"
+  },
+  {
+    "change": "changed-MA-Gardner, City of-Gardner City Clerk-1421",
+    "newEmail": "elections@gardner-ma.gov",
+    "oldEmail": "aagnelli@gardner-ma.gov",
+    "newEffectiveDate": "2020-10-05T08:45:48",
+    "oldEffectiveDate": "2019-07-18T14:19:28"
+  },
+  {
+    "change": "changed-TX-Liberty-Liberty County Early Voting Clerk-3534",
+    "newPhone": "(936) 253-8050",
+    "oldPhone": "(936) 336-4670",
+    "newEmail": "elections@co.liberty.tx.us",
+    "oldEmail": "klint.bush@co.liberty.tx.us",
+    "newEffectiveDate": "2020-10-05T07:06:53",
+    "oldEffectiveDate": "2020-01-08T09:59:34",
+    "newAddress1": "1923 Sam Houston St",
+    "oldAddress1": "1923 Sam Houston St., Suite 217"
+  }
+]

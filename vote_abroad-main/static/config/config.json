@@ -1,0 +1,22 @@
+{
+  "title": "config",
+  "relatedFaqs": [
+    {
+      "FAQ to be included in menu": "can-i-register-to-vote-in-a-different-state"
+    }
+  ],
+  "states": [
+    {
+      "iso": "AL",
+      "state": "Alabama"
+    },
+    {
+      "iso": "NC",
+      "state": "North Carolina"
+    },
+    {
+      "iso": "AK",
+      "state": "Alaska"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "change": "changed-IA-Polk-Polk County Auditor-763",
+    "newEmail": "uocava@polkcountyiowa.gov",
+    "oldEmail": "election@polkcountyiowa.gov",
+    "newEffectiveDate": "2020-08-13T10:32:52",
+    "oldEffectiveDate": "2019-08-19T13:42:48"
+  },
+  {
+    "change": "changed-MI-Hastings, City of (Barry County)-Hastings City Clerk-23303",
+    "newEmail": "jsaurman@hastingsmi.org",
+    "oldEmail": "jczarnecki@hastingsmi.org",
+    "newEffectiveDate": "2020-08-13T11:29:30",
+    "oldEffectiveDate": "2019-08-12T16:48:54"
+  }
+]

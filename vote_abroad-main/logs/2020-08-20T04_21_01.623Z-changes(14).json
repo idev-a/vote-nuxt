@@ -1,0 +1,112 @@
+[
+  {
+    "change": "changed-GA-Barrow-Barrow County Board of Elections and Registration-529",
+    "newEmail": "mfranklin@barrowga.org",
+    "oldEmail": "lcash@barrowga.org",
+    "newEffectiveDate": "2020-08-19T10:55:26",
+    "oldEffectiveDate": "2019-08-09T11:48:10"
+  },
+  {
+    "change": "changed-GA-Candler-Candler County Board of Elections and Registration-543",
+    "newEffectiveDate": "2020-08-19T10:56:51",
+    "oldEffectiveDate": "2019-08-09T11:48:10",
+    "newAddress1": "1075 E. Hiawatha Street, Suite A",
+    "oldAddress1": "432 N. Rountree Street"
+  },
+  {
+    "change": "changed-GA-Cherokee-Cherokee County Elections &amp; Registration-550",
+    "newName": "Cherokee County Elections & Registration",
+    "oldName": "Cherokee County Elections & Registration",
+    "newEffectiveDate": "2020-08-19T11:00:21",
+    "oldEffectiveDate": "2015-08-31T13:36:24",
+    "newAddress1": "2782 Marietta Hwy, Suite 100",
+    "oldAddress1": "400 E Main St",
+    "newZip": "30114",
+    "oldZip": "30114-2802"
+  },
+  {
+    "change": "changed-GA-Douglas-Douglas County Voter Registration-570",
+    "newEffectiveDate": "2020-08-19T11:01:06",
+    "oldEffectiveDate": "2015-08-31T13:36:24",
+    "newAddress1": "8700 Hospital Drive",
+    "oldAddress1": "8700 Hospital Dr, Rm A-1003",
+    "newZip": "30134",
+    "oldZip": "30134-2264"
+  },
+  {
+    "change": "changed-GA-Forsyth-Forsyth County Board of Elections and Voter Registration-580",
+    "newEmail": "Voter@forsythco.com",
+    "oldEmail": "mbsmith@forsythco.com",
+    "newEffectiveDate": "2020-08-19T11:01:40",
+    "oldEffectiveDate": "2018-09-17T13:19:30"
+  },
+  {
+    "change": "changed-GA-Hall-Hall County Board of Elections and Voter Registration-591",
+    "newEmail": "ymack@hallcounty.org",
+    "oldEmail": "tsargent@hallcounty.org",
+    "newEffectiveDate": "2020-08-19T11:02:12",
+    "oldEffectiveDate": "2019-08-12T14:09:38"
+  },
+  {
+    "change": "changed-GA-Miller-Miller County Board of Registrars-622",
+    "newFax": "(229) 758-8133",
+    "oldFax": "(229) 758-9088",
+    "newEffectiveDate": "2020-08-19T11:02:51",
+    "oldEffectiveDate": "2019-11-05T10:58:31"
+  },
+  {
+    "change": "changed-GA-Telfair-Telfair County Board of Registrars-656",
+    "newEffectiveDate": "2020-08-19T11:03:44",
+    "oldEffectiveDate": "2019-08-09T11:48:10",
+    "newAddress1": "91 Telfair Avenue Annex Bldg. #3",
+    "oldAddress1": "91 Telfair Ave",
+    "newZip": "31055",
+    "oldZip": "31055-1604"
+  },
+  {
+    "change": "changed-GA-Walton-Walton County Board of Elections and Registration-669",
+    "newEffectiveDate": "2020-08-19T11:04:53",
+    "oldEffectiveDate": "2015-08-31T13:36:24",
+    "newAddress1": "303 S Hammond Dr",
+    "oldAddress1": "303 S Hammond Dr, Ste 111",
+    "newAddress2": "Dept. 465",
+    "oldAddress2": ""
+  },
+  {
+    "change": "changed-MI-Courtland Township (Kent County)-Courtland Township Clerk-22655",
+    "newEmail": "clerk@courtlandtwp.org",
+    "oldEmail": "qvf@courtlandtwp.org",
+    "newEffectiveDate": "2020-08-19T12:16:54",
+    "oldEffectiveDate": "2019-08-12T16:48:53"
+  },
+  {
+    "change": "changed-MI-Fredonia Township (Calhoun County)-Fredonia Township Clerk-23019",
+    "newEmail": "ccombs@fredoniatownship.com",
+    "oldEmail": "kdiver@fredoniatownship.com",
+    "newEffectiveDate": "2020-08-19T13:24:01",
+    "oldEffectiveDate": "2019-08-12T16:48:54"
+  },
+  {
+    "change": "changed-OH-Allen-Director, Allen County Board of Elections-2875",
+    "newEffectiveDate": "2020-08-19T15:24:14",
+    "oldEffectiveDate": "2019-08-22T09:44:18",
+    "newAddress1": "204 N. Main",
+    "oldAddress1": "204 N. Main St, Lower Level",
+    "newZip": "45801-4457",
+    "oldZip": "45801-4433"
+  },
+  {
+    "change": "changed-OH-Champaign-Director, Champaign County Board of Elections-2884",
+    "newEmail": "champaig@ohiosos.gov",
+    "oldEmail": "champaig@ohiosecretaryofstate.gov",
+    "newEffectiveDate": "2020-08-19T15:35:32",
+    "oldEffectiveDate": "2015-08-31T15:17:08"
+  },
+  {
+    "change": "changed-OH-Union-Director, Union County Board of Elections-2953",
+    "newEffectiveDate": "2020-08-19T08:53:37",
+    "oldEffectiveDate": "2019-07-24T09:55:12",
+    "newZip": "43040-1701",
+    "oldZip": "43040-8036"
+  }
+]

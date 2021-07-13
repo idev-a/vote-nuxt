@@ -1,0 +1,798 @@
+[
+  {
+    "change": "changed-CA-Ventura-Ventura County Clerk-Elections-216",
+    "newFax": "(805) 654-3989",
+    "oldFax": "(805) 648-9200",
+    "newEffectiveDate": "2020-08-28T14:26:01",
+    "oldEffectiveDate": "2019-09-13T13:48:50"
+  },
+  {
+    "change": "changed-NE-Adams-Adams County Clerk-2412",
+    "newEmail": "earlyvote@adamscounty.org",
+    "oldEmail": "rthomas@adamscounty.org",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "500 W 4th St, Ste 109",
+    "oldAddress1": "500 W 4th St, Rm 109",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 2067"
+  },
+  {
+    "change": "changed-NE-Antelope-Antelope County Clerk-2413",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2019-02-28T10:38:50",
+    "newAddress1": "501 Main St, PO Box 26",
+    "oldAddress1": "501 Main St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 26"
+  },
+  {
+    "change": "changed-NE-Arthur-Arthur County Clerk-2414",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "205 Fir St, PO Box 126",
+    "oldAddress1": "205 Fir St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 126"
+  },
+  {
+    "change": "changed-NE-Banner-Banner County Clerk-2415",
+    "newEmail": "clerk.banner@outlook.com",
+    "oldEmail": "clerk@banner.nacone.org",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "206 State St, PO Box 67",
+    "oldAddress1": "PO Box 67"
+  },
+  {
+    "change": "changed-NE-Blaine-Blaine County Clerk-2416",
+    "newEmail": "clerk@blainecountyne.com",
+    "oldEmail": "clerk@blaine.nacone.org",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2015-08-31T12:37:00"
+  },
+  {
+    "change": "changed-NE-Box Butte-Box Butte County Clerk-2418",
+    "newEmail": "electionoffice65@gmail.com",
+    "oldEmail": "boxbutteclerk@yahoo.com",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "515 Box Butte Ave #203, PO Box 678",
+    "oldAddress1": "PO Box 678"
+  },
+  {
+    "change": "changed-NE-Boyd-Boyd County Clerk-2419",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "401 Thayer St, PO Box 26",
+    "oldAddress1": "401 Thayer St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 26"
+  },
+  {
+    "change": "changed-NE-Brown-Brown County Clerk-2420",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2019-07-23T14:06:48",
+    "newAddress1": "148 W 4th St, PO Box 25",
+    "oldAddress1": "148 W 4th St"
+  },
+  {
+    "change": "changed-NE-Buffalo-Buffalo Election Commissioner-2421",
+    "newFax": "(308) 233-3663",
+    "oldFax": "(308) 236-1868",
+    "newEmail": "elections@buffalocounty.ne.gov",
+    "oldEmail": "lpoff@buffalocounty.ne.gov",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2020-07-23T11:25:23",
+    "newAddress1": "1512 Central Ave, PO Box 1270",
+    "oldAddress1": "1512 Central Ave",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 1270"
+  },
+  {
+    "change": "changed-NE-Burt-Burt County Clerk-2422",
+    "newEmail": "clerk@burtcounty.org",
+    "oldEmail": "burtcoclerk@abbnebraska.com",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "111 N 13th St., Ste 8, PO Box 87",
+    "oldAddress1": "111 N 13th St., Ste 8",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 87"
+  },
+  {
+    "change": "changed-NE-Butler-Butler County Clerk-2423",
+    "newEmail": "clerk@butlercountyne.net",
+    "oldEmail": "clerk@butler.nacone.org",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2015-08-31T12:37:00",
+    "newAddress1": "451 N 5th St, Ste 10",
+    "oldAddress1": "451 N 5th St"
+  },
+  {
+    "change": "changed-NE-Cedar-Cedar County Clerk-2425",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "101 South Broadway, PO Box 47",
+    "oldAddress1": "101 South Broadway",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 47"
+  },
+  {
+    "change": "changed-NE-Chase-Chase County Clerk-2426",
+    "newPhone": "(308) 882-7502",
+    "oldPhone": "(308) 882-7500",
+    "newEmail": "chasecountyclerk@gmail.com",
+    "oldEmail": "clerk@chase.nacone.org",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2019-07-23T14:06:48",
+    "newAddress1": "921 Broadway St., PO Box 1299",
+    "oldAddress1": "921 Broadway St.",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 1299"
+  },
+  {
+    "change": "changed-NE-Cherry-Cherry County Clerk-2427",
+    "newEmail": "bpetersen@cherrycountyne.com",
+    "oldEmail": "clerk@cherry.nacone.org",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "365 N Main St, PO Box 120",
+    "oldAddress1": "365 N Main St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 120"
+  },
+  {
+    "change": "changed-NE-Cheyenne-Cheyenne County Clerk-2428",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "1000 10th Ave, PO Box 217",
+    "oldAddress1": "1000 10th Ave",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 217"
+  },
+  {
+    "change": "changed-NE-Colfax-Colfax County Clerk-2430",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2015-08-31T12:37:00",
+    "newAddress1": "411 E 11th St, Ste 13",
+    "oldAddress1": "411 E 11th St."
+  },
+  {
+    "change": "changed-NE-Cuming-Cuming County Clerk-2431",
+    "newEmail": "clerk@cumingcounty.ne.gov",
+    "oldEmail": "bvogltance@cumingcounty.ne.gov",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2015-08-31T12:37:00",
+    "newAddress1": "200 S Lincoln St, Rm 100",
+    "oldAddress1": "200 S Lincoln St Rm 100"
+  },
+  {
+    "change": "changed-NE-Custer-Custer County Clerk-2432",
+    "newFax": "(308) 872-5290",
+    "oldFax": "(308) 872-6139",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "431 S 10th St, Rm 18",
+    "oldAddress1": "431 S 10th St"
+  },
+  {
+    "change": "changed-NE-Dakota-Dakota County Clerk-2433",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2020-07-31T11:17:53",
+    "newAddress1": "1601 Broadway St, PO Box 39",
+    "oldAddress1": "1601 Broadway St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 39"
+  },
+  {
+    "change": "changed-NE-Dawson-Dawson County Clerk-2435",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "700 N Washington St, Rm A",
+    "oldAddress1": "700 N Washington, Rm A"
+  },
+  {
+    "change": "changed-NE-Deuel-Deuel County Clerk-2436",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "718 Third St, PO Box 327",
+    "oldAddress1": "718 Third St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 327"
+  },
+  {
+    "change": "changed-NE-Dixon-Dixon County Clerk-2437",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "302 W 3rd St, PO Box 546",
+    "oldAddress1": "302 W 3rd St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 546"
+  },
+  {
+    "change": "changed-NE-Dodge-Dodge County Clerk-2438",
+    "newEmail": "dodgecountyvote@gmail.com",
+    "oldEmail": "clerk@dodge.nacone.org",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "435 N Park Ave, Ste 102",
+    "oldAddress1": "435 N Park, Rm 102"
+  },
+  {
+    "change": "changed-NE-Dundy-Dundy County Clerk-2440",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "112 7th Ave West, PO Box 506",
+    "oldAddress1": "112 7th Ave West",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 506"
+  },
+  {
+    "change": "changed-NE-Fillmore-Fillmore County Clerk-2441",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "900 G St, PO Box 307",
+    "oldAddress1": "900 G St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 307"
+  },
+  {
+    "change": "changed-NE-Franklin-Franklin County Clerk-2442",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "405 15th St, PO Box 146",
+    "oldAddress1": "405 15th St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 146"
+  },
+  {
+    "change": "changed-NE-Frontier-Frontier County Clerk-2443",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "1 Wellington St, PO Box 40",
+    "oldAddress1": "PO Box 40"
+  },
+  {
+    "change": "changed-NE-Furnas-Furnas County Clerk-2444",
+    "newEmail": "furnascoclerk@atcjet.net",
+    "oldEmail": "clerk@furnas.nacone.org",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "912 R St, PO Box 387",
+    "oldAddress1": "912 R St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 387"
+  },
+  {
+    "change": "changed-NE-Gage-Gage County Clerk-2445",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "612 Grant St, PO Box 429",
+    "oldAddress1": "612 Grant St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 429"
+  },
+  {
+    "change": "changed-NE-Garden-Garden County Clerk-2446",
+    "newEmail": "mindy.kezar@nebraska.gov",
+    "oldEmail": "clerk@garden.nacone.org",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "611 Main St, PO Box 350",
+    "oldAddress1": "611 Main St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 350"
+  },
+  {
+    "change": "changed-NE-Garfield-Garfield County Clerk-2447",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "250 S 8th Ave, PO Box 218",
+    "oldAddress1": "250 S 8th Ave",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 218"
+  },
+  {
+    "change": "changed-NE-Gosper-Gosper County Clerk-2448",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "507 Smith St, PO Box 136",
+    "oldAddress1": "507 Smith St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 136"
+  },
+  {
+    "change": "changed-NE-Grant-Grant County Clerk-2449",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "105 E Harrison St, PO Box 139",
+    "oldAddress1": "105 E Harrison St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 139"
+  },
+  {
+    "change": "changed-NE-Greeley-Greeley County Clerk-2450",
+    "newEmail": "mindy.grossart@nebraska.gov",
+    "oldEmail": "clerk@greeley.nacone.org",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "101 S Kildare St, Ste 201, PO Box 287",
+    "oldAddress1": "101 S Kildare St.",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 287"
+  },
+  {
+    "change": "changed-NE-Hall-Hall Election Commissioner-2451",
+    "newEmail": "elections@hallcountyne.gov",
+    "oldEmail": "tracyo@hallcountyne.gov",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2018-09-14T12:17:04"
+  },
+  {
+    "change": "changed-NE-Harlan-Harlan County Clerk-2453",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "706 W 2nd St, PO Box 698",
+    "oldAddress1": "706 W 2nd St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 698"
+  },
+  {
+    "change": "changed-NE-Hayes-Hayes County Clerk-2454",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "505 Troth, PO Box 370",
+    "oldAddress1": "505 Troth",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 370"
+  },
+  {
+    "change": "changed-NE-Hitchcock-Hitchcock County Clerk-2455",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "229 East D St, PO Box 248",
+    "oldAddress1": "229 East D St"
+  },
+  {
+    "change": "changed-NE-Holt-Holt County Clerk-2456",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "204 N 4th St, PO Box 329",
+    "oldAddress1": "204 N 4th St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 329",
+    "newCity": "O'Neill",
+    "oldCity": "O'Neill"
+  },
+  {
+    "change": "changed-NE-Hooker-Hooker County Clerk-2457",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "303 NW 1st St., PO Box 184",
+    "oldAddress1": "303 NW First St.",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 184"
+  },
+  {
+    "change": "changed-NE-Howard-Howard County Clerk-2458",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "612 Indian St, PO Box 25",
+    "oldAddress1": "612 Indian St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 25"
+  },
+  {
+    "change": "changed-NE-Jefferson-Jefferson County Clerk-2459",
+    "newEmail": "countyclerk1@jeffconebraska.us",
+    "oldEmail": "countyclerk@jeffconebraska.us",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2015-08-31T12:37:00",
+    "newAddress1": "411 4th St, Ste 1",
+    "oldAddress1": "411 4th St"
+  },
+  {
+    "change": "changed-NE-Johnson-Johnson County Clerk-2460",
+    "newEmail": "clerk@johnsoncountyne.com",
+    "oldEmail": "clerk@johnson.nacone.org",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "351 Broadway, PO Box 416",
+    "oldAddress1": "351 Broadway",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 416"
+  },
+  {
+    "change": "changed-NE-Kearney-Kearney County Clerk-2461",
+    "newEmail": "kearneycountyclerk@outlook.com",
+    "oldEmail": "clerk@kearney.nacone.org",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "424 N Colorado Ave, PO Box 339",
+    "oldAddress1": "424 N Colorado Ave",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 339"
+  },
+  {
+    "change": "changed-NE-Keya Paha-Keya Paha County Clerk-2463",
+    "newEmail": "keyapahaclerk20@gmail.com",
+    "oldEmail": "clerk@keyapaha.nacone.org",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "310 Courthouse Drive, PO Box 349",
+    "oldAddress1": "310 Courthouse Drive",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 349"
+  },
+  {
+    "change": "changed-NE-Kimball-Kimball County Clerk-2464",
+    "newEmail": "clerk@kimballcountyne.us",
+    "oldEmail": "clerk@kimball.nacone.org",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00"
+  },
+  {
+    "change": "changed-NE-Knox-Knox County Clerk-2465",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "206 Main St, PO Box 166",
+    "oldAddress1": "206 Main St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 166"
+  },
+  {
+    "change": "changed-NE-Lincoln-Lincoln County Clerk-2467",
+    "newEmail": "election@co.lincoln.ne.us",
+    "oldEmail": "clerk@co.lincoln.ne.us",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00"
+  },
+  {
+    "change": "changed-NE-Logan-Logan County Clerk-2468",
+    "newEmail": "debbie.myers@nebraska.gov",
+    "oldEmail": "clerk@logan.nacone.org",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "317 Main St, PO Box 8",
+    "oldAddress1": "317 Main St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 8"
+  },
+  {
+    "change": "changed-NE-Loup-Loup County Clerk-2469",
+    "newEmail": "debbie.postany@nebraska.gov",
+    "oldEmail": "clerk@loup.nacone.org",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "408 4th St, PO Box 187",
+    "oldAddress1": "408 4th St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 187"
+  },
+  {
+    "change": "changed-NE-Madison-Madison County Clerk-2470",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "1313 N Main St, PO Box 290",
+    "oldAddress1": "1313 N Main St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 290"
+  },
+  {
+    "change": "changed-NE-McPherson-McPherson County Clerk-2471",
+    "newEmail": "kathy.hoberg@nebraska.gov",
+    "oldEmail": "clerk@mcpherson.nacone.org",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "500 Anderson, PO Box 122",
+    "oldAddress1": "500 Anderson",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 122"
+  },
+  {
+    "change": "changed-NE-Merrick-Merrick County Clerk-2472",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "1510 18th St, PO Box 27",
+    "oldAddress1": "1510 18th St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 27"
+  },
+  {
+    "change": "changed-NE-Morrill-Morrill County Clerk-2473",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "606 L St., PO Box 610",
+    "oldAddress1": "606 L St.",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 610"
+  },
+  {
+    "change": "changed-NE-Nance-Nance County Clerk-2474",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2019-07-23T14:06:48",
+    "newAddress1": "209 Esther St, PO Box 338",
+    "oldAddress1": "209 Esther St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 338"
+  },
+  {
+    "change": "changed-NE-Nemaha-Nemaha County Clerk-2475",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "1824 N St, Ste. 201",
+    "oldAddress1": "1824 N St, Ste 201"
+  },
+  {
+    "change": "changed-NE-Nuckolls-Nuckolls County Clerk-2476",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "150 S Main St, PO Box 366",
+    "oldAddress1": "150 S Main St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 366"
+  },
+  {
+    "change": "changed-NE-Otoe-Otoe County Clerk-2477",
+    "newEmail": "jbassinger@otoecountyne.gov",
+    "oldEmail": "clerk@otoe.nacone.org",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "1021 Central Ave, Rm 103",
+    "oldAddress1": "1021 Central Ave, Rm 102",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 249"
+  },
+  {
+    "change": "changed-NE-Pawnee-Pawnee County Clerk-2478",
+    "newEmail": "clerk.pawneecountyne@gmail.com",
+    "oldEmail": "clerk@pawnee.nacone.org",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "625 6th St, PO Box 431",
+    "oldAddress1": "625 6th St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 431"
+  },
+  {
+    "change": "changed-NE-Perkins-Perkins County Clerk-2479",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "200 Lincoln Ave, PO Box 156",
+    "oldAddress1": "200 Lincoln Ave",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 156"
+  },
+  {
+    "change": "changed-NE-Phelps-Phelps County Clerk-2480",
+    "newEmail": "clerk@phelpscone.org",
+    "oldEmail": "clerk@phelps.nacone.org",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "715 5th Ave, PO Box 404",
+    "oldAddress1": "715 5th Ave",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 404"
+  },
+  {
+    "change": "changed-NE-Platte-Platte Election Commissioner-2482",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2019-08-12T13:23:07",
+    "newAddress1": "2610 14th St, Ste 12",
+    "oldAddress1": "2610 14th St"
+  },
+  {
+    "change": "changed-NE-Polk-Polk County Clerk-2483",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "400 Hawkeye St, PO Box 276",
+    "oldAddress1": "400 Hawkeye St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 267"
+  },
+  {
+    "change": "changed-NE-Red Willow-Red Willow County Clerk-2484",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2015-08-31T12:37:00",
+    "newAddress1": "502 Norris Ave, Ste 1",
+    "oldAddress1": "502 Norris Ave"
+  },
+  {
+    "change": "changed-NE-Richardson-Richardson County Clerk-2485",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2015-08-31T12:37:00",
+    "newAddress1": "1700 Stone St, Ste 203",
+    "oldAddress1": "1700 Stone St, Rm 203"
+  },
+  {
+    "change": "changed-NE-Rock-Rock County Clerk-2486",
+    "newEmail": "rockcountyclerk@outlook.com",
+    "oldEmail": "clerk@rock.nacone.org",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "400 South State St, PO Box 367",
+    "oldAddress1": "400 South State St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 367"
+  },
+  {
+    "change": "changed-NE-Saline-Saline County Clerk-2487",
+    "newPhone": "(402) 821-3922",
+    "oldPhone": "(402) 821-2374",
+    "newEmail": "election@salinecountyne.us",
+    "oldEmail": "clerk@saline.nacone.org",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2019-08-16T15:29:36",
+    "newAddress1": "204 S. High St, PO Box 865",
+    "oldAddress1": "204 S. High St."
+  },
+  {
+    "change": "changed-NE-Sarpy-Sarpy Election Commissioner-2488",
+    "newEmail": "earlyvote@sarpy.com",
+    "oldEmail": "krepaal@sarpy.com",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2019-09-04T09:01:03"
+  },
+  {
+    "change": "changed-NE-Saunders-Saunders County Clerk-2489",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "433 N Chestnut, Ste 300, PO Box 61",
+    "oldAddress1": "433 N Chestnut, Ste 300",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 61"
+  },
+  {
+    "change": "changed-NE-Scotts-Scotts Bluff County Clerk-2490",
+    "newPhone": "(308) 436-6653",
+    "oldPhone": "(308) 436-6600",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2019-07-23T14:06:48"
+  },
+  {
+    "change": "changed-NE-Seward-Seward County Clerk-2491",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2020-08-05T10:09:56",
+    "newAddress1": "529 Seward St, PO Box 190",
+    "oldAddress1": "529 Seward St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 190"
+  },
+  {
+    "change": "changed-NE-Sheridan-Sheridan County Clerk-2492",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "301 East 2nd St, PO Box 39",
+    "oldAddress1": "301 East 2nd St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 39"
+  },
+  {
+    "change": "changed-NE-Sherman-Sherman County Clerk-2493",
+    "newEmail": "marcy.sekutera@nebraska.gov",
+    "oldEmail": "clerk@sherman.nacone.org",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "630 O St, PO Box 456",
+    "oldAddress1": "630 O St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 456"
+  },
+  {
+    "change": "changed-NE-Sioux-Sioux County Clerk-2494",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "325 Main St, PO Box 158",
+    "oldAddress1": "325 Main St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 158"
+  },
+  {
+    "change": "changed-NE-Stanton-Stanton County Clerk-2495",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "804 Ivy St, PO Box 347",
+    "oldAddress1": "804 Ivy St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 347"
+  },
+  {
+    "change": "changed-NE-Thomas-Thomas County Clerk-2497",
+    "newEmail": "lorissa.hartman@nebraska.gov",
+    "oldEmail": "clerk@thomas.nacone.org",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2015-08-31T12:37:00",
+    "newAddress1": "503 Main St, PO Box 226",
+    "oldAddress1": "503 Main St"
+  },
+  {
+    "change": "changed-NE-Thurston-Thurston County Clerk-2498",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "106 South 5th St, PO Box 159",
+    "oldAddress1": "106 South 5th St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 159"
+  },
+  {
+    "change": "changed-NE-Valley-Valley County Clerk-2499",
+    "newFax": "(308) 730-8301",
+    "oldFax": "(308) 728-7725",
+    "newEmail": "valleycountyclerk@outlook.com",
+    "oldEmail": "clerk@valley.nacone.org",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00"
+  },
+  {
+    "change": "changed-NE-Washington-Washington County Clerk-2500",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "1555 Colfax St, PO Box 466",
+    "oldAddress1": "1555 Colfax St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 466"
+  },
+  {
+    "change": "changed-NE-Wayne-Wayne County Clerk-2501",
+    "newEmail": "clerk@wayne.nacone.org",
+    "oldEmail": "deb.finn@wayne.nacone.org",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "510 N Pearl St, Ste 5",
+    "oldAddress1": "501 Pearl St, Ste 5"
+  },
+  {
+    "change": "changed-NE-Webster-Webster County Clerk-2502",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "621 N Cedar St, PO Box 250",
+    "oldAddress1": "621 N Cedar St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 250"
+  },
+  {
+    "change": "changed-NE-Wheeler-Wheeler County Clerk-2503",
+    "newFax": "(308) 654-3176",
+    "oldFax": "(308) 654-3470",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2017-09-06T16:34:00",
+    "newAddress1": "301 Third St, PO Box 127",
+    "oldAddress1": "301 Third St",
+    "newAddress2": "",
+    "oldAddress2": "PO Box 127"
+  },
+  {
+    "change": "changed-NE-York-York County Clerk-2504",
+    "newEffectiveDate": "2020-08-28T12:12:34",
+    "oldEffectiveDate": "2015-08-31T12:37:00",
+    "newAddress1": "510 N Lincoln Ave",
+    "oldAddress1": "510 Lincoln Ave"
+  },
+  {
+    "change": "changed-NH-Somersworth, City of-City Clerk of Somersworth-2701",
+    "newEmail": "jslaven@somersworth.com",
+    "oldEmail": "tharris@somersworth.com",
+    "newEffectiveDate": "2020-08-28T08:05:05",
+    "oldEffectiveDate": "2015-08-31T15:02:50"
+  },
+  {
+    "change": "changed-NJ-Essex-Essex County Board of Elections - FWAB-25151",
+    "newEmail": "ballotreturn2020@clerk.essexcountynj.org",
+    "oldEmail": "bellotreturn2020@clerk.essexcountynj.org",
+    "newEffectiveDate": "2020-08-28T07:21:17",
+    "oldEffectiveDate": "2019-08-02T14:22:24"
+  },
+  {
+    "change": "changed-OH-Greene-Director, Greene County Board of Elections-2902",
+    "newEffectiveDate": "2020-08-28T10:07:30",
+    "oldEffectiveDate": "2020-08-27T09:44:18"
+  },
+  {
+    "change": "changed-TX-Hunt-Hunt County Early Voting Clerk-3504",
+    "newEmail": "jmartinez@huntcounty.net",
+    "oldEmail": "mcook@huntcounty.net",
+    "newEffectiveDate": "2020-08-28T10:37:36",
+    "oldEffectiveDate": "2016-02-26T07:48:01"
+  }
+]

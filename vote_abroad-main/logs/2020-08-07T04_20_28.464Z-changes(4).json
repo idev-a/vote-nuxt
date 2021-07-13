@@ -1,0 +1,50 @@
+[
+  {
+    "change": "changed-CO-Douglas-Douglas County Clerk and Recorder-237",
+    "newPhone": "303-660-7444",
+    "oldPhone": "303-814-4388",
+    "newEffectiveDate": "2020-08-06T14:17:57",
+    "oldEffectiveDate": "2020-06-12T10:24:32"
+  },
+  {
+    "change": "changed-MI-Tyrone Township (Kent County)-Tyrone Township Clerk-24871",
+    "newEffectiveDate": "2020-08-06T13:59:08",
+    "oldEffectiveDate": "2019-08-12T16:48:56",
+    "newAddress1": "28 E. Muskegon St.",
+    "oldAddress1": "10408 Center Rd",
+    "newAddress2": "P.O. Box 275",
+    "oldAddress2": "",
+    "newCity": "Kent City",
+    "oldCity": "Fenton",
+    "newZip": "49330",
+    "oldZip": "48430"
+  },
+  {
+    "change": "changed-MI-Tyrone Township (Livingston County)-Tyrone Township Clerk-24873",
+    "newEmail": "clerk@tyronetownship.us",
+    "oldEmail": "sworley@tyronetownship.org",
+    "newEffectiveDate": "2020-08-06T13:57:53",
+    "oldEffectiveDate": "2019-08-12T16:48:56",
+    "newAddress1": "8420 Runyan Lake Road",
+    "oldAddress1": "28 E Muskegon St, PO Box 275",
+    "newCity": "Fenton",
+    "oldCity": "Kent City",
+    "newZip": "48430",
+    "oldZip": "49330"
+  },
+  {
+    "change": "changed-WI-TOWN OF RANTOUL - CALUMET COUNTY-TOWN OF RANTOUL - CALUMET COUNTY-25467",
+    "newPhone": "920-588-7013",
+    "oldPhone": "920-756-2570",
+    "newEmail": "clerk@townofrantoul.com",
+    "oldEmail": "CLERK@TOWNOFRANTOUL.COM",
+    "newEffectiveDate": "2020-08-06T20:28:32",
+    "oldEffectiveDate": "2019-08-13T14:03:05",
+    "newAddress1": "PO Box 44",
+    "oldAddress1": "N7001 LONG LAKE RD",
+    "newCity": "Potter",
+    "oldCity": "BRILLION",
+    "newZip": "54160-0044",
+    "oldZip": "54110-9479"
+  }
+]

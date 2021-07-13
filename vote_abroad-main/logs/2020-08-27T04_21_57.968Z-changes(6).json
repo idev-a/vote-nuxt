@@ -1,0 +1,52 @@
+[
+  {
+    "change": "changed-CA-Kern-Kern County Clerk - Elections Office-175",
+    "newFax": "(661) 868-3723",
+    "oldFax": "(661) 868-3768",
+    "newEffectiveDate": "2020-08-26T11:22:15",
+    "oldEffectiveDate": "2019-09-11T14:30:43"
+  },
+  {
+    "change": "changed-IA-Audubon-Audubon County Auditor-691",
+    "newFax": "",
+    "oldFax": "(712) 563-2428",
+    "newEmail": "audcoaud@auduboncountyia.gov",
+    "oldEmail": "audcoaud@iowatelecom.net",
+    "newEffectiveDate": "2020-08-26T15:24:30",
+    "oldEffectiveDate": "2019-08-19T13:42:48"
+  },
+  {
+    "change": "changed-MI-Caledonia Township (Kent County)-Caledonia Township Clerk-22399",
+    "newEmail": "elections@caledoniatownship.org",
+    "oldEmail": "jvenema@caledoniatownship.org",
+    "newEffectiveDate": "2020-08-26T09:31:47",
+    "oldEffectiveDate": "2019-08-12T16:48:53",
+    "newJurisdictionName": "Caledonia Township (Kent County)",
+    "oldJurisdictionName": "Caledonia Township (Alcona County)"
+  },
+  {
+    "change": "changed-MI-Wayne, City of (Wayne County)-Wayne City Clerk-24983",
+    "newEmail": "tstanke@cityofwayne.com",
+    "oldEmail": "mmiller@ci.wayne.mi.us",
+    "newEffectiveDate": "2020-08-26T07:11:25",
+    "oldEffectiveDate": "2019-08-12T16:48:56"
+  },
+  {
+    "change": "changed-PA-Philadelphia-Philadelphia County Board of Elections-3125",
+    "newEffectiveDate": "2020-08-26T14:41:45",
+    "oldEffectiveDate": "2019-12-17T13:34:22",
+    "newAddress1": "City Hall, Room 142",
+    "oldAddress1": "Room 142 City Hall",
+    "newAddress2": "1400 John F Kennedy Blvd",
+    "oldAddress2": ""
+  },
+  {
+    "change": "changed-VA-Charlotte-Charlotte General Registrar-3695",
+    "newEffectiveDate": "2020-08-26T11:50:10",
+    "oldEffectiveDate": "2019-07-15T14:39:03",
+    "newAddress1": "P.O. Box 118",
+    "oldAddress1": "P.O. Box 1219",
+    "newZip": "23923-0118",
+    "oldZip": "22902-1219"
+  }
+]

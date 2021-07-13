@@ -1,0 +1,98 @@
+[
+  {
+    "change": "changed-MA-Danvers, Town of-Danvers Town Clerk-1389",
+    "newEmail": "jviel@danversma.gov",
+    "oldEmail": "KRAYOS@danversma.gov",
+    "newEffectiveDate": "2020-07-29T12:01:27",
+    "oldEffectiveDate": "2020-01-14T16:33:42"
+  },
+  {
+    "change": "changed-MA-Nahant, Town of-Nahant Town Clerk-1513",
+    "newEmail": "ddunfee@nahant.org",
+    "oldEmail": "mbarile@nahant.org",
+    "newEffectiveDate": "2020-07-29T11:23:45",
+    "oldEffectiveDate": "2017-09-20T14:40:09"
+  },
+  {
+    "change": "changed-MI-Deerfield Township (Lenawee County)-Deerfield Township Clerk-22727",
+    "newFax": "517-447-4162",
+    "oldFax": "517-546-0054",
+    "newPhone": "517-447-3000",
+    "oldPhone": "517-546-8760",
+    "newEmail": "deerfieldlenawee@gmail.com",
+    "oldEmail": "dclerk@deerfieldtwp.org",
+    "newEffectiveDate": "2020-07-29T15:49:56",
+    "oldEffectiveDate": "2019-08-12T16:48:53",
+    "newAddress1": "468 Carey St.",
+    "oldAddress1": "4492 Center Rd",
+    "newCity": "Deerfield",
+    "oldCity": "Linden",
+    "newZip": "49238",
+    "oldZip": "48451"
+  },
+  {
+    "change": "changed-MI-Deerfield Township (Isabella County)-Deerfield Township Clerk-22723",
+    "newFax": "989-773-4426",
+    "oldFax": "",
+    "newEffectiveDate": "2020-07-29T15:32:02",
+    "oldEffectiveDate": "2019-08-12T16:48:53"
+  },
+  {
+    "change": "changed-MI-Deerfield Township (Mecosta County)-Deerfield Township Clerk-22731",
+    "newPhone": "231-519-0099",
+    "oldPhone": "517-447-3000",
+    "newEmail": "",
+    "oldEmail": "deerfieldlenawee@gmail.com",
+    "newEffectiveDate": "2020-07-29T15:55:49",
+    "oldEffectiveDate": "2019-08-12T16:48:53",
+    "newAddress1": "3104 S. 130th Ave.",
+    "oldAddress1": "468 Carey St.",
+    "newCity": "Morley",
+    "oldCity": "Deerfield",
+    "newZip": "49336",
+    "oldZip": "49238"
+  },
+  {
+    "change": "changed-MI-Deerfield Township (Lapeer County)-Deerfield Township Clerk-22725",
+    "newFax": "810-793-4077",
+    "oldFax": "",
+    "newPhone": "810-793-6700",
+    "oldPhone": "231-519-0099",
+    "newEmail": "clerk@deerfieldtownship.com",
+    "oldEmail": "clerkjulie2016@gmail.com",
+    "newEffectiveDate": "2020-07-29T15:53:49",
+    "oldEffectiveDate": "2019-08-12T16:48:53",
+    "newAddress1": "30 E. Burnside Rd.",
+    "oldAddress1": "3104 130th Ave",
+    "newCity": "North Branch",
+    "oldCity": "Morley",
+    "newZip": "48461",
+    "oldZip": "49336"
+  },
+  {
+    "change": "changed-MI-Deerfield Township (Livingston County)-Deerfield Township Clerk-22729",
+    "newFax": "517-546-0054",
+    "oldFax": "810-793-4077",
+    "newPhone": "517-546-8760",
+    "oldPhone": "810-793-6700",
+    "newEmail": "dclerk@deerfieldtwp.org",
+    "oldEmail": "clerk@deerfieldtownship.com",
+    "newEffectiveDate": "2020-07-29T15:51:56",
+    "oldEffectiveDate": "2019-08-12T16:48:53",
+    "newAddress1": "4492 Center Rd.",
+    "oldAddress1": "30 E Burnside Rd",
+    "newCity": "Linden",
+    "oldCity": "North Branch",
+    "newZip": "48451",
+    "oldZip": "48461"
+  },
+  {
+    "change": "changed-WI-TOWN OF SOUTH FORK - RUSK COUNTY-TOWN OF SOUTH FORK - RUSK COUNTY-26697",
+    "newPhone": "715-826-0081",
+    "oldPhone": "715-459-9863",
+    "newEffectiveDate": "2020-07-29T12:08:01",
+    "oldEffectiveDate": "2019-08-13T14:03:12",
+    "newAddress1": "520 Maple Ave.",
+    "oldAddress1": "N8393 PIONEER RD"
+  }
+]

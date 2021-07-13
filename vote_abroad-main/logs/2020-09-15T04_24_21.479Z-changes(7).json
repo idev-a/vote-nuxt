@@ -1,0 +1,55 @@
+[
+  {
+    "change": "changed-AL-Dallas-Dallas County Circuit Clerk-25",
+    "newPhone": "334-874-2536",
+    "oldPhone": "334-419-0722",
+    "newEffectiveDate": "2020-09-14T15:31:20",
+    "oldEffectiveDate": "2019-07-16T10:57:34",
+    "newAddress1": "PO Box 327",
+    "oldAddress1": "PO Box 1148"
+  },
+  {
+    "change": "changed-CA-El Dorado-El Dorado Registrar of Voters-169",
+    "newPhone": "(530) 621-5103",
+    "oldPhone": "(530) 621-7493",
+    "newEmail": "vbm@edcgov.us",
+    "oldEmail": "edced@edcgov.us",
+    "newEffectiveDate": "2020-09-14T13:53:30",
+    "oldEffectiveDate": "2019-09-11T14:24:59"
+  },
+  {
+    "change": "changed-CT-Glastonbury-Glastonbury Town Clerk-336",
+    "newEffectiveDate": "2020-09-14T11:58:54",
+    "oldEffectiveDate": "2020-05-21T09:56:31",
+    "newJurisdictionType": "Town",
+    "oldJurisdictionType": "City"
+  },
+  {
+    "change": "changed-KY-Boyd-Boyd County Clerk-1146",
+    "newEmail": "scampbell@ky.gov",
+    "oldEmail": "debbiea.jones@ky.gov",
+    "newEffectiveDate": "2020-09-14T11:32:59",
+    "oldEffectiveDate": "2015-08-31T13:32:15"
+  },
+  {
+    "change": "changed-MO-Kansas City-Kansas City Board-2055",
+    "newEmail": "kceb@kceb.org",
+    "oldEmail": "kansascity@sos.mo.gov",
+    "newEffectiveDate": "2020-09-14T12:24:15",
+    "oldEffectiveDate": "2019-08-23T16:07:11"
+  },
+  {
+    "change": "changed-PA-Northumberland-Northumberland County Board of Elections-3123",
+    "newEmail": "nathan.savidge@norrycopa.net",
+    "oldEmail": "alisha.herb@norrycopa.net",
+    "newEffectiveDate": "2020-09-14T13:36:54",
+    "oldEffectiveDate": "2015-08-31T15:18:08"
+  },
+  {
+    "change": "changed-WI-CITY OF GILLETT - OCONTO COUNTY-CITY OF GILLETT - OCONTO COUNTY-26413",
+    "newEmail": "chelsea.anderson@ci.gillett.wi.us",
+    "oldEmail": "kim.gruetzmacher@ci.gillett.wi.us",
+    "newEffectiveDate": "2020-09-14T13:52:02",
+    "oldEffectiveDate": "2019-08-13T14:03:11"
+  }
+]

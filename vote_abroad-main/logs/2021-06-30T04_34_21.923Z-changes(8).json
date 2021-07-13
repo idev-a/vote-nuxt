@@ -1,0 +1,66 @@
+[
+  {
+    "change": "changed-NM-Los Alamos-Los Alamos County Clerk-2777",
+    "newEmail": "elections@lacnm.us",
+    "oldEmail": "clerks@lacnm.us",
+    "newEffectiveDate": "2021-06-29T15:48:14",
+    "oldEffectiveDate": "2017-09-12T16:20:19"
+  },
+  {
+    "change": "changed-OK-Grant-Secretary, Grant County Election Board-2988",
+    "newEffectiveDate": "2021-06-29T14:31:28",
+    "oldEffectiveDate": "2019-08-15T15:54:18",
+    "newAddress1": "112 E Guthrie St Ste 304",
+    "oldAddress1": "112 E Guthrie St Ste 101A"
+  },
+  {
+    "change": "changed-OK-Johnston-Secretary, Johnston County Election Board-2996",
+    "newEffectiveDate": "2021-06-29T14:31:28",
+    "oldEffectiveDate": "2018-02-22T13:59:08",
+    "newAddress1": "403 W Main St, Ste 104",
+    "oldAddress1": "705 W Main St",
+    "newZip": "73460-1753",
+    "oldZip": "73460-1734"
+  },
+  {
+    "change": "changed-OK-Okfuskee-Secretary, Okfuskee County Election Board-3015",
+    "newEffectiveDate": "2021-06-29T14:31:28",
+    "oldEffectiveDate": "2018-02-22T13:59:08",
+    "newAddress1": "PO Box 549",
+    "oldAddress1": "209 N 3rd St",
+    "newZip": "74859-0549",
+    "oldZip": "74859-2627"
+  },
+  {
+    "change": "changed-OK-Pottawatomie-Secretary, Pottawatomie County Election Board-3024",
+    "newEffectiveDate": "2021-06-29T14:31:28",
+    "oldEffectiveDate": "2018-02-22T13:59:08",
+    "newAddress1": "330 N Broadway Ave",
+    "oldAddress1": "14101 Acme Rd",
+    "newZip": "74801-6920",
+    "oldZip": "74804-9250"
+  },
+  {
+    "change": "changed-OK-Washington-Secretary, Washington County Election Board-3035",
+    "newEffectiveDate": "2021-06-29T14:31:28",
+    "oldEffectiveDate": "2018-02-22T13:59:08",
+    "newAddress1": "401 S Johnstone Ave, Ste 4",
+    "oldAddress1": "420 S Johnstone Ave, Ste 101",
+    "newZip": "74003-6656",
+    "oldZip": "74003-6602"
+  },
+  {
+    "change": "changed-TX-Lubbock-Lubbock County Early Voting Clerk-3540",
+    "newFax": "(806) 775-1338",
+    "oldFax": "(806) 775-7980",
+    "newEffectiveDate": "2021-06-29T07:32:28",
+    "oldEffectiveDate": "2018-04-18T12:02:59"
+  },
+  {
+    "change": "changed-TX-Presidio-Presidio County Early Voting Clerk-3577",
+    "newEmail": "elections@co.presidio.tx.us",
+    "oldEmail": "carolina.catano@co.presidio.tx.us",
+    "newEffectiveDate": "2021-06-29T07:30:48",
+    "oldEffectiveDate": "2019-08-29T15:13:37"
+  }
+]

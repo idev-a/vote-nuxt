@@ -1,0 +1,52 @@
+[
+  {
+    "change": "changed-MA-Bedford, Town of-Bedford Town Clerk-1343",
+    "newEmail": "clerk@bedfordma.gov",
+    "oldEmail": "townclerk@bedfordma.gov",
+    "newEffectiveDate": "2020-09-23T14:21:55",
+    "oldEffectiveDate": "2020-01-14T16:32:34"
+  },
+  {
+    "change": "changed-MA-Sherborn, Town of-Sherborn Town Clerk-1586",
+    "newEmail": "jmorris@sherbornma.org",
+    "oldEmail": "Carole.Marple@sherbornma.org",
+    "newEffectiveDate": "2020-09-23T15:14:51",
+    "oldEffectiveDate": "2019-07-18T14:19:28"
+  },
+  {
+    "change": "changed-MI-Arcada Township (Gratiot County)-Arcada Township Clerk-22029",
+    "newPhone": "989-620-6272",
+    "oldPhone": "989-620-1225",
+    "newEmail": "arcadaclerk@yahoo.com",
+    "oldEmail": "sherry.weber38@gmail.com",
+    "newEffectiveDate": "2020-09-23T14:58:15",
+    "oldEffectiveDate": "2019-08-12T16:48:52",
+    "newAddress1": "1798 N. Ely Hwy",
+    "oldAddress1": "1760 W. St. Charles Road",
+    "newCity": "Alma",
+    "oldCity": "Ithaca",
+    "newZip": "48801",
+    "oldZip": "48847"
+  },
+  {
+    "change": "changed-OK-Tulsa-Secretary, Tulsa County Election Board-3033",
+    "newFax": "(918) 596-4536",
+    "oldFax": "(918) 295-0079",
+    "newEffectiveDate": "2020-09-23T10:38:47",
+    "oldEffectiveDate": "2020-06-11T12:09:47"
+  },
+  {
+    "change": "changed-TX-Brown-Brown County Early Voting Clerk-3413",
+    "newEffectiveDate": "2020-09-23T10:44:00",
+    "oldEffectiveDate": "2019-08-29T15:13:37",
+    "newZip": "76804-0700",
+    "oldZip": "76804-9985"
+  },
+  {
+    "change": "changed-VA-Harrisonburg-Harrisonburg General Registrar-3731",
+    "newEmail": "Mark.Finks@HarrisonburgVA.gov",
+    "oldEmail": "Deborah.Logan@HarrisonburgVA.gov",
+    "newEffectiveDate": "2020-09-23T08:53:15",
+    "oldEffectiveDate": "2017-09-28T08:27:01"
+  }
+]

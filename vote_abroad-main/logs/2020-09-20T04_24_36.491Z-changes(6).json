@@ -1,0 +1,58 @@
+[
+  {
+    "change": "changed-IA-Humboldt-Humboldt County Auditor-732",
+    "newFax": "(515) 604-6238",
+    "oldFax": "(515) 332-1738",
+    "newEffectiveDate": "2020-09-19T21:22:29",
+    "oldEffectiveDate": "2019-08-19T13:42:48"
+  },
+  {
+    "change": "changed-MI-Grant Township (Cheboygan County)-Grant Township Clerk-23157",
+    "newPhone": "(616) 638-1106",
+    "oldPhone": "231-445-1388",
+    "newEffectiveDate": "2020-09-19T22:24:31",
+    "oldEffectiveDate": "2020-02-27T11:09:08"
+  },
+  {
+    "change": "changed-MI-Grant Township (Oceana County)-Grant Township Clerk-23159",
+    "newEffectiveDate": "2020-09-19T22:45:29",
+    "oldEffectiveDate": "2019-08-12T16:48:54",
+    "newAddress1": "7140 S Oceana Dr",
+    "oldAddress1": "7140",
+    "newJurisdictionName": "Grant Township (Oceana County)",
+    "oldJurisdictionName": "Grant Township (Clare County)"
+  },
+  {
+    "change": "changed-MI-Grant Township (Mason County)-Grant Township Clerk-23163",
+    "newEffectiveDate": "2020-09-19T22:42:27",
+    "oldEffectiveDate": "2019-08-12T16:48:54",
+    "newCity": "Free Soil",
+    "oldCity": "Freesoil",
+    "newJurisdictionName": "Grant Township (Mason County)",
+    "oldJurisdictionName": "Grant Township (Huron County)"
+  },
+  {
+    "change": "changed-MI-Grant Township (Keweenaw County)-Grant Township Clerk-23161",
+    "newFax": "906-289-1029",
+    "oldFax": "810-327-1133",
+    "newPhone": "906-289-4292",
+    "oldPhone": "810-327-6775",
+    "newEmail": "grant@pasty.com",
+    "oldEmail": "office@granttownship.com",
+    "newEffectiveDate": "2020-09-19T22:36:27",
+    "oldEffectiveDate": "2020-09-18T13:04:10",
+    "newJurisdictionName": "Grant Township (Keweenaw County)",
+    "oldJurisdictionName": "Grant Township (Grand Traverse County)"
+  },
+  {
+    "change": "changed-MI-Grant Township (St. Clair County)-Grant Township Clerk-23177",
+    "newFax": "810-327-1133",
+    "oldFax": "906-289-1029",
+    "newPhone": "810-327-6775",
+    "oldPhone": "906-289-4292",
+    "newEmail": "office@granttownship.com",
+    "oldEmail": "grant@pasty.com",
+    "newEffectiveDate": "2020-09-19T22:35:06",
+    "oldEffectiveDate": "2020-09-18T13:01:23"
+  }
+]

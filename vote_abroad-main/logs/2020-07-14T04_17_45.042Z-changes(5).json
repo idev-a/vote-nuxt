@@ -1,0 +1,61 @@
+[
+  {
+    "change": "changed-MA-Williamstown, Town of-Williamstown Town Clerk-1658",
+    "newEmail": "npedercini@williamstownma.gov",
+    "oldEmail": "mkennedy@williamstownma.gov",
+    "newEffectiveDate": "2020-07-13T11:15:09",
+    "oldEffectiveDate": "2020-02-10T09:07:06"
+  },
+  {
+    "change": "changed-MI-Clawson, City of (Oakland County)-Clawson City Clerk-22555",
+    "newEmail": "jperkins@cityofclawson.com",
+    "oldEmail": "msmith@cityofclawson.com",
+    "newEffectiveDate": "2020-07-13T11:03:02",
+    "oldEffectiveDate": "2019-08-12T16:48:53"
+  },
+  {
+    "change": "changed-MI-Schoolcraft Township (Kalamazoo County)-Schoolcraft Township Clerk-24579",
+    "newFax": "269-649-2232",
+    "oldFax": "906-296-9106",
+    "newPhone": "269-649-1276",
+    "oldPhone": "906-296-8721",
+    "newEmail": "vmongreig@schtwp.org",
+    "oldEmail": "gary@schoolcrafttownship.net",
+    "newEffectiveDate": "2020-07-13T15:55:55",
+    "oldEffectiveDate": "2020-07-08T16:48:56",
+    "newAddress1": "50 East Vw Ave",
+    "oldAddress1": "226 Front Street",
+    "newCity": "Vicksburg",
+    "oldCity": "Lake Linden",
+    "newZip": "49097",
+    "oldZip": "49945",
+    "newJurisdictionName": "Schoolcraft Township (Kalamazoo County)",
+    "oldJurisdictionName": "Schoolcraft Township (Houghton County)"
+  },
+  {
+    "change": "changed-MI-Schoolcraft Township (Houghton County)-Schoolcraft Township Clerk-24577",
+    "newFax": "906-296-9106",
+    "oldFax": "269-649-2232",
+    "newPhone": "906-296-8721",
+    "oldPhone": "269-649-1276",
+    "newEmail": "gary@schoolcrafttownship.net",
+    "oldEmail": "vmongreig@schtwp.org",
+    "newEffectiveDate": "2020-07-13T15:46:28",
+    "oldEffectiveDate": "2020-07-08T16:48:56",
+    "newAddress1": "226 Front Street",
+    "oldAddress1": "50 E Vw Ave",
+    "newCity": "Lake Linden",
+    "oldCity": "Vicksburg",
+    "newZip": "49945",
+    "oldZip": "49097",
+    "newJurisdictionName": "Schoolcraft Township (Houghton County)",
+    "oldJurisdictionName": "Schoolcraft Township (Kalamazoo County)"
+  },
+  {
+    "change": "changed-TX-Val Verde-Val Verde County Early Voting Clerk-3621",
+    "newEmail": "elections@valverdecounty.texas.gov",
+    "oldEmail": "elections@valverdecounty.org",
+    "newEffectiveDate": "2020-07-13T13:22:09",
+    "oldEffectiveDate": "2019-08-29T15:13:38"
+  }
+]

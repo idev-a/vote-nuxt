@@ -1,0 +1,16 @@
+[
+  {
+    "change": "changed-MA-Everett, City of-Everett Election Commission-1411",
+    "newEmail": "sergio.cornelio@ci.everett.ma.us",
+    "oldEmail": "l.angiolillo@ci.everett.ma.us",
+    "newEffectiveDate": "2020-09-29T15:19:58",
+    "oldEffectiveDate": "2019-07-18T14:19:27"
+  },
+  {
+    "change": "changed-MI-Wayland, City of (Allegan County)-Wayland City Clerk-24979",
+    "newEmail": "lclausen@cityofwayland.org",
+    "oldEmail": "mherman@cityofwayland.org",
+    "newEffectiveDate": "2020-09-29T11:58:19",
+    "oldEffectiveDate": "2019-08-12T16:48:56"
+  }
+]

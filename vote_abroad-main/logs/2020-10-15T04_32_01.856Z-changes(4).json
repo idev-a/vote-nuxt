@@ -1,0 +1,30 @@
+[
+  {
+    "change": "changed-CA-Calaveras-Calaveras County Clerk, Elections Department-165",
+    "newEmail": "Electionsweb@co.calaveras.ca.us",
+    "oldEmail": "ayepez@co.calaveras.ca.us",
+    "newEffectiveDate": "2020-10-14T12:16:40",
+    "oldEffectiveDate": "2019-09-11T14:23:44"
+  },
+  {
+    "change": "changed-CA-Madera-Madera County Clerk-Elections-180",
+    "newEmail": "UOCAVA@maderacounty.com",
+    "oldEmail": "ssibley@maderacounty.com",
+    "newEffectiveDate": "2020-10-14T12:17:14",
+    "oldEffectiveDate": "2019-07-15T13:12:58"
+  },
+  {
+    "change": "changed-CA-Mendocino-Mendocino County Clerk-Elections-183",
+    "newEmail": "mcvotes@mendocinocounty.org",
+    "oldEmail": "bartolok@mendocinocounty.org",
+    "newEffectiveDate": "2020-10-14T12:17:42",
+    "oldEffectiveDate": "2019-07-15T13:12:58"
+  },
+  {
+    "change": "changed-MI-Clio, City of (Genesee County)-Clio City Clerk-22583",
+    "newEmail": "clio.mperry@gmail.com",
+    "oldEmail": "clerkclio@gmail.com",
+    "newEffectiveDate": "2020-10-14T12:55:04",
+    "oldEffectiveDate": "2019-08-12T16:48:53"
+  }
+]

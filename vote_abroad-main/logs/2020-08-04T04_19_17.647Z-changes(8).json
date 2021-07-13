@@ -1,0 +1,58 @@
+[
+  {
+    "change": "changed-GA-Cook-Cook County Board of Elections and Registration-559",
+    "newFax": "(229) 896-1194",
+    "oldFax": "(229) 896-7925",
+    "newEffectiveDate": "2020-08-03T14:21:31",
+    "oldEffectiveDate": "2016-03-31T08:57:00"
+  },
+  {
+    "change": "changed-IL-Champaign-Champaign County Clerk-841",
+    "newEmail": "elections@co.champaign.il.us",
+    "oldEmail": "mail@champaigncountyclerk.com",
+    "newEffectiveDate": "2020-08-03T13:26:22",
+    "oldEffectiveDate": "2019-08-30T13:09:17"
+  },
+  {
+    "change": "changed-KS-Saline-Saline County Clerk-1116",
+    "newEmail": "jamie.doss@saline.org",
+    "oldEmail": "jamie.allen@saline.org",
+    "newEffectiveDate": "2020-08-03T11:42:19",
+    "oldEffectiveDate": "2017-09-25T08:30:15"
+  },
+  {
+    "change": "changed-MD-Cecil-Cecil County Board of Elections-25265",
+    "newEmail": "voting@ccgov.org",
+    "oldEmail": "rlavoie@ccgov.org",
+    "newEffectiveDate": "2020-08-03T14:15:00",
+    "oldEffectiveDate": "2019-07-02T11:00:01"
+  },
+  {
+    "change": "changed-MA-Arlington, Town of-Arlington Town Clerk-1330",
+    "newEmail": "jweber@town.arlington.ma.us",
+    "oldEmail": "slucarelli@town.arlington.ma.us",
+    "newEffectiveDate": "2020-08-03T11:55:16",
+    "oldEffectiveDate": "2017-09-20T14:40:08"
+  },
+  {
+    "change": "changed-MI-Deerfield Township (Mecosta County)-Deerfield Township Clerk-22731",
+    "newEmail": "clerkjulie2016@gmail.com",
+    "oldEmail": "",
+    "newEffectiveDate": "2020-08-03T12:24:57",
+    "oldEffectiveDate": "2020-07-29T15:55:49"
+  },
+  {
+    "change": "changed-MN-Douglas-Douglas County Auditor/Treasurer-1937",
+    "newEmail": "elections@co.douglas.mn.us",
+    "oldEmail": "vickid@co.douglas.mn.us",
+    "newEffectiveDate": "2020-08-03T14:38:25",
+    "oldEffectiveDate": "2015-08-31T14:36:27"
+  },
+  {
+    "change": "changed-TX-Kendall-Kendall County Early Voting Clerk-3518",
+    "newEmail": "absenteevoting@co.kendall.tx.us",
+    "oldEmail": "elections@co.kendall.tx.us",
+    "newEffectiveDate": "2020-08-03T15:22:38",
+    "oldEffectiveDate": "2019-08-29T15:13:37"
+  }
+]

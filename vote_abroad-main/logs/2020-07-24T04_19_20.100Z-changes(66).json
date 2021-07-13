@@ -1,0 +1,550 @@
+[
+  {
+    "change": "changed-AL-Coosa-Coosa County Judge of Probate-20",
+    "newName": "Coosa County Judge of Probate",
+    "oldName": "Coosa County Circuit Clerk",
+    "newEmail": "CoosaCountyProbate@outlook.com",
+    "oldEmail": "deanprobatejudge@outlook.com",
+    "newEffectiveDate": "2020-07-23T11:27:33",
+    "oldEffectiveDate": "2019-07-19T11:46:58"
+  },
+  {
+    "change": "changed-CA-Humboldt-Humboldt County Clerk-Elections-172",
+    "newEmail": "humboldt_elections@co.humboldt.ca.us",
+    "oldEmail": "Ljackson@co.humboldt.ca.us",
+    "newEffectiveDate": "2020-07-23T11:19:48",
+    "oldEffectiveDate": "2019-07-15T13:12:58"
+  },
+  {
+    "change": "changed-CA-Kings-Kings County Elections Dept., Govt. Center-176",
+    "newEmail": "elections@countyofkings.com",
+    "oldEmail": "melinda.hernandez@co.kings.ca.us",
+    "newEffectiveDate": "2020-07-23T12:26:11",
+    "oldEffectiveDate": "2019-07-15T13:12:58"
+  },
+  {
+    "change": "changed-CA-Tulare-Tulare County Registrar of Voters-214",
+    "newPhone": "(559) 624-7300",
+    "oldPhone": "(559) 624-7308",
+    "newEmail": "MCypert@co.tulare.ca.us",
+    "oldEmail": "eoliveira@co.tulare.ca.us",
+    "newEffectiveDate": "2020-07-23T12:13:00",
+    "oldEffectiveDate": "2019-07-15T13:12:58"
+  },
+  {
+    "change": "changed-CA-Yolo-Yolo County Elections Department-217",
+    "newEmail": "Elections@yolocounty.org",
+    "oldEmail": "cntyclrk@yoloelections.org",
+    "newEffectiveDate": "2020-07-23T12:35:06",
+    "oldEffectiveDate": "2019-09-11T14:35:52"
+  },
+  {
+    "change": "changed-CO-Gilpin-Gilpin County Clerk and Recorder-243",
+    "newEffectiveDate": "2020-07-23T11:52:24",
+    "oldEffectiveDate": "2020-07-21T07:00:11",
+    "newAddress2": "PO Box 429",
+    "oldAddress2": ""
+  },
+  {
+    "change": "changed-CO-Weld-Weld County Clerk and Recorder-281",
+    "newEffectiveDate": "2020-07-23T11:00:46",
+    "oldEffectiveDate": "2017-09-06T15:00:08",
+    "newAddress1": "1400 N 17th Ave",
+    "oldAddress1": "1401 N 17th Avenue"
+  },
+  {
+    "change": "changed-CT-Berlin-Berlin Town Clerk-289",
+    "newPhone": "860-828-7036",
+    "oldPhone": "860-828-7075",
+    "newEffectiveDate": "2020-07-23T11:06:57",
+    "oldEffectiveDate": "2019-06-25T09:56:31"
+  },
+  {
+    "change": "changed-CT-North Branford-North Branford Town Clerk-380",
+    "newEffectiveDate": "2020-07-23T12:42:46",
+    "oldEffectiveDate": "2019-06-25T09:56:31",
+    "newAddress1": "North Branford Town Clerk ",
+    "oldAddress1": "Town Hall, 909 Foxon Road",
+    "newAddress2": "909 Foxon Road",
+    "oldAddress2": ""
+  },
+  {
+    "change": "changed-CT-Pomfret-Pomfret Town Clerk-393",
+    "newPhone": "860-315-5730",
+    "oldPhone": "860-974-0343",
+    "newEffectiveDate": "2020-07-23T14:14:19",
+    "oldEffectiveDate": "2019-06-25T09:56:32",
+    "newAddress1": "5 Haven Road",
+    "oldAddress1": "5 Haven Road, P.O. Box 286"
+  },
+  {
+    "change": "changed-IL-Carroll-Carroll County Clerk-839",
+    "newEmail": "ccclerk3@carroll-county.net",
+    "oldEmail": "ccclerk1@carroll-county.net",
+    "newEffectiveDate": "2020-07-23T12:36:22",
+    "oldEffectiveDate": "2019-08-30T13:09:17"
+  },
+  {
+    "change": "changed-KS-Johnson-Johnson County Election Commissioner-1077",
+    "newEffectiveDate": "2020-07-23T11:59:22",
+    "oldEffectiveDate": "2020-05-08T10:33:08",
+    "newAddress1": "2101 E Kansas City Road",
+    "oldAddress1": "2101 E Kansas City Rd",
+    "newZip": "66061-3007",
+    "oldZip": "66061-6002"
+  },
+  {
+    "change": "changed-MA-Easton, Town of-Easton Town Clerk-1406",
+    "newFax": "(508) 230-0569",
+    "oldFax": "(508) 230-0609",
+    "newEffectiveDate": "2020-07-23T11:05:42",
+    "oldEffectiveDate": "2019-07-18T14:19:27"
+  },
+  {
+    "change": "changed-MA-Harvard, Town of-Harvard Town Clerk-1442",
+    "newEmail": "townclerk@harvard.ma.us",
+    "oldEmail": "mkenney@harvard.ma.us",
+    "newEffectiveDate": "2020-07-23T12:37:57",
+    "oldEffectiveDate": "2017-09-20T14:40:09"
+  },
+  {
+    "change": "changed-MA-Hinsdale, Town of-Hinsdale Town Clerk-1449",
+    "newEffectiveDate": "2020-07-23T15:49:44",
+    "oldEffectiveDate": "2019-07-18T14:19:28"
+  },
+  {
+    "change": "changed-MA-Mendon, Town of-Mendon Town Clerk-1496",
+    "newEffectiveDate": "2020-07-23T11:03:45",
+    "oldEffectiveDate": "2019-07-18T14:19:28",
+    "newAddress1": "20 MAIN ST.",
+    "oldAddress1": "20 MAIN ST., PO BOX 54"
+  },
+  {
+    "change": "changed-MA-Sheffield, Town of-Sheffield Town Clerk-1584",
+    "newFax": "(413) 229-7000 x151",
+    "oldFax": "(413) 229-7010",
+    "newEffectiveDate": "2020-07-23T16:08:08",
+    "oldEffectiveDate": "2019-07-18T14:19:28"
+  },
+  {
+    "change": "changed-MA-Stow, Town of-Stow Town Clerk-1603",
+    "newEmail": "vote@stow-ma.gov",
+    "oldEmail": "townclerk@stow-ma.gov",
+    "newEffectiveDate": "2020-07-23T13:19:47",
+    "oldEffectiveDate": "2017-09-20T14:40:09"
+  },
+  {
+    "change": "changed-MI-Alger County-Alger County Clerk-21969",
+    "newFax": "(906) 387-2156",
+    "oldFax": "906-387-2156",
+    "newPhone": "(906) 387-7067",
+    "oldPhone": "906-387-2076",
+    "newEmail": "mfroberg@algercounty.gov",
+    "oldEmail": "mfroberg@algercourthouse.com",
+    "newEffectiveDate": "2020-07-23T12:28:21",
+    "oldEffectiveDate": "2019-08-12T16:48:52",
+    "newAddress1": "101 Court St.",
+    "oldAddress1": "101 Court St., PO Box 538"
+  },
+  {
+    "change": "changed-MI-Aurelius Township (Ingham County)-Aurelius Township Clerk-22079",
+    "newEmail": "clerk@aureliustwp.org",
+    "oldEmail": "tayres@aureliustwp.org",
+    "newEffectiveDate": "2020-07-23T13:35:07",
+    "oldEffectiveDate": "2019-08-12T16:48:52"
+  },
+  {
+    "change": "changed-MI-Bay Township (Charlevoix County)-Bay Township Clerk-22139",
+    "newFax": "",
+    "oldFax": "231-582-7313",
+    "newPhone": "231-582-3594",
+    "oldPhone": "231-582-6309",
+    "newEmail": "clerk@baytownshipmi.org",
+    "oldEmail": "clerk@baytownship.org",
+    "newEffectiveDate": "2020-07-23T12:08:21",
+    "oldEffectiveDate": "2019-08-12T16:48:53"
+  },
+  {
+    "change": "changed-MI-Brookfield Township (Eaton County)-Brookfield Township Clerk-22331",
+    "newEmail": "debbiegranger30@gmail.com",
+    "oldEmail": "debbiegranger@sbcglobal.net",
+    "newEffectiveDate": "2020-07-23T15:30:52",
+    "oldEffectiveDate": "2019-08-08T16:18:20"
+  },
+  {
+    "change": "changed-MI-Calhoun County-Calhoun County Clerk-22403",
+    "newFax": "269-781-0703",
+    "oldFax": "269-781-0720",
+    "newPhone": "269-781-0988",
+    "oldPhone": "269-781-0707",
+    "newEffectiveDate": "2020-07-23T13:27:10",
+    "oldEffectiveDate": "2019-08-12T16:48:53"
+  },
+  {
+    "change": "changed-MI-Denver Township (Newaygo County)-Denver Township Clerk-22747",
+    "newPhone": "231-854-0730",
+    "oldPhone": "989-433-5507",
+    "newEmail": "kryzsmith@gmail.com",
+    "oldEmail": "tlcp77@hotmail.com",
+    "newEffectiveDate": "2020-07-23T09:52:51",
+    "oldEffectiveDate": "2019-08-12T16:48:53",
+    "newAddress1": "9051 W Adams St",
+    "oldAddress1": "8397 E. Rosebush Rd",
+    "newCity": "Hesperia",
+    "oldCity": "Mt Pleasant",
+    "newZip": "49421",
+    "oldZip": "48858"
+  },
+  {
+    "change": "changed-MI-Denver Township (Isabella County)-Denver Township Clerk-22745",
+    "newPhone": "989-433-5507",
+    "oldPhone": "231-854-0730",
+    "newEmail": "denvertownshipclerk@gmail.com",
+    "oldEmail": "kryzsmith@gmail.com",
+    "newEffectiveDate": "2020-07-23T09:52:59",
+    "oldEffectiveDate": "2019-08-12T16:48:53",
+    "newAddress1": "8397 E. Rosebush Rd",
+    "oldAddress1": "9051 W Adams St",
+    "newCity": "Mt Pleasant",
+    "oldCity": "Hesperia",
+    "newZip": "48858",
+    "oldZip": "49421"
+  },
+  {
+    "change": "changed-MI-Ellington Township (Tuscola County)-Ellington Township Clerk-22847",
+    "newPhone": "989-673-8009",
+    "oldPhone": "989-670-3078",
+    "newEffectiveDate": "2020-07-23T13:11:35",
+    "oldEffectiveDate": "2019-08-12T16:48:53"
+  },
+  {
+    "change": "changed-MI-McKinley Township (Emmet County)-McKinley Township Clerk-23877",
+    "newEmail": "mckinleytwpclerk@gmail.com",
+    "oldEmail": "aliciamorrowmckinleyclerk@gmail.com",
+    "newEffectiveDate": "2020-07-23T11:43:09",
+    "oldEffectiveDate": "2019-08-08T16:18:22"
+  },
+  {
+    "change": "changed-MI-Mikado Township (Alcona County)-Mikado Township Clerk-23939",
+    "newPhone": "(989) 736-7721",
+    "oldPhone": "989-736-8869",
+    "newEffectiveDate": "2020-07-23T13:18:19",
+    "oldEffectiveDate": "2019-08-12T16:48:55",
+    "newAddress1": "2268 Hamilton Rd.",
+    "oldAddress1": "2268 Hamilton Rd., PO Box 60",
+    "newAddress2": "P.O. Box 60",
+    "oldAddress2": "",
+    "newCity": "Mikado",
+    "oldCity": "Sands"
+  },
+  {
+    "change": "changed-MI-Mount Haley Township (Midland County)-Mount Haley Township Clerk-24017",
+    "newPhone": "989-513-7719",
+    "oldPhone": "989-643-6112",
+    "newEffectiveDate": "2020-07-23T13:56:39",
+    "oldEffectiveDate": "2019-08-12T16:48:55",
+    "newAddress1": "490 E Kent Road",
+    "oldAddress1": "490 E Kent Rd"
+  },
+  {
+    "change": "changed-MI-Pinconning, City of (Bay County)-Pinconning City Clerk-24295",
+    "newEmail": "pinconningcityclerk3@yahoo.com",
+    "oldEmail": "pinconningcityclerk@yahoo.com",
+    "newEffectiveDate": "2020-07-23T15:35:01",
+    "oldEffectiveDate": "2019-08-12T16:48:55"
+  },
+  {
+    "change": "changed-MI-Pleasant Plains Township (Lake County)-Pleasant Plains Township Clerk-24323",
+    "newPhone": "231-680-4797",
+    "oldPhone": "231-745-4251",
+    "newEffectiveDate": "2020-07-23T13:38:25",
+    "oldEffectiveDate": "2019-08-08T16:18:22"
+  },
+  {
+    "change": "changed-MI-Rogers Township (Presque Isle County)-Rogers Township Clerk-24487",
+    "newPhone": "(989) 734-4240",
+    "oldPhone": "989-734-4240",
+    "newEmail": "rogerstw69240@gmail.com",
+    "oldEmail": "rogerstwp69240@gmail.com",
+    "newEffectiveDate": "2020-07-23T13:44:21",
+    "oldEffectiveDate": "2019-08-08T16:18:22",
+    "newAddress1": "2290 County Road 451",
+    "oldAddress1": "2290 Co. Rd. 451"
+  },
+  {
+    "change": "changed-MI-Rose Township (Oakland County)-Rose Township Clerk-24509",
+    "newFax": "248-634-6888",
+    "oldFax": "",
+    "newPhone": "248-634-8701",
+    "oldPhone": "989-685-3352",
+    "newEmail": "clerk@rosetownship.com",
+    "oldEmail": "rosetownshipclerk@yahoo.com",
+    "newEffectiveDate": "2020-07-23T14:07:06",
+    "oldEffectiveDate": "2019-08-12T16:48:55",
+    "newAddress1": "9080 Mason Street",
+    "oldAddress1": "1111 E Heath Rd",
+    "newCity": "Holly",
+    "oldCity": "Rose City",
+    "newZip": "48442",
+    "oldZip": "48654"
+  },
+  {
+    "change": "changed-MI-Rose Township (Ogemaw County)-Rose Township Clerk-24511",
+    "newFax": "",
+    "oldFax": "248-634-6888",
+    "newPhone": "989-685-3352",
+    "oldPhone": "248-634-8701",
+    "newEffectiveDate": "2020-07-23T14:10:17",
+    "oldEffectiveDate": "2019-08-12T16:48:55",
+    "newAddress1": "1111 E. Heath Rd.",
+    "oldAddress1": "9080 Mason St",
+    "newCity": "Rose City",
+    "oldCity": "Holly",
+    "newZip": "48654",
+    "oldZip": "48442"
+  },
+  {
+    "change": "changed-MI-Spring Arbor Township (Jackson County)-Spring Arbor Township Clerk-24695",
+    "newEffectiveDate": "2020-07-23T12:56:25",
+    "oldEffectiveDate": "2019-08-12T16:48:56",
+    "newAddress1": "107 E. Main Street",
+    "oldAddress1": "107 E. Main Street, Po Box 250",
+    "newAddress2": "PO Box 250",
+    "oldAddress2": ""
+  },
+  {
+    "change": "changed-MI-Whiteford Township (Monroe County)-Whiteford Township Clerk-25051",
+    "newFax": "734-854-1817",
+    "oldFax": "734-856-2733",
+    "newEffectiveDate": "2020-07-23T13:06:13",
+    "oldEffectiveDate": "2019-08-12T16:48:56"
+  },
+  {
+    "change": "changed-MI-York Township (Washtenaw County)-York Township Clerk-25119",
+    "newPhone": "734-439-8842 x204",
+    "oldPhone": "734-439-8842",
+    "newEffectiveDate": "2020-07-23T13:15:36",
+    "oldEffectiveDate": "2019-08-12T16:48:56"
+  },
+  {
+    "change": "changed-MN-Itasca-Itasca County Courthouse-1947",
+    "newEmail": "elections@co.itasca.mn.us",
+    "oldEmail": "vicki.dabill@co.itasca.mn.us",
+    "newEffectiveDate": "2020-07-23T12:21:55",
+    "oldEffectiveDate": "2017-09-06T17:03:55"
+  },
+  {
+    "change": "changed-NE-Buffalo-Buffalo Election Commissioner-2421",
+    "newFax": "(308) 236-1868",
+    "oldFax": "(308) 233-3663",
+    "newEffectiveDate": "2020-07-23T11:25:23",
+    "oldEffectiveDate": "2017-09-06T16:34:00"
+  },
+  {
+    "change": "changed-NH-Weare, Town of-Town Clerk of Weare-2729",
+    "newFax": "(603) 529-4554",
+    "oldFax": "(603) 529-7571",
+    "newEffectiveDate": "2020-07-23T12:11:17",
+    "oldEffectiveDate": "2015-08-31T15:02:51"
+  },
+  {
+    "change": "changed-NY-Albany-Albany County Board of Elections-2812",
+    "newEffectiveDate": "2020-07-23T10:24:20",
+    "oldEffectiveDate": "2015-08-31T15:14:54",
+    "newAddress1": "224 South Pearl Street",
+    "oldAddress1": "32 N  Russell Rd",
+    "newZip": "12202",
+    "oldZip": "12206"
+  },
+  {
+    "change": "changed-OH-Ottawa-Director, Ottawa County Board of Elections-2935",
+    "newEmail": "election@boe.ottawa.oh.gov",
+    "oldEmail": "election@co.ottawa.oh.us",
+    "newEffectiveDate": "2020-07-23T11:08:59",
+    "oldEffectiveDate": "2015-08-31T15:17:08"
+  },
+  {
+    "change": "changed-OH-Wayne-Director, Wayne County Board of Elections-2958",
+    "newEmail": "wayne@ohiosos.gov",
+    "oldEmail": "wayne@sos.state.oh.us",
+    "newEffectiveDate": "2020-07-23T15:58:18",
+    "oldEffectiveDate": "2020-05-26T10:01:02"
+  },
+  {
+    "change": "changed-SC-Beaufort-Beaufort Board of Voter Registration-3188",
+    "newEmail": "absentee@BeaufortCountySC.gov",
+    "oldEmail": "voter@bcgov.net",
+    "newEffectiveDate": "2020-07-23T15:28:10",
+    "oldEffectiveDate": "2019-06-18T10:22:10"
+  },
+  {
+    "change": "changed-TX-Fisher-Fisher County Early Voting Clerk-3464",
+    "newEmail": "pat.thomson@fishercounty.org",
+    "oldEmail": "fishercountyclerk@yahoo.com",
+    "newEffectiveDate": "2020-07-23T13:09:58",
+    "oldEffectiveDate": "2019-08-29T15:13:37"
+  },
+  {
+    "change": "changed-TX-Fort Bend-Fort Bend County Early Voting Clerk-3467",
+    "newEmail": "fpcavoter@fortbendcountytx.gov",
+    "oldEmail": "vote@fortbendcountytx.gov",
+    "newEffectiveDate": "2020-07-23T10:58:56",
+    "oldEffectiveDate": "2019-08-29T15:13:37"
+  },
+  {
+    "change": "changed-TX-Gregg-Gregg County Early Voting Clerk-3480",
+    "newEmail": "elections@co.gregg.tx.us",
+    "oldEmail": "Kathryn.nealy@co.gregg.tx.us",
+    "newEffectiveDate": "2020-07-23T11:57:28",
+    "oldEffectiveDate": "2018-04-18T12:02:59"
+  },
+  {
+    "change": "changed-VT-Belvidere-Belvidere Town Clerk-3821",
+    "newFax": "(802) 644-8900",
+    "oldFax": "(802) 644-6621",
+    "newEffectiveDate": "2020-07-23T12:18:08",
+    "oldEffectiveDate": "2017-09-06T16:07:02"
+  },
+  {
+    "change": "changed-VA-Arlington-Arlington General Registrar-3679",
+    "newFax": "(703) 228-3705",
+    "oldFax": "(703) 228-3659",
+    "newEffectiveDate": "2020-07-23T12:40:06",
+    "oldEffectiveDate": "2017-09-28T08:27:01"
+  },
+  {
+    "change": "changed-VA-Franklin City-Franklin City General Registrar-3717",
+    "newEffectiveDate": "2020-07-23T12:45:47",
+    "oldEffectiveDate": "2017-09-28T08:27:01",
+    "newAddress1": "P.O. Box 42",
+    "oldAddress1": "P.O. Box 190",
+    "newCity": "Franklin",
+    "oldCity": "Courtland",
+    "newZip": "23851",
+    "oldZip": "23837-0190"
+  },
+  {
+    "change": "changed-VA-Fredericksburg-Fredericksburg General Registrar-3720",
+    "newEmail": "vote@vote.fredericksburgva.gov",
+    "oldEmail": "mchoffman@vote.fredericksburgva.gov",
+    "newEffectiveDate": "2020-07-23T11:21:52",
+    "oldEffectiveDate": "2020-01-14T12:46:13"
+  },
+  {
+    "change": "changed-VA-Washington-Washington General Registrar-3799",
+    "newEmail": "vote@washcova.com",
+    "oldEmail": "dlyall@washcova.com",
+    "newEffectiveDate": "2020-07-23T13:52:00",
+    "oldEffectiveDate": "2017-09-28T08:27:01"
+  },
+  {
+    "change": "changed-WI-CITY OF FRANKLIN - MILWAUKEE COUNTY-CITY OF FRANKLIN - MILWAUKEE COUNTY-26343",
+    "newFax": "414-425-6428",
+    "oldFax": "414-427-6428",
+    "newEffectiveDate": "2020-07-23T11:29:39",
+    "oldEffectiveDate": "2018-09-12T11:59:56"
+  },
+  {
+    "change": "changed-WI-CITY OF ONALASKA - LA CROSSE COUNTY-CITY OF ONALASKA - LA CROSSE COUNTY-26128",
+    "newEmail": "jmarcon@onalaskawi.gov",
+    "oldEmail": "cburmaster@onalaskawi.gov",
+    "newEffectiveDate": "2020-07-23T12:59:51",
+    "oldEffectiveDate": "2018-09-12T12:24:00"
+  },
+  {
+    "change": "changed-WI-TOWN OF ALTO - FOND DU LAC COUNTY-TOWN OF ALTO - FOND DU LAC COUNTY-25818",
+    "newPhone": "(920) 948-8268",
+    "oldPhone": "920-346-8233",
+    "newEffectiveDate": "2020-07-23T12:14:31",
+    "oldEffectiveDate": "2019-08-13T14:03:08"
+  },
+  {
+    "change": "changed-WI-TOWN OF AUBURN - FOND DU LAC COUNTY-TOWN OF AUBURN - FOND DU LAC COUNTY-25820",
+    "newFax": "",
+    "oldFax": "920-533-5142",
+    "newPhone": "920-517-0672",
+    "oldPhone": "920-533-8841",
+    "newEffectiveDate": "2020-07-23T11:40:40",
+    "oldEffectiveDate": "2019-08-13T14:03:08",
+    "newZip": "53010",
+    "oldZip": "53010-2901"
+  },
+  {
+    "change": "changed-WI-TOWN OF DEWEY - BURNETT COUNTY-TOWN OF DEWEY - BURNETT COUNTY-25439",
+    "newFax": "715-449-4919",
+    "oldFax": "715-468-7875",
+    "newPhone": "715-416-0047",
+    "oldPhone": "715-468-1207",
+    "newEffectiveDate": "2020-07-23T13:48:18",
+    "oldEffectiveDate": "2019-08-13T14:03:05"
+  },
+  {
+    "change": "changed-WI-TOWN OF HILLSBORO - VERNON COUNTY-TOWN OF HILLSBORO - VERNON COUNTY-26941",
+    "newEmail": "HillsboroTwp@gmail.com",
+    "oldEmail": "hillsborotwp@gmail.com",
+    "newEffectiveDate": "2020-07-23T12:48:50",
+    "oldEffectiveDate": "2019-08-13T14:03:16",
+    "newAddress1": "E17081 State Hwy 82",
+    "oldAddress1": "E17081 STATE HIGHWAY 82"
+  },
+  {
+    "change": "changed-WI-TOWN OF LEMONWEIR - JUNEAU COUNTY-TOWN OF LEMONWEIR - JUNEAU COUNTY-26060",
+    "newEffectiveDate": "2020-07-23T13:46:11",
+    "oldEffectiveDate": "2020-02-13T09:30:21",
+    "newAddress1": "N3935 19th Ave",
+    "oldAddress1": "N3935 19TH AVE"
+  },
+  {
+    "change": "changed-WI-TOWN OF LINDEN - IOWA COUNTY-TOWN OF LINDEN - IOWA COUNTY-25966",
+    "newPhone": "608-574-7204",
+    "oldPhone": "608-987-1166",
+    "newEffectiveDate": "2020-07-23T15:25:20",
+    "oldEffectiveDate": "2019-08-13T14:03:08"
+  },
+  {
+    "change": "changed-WI-TOWN OF MENOMINEE - MENOMINEE COUNTY-TOWN OF MENOMINEE - MENOMINEE COUNTY-26331",
+    "newEmail": "lpecore@co.menominee.wi.us",
+    "oldEmail": "slyons@co.menominee.wi.us",
+    "newEffectiveDate": "2020-07-23T13:23:09",
+    "oldEffectiveDate": "2019-08-13T14:03:10"
+  },
+  {
+    "change": "changed-WI-TOWN OF MORRIS - SHAWANO COUNTY-TOWN OF MORRIS - SHAWANO COUNTY-26825",
+    "newPhone": "715-326-1602",
+    "oldPhone": "715-326-1668",
+    "newEffectiveDate": "2020-07-23T12:51:08",
+    "oldEffectiveDate": "2019-08-13T14:03:15",
+    "newAddress1": "W15701 Marquardt Ln.",
+    "oldAddress1": "W15701 MARQUARDT LANE"
+  },
+  {
+    "change": "changed-WI-TOWN OF STANFOLD - BARRON COUNTY-TOWN OF STANFOLD - BARRON COUNTY-25342",
+    "newEffectiveDate": "2020-07-23T11:36:26",
+    "oldEffectiveDate": "2019-08-13T14:03:04",
+    "newAddress1": "2817 15th Ave",
+    "oldAddress1": "1650 20TH AVE"
+  },
+  {
+    "change": "changed-WI-VILLAGE OF WITTENBERG - SHAWANO COUNTY-VILLAGE OF WITTENBERG - SHAWANO COUNTY-26844",
+    "newFax": "",
+    "oldFax": "715-253-3772",
+    "newEffectiveDate": "2020-07-23T10:48:24",
+    "oldEffectiveDate": "2019-08-13T14:03:15"
+  },
+  {
+    "change": "changed-WY-Laramie-Laramie County Clerk-6001",
+    "newPhone": "(307) 633-4242",
+    "oldPhone": "(307) 633-4268",
+    "newEmail": "election@laramiecountyclerk.com",
+    "oldEmail": "DLee@laramiecountyclerk.com",
+    "newEffectiveDate": "2020-07-23T12:20:01",
+    "oldEffectiveDate": "2016-08-01T11:31:13"
+  },
+  {
+    "change": "changed-WY-Lincoln-Lincoln County Clerk-6002",
+    "newPhone": "(307) 877-2021",
+    "oldPhone": "(307) 877-9056 x303",
+    "newEffectiveDate": "2020-07-23T12:24:21",
+    "oldEffectiveDate": "2019-07-29T15:52:03"
+  }
+]

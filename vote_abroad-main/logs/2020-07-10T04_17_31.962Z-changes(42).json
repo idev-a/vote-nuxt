@@ -1,0 +1,336 @@
+[
+  {
+    "change": "changed-CA-Sacramento-County of Sacramento Voter Registration and Elections-194",
+    "newEmail": "mullenr@saccounty.net",
+    "oldEmail": "mine.mullenr@saccounty.net",
+    "newEffectiveDate": "2020-06-10T12:33:27",
+    "oldEffectiveDate": "2020-05-11T15:02:54"
+  },
+  {
+    "change": "changed-CA-Fresno-Fresno County Clerk, Registrar of Voters-170",
+    "newPhone": "(559) 600-8683",
+    "oldPhone": "(559) 600-3045",
+    "newEmail": "clerk-elections@fresnocountyca.gov",
+    "oldEmail": "vnajera@fresnocountyca.gov",
+    "newEffectiveDate": "2020-05-27T07:25:51",
+    "oldEffectiveDate": "2019-09-11T14:26:30"
+  },
+  {
+    "change": "changed-CA-Orange-Orange County Registrar of Voters-190",
+    "newFax": "(714) 567-7556",
+    "oldFax": "(714) 567-5100",
+    "newEffectiveDate": "2020-06-10T13:55:04",
+    "oldEffectiveDate": "2019-09-11T14:37:34"
+  },
+  {
+    "change": "changed-CT-Stamford-Stamford Town Clerk-416",
+    "newEmail": "TownClerk@stamfordct.gov",
+    "oldEmail": "townClerk@stamfordct.gov",
+    "newEffectiveDate": "2020-05-26T08:00:17",
+    "oldEffectiveDate": "2020-05-22T09:56:32"
+  },
+  {
+    "change": "changed-DC-All-The District of Columbia Board of Elections-451",
+    "newPhone": "202-741-5283",
+    "oldPhone": "(202) 727-2525",
+    "newEffectiveDate": "2020-06-01T13:32:54",
+    "oldEffectiveDate": "2018-01-31T11:31:06"
+  },
+  {
+    "change": "changed-GA-Fayette-Fayette County Board of Elections and Voter Registration-578",
+    "newFax": "(770) 719-5589",
+    "oldFax": "(770) 719-5539",
+    "newPhone": "(770) 305-5408",
+    "oldPhone": "(770) 305-5140",
+    "newEmail": "abridges@fayettecountyga.gov",
+    "oldEmail": "bhill@fayettecountyga.gov",
+    "newEffectiveDate": "2020-05-29T10:06:47",
+    "oldEffectiveDate": "2019-08-09T11:48:10"
+  },
+  {
+    "change": "changed-ID-Boise-Boise County Clerk-793",
+    "newEmail": "mprisco@co.boise.id.us",
+    "oldEmail": "sloya@co.boise.id.us",
+    "newEffectiveDate": "2020-07-09T13:41:15",
+    "oldEffectiveDate": "2015-08-31T14:34:44"
+  },
+  {
+    "change": "changed-ID-Jerome-Jerome County Clerk-812",
+    "newEmail": "clootens@co.jerome.id.us",
+    "oldEmail": "memerson@co.jerome.id.us",
+    "newEffectiveDate": "2020-06-17T12:25:27",
+    "oldEffectiveDate": "2017-09-18T14:59:53"
+  },
+  {
+    "change": "changed-ID-Minidoka-Minidoka County Clerk-819",
+    "newEmail": "tpage@co.minidoka.id.us",
+    "oldEmail": "patty.temple@co.minidoka.id.us",
+    "newEffectiveDate": "2020-06-18T13:25:29",
+    "oldEffectiveDate": "2017-09-18T14:59:53"
+  },
+  {
+    "change": "changed-IN-Dubois-Dubois County Circuit Court Clerk-958",
+    "newFax": "(812) 481-7038",
+    "oldFax": "(812) 481-7044",
+    "newPhone": "(812) 481-7035",
+    "oldPhone": "(812) 481-7037",
+    "newEffectiveDate": "2020-06-22T09:56:50",
+    "oldEffectiveDate": "2015-08-31T15:45:22"
+  },
+  {
+    "change": "changed-IN-Marion-Marion County Election Board-988",
+    "newEffectiveDate": "2020-06-26T15:14:55",
+    "oldEffectiveDate": "2019-07-15T09:56:18"
+  },
+  {
+    "change": "changed-KS-Neosho-Neosho County Clerk-1098",
+    "newName": "Neosho County Clerk",
+    "oldName": "Neosho Elections Officer",
+    "newEmail": "nococlerk@neoshocountyks.org",
+    "oldEmail": "elections@neoshocountyks.org",
+    "newEffectiveDate": "2020-06-11T11:46:49",
+    "oldEffectiveDate": "2020-06-10T14:40:41"
+  },
+  {
+    "change": "changed-MA-Ashland, Town of-Ashland Town Clerk-1334",
+    "newEmail": "townclerkoffice@ashlandmass.com",
+    "oldEmail": "tward@ashlandmass.com",
+    "newEffectiveDate": "2020-06-30T12:56:48",
+    "oldEffectiveDate": "2017-09-20T14:40:08"
+  },
+  {
+    "change": "changed-MA-Barnstable, Town of-Barnstable Town Clerk-1340",
+    "newEmail": "vote@town.barnstable.ma.us",
+    "oldEmail": "ann.quirk@town.barnstable.ma.us",
+    "newEffectiveDate": "2020-07-09T15:16:38",
+    "oldEffectiveDate": "2019-07-18T14:19:27"
+  },
+  {
+    "change": "changed-MA-Easthampton, Town of-Easthampton Town Clerk-1405",
+    "newEmail": "vote@easthamptonma.gov",
+    "oldEmail": "cityclerk@easthampton.org",
+    "newEffectiveDate": "2020-06-12T11:48:03",
+    "oldEffectiveDate": "2019-07-18T14:19:27"
+  },
+  {
+    "change": "changed-MA-Gloucester, City of-Gloucester City Clerk-1424",
+    "newEmail": "elections@gloucester-ma.gov",
+    "oldEmail": "mgiambanco@gloucester-ma.gov",
+    "newEffectiveDate": "2020-06-29T12:25:03",
+    "oldEffectiveDate": "2017-09-20T14:40:09"
+  },
+  {
+    "change": "changed-MA-Hampden, Town of-Hampden Town Clerk-1437",
+    "newEmail": "vote@hampdenma.gov",
+    "oldEmail": "townclerk@hampden.org",
+    "newEffectiveDate": "2020-07-01T15:13:04",
+    "oldEffectiveDate": "2017-09-20T14:40:09"
+  },
+  {
+    "change": "changed-MA-Oxford, Town of-Oxford Town Clerk-1543",
+    "newEmail": "townclerkoffice@oxfordma.us",
+    "oldEmail": "lkelley@town.oxford.ma.us",
+    "newEffectiveDate": "2020-06-30T15:03:47",
+    "oldEffectiveDate": "2017-09-20T14:40:09"
+  },
+  {
+    "change": "changed-MA-Wilmington, Town of-Wilmington Town Clerk-1659",
+    "newEmail": "townclerk@wilmingtonma.gov",
+    "oldEmail": "ctouma-conway@wilmingtonma.gov",
+    "newEffectiveDate": "2020-06-12T11:47:28",
+    "oldEffectiveDate": "2019-07-18T14:19:28"
+  },
+  {
+    "change": "changed-MI-Northville Township (Wayne County)-Northville Township Clerk-24113",
+    "newEmail": "mbanner@twp.northville.mi.us",
+    "oldEmail": "shillebrand@twp.northville.mi.us",
+    "newEffectiveDate": "2020-06-24T10:07:36",
+    "oldEffectiveDate": "2019-08-12T16:48:55"
+  },
+  {
+    "change": "changed-MI-Plainfield Township (Kent County)-Plainfield Charter Township-24317",
+    "newName": "Plainfield Charter Township",
+    "oldName": "Plainfield Township Clerk",
+    "newFax": "616-364-6537",
+    "oldFax": "989-984-6004",
+    "newPhone": "616-364-6588",
+    "oldPhone": "989-728-2811",
+    "newEmail": "elections@plainfieldmi.org",
+    "oldEmail": "clerk@plainfieldtwpmi.com",
+    "newEffectiveDate": "2020-07-07T12:57:05",
+    "oldEffectiveDate": "2019-08-12T16:48:55",
+    "newAddress1": "6161 Belmont Ave NE",
+    "oldAddress1": "415 E. Main, PO Box 247",
+    "newCity": "Belmont",
+    "oldCity": "Hale",
+    "newZip": "49306",
+    "oldZip": "48739"
+  },
+  {
+    "change": "changed-MI-Plainfield Township (Iosco County)-Plainfield Township Clerk-24315",
+    "newFax": "989-984-6004",
+    "oldFax": "616-364-6537",
+    "newPhone": "989-728-2811",
+    "oldPhone": "616-726-8883",
+    "newEmail": "clerk@plainfieldtwpmi.com",
+    "oldEmail": "elections@plainfieldmi.org",
+    "newEffectiveDate": "2020-07-07T13:00:06",
+    "oldEffectiveDate": "2019-08-12T16:48:55",
+    "newAddress1": "P.O. Box 247",
+    "oldAddress1": "6161 Belmont Avenue NE",
+    "newCity": "Hale",
+    "oldCity": "Belmont",
+    "newZip": "48739",
+    "oldZip": "49306"
+  },
+  {
+    "change": "changed-OH-Clark-Director, Clark County Board of Elections-2885",
+    "newEmail": "elections@clark.boe.ohio.gov",
+    "oldEmail": "elections@clarkcountyohio.gov",
+    "newEffectiveDate": "2020-06-26T10:30:20",
+    "oldEffectiveDate": "2015-08-31T15:17:08"
+  },
+  {
+    "change": "changed-OH-Cuyahoga-Director, Cuyahoga County Board of Elections-2891",
+    "newPhone": "(216) 443-6515",
+    "oldPhone": "(216) 443-6472",
+    "newEffectiveDate": "2020-06-15T12:37:03",
+    "oldEffectiveDate": "2020-02-03T09:02:29"
+  },
+  {
+    "change": "changed-OH-Montgomery-Director, Montgomery County Board of Elections-2930",
+    "newEmail": "web@montgomery.boe.ohio.gov",
+    "oldEmail": "mcboe@mcohio.org",
+    "newEffectiveDate": "2020-07-08T08:49:17",
+    "oldEffectiveDate": "2019-04-29T09:40:15"
+  },
+  {
+    "change": "changed-OH-Wayne-Director, Wayne County Board of Elections-2958",
+    "newEffectiveDate": "2020-05-26T10:01:02",
+    "oldEffectiveDate": "2020-05-22T15:17:08"
+  },
+  {
+    "change": "changed-OK-Tulsa-Secretary, Tulsa County Election Board-3033",
+    "newFax": "(918) 295-0079",
+    "oldFax": "(918) 596-4536",
+    "newEffectiveDate": "2020-06-11T12:09:47",
+    "oldEffectiveDate": "2019-08-15T15:54:18"
+  },
+  {
+    "change": "changed-PA-Butler-Butler County Board of Elections-3084",
+    "newEmail": "mherrit@co.butler.pa.us",
+    "oldEmail": "sbrewer@co.butler.pa.us",
+    "newEffectiveDate": "2020-06-19T11:04:11",
+    "oldEffectiveDate": "2019-07-29T15:02:35"
+  },
+  {
+    "change": "changed-PA-Indiana-Indiana County Board of Elections-3106",
+    "newEmail": "dstreams@indianacountypa.gov",
+    "oldEmail": "debbiestreams@indianacountypa.gov",
+    "newEffectiveDate": "2020-05-26T08:24:50",
+    "oldEffectiveDate": "2019-07-26T15:54:46"
+  },
+  {
+    "change": "changed-RI-South Kingstown-South Kingstown Board of Canvassers-3174",
+    "newEmail": "sflynn@southkingstownri.com",
+    "oldEmail": "dholberton@southkingstownri.com",
+    "newEffectiveDate": "2020-06-12T11:12:44",
+    "oldEffectiveDate": "2019-09-24T11:30:45",
+    "newJurisdictionType": "Town",
+    "oldJurisdictionType": "City"
+  },
+  {
+    "change": "changed-RI-Warren-Warren Board of Canvassers-3176",
+    "newFax": "(401) 245-7421",
+    "oldFax": "(401) 245-7341",
+    "newEffectiveDate": "2020-06-09T09:07:02",
+    "oldEffectiveDate": "2019-09-24T11:30:45"
+  },
+  {
+    "change": "changed-SC-Lexington-Lexington Board of Voter Registration-3213",
+    "newEffectiveDate": "2020-07-08T14:16:26",
+    "oldEffectiveDate": "2020-07-07T10:22:10"
+  },
+  {
+    "change": "changed-TN-Greene-Greene County Election Commission-3323",
+    "newEmail": "Greene.Commission@tn.gov",
+    "oldEmail": "ElectionCommission@greenecountytngov.com",
+    "newEffectiveDate": "2020-06-19T13:44:09",
+    "oldEffectiveDate": "2015-08-31T11:22:43",
+    "newAddress1": "311 CCU BLVD STE 1",
+    "oldAddress1": "218 N Main St, Ste 1",
+    "newZip": "37745-4252",
+    "oldZip": "37745-3834"
+  },
+  {
+    "change": "changed-TN-Hamblen-Hamblen County Election Commission-3325",
+    "newEmail": "Hamblen.Commission@tn.gov",
+    "oldEmail": "jgardner@co.hamblen.tn.us",
+    "newEffectiveDate": "2020-06-11T11:09:05",
+    "oldEffectiveDate": "2015-08-31T11:22:43"
+  },
+  {
+    "change": "changed-TN-Scott-Scott County Election Commission-3369",
+    "newEmail": "Scott.Commission@tn.gov",
+    "oldEmail": "scotteleccom@highland.net",
+    "newEffectiveDate": "2020-06-11T11:09:39",
+    "oldEffectiveDate": "2020-04-07T08:55:29"
+  },
+  {
+    "change": "changed-TX-Dallas-Dallas County Early Voting Clerk-3445",
+    "newFax": "(214) 819-6303",
+    "oldFax": "(214) 819-6301",
+    "newEffectiveDate": "2020-06-10T11:06:52",
+    "oldEffectiveDate": "2019-08-29T15:13:37",
+    "newAddress1": "1520 Round Table Dr.",
+    "oldAddress1": "2377 North Stemmons Frwy, Suite 820",
+    "newZip": "75247",
+    "oldZip": "75207"
+  },
+  {
+    "change": "changed-TX-Loving-Loving County Early Voting Clerk-3539",
+    "newEmail": "lovingea@co.loving.tx.us",
+    "oldEmail": "cclerk@co.loving.tx.us",
+    "newEffectiveDate": "2020-05-28T08:02:49",
+    "oldEffectiveDate": "2018-04-18T12:02:59"
+  },
+  {
+    "change": "changed-TX-Stephens-Stephens County Early Voting Clerk-3603",
+    "newEmail": "c.latham@stephenscountytx.gov",
+    "oldEmail": "cjl@texasisp.com",
+    "newEffectiveDate": "2020-06-19T10:13:26",
+    "oldEffectiveDate": "2019-08-29T15:13:38"
+  },
+  {
+    "change": "changed-VA-Mathews-Mathews General Registrar-3752",
+    "newEmail": "cfaulkner@mathewscountyva.gov",
+    "oldEmail": "efaulkner@mathewscountyva.gov",
+    "newEffectiveDate": "2020-07-06T12:06:18",
+    "oldEffectiveDate": "2017-09-28T08:27:01"
+  },
+  {
+    "change": "changed-VA-York-York General Registrar - Mailing Address-3806",
+    "newName": "York General Registrar - Mailing Address",
+    "oldName": "York General Registrar",
+    "newEffectiveDate": "2020-06-26T13:04:46",
+    "oldEffectiveDate": "2015-09-03T10:01:31",
+    "newAddress1": "P.O. Box 451",
+    "oldAddress1": "224 Ballard St / P.O. Box 451",
+    "newZip": "23690",
+    "oldZip": "23690-0451"
+  },
+  {
+    "change": "changed-WI-CITY OF MILWAUKEE - MULTIPLE COUNTIES-CITY OF MILWAUKEE - MULTIPLE COUNTIES-26346",
+    "newEmail": "absenteeballot@milwaukee.gov",
+    "oldEmail": "nalbrec@milwaukee.gov",
+    "newEffectiveDate": "2020-06-25T11:30:30",
+    "oldEffectiveDate": "2018-09-12T09:05:02"
+  },
+  {
+    "change": "changed-WI-CITY OF WAUSAU - MARATHON COUNTY-CITY OF WAUSAU - MARATHON COUNTY-26283",
+    "newPhone": "715-261-6620",
+    "oldPhone": "715-261-6622",
+    "newEffectiveDate": "2020-05-28T13:32:29",
+    "oldEffectiveDate": "2020-05-21T11:59:31"
+  }
+]

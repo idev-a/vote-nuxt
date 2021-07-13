@@ -1,0 +1,28 @@
+[
+  {
+    "change": "changed-FL-Lee-Lee Supervisor of Elections-490",
+    "newEffectiveDate": "2020-09-25T10:39:24",
+    "oldEffectiveDate": "2020-03-06T14:45:42"
+  },
+  {
+    "change": "changed-FL-Leon-Leon Supervisor of Elections-491",
+    "newFax": "850-606-8602",
+    "oldFax": "850-606-8601",
+    "newEffectiveDate": "2020-09-25T10:38:05",
+    "oldEffectiveDate": "2019-08-13T15:35:04"
+  },
+  {
+    "change": "changed-NJ-Middlesex-Middlesex County Board of Elections - FWAB-25161",
+    "newEmail": "elections@co.middlesex.nj.us",
+    "oldEmail": "voteabsentees@co.middlesex.nj.us",
+    "newEffectiveDate": "2020-09-25T15:58:23",
+    "oldEffectiveDate": "2019-08-02T14:22:24"
+  },
+  {
+    "change": "changed-TX-Gillespie-Gillespie County Early Voting Clerk-3474",
+    "newFax": "830-990-2307",
+    "oldFax": "(830) 990-2756",
+    "newEffectiveDate": "2020-09-25T15:37:12",
+    "oldEffectiveDate": "2020-05-12T10:57:58"
+  }
+]

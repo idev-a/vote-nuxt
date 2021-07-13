@@ -1,0 +1,877 @@
+backend:
+  name: git-gateway
+  branch: master
+publish_mode: editorial_workflow
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+collections:
+  # - name: "config"
+  #   label: "Configuration Settings"
+  #   folder: "static/config"
+  #   create: false
+  #   delete: false
+  #   extension: json
+  #   format: json
+  #   slug: "{{slug}}"
+  #   editor:
+  #     preview: false
+  #   fields:
+  #     - {label: "Title", name: "title", widget: "hidden", default: "config"}
+  #     - label: Top FAQs
+  #       label_singular: FAQ
+  #       name: relatedFaqs
+  #       widget: list
+  #       fields:
+  #         - name: FAQ to be included in menu
+  #           label: Type to search for a FAQ
+  #           widget: relation
+  #           collection: faqs
+  #           searchFields: ["title", "slug"]
+  #           displayFields: ["title"]
+  #           valueField: "slug"
+  #     - label: "States"
+  #       name: "states"
+  #       widget: "list"
+  #       fields:
+  #         - {label: ISO Code, name: iso, widget: string}
+  #         - {label: State, name: state, widget: string}
+  - name: "pages" # Used in routes, e.g., /admin/collections/blog
+    label: "Pages" # Used in the UI
+    label_singular: "Page"
+    folder: "content/en/pages" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+  # - name: "elections"
+  #   label: "Elections"
+  #   label_singular: "election"
+  #   folder: "content/elec"
+  #   extension: "json"
+  #   format: "json"
+  #   slug: "{{slug}}"
+  #   create: true
+  #   fields:
+  #     - label: "Election Name"
+  #       name: "title"
+  #       widget: "string"
+  #       hint: "Year-State-ElectionType e.g. '2018-NC-CD8SpecialPrimary' - or - '2020-NY-General'"
+  #     - label: "Election Type"
+  #       name: "electionType"
+  #       widget: "string"
+  #     - label: "Election Day"
+  #       name: "date"
+  #       widget: "date"
+  #     - label: "State"
+  #       name: "state"
+  #       widget: "select"
+  #       options: [ "AL", "AK", "AS", "AZ", "AR", "CA", "CO", "CT", "DE", "DC", "FM", "FL", "GA", "GU", "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MH", "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "MP", "OH", "OK", "OR", "PW", "PA", "PR", "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VI", "VA", "WA", "WV", "WI", "WY" ]
+  #     - label: "Top level Political Division Eligible (OCD ID)"
+  #       name: "ocdDivisionId"
+  #       widget: "string"
+  #       required: false
+  #       hint: "This helps us find eligible voters in the election. It should be the most general location.  For example, if the election is a special election for a CD, then use that CD.  If it is a full federal election, choose the state. You can search for an ocdId here: https://developers.google.com/civic-information/docs/v2/divisions/search"
+  #     - label: "Election Notes"
+  #       name: "notes"
+  #       widget: "string"
+  #       required: false
+  #       hint: "Notes about election including eligibilty, special notes, etc."
+  #     - label: "FVAP ID"
+  #       name: "fvapId"
+  #       widget: "string"
+  #       required: false
+  #       hint: "automatically generated"
+  #     - label: "Google Civic Info Id"
+  #       name: "googleCivicInfoId"
+  #       widget: "string"
+  #       required: false
+  #       hint: "the relavant id from Google Civic Info (https://developers.google.com/civic-information/docs/v2/elections/electionQuery)"
+  #     - label: "Rules"
+  #       name: "rules"
+  #       widget: "list"
+  #       fields:
+  #         - {label: deadline, name: date, widget: datetime}
+  #         - label: "Submission Options"
+  #           name: "submissionOptions"
+  #           widget: "list"
+  #           default:
+  #             - "email"
+  #         - {label: Rule, name: rule, widget: select, options: ["postmarked by", "received by", "sent by", "no deadline", "not required", "signed by", "signed/postmarked by"]}
+  #         - {label: Stage, name: stage, widget: select, options: ["Registration", "Ballot Request", "Ballot Return"]}
+  #         - label: "Voter Type"
+  #           name: "voterType"
+  #           widget: "list"
+  #           default:
+  #             - "Citizen"
+  #             - "Military"
+  #         - {label: Notes, name: notes, widget: string, hint: notes for this election rule.}
+  - name: "faqs"
+    label: "FAQs"
+    label_singular: "FAQ"
+    folder: "content/en/faqs"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "FAQ #", name: "title", widget: "string"}
+      - {label: "Slug", name: "slug", hint: "The text used for a memorable URL", widget: "string", required: true, pattern: ["[A-Za-z-_]+", "Can only include letters, numbers, dash (-), and underscore (_)"]}
+      - {label: "Question", name: "question", widget: "string" }
+      - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
+      - {label: "Include in main menu?", name: "isInMenu", widget: "boolean"}
+      - {label: "Answer", name: "body", widget: "markdown"}
+      - label: Categories
+        name: categories
+        widget: list
+        fields:
+          - name: category
+            label: Choose a category
+            widget: select
+            options:
+              - {label: "Voting as a U.S. Citizen Outside the U.S.", value: "votingAbroad"}
+              - {label: "How to Register to Vote and Get a Ballot", value: "voterRegistration"}
+              - {label: "U.S. Citizens Who Have Never Resided in the U.S.", value: "neverResided"}
+              - {label: "Filling Out the Federal Post Card Application(FPCA)", value: "fpca"}
+              - {label: "Returning a Voted Ballot", value: "returningBallot"}
+              - {label: "Using the Federal Write-in Absentee Ballot (FWAB)", value: "fwab"}
+              - {label: "Federal And State Tax Implications", value: "taxImplications"}
+      - label: Related FAQs
+        name: relatedFaqs
+        widget: list
+        fields:
+          - name: related
+            label: Type to search for another FAQ
+            widget: relation
+            collection: faqs
+            searchFields: ["title", "slug", "question"]
+            displayFields: ["title", "question"]
+            valueField: "title"
+  - name: "rls"
+    label: "State Info & Election Rules"
+    folder: "content/rls"
+    create: false
+    slug: "{{iso}}"
+    fields:
+      - {label: "State", name: "title", widget: "string"}
+      - {label: "ISO Code", name: "iso", widget: "string"}
+      - {label: "Never Resideds are allowed to register", name: "allowsNeverResided", widget: "boolean"}
+      - label: "Types of Identification required"
+        name: "id"
+        widget: "list"
+        required: false
+      - {label: "Has Party Primaries?", name: "partyPrimary", widget: "boolean"}
+      - {label: "Ballot Receipt Options", name: "ballotReceiptOptions", widget: "list"}
+      - {label: "FPCA Submit Options for NEW voters", name: "fpcaSubmitOptionsRegister", widget: "list"}
+      - {label: "FPCA Submit Options for REGISTERED voters", name: "fpcaSubmitOptionsRequest", widget: "list"}
+      - {label: "Voters Can use the FWAB to register/request a ballto?", name: "canRegisterWithFwab", widget: "boolean"}
+      - {label: "FWAB Submit Options", name: "fwabSubmitOptions", widget: "list"}
+      - {label: "Am I registered -- State Page", name: "amIRegistered", widget: "string", required: false}
+      - {label: "Where is my ballot -- State Page", name: "whereIsMyBallot", widget: "string", required: false}
+      - {label: "Sample Ballot -- State Page", name: "sampleBallot", widget: "string", required: false}
+      - {label: "UOCAVA voters -- State Page", name: "uocavaVoters", widget: "string", required: false}
+      - {label: "State Introduction Text", name: "body", widget: "markdown"}
+  - name: "lang"
+    label: "Translation Strings [do not edit- contact Alex for changes]"
+    folder: "lang"
+    create: false
+    delete: false
+    extension: json
+    format: json
+    slug: "{{title}}.json"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Home", name: "home", widget: "string"}
+      - {label: "Posts", name: "posts", widget: "string"}
+      - label: "Home Page"
+        name: "homepage"
+        widget: "object"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Subtitle", name: "subtitle", widget: "string"}
+          - {label: "Login Instructions", name: "loginInstructions", widget: "string"}
+          - {label: "Start Button", name: "start", widget: "string"}
+          - {label: "Anonymous Session", name: "anonymous", widget: "string"}
+          - {label: "Tool Tip", name: "tooltip", widget: "string"}
+      - label: "FAQ Page"
+        name: "faq"
+        widget: "object"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Intro", name: "intro", widget: "markdown"}
+      - label: "Layout and Menus"
+        name: "menu"
+        widget: "object"
+        fields:
+          - {label: "Login", name: "login", widget: "string"}
+          - {label: "Logout", name: "logout", widget: "string"}
+          - {label: "Upcoming Elections", name: "upcomingElections", widget: "string"}
+          - {label: "All Upcoming Elections", name: "allElections", widget: "string"}
+          - {label: "Help", name: "help", widget: "string"}
+          - {label: "More FAQs", name: "moreFAQs", widget: "string"}
+          - {label: "Contact", name: "contact", widget: "string"}
+          - {label: "How to Vote from Abroad", name: "howto", widget: "string"}
+          - {label: "Voter Help Desk/FAQ", name: "helpfaq", widget: "string"}
+          - {label: "About Us", name: "about", widget: "string"}
+          - {label: "State Voting Guide", name: "stateGuide", widget: "string"}
+          - {label: "Privacy", name: "privacy", widget: "string"}
+          - {label: "Disclaimer", name: "disclaimer", widget: "markdown"}
+          - {label: "Terms of Use", name: "terms", widget: "string"}
+      - label: "Request Fields"
+        name: "request"
+        widget: "object"
+        fields:
+          - label: "Stages and Buttons"
+            name: "stages"
+            widget: "object"
+            fields:
+              - {label: "Step", name: "step", widget: "string"}
+              - {label: "Stage1", name: "stage1", widget: "string"}
+              - {label: "Stage2", name: "stage2", widget: "string"}
+              - {label: "Stage3", name: "stage3", widget: "string"}
+              - {label: "Stage4", name: "stage4", widget: "string"}
+              - {label: "Stage5", name: "stage5", widget: "string"}
+              - {label: "Back Button", name: "back", widget: "string"}
+              - {label: "Next Button", name: "next", widget: "string"}
+              - {label: "Generate & Review Button", name: "generate", widget: "string"}
+              - {label: "Stage 4 Instructions", name: "instructions4", widget: "string"}
+              - {label: "Sign & Submit Button", name: "submit", widget: "string"}
+              - {label: "Stage 5 Instructions", name: "instructions5", widget: "markdown"}
+              - {label: "Stage 5 Choose Method", name: "choose5", widget: "string"}
+              - {label: "Email Tab", name: "email", widget: "string"}
+              - {label: "Email Intro", name: "emailIntro", widget: "string"}
+              - {label: "Email Instructions", name: "emailInstructions", widget: "string"}
+              - {label: "Email Instructions - Sign", name: "emailSign", widget: "markdown"}
+              - {label: "Email Instructions - Capture Signature", name: "emailDigiSign", widget: "markdown"}
+              - {label: "Email Instructions - Upload Signature", name: "emailUploadSignature", widget: "markdown"}
+              - {label: "Email Instructions - Download & Sign", name: "emailDownload", widget: "markdown"}
+              - {label: "Email Instructions - Send Email", name: "emailSend", widget: "markdown"}
+              - {label: "Email Instructions - Confirm", name: "emailConfirm", widget: "markdown"}
+              - {label: "Send Email Button", name: "sendEmail", widget: "string"}
+              - {label: "Fax Tab", name: "fax", widget: "string"}
+              - {label: "Fax Intro", name: "faxIntro", widget: "string"}
+              - {label: "Fax Instructions - Sign", name: "faxSign", widget: "markdown"}
+              - {label: "Fax Instructions - Capture Signature", name: "faxDigiSign", widget: "markdown"}
+              - {label: "Fax Instructions - Download & Sign", name: "faxDownload", widget: "markdown"}
+              - {label: "Fax Instructions - Send Fax", name: "faxSend", widget: "markdown"}
+              - {label: "Fax Instructions - Confirm", name: "faxConfirm", widget: "markdown"}
+              - {label: "Send Fax Button", name: "sendFax", widget: "string"}
+              - {label: "Mail Tab", name: "mail", widget: "string"}
+              - {label: "Mail Intro", name: "mailIntro", widget: "string"}
+              - {label: "Mail Instructions - Download", name: "mailDownload", widget: "markdown"}
+              - {label: "Mail Instructions - Sign", name: "mailSign", widget: "markdown"}
+              - {label: "Mail Instructions - Post", name: "mailPost", widget: "markdown"}
+              - {label: "Mail Instructions - Confirm", name: "mailConfirm", widget: "markdown"}
+              - {label: "Instructions Label", name: "instructions", widget: "string"}
+              - {label: "Capture Signature Button", name: "digiSign", widget: "string"}
+              - {label: "Download Button", name: "download", widget: "string"}
+              - {label: "Remind Me Button", name: "remindMe", widget: "string"}
+              - {label: "Sign & Submit Button", name: "sign", widget: "string"}
+          - label: "FPCA Download"
+            name: "fpcaDownload"
+            widget: "object"
+            fields:
+              - {label: "Download Finished Title", name: "downloadedAlertTitle", widget: "string"}
+              - {label: "Download Finished Message", name: "downloadedAlertMessage", widget: "markdown"}
+              - {label: "Confirm Button", name: "confirmButton", widget: "string"}
+              - {label: "Downloading Title", name: "downloadingAlertTitle", widget: "string"}
+              - {label: "Downloading Message", name: "downloadingAlertMessage", widget: "markdown"}
+          - label: "Signature Capture Fields"
+            name: "sig"
+            widget: "object"
+            fields:
+              - {label: "Add your sig", name: "title", widget: "string"}
+              - {label: "Special State Submission rules (title)", name: "specialInstructions", widget: "string"}
+              - {label: "Invalid Image Type Title", name: "invalidImageTypeTitle", widget: "string"}
+              - {label: "Invalid Image Type Message", name: "invalidImageTypeMessage", widget: "string"}
+              - {label: "Invalid Image Size Title", name: "invalidImageSizeMessage", widget: "string"}
+              - {label: "Invalid Image Type Message", name: "invalidImageSizeMessage", widget: "string"}
+              - {label: "Your must Read and Affirm:", name: "affirmation", widget: "string"}
+              - {label: "Agree", name: "agree", widget: "string"}
+              - {label: "Disagree", name: "disagree", widget: "string"}
+              - {label: "Instructions", name: "instructions", widget: "markdown"}
+              - {label: "Allow Webcam", name: "rtcConfirm", widget: "string"}
+              - {label: "Capture", name: "capture", widget: "string"}
+              - {label: "Capture Instructions", name: "capInstructions", widget: "markdown"}
+              - {label: "Take Photo", name: "capture", widget: "string"}
+              - {label: "Select Photo", name: "select", widget: "markdown"}
+              - {label: "Select Instructions", name: "selectInstructions", widget: "markdown"}
+              - {label: "Try Again", name: "retry", widget: "string"}
+              - {label: "Save", name: "save", widget: "string"}
+              - {label: "Send Title", name: "sendTitle", widget: "string"}
+              - {label: "Send Instructions", name: "sendInstructions", widget: "markdown"}
+              - {label: "Subject", name: "subject", widget: "string"}
+              - {label: "From", name: "from", widget: "string"}
+              - {label: "To", name: "to", widget: "string"}
+              - {label: "Message", name: "message", widget: "string"}
+              - {label: "Attachment", name: "attachment", widget: "string"}
+              - {label: "Send Email Button", name: "sendEmail", widget: "string"}
+              - {label: "Send Fax Button", name: "sendFax", widget: "string"}
+              - {label: "Success Message", name: "successMessage", widget: "string"}
+              - {label: "Failure Title", name: "failureTitle", widget: "string"}
+              - {label: "Failure Message", name: "failureMessage", widget: "string"}
+              - {label: "Failure Confirm Text", name: "failureConfirm", widget: "string"}
+              - {label: "Signature Affirmation", name: "signatureAffirmation", widget: "markdown"}
+          - label: "Login Phone or Email"
+            name: "phoneOrEmail"
+            widget: "object"
+            fields:
+              - {label: "Field Label", name: "label", widget: "string"}
+              - {label: "Instructions", name: "instructions", widget: "string"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Required", name: "required", widget: "string"}
+                  - {label: "Invalid Phone number or email address", name: "validPhoneOrEmail", widget: "string"}
+          - label: "Code"
+            name: "codeInput"
+            widget: "object"
+            fields:
+              - {label: "Field Label for SMS login", name: "label-sms", widget: "string"}
+              - {label: "Field Label for email login", name: "label-email", widget: "string"}
+              - {label: "Instructions", name: "instructions", widget: "string"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Required", name: "required", widget: "string"}
+                  - {label: "Max Length (6)", name: "maxLength", widget: "string"}
+                  - {label: "Min Length (6)", name: "minLength", widget: "string"}
+          - label: "First Name"
+            name: "firstName"
+            widget: "object"
+            fields:
+              - {label: "Field Label", name: "label", widget: "string"}
+              - {label: "Instructions", name: "instructions", widget: "string"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Required", name: "required", widget: "string"}
+                  - {label: "Max Length (50)", name: "maxLength", widget: "string"}
+          - label: "Middle Name(s)"
+            name: "middleName"
+            widget: "object"
+            fields:
+              - {label: "Field Label", name: "label", widget: "string"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Max Length (50)", name: "maxLength", widget: "string"}
+          - label: "Last Name"
+            name: "lastName"
+            widget: "object"
+            fields:
+              - {label: "Field Label", name: "label", widget: "string"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Required", name: "required", widget: "string"}
+                  - {label: "Max Length (50)", name: "maxLength", widget: "string"}
+          - label: "Suffix"
+            name: "suffix"
+            widget: "object"
+            fields:
+              - {label: "Field Label", name: "label", widget: "string"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Max Length (16)", name: "maxLength", widget: "string"}
+          - label: "Previous Name"
+            name: "previousName"
+            widget: "object"
+            fields:
+              - {label: "Field Label", name: "label", widget: "string"}
+              - {label: "Yes Answer", name: "yes", widget: "string"}
+              - {label: "No Answer", name: "no", widget: "string"}
+              - {label: "Instructions", name: "instructions", widget: "string"}
+              - {label: "Tooltip Title", name: "tooltipTitle", widget: "string"}
+              - {label: "Tooltip", name: "tooltip", widget: "markdown"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Required", name: "required", widget: "string"}
+                  - {label: "Max Length (29)", name:"maxLength", widget: "string"}
+          - label: "Telephone"
+            name: "tel"
+            widget: "object"
+            fields:
+              - {label: "Field Label", name: "label", widget: "string"}
+              - {label: "Mobile Number", name: "mobile", widget: "string"}
+              - {label: "Landline Number", name: "landline", widget: "string"}
+              - {label: "Placeholder", name: "placeholder", widget: "string"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Invalid Number", name: "validPhone", widget: "string"}
+          - label: "Email"
+            name: "email"
+            widget: "object"
+            fields:
+              - {label: "Field Label", name: "label", widget: "string"}
+              - {label: "Did you mean? (typo suggester)", name: "suggestion", widget: "string"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Required", name: "required", widget: "string"}
+                  - {label: "Invalid Email", name: "email", widget: "string"}
+          - label: "Abroad Address"
+            name: "abrAdr"
+            widget: "object"
+            fields:
+              - {label: "Field Label", name: "label", widget: "string"}
+              - {label: "Instructions", name: "instructions", widget: "string"}
+              - {label: "Country Placeholder", name: "placeholder", widget: "string"}
+              - {label: "Tooltip Title", name: "tooltipTitle", widget: "string"}
+              - {label: "Tooltip", name: "tooltip", widget: "markdown"}
+              - {label: "Use unstructured input", name: "unstructured-label", widget: "string"}
+              - {label: "Use structured Input label", name: "structured-label", widget: "string"}
+              - {label: "Change format button", name: "changeFormat", widget: "string"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Country Required", name: "country-required", widget: "string"}
+                  - {label: "Street Required", name: "A-required", widget: "string"}
+                  - {label: "Dependent Locality Required", name: "D-required", widget: "string"}
+                  - {label: "City Required", name: "C-required", widget: "string"}
+                  - {label: "State/Province Required", name: "S-required", widget: "string"}
+                  - {label: "Zip Required", name: "Z-required", widget: "string"}
+                  - {label: "Sorting Code Required", name: "X-required", widget: "string"}
+          - label: "Voting Address"
+            name: "votAdr"
+            widget: "object"
+            fields:
+              - {label: "Field Label", name: "label", widget: "string"}
+              - {label: "Instructions", name: "instructions", widget: "string"}
+              - {label: "Street address placeholder", name: "street", widget: "string"}
+              - {label: "Apt # placeholder", name: "apt", widget: "string"}
+              - {label: "City placeholder", name: "city", widget: "string"}
+              - {label: "State placeholder", name: "state", widget: "string"}
+              - {label: "Zip placeholder", name: "zip", widget: "string"}
+              - {label: "County", name: "county", widget: "string"}
+              - {label: "Tooltip Title", name: "tooltipTitle", widget: "string"}
+              - {label: "Tooltip", name: "tooltip", widget: "markdown"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Street Required", name: "street-required", widget: "string"}
+                  - {label: "City Required", name: "city-required", widget: "string"}
+                  - {label: "State Required", name: "state-required", widget: "string"}
+                  - {label: "Zip Required", name: "zip-required", widget: "string"}
+                  - {label: "US Zip", name: "zip-usZip", widget: "string"}
+          - label: "Jurisdiction"
+            name: "jurisdiction"
+            widget: "object"
+            fields:
+              - {label: "Field Label", name: "label", widget: "string"}
+              - {label: "Instructions", name: "instructions", widget: "string"}
+              - {label: "Placeholder", name: "placeholder", widget: "string"}
+              - {label: "Tooltip Title", name: "tooltipTitle", widget: "string"}
+              - {label: "Tooltip", name: "tooltip", widget: "markdown"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Required", name: "required", widget: "string"}
+          - label: "Voter Classification"
+            name: "voterClass"
+            widget: "object"
+            fields:
+              - {label: "Is Civilian or Military", name: "civilianOrMilitary", widget: "string"}
+              - {label: "Military Type?", name: "whatMilType", widget: "string"}
+              - {label: "Civilian Type?", name: "whatCivType", widget: "string"}
+              - {label: "Civilian", name: "civilianType", widget: "string"}
+              - {label: "Military", name: "militaryType", widget: "string"}
+              - {label: "Active Duty", name: "military", widget: "string"}
+              - {label: "Military Dependent", name: "milSpouse", widget: "string"}
+              - {label: "Nat Guard", name: "natGuard", widget: "string"}
+              - {label: "Uncertain Return", name: "uncertainReturn", widget: "string"}
+              - {label: "Intend to Return", name: "intendToReturn", widget: "string"}
+              - {label: "Never Resided", name: "neverResided", widget: "string"}
+              - {label: "Tooltip Title", name: "tooltipTitle", widget: "string"}
+              - {label: "Tooltip", name: "tooltip", widget: "markdown"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Type Required", name: "typeRequired", widget: "string"}
+                  - {label: "Civilian Status Required", name: "civilianRequired", widget: "string"}
+                  - {label: "Military Status Required", name: "militaryRequired", widget: "string"}
+          - label: "Registration Status"
+            name: "isRegistered"
+            widget: "object"
+            fields:
+              - {label: "label (include jurisdiction with '{jurisdiction}'", name: "label", widget: "string"}
+              - {label: "Yes Answer", name: "yes", widget: "string"}
+              - {label: "No Answer", name: "no", widget: "string"}
+              - {label: "Unsure Answer", name: "unsure", widget: "string"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Required", name: "required", widget: "string"}
+          - label: "Ballot Receipt Preference"
+            name: "receiveBallot"
+            widget: "object"
+            fields:
+              - {label: "label", name: "label", widget: "string"}
+              - {label: "Email", name: "email", widget: "string"}
+              - {label: "Mail", name: "mail", widget: "string"}
+              - {label: "Fax", name: "fax", widget: "string"}
+              - {label: "Tooltip Title", name: "tooltipTitle", widget: "string"}
+              - {label: "Tooltip", name: "tooltip", widget: "markdown"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Required", name: "required", widget: "string"}
+          - label: "Fax Number"
+            name: "fax"
+            widget: "object"
+            fields:
+              - {label: "Field Label", name: "label", widget: "string"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Required", name: "required", widget: "string"}
+                  - {label: "Invalid Number", name: "validPhone", widget: "string"}
+          - label: "Alternate Email"
+            name: "altEmail"
+            widget: "object"
+            fields:
+              - {label: "Field Label", name: "label", widget: "string"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Required", name: "required", widget: "string"}
+                  - {label: "Invalid Email", name: "email", widget: "string"}
+          - label: "Forwarding Address"
+            name: "fwdAdr"
+            widget: "object"
+            fields:
+              - {label: "Field Label", name: "label", widget: "string"}
+              - {label: "Instructions", name: "instructions", widget: "string"}
+              - {label: "Tooltip Title", name: "tooltipTitle", widget: "string"}
+              - {label: "Tooltip", name: "tooltip", widget: "markdown"}
+              - {label: "Have Forwarding Address", name: "question", widget: "string"}
+              - {label: "Yes Answer", name: "yes", widget: "string"}
+              - {label: "No Answer", name: "no", widget: "string"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Country Required", name: "country-required", widget: "string"}
+                  - {label: "Street Required", name: "A-required", widget: "string"}
+                  - {label: "Dependent Locality Required", name: "D-required", widget: "string"}
+                  - {label: "City Required", name: "C-required", widget: "string"}
+                  - {label: "State/Province Required", name: "S-required", widget: "string"}
+                  - {label: "Zip Required", name: "Z-required", widget: "string"}
+                  - {label: "Sorting Code Required", name: "X-required", widget: "string"}
+          - label: "Date of Birth"
+            name: "dob"
+            widget: "object"
+            fields:
+              - {label: "Field Label", name: "label", widget: "string"}
+              - {label: "Placeholder", name: "placeholder", widget: "string"}
+              - {label: "Select a date", name: "selectDate", widget: "string"}
+              - {label: "Tooltip Title", name: "tooltipTitle", widget: "string"}
+              - {label: "Tooltip", name: "tooltip", widget: "markdown"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Required", name: "required", widget: "string"}
+                  - {label: "Too Young", name: "tooYoung", widget: "string"}
+                  - {label: "Too Old", name: "tooOld", widget: "string"}
+          - label: "Sex"
+            name: "sex"
+            widget: "object"
+            fields:
+              - {label: "Field Label", name: "label", widget: "string"}
+              - {label: "Male", name: "male", widget: "string"}
+              - {label: "Female", name: "female", widget: "string"}
+              - {label: "Decline to State", name: "decline", widget: "string"}
+              - {label: "Tooltip Title", name: "tooltipTitle", widget: "string"}
+              - {label: "Tooltip", name: "tooltip", widget: "markdown"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Required", name: "required", widget: "string"}
+          - label: "Join Democrats Abroad"
+            name: "joinDa"
+            widget: "object"
+            fields:
+              - {label: "Field Label", name: "label", widget: "string"}
+              - {label: "Yes", name: "yes", widget: "string"}
+              - {label: "No", name: "no", widget: "string"}
+              - {label: "Already a Member", name: "alreadyMember", widget: "string"}
+              - {label: "Account Email", name: "accountEmail", widget: "string"}
+              - {label: "Tooltip Title", name: "tooltipTitle", widget: "string"}
+              - {label: "Tooltip", name: "tooltip", widget: "markdown"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Required", name: "required", widget: "string"}
+          - label: "Party"
+            name: "party"
+            widget: "object"
+            fields:
+              - {label: "Field Label", name: "label", widget: "string"}
+              - {label: "Democratic", name: "democratic", widget: "string"}
+              - {label: "Republican", name: "republican", widget: "string"}
+              - {label: "Independent", name: "independent", widget: "string"}
+              - {label: "No Party", name: "none", widget: "string"}
+              - {label: "Other", name: "other", widget: "string"}
+              - {label: "Other Placeholder", name: "placeholder", widget: "string"}
+              - {label: "Tooltip Title", name: "tooltipTitle", widget: "string"}
+              - {label: "Tooltip", name: "tooltip", widget: "markdown"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Required", name: "required", widget: "string"}
+          - label: "Special State Rules"
+            name: "stateSpecial"
+            widget: "object"
+            fields:
+              - {label: "Field Label(use '{state} for the state's name')", name: "label", widget: "string"}
+          - label: "Alaska Rules"
+            name: "akRules"
+            widget: "object"
+            fields:
+              - {label: "Proof of Residency Label", name: "label", widget: "string"}
+              - {label: "Proof of Residency Instructions", name: "resInstructions", widget: "string"}
+              - {label: "FWAB witness Instructions", name: "fwabWitness", widget: "string"}
+              - {label: "Tooltip Title", name: "tooltipTitle", widget: "string"}
+              - {label: "Tooltip", name: "tooltip", widget: "markdown"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Required", name: "required", widget: "string"}
+          - label: "Arizona Rules"
+            name: "azRules"
+            widget: "object"
+            fields:
+              - {label: "Proof of Citizenship Label", name: "label", widget: "string"}
+              - {label: "Proof of Citizenship Instructions", name: "citInstructions", widget: "string"}
+              - {label: "Tooltip", name: "tooltip", widget: "markdown"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Required", name: "required", widget: "string"}
+          - label: "Oklahoma Rules"
+            name: "okRules"
+            widget: "object"
+            fields:
+              - {label: "Independent Primary Label", name: "label", widget: "string"}
+              - {label: "Independent Primary Instructions", name: "primaryInstructions", widget: "string"}
+              - {label: "Tooltip", name: "tooltip", widget: "markdown"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Required", name: "required", widget: "string"}
+          - label: "Puerto Rico Rules"
+            name: "prRules"
+            widget: "object"
+            fields:
+              - {label: "Parents' Names Label", name: "label", widget: "string"}
+              - {label: "Parents' Names Instructions", name: "parentsInstructions", widget: "string"}
+              - {label: "Tooltip", name: "tooltip", widget: "markdown"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Required", name: "required", widget: "string"}
+          - label: "South Carolina Rules"
+            name: "scRules"
+            widget: "object"
+            fields:
+              - {label: "Race Label", name: "label", widget: "string"}
+              - {label: "Race Instructions", name: "raceInstructions", widget: "string"}
+              - {label: "Previous Registration Label", name: "prevRegLabel", widget: "string"}
+              - {label: "Previous Registration Instructions", name: "prevRegInstructions", widget: "string"}
+              - {label: "Tooltip Title", name: "tooltipTitle", widget: "string"}
+              - {label: "Tooltip", name: "tooltip", widget: "markdown"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Required", name: "required", widget: "string"}
+          - label: "Virginia Rules"
+            name: "vaRules"
+            widget: "object"
+            fields:
+              - {label: "Field Label", name: "label", widget: "string"}
+              - {label: "Tooltip Title", name: "tooltipTitle", widget: "string"}
+              - {label: "Tooltip", name: "tooltip", widget: "markdown"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Required", name: "required", widget: "string"}
+          - label: "Vermont Rules"
+            name: "vtRules"
+            widget: "object"
+            fields:
+              - {label: "Field Label", name: "label", widget: "string"}
+              - {label: "Voter's Oath Instructions", name: "oathInstructions", widget: "string"}
+              - {label: "Tooltip Title", name: "tooltipTitle", widget: "string"}
+              - {label: "Tooltip", name: "tooltip", widget: "markdown"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Required", name: "required", widget: "string"}
+          - label: "Identification"
+            name: "id"
+            widget: "object"
+            fields:
+              - {label: "Field Label", name: "label", widget: "string"}
+              - {label: "Optional ID Instructions", name: "instructionsOptional", widget: "string"}
+              - {label: "Required ID Instructions (only one option)", name: "instructionsReq1", widget: "string"}
+              - {label: "Required ID Instructions (multiple options)", name: "instructionsReq2", widget: "string"}
+              - {label: "SSN (last 4 digits)", name: "SSN4", widget: "string"}
+              - {label: "SSN (full)", name: "SSN", widget: "string"}
+              - {label: "State ID", name: "StateID", widget: "string"}
+              - {label: "Territory ID", name: "TerritoryID", widget: "string"}
+              - {label: "Tribal ID", name: "TribalID", widget: "string"}
+              - {label: "Military ID", name: "MilitaryID", widget: "string"}
+              - {label: "Passport Number", name: "PassportNumber", widget: "string"}
+              - {label: "NY DMV Issued ID", name: "NYDMVID", widget: "string"}
+              - {label: "item separator (--OR--)", name: "or", widget: "string"}
+              - {label: "No ID button (only 1 id choice)", name: "noid1", widget: "string"}
+              - {label: "No ID button (2+ id choices)", name: "noid2", widget: "string"}
+              - {label: "Tooltip Title", name: "tooltipTitle", widget: "string"}
+              - {label: "Tooltip Optional ID", name: "tooltipOptional", widget: "markdown"}
+              - {label: "Tooltip 1 req ID", name: "tooltipReq1", widget: "markdown"}
+              - {label: "Tooltip multiple req ID", name: "tooltipReq2", widget: "markdown"}
+              - label: "Messages"
+                name: "messages"
+                widget: "object"
+                fields:
+                  - {label: "Full SSN Required", name: "fullSSNRequired", widget: "string"}
+                  - {label: "Last 4 digits of SSN Required", name: "SSN4Required", widget: "string"}
+                  - {label: "State (or other ID) Required", name: "stateIdRequired", widget: "string"}
+          - label: "Deadline Language"
+            name: "deadlineLanguage"
+            widget: "object"
+            fields:
+              - {label: "postmarked by", name: "postmarkedBy", widget: "string"}
+              - {label: "received by", name: "receivedBy", widget: "string"}
+              - {label: "sent by", name: "sentBy", widget: "string"}
+              - {label: "signed by", name: "signedBy", widget: "string"}
+              - {label: "signed/postmarked by", name: "signedPostmarkedBy", widget: "string"}
+              - {label: "email", name: "email", widget: "string"}
+              - {label: "postal mail", name: "mail", widget: "string"}
+              - {label: "fax", name: "fax", widget: "string"}
+              - {label: "online", name: "online", widget: "string"}
+              - {label: "Two Options", name: "opt2", widget: "string"}
+              - {label: "Three Options", name: "opt3", widget: "string"}
+              - {label: "Four Options", name: "opt4", widget: "string"}
+              - {label: "Alaska Residency Proof", name: "akDocument", widget: "string"}
+              - {label: "AZ Proof of Citizenship", name: "azDocument", widget: "string"}
+              - {label: "CT Special FPCA submission requirements", name: "ctSpecial", widget: "string"}
+              - {label: "NY Special FPCA submission requirements", name: "nySpecial", widget: "string"}
+              - {label: "NJ Special FPCA submission requirements", name: "njSpecial", widget: "string"}
+              - {label: "WY Special FPCA submission requirements", name: "wySpecial", widget: "string"}
+              - {label: "AR Special FPCA submission requirements", name: "arSpecial", widget: "string"}
+              - {label: "VT Special FPCA submission requirements", name: "vtSpecial", widget: "string"}
+              - {label: "TX Special FPCA submission requirements", name: "txSpecial", widget: "string"}
+              - {label: "Document is Required", name: "documentRequired", widget: "string"}
+              - {label: "Submission method", name: "submissionMethod", widget: "string"}
+              - {label: "alternate submission method", name: "alternateSubmissionMethod", widget: "string"}
+              - {label: "new voters", name: "newVoters", widget: "string"}
+              - {label: "registered voters", name: "registeredVoters", widget: "string"}
+              - {label: "unsure registration voters", name: "unsureRegistrationVoters", widget: "string"}
+              - {label: "language if also serves as registration", name: "alsoVoterRegistration", widget: "string"}
+              - {label: "Form submitted", name: "formSubmitted", widget: "string"}
+              - {label: "leo confirmation", name: "formConfirmation", widget: "string"}
+              - {label: "ballots sent (if earlier than 45 days)", name: "sendBallot45days", widget: "string"}
+              - {label: "ballots sent (if less than 45 days)", name: "sendBallotLessThan45days", widget: "string"}
+              - {label: "ballot return deadline", name: "ballotReturn", widget: "string"}
+              - {label: "Transmit Instructions", name: "transmitInstructions", widget: "string"}
+              - {label: "Suggest to send by email", name: "emailSuggested", widget: "string"}
+      - label: "Dashboard"
+        name: "dashboard"
+        widget: "object"
+        fields:
+          - {label: "Greeting", name: "greeting", widget: "string"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Subtitle", name: "subtitle", widget: "string"}
+          - {label: "Todo", name: "todo", widget: "string"}
+          - {label: "Ballot Request Status", name: "ballotRequestStatus", widget: "string"}
+          - {label: "Next Steps...", name: "nextSteps", widget: "string"}
+          - {label: "Leo Phone", name: "phone", widget: "string"}
+          - {label: "Leo Email", name: "email", widget: "string"}
+          - {label: "Leo Fax", name: "fax", widget: "string"}
+          - {label: "Help and Thanks", name: "helpThanks", widget: "markdown"}
+          - {label: "Edit your form", name: "makeChanges", widget: "markdown"}
+          - {label: "Start a new session", name: "clearSession", widget: "string"}
+          - {label: "thankYou", name: "thankYou", widget: "markdown"}
+          - {label: "Form Submitted", name: "formSubmitted", widget: "markdown"}
+          - {label: "Form Pending submission", name: "requiresSubmit", widget: "markdown"}
+          - {label: "Verify with your LEO", name: "verify", widget: "markdown"}
+          - label: "Fill & Sign Request Stage"
+            name: "fill"
+            widget: "object"
+            fields:
+              - {label: "title", name: "title", widget: "string"}
+              - {label: "icon", name: "icon", widget: "string"}
+              - {label: "content", name: "content", widget: "markdown"}
+              - {label: "Action Text", name: "actionText", widget: "string"}
+              - {label: "Complete Text", name: "completeText", widget: "string"}
+          - label: "Send in Request Stage"
+            name: "send"
+            widget: "object"
+            fields:
+              - {label: "title", name: "title", widget: "string"}
+              - {label: "icon", name: "icon", widget: "string"}
+              - {label: "content", name: "content", widget: "markdown"}
+              - {label: "Action Text", name: "actionText", widget: "string"}
+              - {label: "Complete Text", name: "completeText", widget: "string"}
+          - label: "Receive Ballot Requet Stage"
+            name: "receive"
+            widget: "object"
+            fields:
+              - {label: "title", name: "title", widget: "string"}
+              - {label: "icon", name: "icon", widget: "string"}
+              - {label: "content", name: "content", widget: "markdown"}
+              - {label: "Action Text", name: "actionText", widget: "string"}
+              - {label: "Complete Text", name: "completeText", widget: "string"}
+          - label: "Vote Request Stage"
+            name: "vote"
+            widget: "object"
+            fields:
+              - {label: "title", name: "title", widget: "string"}
+              - {label: "icon", name: "icon", widget: "string"}
+              - {label: "content", name: "content", widget: "markdown"}
+              - {label: "Action Text", name: "actionText", widget: "string"}
+              - {label: "Complete Text", name: "completeText", widget: "string"}
+          - label: "Learn Action"
+            name: "learn"
+            widget: "object"
+            fields:
+              - {label: "title", name: "title", widget: "string"}
+              - {label: "icon", name: "icon", widget: "string"}
+              - {label: "content", name: "content", widget: "markdown"}
+          - label: "Share Action"
+            name: "share"
+            widget: "object"
+            fields:
+              - {label: "title", name: "title", widget: "string"}
+              - {label: "icon", name: "icon", widget: "string"}
+              - {label: "content", name: "content", widget: "markdown"}

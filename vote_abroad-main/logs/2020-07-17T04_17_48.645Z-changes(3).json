@@ -1,0 +1,25 @@
+[
+  {
+    "change": "changed-CA-Santa Cruz-Santa Cruz County Clerk - Elections-204",
+    "newPhone": "(831) 454-2405",
+    "oldPhone": "(831) 454-2409",
+    "newEmail": "john.beck@santacruzcounty.us",
+    "oldEmail": "tricia.webber@santacruzcounty.us",
+    "newEffectiveDate": "2020-07-16T15:30:59",
+    "oldEffectiveDate": "2019-07-15T13:12:58"
+  },
+  {
+    "change": "changed-UT-Salt Lake-Salt Lake County Clerk-3660",
+    "newEffectiveDate": "2020-07-16T09:36:14",
+    "oldEffectiveDate": "2019-05-29T08:50:00",
+    "newAddress2": "P.O. Box 144575",
+    "oldAddress2": ""
+  },
+  {
+    "change": "changed-WY-Teton-Teton County Clerk-6010",
+    "newEmail": "mmurphy@tetoncountywy.gov",
+    "oldEmail": "sdaigle@tetonwyo.org",
+    "newEffectiveDate": "2020-07-16T09:54:37",
+    "oldEffectiveDate": "2015-08-31T14:59:23"
+  }
+]

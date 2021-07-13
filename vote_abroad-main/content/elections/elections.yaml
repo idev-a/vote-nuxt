@@ -1,0 +1,3415 @@
+
+  - state: "AL"
+    date: "2020-03-03T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-02-15T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-02-27T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-03-03T00:00:00"
+          note: "AL1"
+  - state: "AL"
+    date: "2020-03-03T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-02-15T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-02-27T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-03-03T00:00:00"
+          note: "AL1"
+  - state: "AL"
+    date: "2020-07-14T00:00:00"
+    electionType: "State Primary Runoff"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-06-29T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-07-09T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-07-14T00:00:00"
+          note: "AL1"
+  - state: "AL"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-10-19T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-29T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-11-03T00:00:00"
+          note: "AL1"
+  - state: "AK"
+    date: "2020-04-04T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-03-24T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-03-24T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Request Mail Ballot: Received by"
+          date: "2020-03-24T00:00:00"
+        - voterType: {}
+          rule: "Request Email/Online or Fax Ballot: Received by"
+          date: "2020-03-31T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Return by Mail: Postmarked by"
+          date: "2020-03-24T00:00:00"
+        - voterType: {}
+          rule: "Return by Fax: Received by"
+          date: "2020-04-04T20:00:00"
+  - state: "AK"
+    date: "2020-08-18T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-07-19T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-07-19T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Request Mail Ballot: Received by"
+          date: "2020-08-08T00:00:00"
+        - voterType: {}
+          rule: "Request Email/Online or Fax Ballot: Received by"
+          date: "2020-08-17T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Return by Mail: Postmarked by"
+          date: "2020-08-18T00:00:00"
+          note: "AK1"
+        - voterType: {}
+          rule: "Return by Fax: Received by"
+          date: "2020-08-18T20:00:00"
+  - state: "AK"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-10-04T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-10-04T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Request Mail Ballot: Received by"
+          date: "2020-10-24T00:00:00"
+        - voterType: {}
+          rule: "Request Email/Online or Fax Ballot: Received by"
+          date: "2020-11-02T17:00:00"
+      Ballot Return:
+        - voterType: "Within the U.S."
+          rule: "Return by Mail: Postmarked by"
+          date: "2020-11-03T00:00:00"
+          note: "AK2"
+        - voterType: "Outside the U.S."
+          rule: "Return by Mail: Postmarked by"
+          date: "2020-11-03T00:00:00"
+          note: "AK3"          
+        - voterType: "Outside the U.S."
+          rule: "Return by Fax: Received by"
+          date: "2020-11-03T20:00:00"
+  - state: "AS"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-09T16:30:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-19T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-19T00:00:00"
+  - state: "AZ"
+    date: "2020-03-17T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-17T19:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-17T18:59:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-17T19:00:00"
+  - state: "AZ"
+    date: "2020-08-04T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-04T19:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-04T18:59:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-04T19:00:00"
+  - state: "AZ"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T19:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T18:59:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T19:00:00"
+  - state: "AR"
+    date: "2020-03-03T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-02-02T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-02-25T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-03-03T00:00:00"
+          note: "AR1"
+  - state: "AR"
+    date: "2020-03-03T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-02-02T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-02-25T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-03-03T00:00:00"
+          note: "AR1"
+  - state: "AR"
+    date: "2020-03-31T00:00:00"
+    electionType: "State Primary Runoff"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-03-01T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-24T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-03-31T00:00:00"
+          note: "AR1"
+  - state: "AR"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-10-04T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-27T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-11-03T00:00:00"
+          note: "AR1"
+  - state: "AR"
+    date: "2020-12-01T00:00:00"
+    electionType: "General Runoff"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-11-01T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-24T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-12-01T00:00:00"
+          note: "AR2"
+  - state: "CA"
+    date: "2020-03-03T00:00:00"
+    electionType: "Presidential Primary & Special Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-02-18T00:00:00"
+        - voterType: {}
+          rule: "By Online or Fax: Received by"
+          date: "2020-02-18T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-02-25T00:00:00"
+          note: "CA1"
+      Ballot Return:
+        - voterType: {}
+          rule: "Return by Mail: Postmarked by"
+          date: "2020-03-03T00:00:00"
+          note: "CA2"
+        - voterType: {}
+          rule: "Return by Fax: Received by"
+          date: "2020-03-03T20:00:00"
+  - state: "CA"
+    date: "2020-05-12T00:00:00"
+    electionType: "Special General"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-04-27T00:00:00"
+        - voterType: {}
+          rule: "By Online or Fax: Received by"
+          date: "2020-04-27T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-05-05T00:00:00"
+          note: "CA1"
+      Ballot Return:
+        - voterType: {}
+          rule: "Return by Mail: Postmarked by"
+          date: "2020-05-12T00:00:00"
+          note: "CA3"
+        - voterType: {}
+          rule: "Return by Fax: Received by"
+          date: "2020-05-12T20:00:00"
+  - state: "CA"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-10-19T00:00:00"
+        - voterType: {}
+          rule: "By Online or Fax: Received by"
+          date: "2020-10-19T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-27T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Return by Mail: Postmarked by"
+          date: "2020-11-03T00:00:00"
+          note: "CA1"
+        - voterType: {}
+          rule: "Return by Fax: Received by"
+          date: "2020-11-03T20:00:00"
+  - state: "CO"
+    date: "2020-03-03T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Sent by"
+          date: "2020-03-03T19:00:00"
+          note: "CO1"
+      Ballot Request:
+        - voterType: {}
+          rule: "Not Required"
+          date: ""
+      Ballot Return:
+        - voterType: {}
+          rule: "Sent by"
+          date: "2020-03-03T19:00:00"
+          note: "CO2"
+  - state: "CO"
+    date: "2020-06-30T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Sent by"
+          date: "2020-06-30T19:00:00"
+          note: "CO1"
+      Ballot Request:
+        - voterType: {}
+          rule: "Not Required"
+          date: ""
+      Ballot Return:
+        - voterType: {}
+          rule: "Sent by"
+          date: "2020-06-30T19:00:00"
+          note: "CO2"
+  - state: "CO"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Request Mail Ballot: Received by"
+          date: "2020-10-27T17:00:00"      
+        - voterType: {}
+          rule: "Request Email/Online or Fax Ballot: Sent by"
+          date: "2020-11-03T19:00:00"
+          note: "CO1"
+      Ballot Request:
+        - voterType: {}
+          rule: "Not Required"
+          date: ""
+      Ballot Return:
+        - voterType: {}
+          rule: "Sent by"
+          date: "2020-11-03T19:00:00"
+          note: "CO2"
+  - state: "CT"
+    date: "2020-08-11T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-10T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-10T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-11T00:00:00"
+  - state: "CT"
+    date: "2020-08-11T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-10T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-10T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-11T00:00:00"
+  - state: "CT"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-02T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-02T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T00:00:00"
+  - state: "DE"
+    date: "2020-07-07T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-06-22T00:00:00"
+        - voterType: {}
+          rule: "By Email, Fax or Online: Received by"
+          date: "2020-06-22T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Request Mail Ballot: Received by"
+          date: "2020-07-03T00:00:00"
+        - voterType: {}
+          rule: "Request Email/Online or Fax Ballot: Received by"
+          date: "2020-07-06T12:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-07-07T20:00:00"
+  - state: "DE"
+    date: "2020-09-15T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-08-31T00:00:00"
+        - voterType: {}
+          rule: "By Email, Fax or Online: Received by"
+          date: "2020-08-31T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Request Mail Ballot: Received by"
+          date: "2020-09-11T00:00:00"
+        - voterType: {}
+          rule: "Request Email/Online or Fax Ballot: Received by"
+          date: "2020-09-14T12:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-09-15T20:00:00"
+  - state: "DE"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-10-19T00:00:00"
+        - voterType: {}
+          rule: "By Email, Fax or Online: Received by"
+          date: "2020-10-19T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Request Mail Ballot: Received by"
+          date: "2020-10-30T00:00:00"
+        - voterType: {}
+          rule: "Request Email/Online or Fax Ballot: Received by"
+          date: "2020-11-02T12:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T20:00:00"
+  - state: "DC"
+    date: "2020-06-02T00:00:00"
+    electionType: "District Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Received by"
+          date: "2020-05-12T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-05-12T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-05-30T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-06-02T00:00:00"
+        - voterType: {}
+          rule: "By Mail: Received by"
+          date: "2020-06-09T00:00:00"
+  - state: "DC"
+    date: "2020-06-02T00:00:00"
+    electionType: "Presidential Primary - Democratic"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Received by"
+          date: "2020-05-12T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-05-12T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-05-30T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-06-02T00:00:00"
+        - voterType: {}
+          rule: "By Mail: Received by"
+          date: "2020-06-09T00:00:00"
+  - state: "DC"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Received by"
+          date: "2020-10-13T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-10-13T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-31T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-11-03T00:00:00"
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-11-03T00:00:00"
+          note: "DC1"
+  - state: "FL"
+    date: "2020-03-17T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-02-18T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Request Mail Ballot: Received by"
+          date: "2020-03-07T17:00:00"
+        - voterType: {}
+          rule: "Request Email/Online or Fax Ballot: Received by"
+          date: "2020-03-17T00:00:00"
+      Ballot Return:
+        - voterType: "Within the U.S."
+          rule: "Return by Mail: Received by"
+          date: "2020-03-17T19:00:00"
+        - voterType: "Outside the U.S."
+          rule: "Return by Mail: Postmarked by"
+          date: "2020-03-17T00:00:00"
+          note: "FL1"
+        - voterType: "Outside the U.S."
+          rule: "Return by Fax: Received by"
+          date: "2020-03-17T19:00:00"
+  - state: "FL"
+    date: "2020-08-18T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-07-20T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Request Mail Ballot: Received by"
+          date: "2020-08-08T17:00:00"
+        - voterType: {}
+          rule: "Request Email/Online or Fax Ballot: Received by"
+          date: "2020-08-18T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-18T19:00:00"
+  - state: "FL"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-10-05T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Request Mail Ballot: Received by"
+          date: "2020-10-24T17:00:00"
+        - voterType: {}
+          rule: "Request Email/Online or Fax Ballot: Received by"
+          date: "2020-11-03T00:00:00"
+      Ballot Return:
+        - voterType: "Within the U.S."
+          rule: "Return by Mail: Received by"
+          date: "2020-11-03T19:00:00"
+        - voterType: "Outside the U.S."
+          rule: "Return by Mail: Postmarked by"
+          date: "2020-11-03T00:00:00"
+          note: "FL1"
+        - voterType: "Outside the U.S."
+          rule: "Return by Fax: Received by"
+          date: "2020-11-03T19:00:00"
+  - state: "GA"
+    date: "2020-06-09T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail, Email or Fax: Received by"
+          date: "2020-05-11T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "By Mail, Email or Fax: Received by"
+          date: "2020-06-09T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-06-09T00:00:00"
+          note: "GA1"
+  - state: "GA"
+    date: "2020-06-09T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail, Email or Fax: Received by"
+          date: "2020-05-11T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "By Mail, Email or Fax: Received by"
+          date: "2020-06-09T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-06-09T00:00:00"
+          note: "GA1"
+  - state: "GA"
+    date: "2020-08-11T00:00:00"
+    electionType: "State Primary Runoff"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail, Email or Fax: Received by"
+          date: "2020-07-13T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "By Mail, Email or Fax: Received by"
+          date: "2020-08-11T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-08-11T00:00:00"
+          note: "GA1"
+  - state: "GA"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail, Email or Fax: Received by"
+          date: "2020-10-05T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "By Mail, Email or Fax: Received by"
+          date: "2020-11-03T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-11-03T00:00:00"
+          note: "GA2"
+  - state: "GA"
+    date: "2021-01-05T00:00:00"
+    electionType: "General Runoff"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail, Email or Fax: Received by"
+          date: "2020-12-07T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "By Mail, Email or Fax: Received by"
+          date: "2021-01-05T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2021-01-05T00:00:00"
+          note: "GA3"
+  - state: "GU"
+    date: "2020-08-29T00:00:00"
+    electionType: "Territory Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-19T20:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-26T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-08-29T00:00:00"
+          note: "GU1"
+  - state: "GU"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-23T20:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-31T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-11-03T00:00:00"
+          note: "GU2"
+  - state: "HI"
+    date: "2020-04-04T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-08T00:00:00"
+          note: "HI1"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-08T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-04-04T15:00:00"
+  - state: "HI"
+    date: "2020-08-08T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-07-09T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-07-09T00:00:00"
+          note: "HI1"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-01T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-08T19:00:00"
+  - state: "HI"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-10-05T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-10-05T00:00:00"
+          note: "HI1"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-27T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T19:00:00"
+  - state: "ID"
+    date: "2020-03-10T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-02-14T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-02-28T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-10T00:00:00"
+  - state: "ID"
+    date: "2020-05-19T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-04-24T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-05-08T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-05-19T00:00:00"
+  - state: "ID"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-09T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-23T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T20:00:00"
+  - state: "IL"
+    date: "2020-03-17T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Not Required"
+          date: ""
+      Ballot Request:
+        - voterType: "Overseas Citizens"
+          rule: "Signed by"
+          date: "2020-02-16T00:00:00"
+          note: "IL1"
+        - voterType: "Uniformed Services and eligible family members"
+          rule: "Signed by"
+          date: "2020-03-07T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Signed/Postmarked by"
+          date: "2020-03-17T00:00:00"
+          note: "IL2"
+  - state: "IL"
+    date: "2020-03-17T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Not Required"
+          date: ""
+      Ballot Request:
+        - voterType: "Overseas Citizens"
+          rule: "Signed by"
+          date: "2020-02-16T00:00:00"
+          note: "IL1"
+        - voterType: "Uniformed Services and eligible family members"
+          rule: "Signed by"
+          date: "2020-03-07T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Signed/Postmarked by"
+          date: "2020-03-17T00:00:00"
+          note: "IL2"
+  - state: "IL"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Not Required"
+          date: ""
+      Ballot Request:
+        - voterType: "Overseas Citizens Seeking Full Ballot"
+          rule: "Received by"
+          date: "2020-10-04T00:00:00"
+          note: "IL1"
+        - voterType: "Overseas Citizens to Receive Federal only Ballot"
+          rule: "Received by"
+          date: "2020-10-24T00:00:00"
+          note: "IL2"
+        - voterType: "Uniformed Services and eligible family members"
+          rule: "Received by"
+          date: "2020-10-24T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-11-03T00:00:00"
+          note: "IL3"
+  - state: "IN"
+    date: "2020-06-02T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-05-04T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Request Mail Ballot: Received by"
+          date: "2020-05-21T23:59:00"
+        - voterType: {}
+          rule: "Request Email/Online or Fax Ballot: Received by"
+          date: "2020-06-01T12:00:00"
+      Ballot Return:
+        - voterType: "Within the U.S."
+          rule: "Received by"
+          date: "2020-06-02T12:00:00"
+        - voterType: "Outside the U.S."
+          rule: "Return by Mail: Postmarked by"
+          date: "2020-06-02T00:00:00"
+          note: "IN1"
+        - voterType: "Outside the U.S."
+          rule: "Return by Email or Fax: Received by"
+          date: "2020-06-02T12:00:00"
+  - state: "IN"
+    date: "2020-06-02T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-05-04T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Request Mail Ballot: Received by"
+          date: "2020-05-21T23:59:00"
+        - voterType: {}
+          rule: "Request Email/Online or Fax Ballot: Received by"
+          date: "2020-06-01T12:00:00"
+      Ballot Return:
+        - voterType: "Within the U.S."
+          rule: "Received by"
+          date: "2020-06-02T12:00:00"
+        - voterType: "Outside the U.S."
+          rule: "Return by Mail: Postmarked by"
+          date: "2020-06-02T00:00:00"
+          note: "IN1"
+        - voterType: "Outside the U.S."
+          rule: "Return by Email or Fax: Received by"
+          date: "2020-06-02T12:00:00"
+  - state: "IN"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-26T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Request Mail Ballot: Received by"
+          date: "2020-10-22T23:59:00"
+        - voterType: {}
+          rule: "Request Email/Online or Fax Ballot: Received by"
+          date: "2020-11-02T12:00:00"
+      Ballot Return:
+        - voterType: "Within the U.S."
+          rule: "Received by"
+          date: "2020-11-03T12:00:00"
+        - voterType: "Outside the U.S."
+          rule: "Return by Mail: Postmarked by"
+          date: "2020-11-03T00:00:00"
+          note: "IN1"
+        - voterType: "Outside the U.S."
+          rule: "Return by Email or Fax: Received by"
+          date: "2020-11-03T12:00:00"
+  - state: "IA"
+    date: "2020-06-02T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Not Required"
+          date: ""
+      Ballot Request:
+        - voterType: {}
+          rule: "Request Email/Online or Fax Ballot: Received by"
+          date: "2020-06-01T00:00:00"
+        - voterType: {}
+          rule: "Request Mail Ballot: Received by"
+          date: "2020-06-01T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Return by Mail: Postmarked by"
+          date: "2020-06-01T00:00:00"
+          note: "IA1"
+        - voterType: "Active Military Only"
+          rule: "Return by Email or Fax: Received by"
+          date: "2020-06-02T21:00:00"
+  - state: "IA"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Not Required"
+          date: ""
+      Ballot Request:
+        - voterType: {}
+          rule: "Request Email/Online or Fax Ballot: Received by"
+          date: "2020-11-02T00:00:00"
+        - voterType: {}
+          rule: "Request Mail Ballot: Received by"
+          date: "2020-11-02T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Return by Mail: Postmarked by"
+          date: "2020-11-02T00:00:00"
+          note: "IA1"
+        - voterType: {}
+          rule: "Return by Email or Fax: Received by"
+          date: "2020-11-03T21:00:00"
+  - state: "KS"
+    date: "2020-05-02T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-09T17:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-04-17T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Mail Only: Postmarked by"
+          date: "2020-04-24T00:00:00"
+  - state: "KS"
+    date: "2020-08-04T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-08-04T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-08-04T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Sent by"
+          date: "2020-08-04T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-04T00:00:00"
+  - state: "KS"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-11-03T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-11-03T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Sent by"
+          date: "2020-11-03T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T00:00:00"
+  - state: "KY"
+    date: "2020-06-23T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-05-26T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-05-26T16:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-16T18:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-23T18:00:00"
+          note: "KY1"
+  - state: "KY"
+    date: "2020-06-23T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-05-26T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-05-26T16:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-16T18:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-23T18:00:00"
+          note: "KY1"
+  - state: "KY"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Received by"
+          date: "2020-10-05T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-10-05T16:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-27T18:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T18:00:00"
+  - state: "LA"
+    date: "2020-07-11T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-06-10T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-06-10T00:00:00"
+        - voterType: {}
+          rule: "By Online: Received by"
+          date: "2020-06-20T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-07-10T16:30:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-07-11T20:00:00"
+  - state: "LA"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Return by Mail: Postmarked by"
+          date: "2020-10-05T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-10-05T00:00:00"
+        - voterType: {}
+          rule: "By Online: Received by"
+          date: "2020-10-13T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-02T16:30:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T20:00:00"
+  - state: "LA"
+    date: "2020-12-05T00:00:00"
+    electionType: "General Runoff"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Return by Mail: Postmarked by"
+          date: "2020-11-04T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-11-04T00:00:00"
+        - voterType: {}
+          rule: "By Online: Received by"
+          date: "2020-11-14T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-12-04T16:30:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-12-05T20:00:00"
+  - state: "ME"
+    date: "2020-03-03T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-03T17:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-03T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-03T20:00:00"
+  - state: "ME"
+    date: "2020-07-14T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-07-13T17:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-07-13T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-07-14T20:00:00"
+  - state: "ME"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T17:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T20:00:00"
+  - state: "MD"
+    date: "2020-02-04T00:00:00"
+    electionType: "CD 7 Special Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-01-14T21:00:00"
+        - voterType: {}
+          rule: "By Online System: Received by"
+          date: "2020-01-14T23:59:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Request Mail Ballot: Received by"
+          date: "2020-01-28T20:00:00"
+        - voterType: {}
+          rule: "Request Faxed Ballot: Received by"
+          date: "2020-01-28T23:59:00"
+        - voterType: {}
+          rule: "Request Email/Online Ballot: Received by"
+          date: "2020-01-31T23:59:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-02-04T20:00:00"
+          note: "MD1"
+  - state: "MD"
+    date: "2020-06-02T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-05-12T17:00:00"
+        - voterType: {}
+          rule: "By Online System: Received by"
+          date: "2020-05-12T23:59:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Request Mail Ballot: Received by"
+          date: "2020-05-26T20:00:00"
+        - voterType: {}
+          rule: "Request Faxed Ballot: Received by"
+          date: "2020-05-26T23:59:00"
+        - voterType: {}
+          rule: "Request Email/Online Ballot: Received by"
+          date: "2020-05-29T23:59:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-06-02T20:00:00"
+          note: "MD1"
+  - state: "MD"
+    date: "2020-06-02T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-05-12T17:00:00"
+        - voterType: {}
+          rule: "By Online System: Received by"
+          date: "2020-05-12T23:59:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Request Mail Ballot: Received by"
+          date: "2020-05-26T20:00:00"
+        - voterType: {}
+          rule: "Request Faxed Ballot: Received by"
+          date: "2020-05-26T23:59:00"
+        - voterType: {}
+          rule: "Request Email/Online Ballot: Received by"
+          date: "2020-05-29T23:59:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-06-02T20:00:00"
+          note: "MD1"
+  - state: "MD"
+    date: "2020-04-28T00:00:00"
+    electionType: "CD 7 Special General"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-04-07T17:00:00"
+        - voterType: {}
+          rule: "By Online System: Received by"
+          date: "2020-04-07T23:59:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Request Mail Ballot: Received by"
+          date: "2020-04-21T20:00:00"
+        - voterType: {}
+          rule: "Request Faxed Ballot: Received by"
+          date: "2020-04-21T23:59:00"
+        - voterType: {}
+          rule: "Request Email/Online Ballot: Received by"
+          date: "2020-04-24T23:59:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-04-28T20:00:00"
+          note: "MD1"
+  - state: "MD"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-10-13T17:00:00"
+        - voterType: {}
+          rule: "By Online System: Received by"
+          date: "2020-10-13T23:59:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Request Mail Ballot: Received by"
+          date: "2020-10-20T20:00:00"
+        - voterType: {}
+          rule: "Request Faxed Ballot: Received by"
+          date: "2020-10-20T23:59:00"
+        - voterType: {}
+          rule: "Request Email/Online Ballot: Received by"
+          date: "2020-10-20T23:59:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-11-03T20:00:00"
+          note: "MD1"
+  - state: "MA"
+    date: "2020-03-03T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Not Required"
+          date: ""
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-02T12:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-03T20:00:00"
+  - state: "MA"
+    date: "2020-09-01T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Not Required"
+          date: ""
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-31T12:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-09-01T20:00:00"
+  - state: "MA"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Not Required"
+          date: ""
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-02T12:00:00"
+      Ballot Return:
+        - voterType: "Within the U.S."
+          rule: "Return by Mail: Received by"
+          date: "2020-11-03T20:00:00"
+        - voterType: "Outside the U.S."
+          rule: "Return by Email or Fax: Received by"
+          date: "2020-11-03T20:00:00"
+        - voterType: "Outside the U.S."
+          rule: "Return by Mail: Postmarked by"
+          date: "2020-11-03T00:00:00"
+          note: "MA1"
+  - state: "MI"
+    date: "2020-03-10T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-10T20:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-07T14:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-10T20:00:00"
+  - state: "MI"
+    date: "2020-08-04T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-04T20:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-01T14:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-04T20:00:00"
+  - state: "MI"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T20:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-31T14:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T20:00:00"
+  - state: "MN"
+    date: "2020-03-03T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-03T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-03T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-03T20:00:00"
+  - state: "MN"
+    date: "2020-08-11T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-11T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-11T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-11T20:00:00"
+  - state: "MN"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-11-03T20:00:00"
+          note: "MN1"          
+  - state: "MO"
+    date: "2020-03-10T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-02-12T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-06T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Hostile fire area Return by Email or Fax: Received by"
+          date: "2020-03-10T00:00:00"
+        - voterType: {}
+          rule: "Return by Mail: Postmarked by"
+          date: "2020-03-10T00:00:00"
+  - state: "MO"
+    date: "2020-08-04T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-07-08T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-07-31T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Special All Voters: Return by Email or Fax: Received by"
+          date: "2020-08-04T00:00:00"
+        - voterType: {}
+          rule: "Return by Mail: Postmarked by"
+          date: "2020-08-04T00:00:00"
+          note: "MO1"
+  - state: "MO"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-30T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-30T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Return by Email, Fax or Online Upload: Received by"
+          date: "2020-11-03T00:00:00"
+        - voterType: {}
+          rule: "Return by Mail: Postmarked by"
+          date: "2020-11-03T00:00:00"
+          note: "MO2"
+  - state: "MS"
+    date: "2020-03-10T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-02-29T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-02-29T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-10T19:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-10T19:00:00"
+  - state: "MS"
+    date: "2020-03-10T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-02-29T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-02-29T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-10T19:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-10T19:00:00"
+  - state: "MS"
+    date: "2020-06-23T00:00:00"
+    electionType: "State Primary Runoff"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-05-26T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-05-26T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-23T19:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-23T19:00:00"
+  - state: "MS"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-10-24T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-10-24T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T19:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T19:00:00"
+  - state: "MT"
+    date: "2020-06-02T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-02T20:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-02T20:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Return by Mail: Received by"
+          date: "2020-06-02T20:00:00"
+        - voterType: {}
+          rule: "Return by Email or Fax: Sent by"
+          date: "2020-06-02T20:00:00"
+          note: "MT2"
+  - state: "MT"
+    date: "2020-06-02T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-02T20:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-02T20:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Return by Mail: Received by"
+          date: "2020-06-02T20:00:00"
+        - voterType: {}
+          rule: "Return by Email or Fax: Sent by"
+          date: "2020-06-02T20:00:00"
+          note: "MT2"
+  - state: "MT"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T20:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T20:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Return by Mail: Received by"
+          date: "2020-11-03T20:00:00"
+        - voterType: {}
+          rule: "Return by Email or Fax: Sent by"
+          date: "2020-11-03T20:00:00"
+          note: "MT2"
+  - state: "NE"
+    date: "2020-05-12T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-04-24T00:00:00"
+          note: "NE1"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-04-27T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-05-01T18:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-05-12T20:00:00"
+  - state: "NE"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-10-16T00:00:00"
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-10-16T00:00:00"
+          note: "NE2"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-23T18:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T20:00:00"
+  - state: "NV"
+    date: "2020-06-09T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-05-12T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-06-02T00:00:00"
+        - voterType: {}
+          rule: "By Online System: Received by"
+          date: "2020-06-04T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-05-26T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "By Mail:Postmarked by"
+          date: "2020-06-09T00:00:00"
+          note: "NV1"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-06-09T19:00:00"
+  - state: "NV"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-10-06T00:00:00"
+        - voterType: {}
+          rule: "By Email, Fax or FWAB: Received by"
+          date: "2020-10-27T00:00:00"
+        - voterType: {}
+          rule: "By Online System: Received by"
+          date: "2020-10-29T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-20T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "By Mail:Postmarked by"
+          date: "2020-11-03T00:00:00"
+          note: "NV1"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-11-03T19:00:00"
+  - state: "NH"
+    date: "2020-02-11T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-02-11T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-02-10T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-02-11T17:00:00"
+  - state: "NH"
+    date: "2020-09-08T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-09-08T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-09-07T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-09-08T17:00:00"
+  - state: "NH"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-02T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T17:00:00"
+  - state: "NJ"
+    date: "2020-07-07T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Received by"
+          date: "2020-06-07T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-06-16T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "By Mail: Received by"
+          date: "2020-06-07T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-07-03T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-07-07T00:00:00"
+  - state: "NJ"
+    date: "2020-07-07T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Received by"
+          date: "2020-06-07T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-06-16T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "By Mail: Received by"
+          date: "2020-06-07T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-07-03T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-07-07T00:00:00"
+  - state: "NJ"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Request Mail Ballot: Received by"
+          date: "2020-10-04T00:00:00"
+        - voterType: {}
+          rule: "Request Email/Online or Fax Ballot: Received by"
+          date: "2020-10-13T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Request Mail Ballot: Received by"
+          date: "2020-10-04T00:00:00"
+        - voterType: {}
+          rule: "Request Email/Online or Fax Ballot: Received by"
+          date: "2020-10-30T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "By Mail: Received by"
+          date: "2020-11-03T00:00:00"      
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-11-03T20:00:00"
+  - state: "NM"
+    date: "2020-06-02T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-05-05T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-05-05T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-05-28T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-01T17:00:00"
+  - state: "NM"
+    date: "2020-06-02T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-05-05T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-05-05T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-05-28T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-01T17:00:00"
+  - state: "NM"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-10-05T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-10-05T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-29T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-02T17:00:00"
+  - state: "NY"
+    date: "2020-06-23T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-03T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-16T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-06-22T00:00:00"
+          note: "NY1"
+  - state: "NY"
+    date: "2020-06-23T00:00:00"
+    electionType: "CD 27 Special Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-03T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-16T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-06-22T00:00:00"
+          note: "NY1"
+  - state: "NY"
+    date: "2020-06-23T00:00:00"
+    electionType: "Federal and State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-03T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-16T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-06-22T00:00:00"
+          note: "NY1"
+  - state: "NY"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: "Overseas citizens"
+          rule: "Received by"
+          date: "2020-10-09T00:00:00"
+        - voterType: "Uniformed services and eligible family members"
+          rule: "Received by"
+          date: "2020-10-24T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-27T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-11-03T00:00:00"
+          note: "NY1"
+  - state: "NC"
+    date: "2020-03-03T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-02T17:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-02T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Return by Email or Fax: Received by"
+          date: "2020-03-03T19:30:00"
+        - voterType: {}
+          rule: "Return by Mail: Received by"
+          date: "2020-03-12T17:00:00"
+  - state: "NC"
+    date: "2020-03-03T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-02T17:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-02T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Return by Email or Fax: Received by"
+          date: "2020-03-03T19:30:00"
+        - voterType: {}
+          rule: "Return by Mail: Received by"
+          date: "2020-03-12T17:00:00"
+  - state: "NC"
+    date: "2020-04-21T00:00:00"
+    electionType: "State Primary Runoff"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-04-20T17:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-04-20T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Return by Email or Fax: Received by"
+          date: "2020-04-21T19:30:00"
+        - voterType: {}
+          rule: "Return by Mail: Received by"
+          date: "2020-04-21T17:00:00"
+  - state: "NC"
+    date: "2020-06-23T00:00:00"
+    electionType: "Federal Primary Runoff"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-22T17:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-22T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Return by Email or Fax: Received by"
+          date: "2020-06-23T19:30:00"
+        - voterType: {}
+          rule: "Return by Mail: Received by"
+          date: "2020-07-02T17:00:00"
+  - state: "NC"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-02T17:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-02T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Return by Email or Fax: Received by"
+          date: "2020-11-03T19:30:00"
+        - voterType: {}
+          rule: "Return by Mail: Received by"
+          date: "2020-11-12T17:00:00"
+  - state: "ND"
+    date: "2020-06-09T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Not Required"
+          date: ""
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-08T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Return by Mail: Postmarked by"
+          date: "2020-06-08T00:00:00"
+          note: "ND1"
+        - voterType: {}
+          rule: "Return by Email or Fax: Received by"
+          date: "2020-06-08T23:59:00"
+  - state: "ND"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Not Required"
+          date: ""
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-02T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Return by Mail: Postmarked by"
+          date: "2020-11-02T00:00:00"
+          note: "ND1"
+        - voterType: {}
+          rule: "Return by Email or Fax: Received by"
+          date: "2020-11-02T23:59:00"
+  - state: "OH"
+    date: "2020-04-28T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Received by"
+          date: "2020-02-18T00:00:00"
+        - voterType: {}
+          rule: "By Email/Online or Fax: Received by"
+          date: "2020-02-18T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-04-25T12:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-04-27T00:00:00"
+          note: "OH1"
+  - state: "OH"
+    date: "2020-04-28T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Received by"
+          date: "2020-02-18T00:00:00"
+        - voterType: {}
+          rule: "By Email/Online or Fax: Received by"
+          date: "2020-02-18T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-04-25T12:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-04-27T00:00:00"
+          note: "OH1"
+  - state: "OH"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Received by"
+          date: "2020-10-05T00:00:00"
+        - voterType: {}
+          rule: "By Email/Online or Fax: Received by"
+          date: "2020-10-05T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-31T12:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-11-02T00:00:00"
+          note: "OH1"
+        - voterType: {}
+          rule: "Delivered by Courier: Received by"
+          date: "2020-11-03T19:30:00"          
+  - state: "OK"
+    date: "2020-03-03T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-02-07T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax (FPCA only): Received by"
+          date: "2020-02-07T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-02-26T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-03T19:00:00"
+  - state: "OK"
+    date: "2020-06-30T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-06-05T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax (FPCA only): Received by"
+          date: "2020-06-05T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-24T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-30T19:00:00"
+  - state: "OK"
+    date: "2020-08-25T00:00:00"
+    electionType: "State Primary Runoff"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-07-31T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax (FPCA only): Received by"
+          date: "2020-07-31T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-19T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-25T19:00:00"
+  - state: "OK"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-10-09T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax (FPCA only): Received by"
+          date: "2020-10-09T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-27T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T19:00:00"
+  - state: "OR"
+    date: "2020-05-19T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-04-28T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-04-28T00:00:00"
+        - voterType: {}
+          rule: "By Online System: Received by"
+          date: "2020-04-28T23:59:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Request Mail Ballot: Received by"
+          date: "2020-05-14T00:00:00"
+        - voterType: {}
+          rule: "Request Email/Online or Fax Ballot: Received by"
+          date: "2020-05-19T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-05-19T20:00:00"
+  - state: "OR"
+    date: "2020-05-19T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-04-28T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-04-28T00:00:00"
+        - voterType: {}
+          rule: "By Online System: Received by"
+          date: "2020-04-28T23:59:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Request Mail Ballot: Received by"
+          date: "2020-05-14T00:00:00"
+        - voterType: {}
+          rule: "Request Email/Online or Fax Ballot: Received by"
+          date: "2020-05-19T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-05-19T20:00:00"
+  - state: "OR"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-10-13T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-10-13T00:00:00"
+        - voterType: {}
+          rule: "By Online System: Received by"
+          date: "2020-10-13T23:59:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Request Mail Ballot: Received by"
+          date: "2020-10-29T00:00:00"
+        - voterType: {}
+          rule: "Request Email/Online or Fax Ballot: Received by"
+          date: "2020-11-03T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T20:00:00"
+  - state: "PA"
+    date: "2020-06-02T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-05-18T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-01T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Signed by"
+          date: "2020-06-01T23:59:00"
+          note: "PA1"
+  - state: "PA"
+    date: "2020-06-02T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-05-18T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-01T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Signed by"
+          date: "2020-06-01T23:59:00"
+          note: "PA1"
+  - state: "PA"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-19T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-02T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-11-02T23:59:00"
+          note: "PA1"
+  - state: "PR"
+    date: "2020-04-26T00:00:00"
+    electionType: "Presidential Primary - Democratic"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-02-10T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-02-10T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-02-14T00:00:00"
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-02-29T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-03-29T00:00:00"
+  - state: "PR"
+    date: "2020-06-07T00:00:00"
+    electionType: "Territory Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-04-20T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-04-20T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-04-24T00:00:00"
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-05-09T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-06-07T00:00:00"
+  - state: "PR"
+    date: "2020-06-07T00:00:00"
+    electionType: "Presidential Primary - Republican"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-04-20T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-04-20T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-04-24T00:00:00"
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-05-09T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-06-07T00:00:00"
+  - state: "PR"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-09-15T00:00:00"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-09-15T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-09-20T00:00:00"
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-10-05T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-11-03T00:00:00"
+  - state: "RI"
+    date: "2020-06-02T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-05-03T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-05-19T00:00:00"
+          note: "RI2"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-05T00:00:00"
+  - state: "RI"
+    date: "2020-09-08T00:00:00"
+    electionType: "State Primary*"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-09T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-18T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-09-11T00:00:00"
+  - state: "RI"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-04T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-13T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-10T00:00:00"
+  - state: "SC"
+    date: "2020-02-29T00:00:00"
+    electionType: "Presidential Primary - Democratic"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-01-30T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-02-29T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-02-29T19:00:00"
+        - voterType: {}
+          rule: "By Mail: Sent by"
+          date: "2020-02-29T19:00:00"
+          note: "SC1"
+  - state: "SC"
+    date: "2020-06-09T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-05-10T00:00:00"
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-05-11T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-09T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-06-09T19:00:00"
+        - voterType: {}
+          rule: "By Mail: Sent by"
+          date: "2020-06-09T19:00:00"
+          note: "SC2"
+  - state: "SC"
+    date: "2020-06-23T00:00:00"
+    electionType: "State Primary Runoff"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-05-10T00:00:00"
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-05-11T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-23T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-06-23T19:00:00"
+        - voterType: {}
+          rule: "By Mail: Sent by"
+          date: "2020-06-23T19:00:00"
+          note: "SC2"
+  - state: "SC"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-10-04T00:00:00"
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-10-05T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-11-03T19:00:00"
+        - voterType: {}
+          rule: "By Mail: Sent by"
+          date: "2020-11-03T19:00:00"
+          note: "SC1"
+  - state: "SD"
+    date: "2020-06-02T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-05-18T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-02T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-02T19:00:00"
+  - state: "SD"
+    date: "2020-08-11T00:00:00"
+    electionType: "State Primary Runoff"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-07-27T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-11T15:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-11T19:00:00"
+  - state: "SD"
+    date: "2020-06-02T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-05-18T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-02T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-02T19:00:00"
+  - state: "SD"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-19T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T19:00:00"
+  - state: "TN"
+    date: "2020-03-03T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-02-25T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-02-25T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-03T20:00:00"
+  - state: "TN"
+    date: "2020-08-06T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-07-30T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-07-30T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-06T20:00:00"
+  - state: "TN"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-27T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-27T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T20:00:00"
+  - state: "TX"
+    date: "2020-03-03T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-02-03T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-02-21T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-09T00:00:00"
+          note: "TX1"
+  - state: "TX"
+    date: "2020-03-03T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-02-03T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-02-21T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-09T00:00:00"
+          note: "TX1"
+  - state: "TX"
+    date: "2020-07-14T00:00:00"
+    electionType: "State Primary Runoff"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-15T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-07-03T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-07-20T00:00:00"
+          note: "TX1"
+  - state: "TX"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: "If requesting Full Ballot"
+          rule: "By Mail: Postmarked by"
+          date: "2020-10-14T00:00:00"
+        - voterType: "If requesting Full Ballot"
+          rule: "By Email: Received by"
+          date: "2020-10-14T00:00:00"          
+        - voterType: "If requesting Federal Ballot only"
+          rule: "Received by"
+          date: "2020-10-23T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-23T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-11-03T19:00:00"
+          note: "TX1"                 
+        - voterType: "Active Military or family in hostile fire zone only"
+          rule: "Return by Fax: Received by"
+          date: "2020-11-03T19:00:00"
+  - state: "UT"
+    date: "2020-03-03T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-02-03T00:00:00"
+        - voterType: {}
+          rule: "By Online System: Received by"
+          date: "2020-02-25T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-02-27T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "By Mail:Postmarked by"
+          date: "2020-03-02T00:00:00"
+          note: "UT1"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-03-03T20:00:00"
+  - state: "UT"
+    date: "2020-06-30T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By Mail: Postmarked by"
+          date: "2020-06-02T00:00:00"
+        - voterType: {}
+          rule: "By Online System: Received by"
+          date: "2020-06-23T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-25T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "By Mail:Postmarked by"
+          date: "2020-06-29T00:00:00"
+          note: "UT1"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-06-30T20:00:00"
+  - state: "UT"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "By FPCA: Received by"
+          date: "2020-10-23T17:00:00"
+        - voterType: {}
+          rule: "By FWAB: Received by"
+          date: "2020-10-29T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-29T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "By Mail:Sent by"
+          date: "2020-11-02T00:00:00"
+          note: "UT1"
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-11-03T20:00:00"
+  - state: "VT"
+    date: "2020-03-03T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-03T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Sent by"
+          date: "2020-03-02T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-02T00:00:00"
+  - state: "VT"
+    date: "2020-08-11T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-11T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Sent by"
+          date: "2020-08-10T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-10T00:00:00"
+  - state: "VT"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Sent by"
+          date: "2020-11-02T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Return by Mail: Received by"
+          date: "2020-11-02T17:00:00"
+        - voterType: "Countries with No Mail Service to US Only"
+          rule: "Return by Email: Received by"
+          date: "2020-11-02T17:00:00"          
+  - state: "VI"
+    date: "2020-08-01T00:00:00"
+    electionType: "Territory Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-07-02T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-07-14T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-11T00:00:00"
+  - state: "VI"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-04T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-16T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-13T00:00:00"
+  - state: "VA"
+    date: "2020-03-03T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: "Overseas Citizens"
+          rule: "Received by"
+          date: "2020-02-10T00:00:00"
+        - voterType: "Uniformed Services and eligible family members"
+          rule: "No Deadline"
+          date: ""
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-02-25T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-03T19:00:00"
+  - state: "VA"
+    date: "2020-06-23T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: "Overseas Citizens"
+          rule: "Received by"
+          date: "2020-05-18T00:00:00"
+        - voterType: "Uniformed Services and eligible family members"
+          rule: "Received by"
+          date: "2020-06-23T19:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-16T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-23T19:00:00"
+  - state: "VA"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: "Overseas Citizens"
+          rule: "Received by"
+          date: "2020-10-15T17:00:00"
+        - voterType: "Uniformed Services and eligible family members"
+          rule: "Received by"
+          date: "2020-10-23T17:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-23T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Postmarked by"
+          date: "2020-11-03T19:00:00"
+          note: "VA1" 
+  - state: "WA"
+    date: "2020-03-10T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-10T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Not Required"
+          date: ""
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-03-10T20:00:00"
+  - state: "WA"
+    date: "2020-08-04T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-04T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Not Required"
+          date: ""
+      Ballot Return:
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-08-04T20:00:00"
+        - voterType: {}
+          rule: "By Mail: Signed by"
+          date: "2020-08-04T00:00:00"
+          note: "WA1"          
+  - state: "WA"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Not Required"
+          date: ""
+      Ballot Return:
+        - voterType: {}
+          rule: "By Email or Fax: Received by"
+          date: "2020-11-03T20:00:00"
+        - voterType: {}
+          rule: "By Mail: Signed by"
+          date: "2020-11-03T00:00:00"
+          note: "WA2"          
+  - state: "WV"
+    date: "2020-06-09T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-05-19T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-03T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Return Electronically by"
+          date: "2020-06-09T19:30:00"
+        - voterType: {}
+          rule: "Return by Mail: Received by"
+          date: "2020-06-15T00:00:00"
+  - state: "WV"
+    date: "2020-06-09T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-05-19T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-06-03T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Return Electronically by"
+          date: "2020-06-09T19:30:00"
+        - voterType: {}
+          rule: "Return by Mail: Received by"
+          date: "2020-06-15T00:00:00"
+  - state: "WV"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-13T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-28T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Return Electronically by"
+          date: "2020-11-03T19:30:00"
+        - voterType: {}
+          rule: "Return by Mail: Received by"
+          date: "2020-11-09T00:00:00"
+  - state: "WI"
+    date: "2020-02-18T00:00:00"
+    electionType: "CD 7 Special Primary"
+    rules:
+      Registration:
+        - voterType: "Overseas Citizens"
+          rule: "Postmarked by"
+          date: "2020-01-29T00:00:00"
+        - voterType: "Uniformed Services and eligible family members"
+          rule: "Not Required"
+          date: ""
+      Ballot Request:
+        - voterType: "Overseas Citizens"
+          rule: "Received by"
+          date: "2020-02-13T17:00:00"
+        - voterType: "Uniformed Services and eligible family members"
+          rule: "Received by"
+          date: "2020-02-18T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-02-18T20:00:00"
+  - state: "WI"
+    date: "2020-04-07T00:00:00"
+    electionType: "Presidential Primary"
+    rules:
+      Registration:
+        - voterType: "Overseas Citizens"
+          rule: "Postmarked by"
+          date: "2020-03-18T00:00:00"
+        - voterType: "Uniformed Services and eligible family members"
+          rule: "Not Required"
+          date: ""
+      Ballot Request:
+        - voterType: "Overseas Citizens"
+          rule: "Received by"
+          date: "2020-04-02T17:00:00"
+        - voterType: "Uniformed Services and eligible family members"
+          rule: "Received by"
+          date: "2020-04-07T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-04-07T20:00:00"
+  - state: "WI"
+    date: "2020-05-12T00:00:00"
+    electionType: "CD 7 Special General"
+    rules:
+      Registration:
+        - voterType: "Overseas Citizens"
+          rule: "Postmarked by"
+          date: "2020-04-22T00:00:00"
+        - voterType: "Uniformed Services and eligible family members"
+          rule: "Not Required"
+          date: ""
+      Ballot Request:
+        - voterType: "Overseas Citizens"
+          rule: "Received by"
+          date: "2020-05-07T17:00:00"
+        - voterType: "Uniformed Services and eligible family members"
+          rule: "Received by"
+          date: "2020-05-12T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-05-12T20:00:00"
+  - state: "WI"
+    date: "2020-08-11T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: "Overseas Citizens"
+          rule: "Postmarked by"
+          date: "2020-07-22T00:00:00"
+        - voterType: "Uniformed Services and eligible family members"
+          rule: "Not Required"
+          date: ""
+      Ballot Request:
+        - voterType: "Overseas Citizens"
+          rule: "Received by"
+          date: "2020-08-06T17:00:00"
+        - voterType: "Uniformed Services and eligible family members"
+          rule: "Received by"
+          date: "2020-08-11T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-11T20:00:00"
+  - state: "WI"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: "Overseas Citizens"
+          rule: "Postmarked by"
+          date: "2020-10-14T00:00:00"
+        - voterType: "Uniformed Services and eligible family members"
+          rule: "Not Required"
+          date: ""
+      Ballot Request:
+        - voterType: "Overseas Citizens"
+          rule: "Received by"
+          date: "2020-10-29T17:00:00"
+        - voterType: "Uniformed Services and eligible family members"
+          rule: "Received by"
+          date: "2020-11-03T17:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T20:00:00"
+  - state: "WY"
+    date: "2020-08-18T00:00:00"
+    electionType: "State Primary"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-03T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-17T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-08-18T19:00:00"
+  - state: "WY"
+    date: "2020-11-03T00:00:00"
+    electionType: "General Election"
+    rules:
+      Registration:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-10-19T00:00:00"
+      Ballot Request:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-02T00:00:00"
+      Ballot Return:
+        - voterType: {}
+          rule: "Received by"
+          date: "2020-11-03T19:00:00"

@@ -1,0 +1,20 @@
+[
+  {
+    "change": "changed-CA-San Joaquin-San Joaquin Registrar of Voters-199",
+    "newEmail": "vbm@sjgov.org",
+    "oldEmail": "bbehrens@sjgov.org",
+    "newEffectiveDate": "2020-09-15T15:42:36",
+    "oldEffectiveDate": "2019-09-11T14:44:45"
+  },
+  {
+    "change": "changed-MN-Blue Earth-Blue Earth County Elections-1923",
+    "newFax": "(507) 304-4075",
+    "oldFax": "(507) 304-4396",
+    "newEffectiveDate": "2020-09-15T15:41:11",
+    "oldEffectiveDate": "2019-08-12T14:22:35",
+    "newAddress1": "204 S 5th St, PO Box 3567",
+    "oldAddress1": "410 S 5th St, PO Box 3524",
+    "newZip": "56002-3567",
+    "oldZip": "56002-3524"
+  }
+]

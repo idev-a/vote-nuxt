@@ -1,0 +1,36 @@
+[
+  {
+    "change": "changed-CA-Ventura-Ventura County Clerk-Elections-216",
+    "newFax": "(805) 648-9200",
+    "oldFax": "(805) 654-3989",
+    "newEffectiveDate": "2020-08-31T16:08:52",
+    "oldEffectiveDate": "2020-08-28T14:26:01"
+  },
+  {
+    "change": "changed-MI-Clawson, City of (Oakland County)-Clawson City Clerk-22555",
+    "newEmail": "cityclerk@cityofclawson.com",
+    "oldEmail": "jperkins@cityofclawson.com",
+    "newEffectiveDate": "2020-08-31T10:29:29",
+    "oldEffectiveDate": "2020-07-13T11:03:02"
+  },
+  {
+    "change": "changed-MI-Fremont Township (Saginaw County)-Fremont Township Clerk-23029",
+    "newEmail": "fremont.saginaw.clerk@gmail.com",
+    "oldEmail": "tkushion@frontier.com",
+    "newEffectiveDate": "2020-08-31T14:25:33",
+    "oldEffectiveDate": "2019-08-12T16:48:54",
+    "newJurisdictionName": "Fremont Township (Saginaw County)",
+    "oldJurisdictionName": "Fremont Township (Isabella County)"
+  },
+  {
+    "change": "changed-WI-TOWN OF PLATTEVILLE - GRANT COUNTY-TOWN OF PLATTEVILLE - GRANT COUNTY-25891",
+    "newEmail": "plattevilletownclerk@gmail.com",
+    "oldEmail": "PLATTOWN@CENTURYTEL.NET",
+    "newEffectiveDate": "2020-08-31T16:24:49",
+    "oldEffectiveDate": "2019-08-13T14:03:08",
+    "newAddress1": "5921 W. Business HWY 151",
+    "oldAddress1": "1717 STUMPTOWN RD",
+    "newZip": "53818",
+    "oldZip": "53818-9569"
+  }
+]

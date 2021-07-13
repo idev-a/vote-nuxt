@@ -1,0 +1,141 @@
+[build]
+  Command = "npm run updateReleaseOnSentry && npm run generate"
+  Functions = "lambda"
+  Publish = "dist"
+
+[context.production.environment]
+  DEVSTAGE = "prod"
+
+[context.dev.environment]
+  DEVSTAGE = "dev"
+
+[context.students.environment]
+  DEVSTAGE = "prod"
+  IS_STUDENT_SITE = "true"
+
+[context.vr.environment]
+  DEVSTAGE = "prod"
+  IS_STUDENT_SITE = "false"
+  IS_VR_SITE = "true"
+
+[context.es.environment]
+  DEVSTAGE = "prod"
+
+[context.dems.environment]
+  DEVSTAGE = "prod"
+  IS_DEMS_SITE = "true"
+
+[[redirects]]
+from = "https://es.votefromabroad.org/*"
+to = "https://www.votefromabroad.org/es/:splat"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://dems.votefromabroad.org/*"
+to = "https://www.votefromabroad.org/:splat"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://www.votefromabroad.org/vote/eod.htm?submission=true"
+to = "/states"
+status = 301
+force = true
+
+[[redirects]]
+from = "/api/place/*"
+to = "https://maps.googleapis.com/maps/api/place/:splat"
+status = 200
+force = false
+
+[[redirects]]
+from = "/api/mailer"
+# to = "https://svj2ivekgi.execute-api.us-east-1.amazonaws.com/dev/mailer"
+to = "https://37aze90rvd.execute-api.us-east-1.amazonaws.com/prod/mailer" # prod
+# to = "https://uf25owq668.execute-api.us-east-1.amazonaws.com/dev/mailer" # dev
+status = 200
+force = false
+
+[[redirects]]
+from = "/api/fpca"
+# to = "https://svj2ivekgi.execute-api.us-east-1.amazonaws.com/dev/fpca"
+to = "https://37aze90rvd.execute-api.us-east-1.amazonaws.com/prod/pdf" # production
+# to = "https://uf25owq668.execute-api.us-east-1.amazonaws.com/dev/pdf" # dev
+status = 200
+force = false
+
+[[redirects]]
+from = "/api/mailer/dev"
+# to = "https://svj2ivekgi.execute-api.us-east-1.amazonaws.com/dev/mailer"
+# to = "https://37aze90rvd.execute-api.us-east-1.amazonaws.com/prod/mailer" # prod
+to = "https://uf25owq668.execute-api.us-east-1.amazonaws.com/dev/mailer" # dev
+status = 200
+force = false
+
+[[redirects]]
+from = "/api/fpca/dev"
+# to = "https://svj2ivekgi.execute-api.us-east-1.amazonaws.com/dev/fpca"
+# to = "https://37aze90rvd.execute-api.us-east-1.amazonaws.com/prod/pdf" # production
+to = "https://uf25owq668.execute-api.us-east-1.amazonaws.com/dev/pdf" # dev
+status = 200
+force = false
+
+[[redirects]]
+  from = "/"
+  to = "/es"
+  status = 302
+  conditions = {Language = ["es"]}
+
+[[redirects]]
+  from = "/faqs/*"
+  to = "/es/faqs/:splat"
+  status = 302
+  conditions = {Language = ["es"]}
+
+[[redirects]]
+  from = "/elections/*"
+  to = "/es/elections/:splat"
+  status = 302
+  conditions = {Language = ["es"]}
+
+[[redirects]]
+  from = "/states/*"
+  to = "/es/states/:splat"
+  status = 302
+  conditions = {Language = ["es"]}
+
+[[redirects]]
+  from = "/about-us"
+  to = "/es/about-us"
+  status = 302
+  conditions = {Language = ["es"]}
+
+[[redirects]]
+  from = "/privacy"
+  to = "/es/privacy"
+  status = 302
+  conditions = {Language = ["es"]}
+
+[[redirects]]
+  from = "/terms-of-use"
+  to = "/es/terms-of-use"
+  status = 302
+  conditions = {Language = ["es"]}
+
+[[redirects]]
+  from = "/cookie-policy"
+  to = "/es/cookie-policy"
+  status = 302
+  conditions = {Language = ["es"]}
+
+[[redirects]]
+  from = "/envelope"
+  to = "/es/envelope"
+  status = 302
+  conditions = {Language = ["es"]}
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

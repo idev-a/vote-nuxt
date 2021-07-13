@@ -1,0 +1,71 @@
+[
+  {
+    "change": "changed-MI-Ishpeming Township (Marquette County)-Ishpeming Township Clerk-23489",
+    "newEmail": "ishtwp@ishpemingtownship.com",
+    "oldEmail": "ishpeming@ishpemingtownship.com",
+    "newEffectiveDate": "2020-08-18T16:06:49",
+    "oldEffectiveDate": "2019-08-12T16:48:54"
+  },
+  {
+    "change": "changed-OH-Belmont-Director, Belmont County Board of Elections-2880",
+    "newEffectiveDate": "2020-08-18T14:06:57",
+    "oldEffectiveDate": "2019-08-22T09:44:18",
+    "newAddress2": "PO Box 994",
+    "oldAddress2": ""
+  },
+  {
+    "change": "changed-OH-Columbiana-Director, Columbiana County Board of Elections-2888",
+    "newEmail": "electioninfo@columbiana.boe.ohio.gov",
+    "oldEmail": "info@columbianaboe.org",
+    "newEffectiveDate": "2020-08-18T13:12:27",
+    "oldEffectiveDate": "2015-08-31T15:17:08",
+    "newZip": "44432-8394",
+    "oldZip": "44432-1258"
+  },
+  {
+    "change": "changed-OH-Henry-Director, Henry County Board of Elections-2908",
+    "newEmail": "henry@ohoiosos.gov",
+    "oldEmail": "boardofelections@henrycountyohio.com",
+    "newEffectiveDate": "2020-08-18T11:45:55",
+    "oldEffectiveDate": "2015-08-31T15:17:08"
+  },
+  {
+    "change": "changed-OH-Holmes-Director, Holmes County Board of Elections-2911",
+    "newEffectiveDate": "2020-08-18T14:10:25",
+    "oldEffectiveDate": "2019-08-22T09:50:27",
+    "newZip": "44654-1283",
+    "oldZip": "44654-1269"
+  },
+  {
+    "change": "changed-OH-Knox-Director, Knox County Board of Elections-2915",
+    "newEffectiveDate": "2020-08-18T11:43:01",
+    "oldEffectiveDate": "2019-08-22T09:44:18",
+    "newAddress1": "104 E. Sugar Street",
+    "oldAddress1": "117 E. High St, Ste 210",
+    "newZip": "43050",
+    "oldZip": "43050-3401"
+  },
+  {
+    "change": "changed-OH-Summit-Director, Summit County Board of Elections-2950",
+    "newEmail": "summit@ohiosos.gov",
+    "oldEmail": "summit@SummitCountyBoe.com",
+    "newEffectiveDate": "2020-08-18T12:42:15",
+    "oldEffectiveDate": "2019-07-24T09:55:12",
+    "newZip": "44311-1193",
+    "oldZip": "44311-1157"
+  },
+  {
+    "change": "changed-TX-Morris-Morris County Early Voting Clerk-3560",
+    "newEmail": "brittany.milam@co.morris.tx.us",
+    "oldEmail": "jan.lester@co.morris.tx.us",
+    "newEffectiveDate": "2020-08-18T13:03:02",
+    "oldEffectiveDate": "2019-08-29T15:13:37"
+  },
+  {
+    "change": "changed-WI-TOWN OF SUN PRAIRIE - DANE COUNTY-TOWN OF SUN PRAIRIE - DANE COUNTY-25640",
+    "newEmail": "clerk@townofsunpraire.info",
+    "oldEmail": "clerk@townofsunprairie.info",
+    "newEffectiveDate": "2020-08-18T10:51:11",
+    "oldEffectiveDate": "2020-08-07T14:03:06"
+  }
+]

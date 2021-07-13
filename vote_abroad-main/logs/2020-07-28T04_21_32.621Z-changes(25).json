@@ -1,0 +1,213 @@
+[
+  {
+    "change": "changed-CA-Amador-Amador Registrar of Voters-163",
+    "newEmail": "elections@amadorgov.org",
+    "oldEmail": "kgrady@amadorgov.org",
+    "newEffectiveDate": "2020-07-27T16:14:41",
+    "oldEffectiveDate": "2019-07-15T13:12:58"
+  },
+  {
+    "change": "changed-FL-Marion-Marion Supervisor of Elections-496",
+    "newEmail": "votebymail@votemarion.gov",
+    "oldEmail": "votebymail@votemarion.com",
+    "newEffectiveDate": "2020-07-27T14:40:57",
+    "oldEffectiveDate": "2019-08-13T15:35:04"
+  },
+  {
+    "change": "changed-IL-Ogle-Ogle County Clerk-906",
+    "newEmail": "countyclerk@oglecounty.org",
+    "oldEmail": "lcook@oglecounty.org",
+    "newEffectiveDate": "2020-07-27T16:08:27",
+    "oldEffectiveDate": "2019-08-30T13:09:17",
+    "newAddress1": "105 S 5th St",
+    "oldAddress1": "105 South 5th, Ste 104",
+    "newAddress2": "Suite 104",
+    "oldAddress2": "",
+    "newZip": "61061-1602",
+    "oldZip": "61061"
+  },
+  {
+    "change": "changed-MA-Lee, Town of-Lee Town Clerk-1467",
+    "newEmail": "cbrittain@town.lee.ma.us",
+    "oldEmail": "bpage@town.lee.ma.us",
+    "newEffectiveDate": "2020-07-27T14:55:37",
+    "oldEffectiveDate": "2019-07-18T14:19:28"
+  },
+  {
+    "change": "changed-MA-Sharon, Town of-Sharon Town Clerk-1583",
+    "newEmail": "VOTE@townofsharon.org",
+    "oldEmail": "mchused@townofsharon.org",
+    "newEffectiveDate": "2020-07-27T16:05:48",
+    "oldEffectiveDate": "2017-09-20T14:40:09"
+  },
+  {
+    "change": "changed-MI-Algoma Township (Kent County)-Algoma Township Clerk-21971",
+    "newFax": "",
+    "oldFax": "616-866-4968",
+    "newPhone": "616-433-1428",
+    "oldPhone": "616-433-1428 x110",
+    "newEffectiveDate": "2020-07-27T14:44:06",
+    "oldEffectiveDate": "2019-08-12T16:48:52"
+  },
+  {
+    "change": "changed-MI-Arenac Township (Arenac County)-Arenac Township Clerk-22037",
+    "newEmail": "Clerk@ArenacTownship.org",
+    "oldEmail": "arenactwp@gmail.com",
+    "newEffectiveDate": "2020-07-27T14:59:37",
+    "oldEffectiveDate": "2019-08-12T16:48:52",
+    "newAddress1": "2596 Arenac State Rd",
+    "oldAddress1": "PO Box 217",
+    "newCity": "Standish",
+    "oldCity": "Omer",
+    "newZip": "48658",
+    "oldZip": "48749"
+  },
+  {
+    "change": "changed-MI-Batavia Township (Branch County)-Batavia Township Clerk-22123",
+    "newPhone": "517-278-3019",
+    "oldPhone": "517-279-9368",
+    "newEmail": "bataviatownship2020@outlook.com",
+    "oldEmail": "yjyklingler@frontier.com",
+    "newEffectiveDate": "2020-07-27T14:16:36",
+    "oldEffectiveDate": "2018-10-15T10:01:19",
+    "newAddress1": "614 N. Snow Prairie Road",
+    "oldAddress1": "402 N. Snow Prairie Road"
+  },
+  {
+    "change": "changed-MI-Constantine Township (St. Joseph County)-Constantine Township Clerk-22637",
+    "newFax": "269-435-8170",
+    "oldFax": "269-435-5800",
+    "newEffectiveDate": "2020-07-27T16:12:15",
+    "oldEffectiveDate": "2019-08-12T16:48:53"
+  },
+  {
+    "change": "changed-MI-Emmett Township (St. Clair County)-Emmett Township Clerk-22873",
+    "newPhone": "810-384-8070 x21",
+    "oldPhone": "810-384-8070",
+    "newEffectiveDate": "2020-07-27T14:49:52",
+    "oldEffectiveDate": "2019-08-12T16:48:53"
+  },
+  {
+    "change": "changed-MI-Fairfield Township (Shiawassee County)-Fairfield Township Clerk-22923",
+    "newEffectiveDate": "2020-07-27T16:17:48",
+    "oldEffectiveDate": "2019-08-12T16:48:53",
+    "newAddress1": "1023 Pine St.",
+    "oldAddress1": "1023 Pine Street"
+  },
+  {
+    "change": "changed-MI-Masonville Township (Delta County)-Masonville Township Clerk-23861",
+    "newPhone": "906-474-9772",
+    "oldPhone": "906-399-8909",
+    "newEffectiveDate": "2020-07-27T16:03:17",
+    "oldEffectiveDate": "2019-08-12T16:48:55",
+    "newAddress1": "PO Box 166",
+    "oldAddress1": "10574 North Main Street, Omni Center"
+  },
+  {
+    "change": "changed-MI-Novesta Township (Tuscola County)-Novesta Township Clerk-24133",
+    "newEffectiveDate": "2020-07-27T14:57:38",
+    "oldEffectiveDate": "2019-08-12T16:48:55",
+    "newAddress1": "3016 N. Cemetery Rd",
+    "oldAddress1": "1935 N Englehart Rd, PO Box 40",
+    "newCity": "Cass City",
+    "oldCity": "Deford",
+    "newZip": "48726",
+    "oldZip": "48729"
+  },
+  {
+    "change": "changed-MI-Valley Township (Allegan County)-Valley Township Clerk-24885",
+    "newEmail": "brandee.ellis@yahoo.com",
+    "oldEmail": "office@valleytwp.org",
+    "newEffectiveDate": "2020-07-27T12:47:52",
+    "oldEffectiveDate": "2019-08-12T16:48:56"
+  },
+  {
+    "change": "changed-MI-Whitefish Township (Chippewa County)-Whitefish Township Clerk-25049",
+    "newPhone": "906-492-3452",
+    "oldPhone": "906-492-3246",
+    "newEffectiveDate": "2020-07-27T12:56:19",
+    "oldEffectiveDate": "2019-08-12T16:48:56"
+  },
+  {
+    "change": "changed-NC-Northampton-Northampton County Board of Elections-2324",
+    "newEmail": "elections@nhcnc.net",
+    "oldEmail": "taneshia.mangum@nhcnc.net",
+    "newEffectiveDate": "2020-07-27T11:51:35",
+    "oldEffectiveDate": "2019-07-19T10:00:52"
+  },
+  {
+    "change": "changed-PA-Franklin-Franklin County Board of Elections-3102",
+    "newFax": "(717) 261-3131",
+    "oldFax": "(717) 267-3438",
+    "newEmail": "voter@franklincountypa.gov",
+    "oldEmail": "voter@co.franklin.pa.us",
+    "newEffectiveDate": "2020-07-27T13:07:00",
+    "oldEffectiveDate": "2017-09-06T16:47:37",
+    "newAddress1": "157 Lincoln Way East",
+    "oldAddress1": "14 N Main St"
+  },
+  {
+    "change": "changed-VA-Chesterfield-Chesterfield General Registrar-3698",
+    "newEffectiveDate": "2020-07-27T16:13:27",
+    "oldEffectiveDate": "2015-09-03T10:01:30",
+    "newZip": "23832-1690",
+    "oldZip": "23832-9125"
+  },
+  {
+    "change": "changed-VA-Fauquier-Fauquier General Registrar-3714",
+    "newEmail": "diana.dutton@fauquiercounty.gov",
+    "oldEmail": "alex.ables@fauquiercounty.gov",
+    "newEffectiveDate": "2020-07-27T09:04:29",
+    "oldEffectiveDate": "2016-07-06T15:19:10"
+  },
+  {
+    "change": "changed-VA-Southampton-Southampton General Registrar-3789",
+    "newEffectiveDate": "2020-07-27T11:57:57",
+    "oldEffectiveDate": "2017-09-28T08:27:01",
+    "newAddress1": "22305 Main Street",
+    "oldAddress1": "P.O. Box 666",
+    "newAddress2": "P.O. Box 666",
+    "oldAddress2": ""
+  },
+  {
+    "change": "changed-WI-TOWN OF HAMBURG - MARATHON COUNTY-TOWN OF HAMBURG - MARATHON COUNTY-26244",
+    "newEffectiveDate": "2020-07-27T12:54:41",
+    "oldEffectiveDate": "2019-08-13T14:03:10",
+    "newZip": "54411-5505",
+    "oldZip": "54411-9112"
+  },
+  {
+    "change": "changed-WI-TOWN OF HIXON - CLARK COUNTY-TOWN OF HIXON - CLARK COUNTY-25522",
+    "newPhone": "715-316-2296",
+    "oldPhone": "715-773-8193",
+    "newEffectiveDate": "2020-07-27T12:52:08",
+    "oldEffectiveDate": "2019-08-13T14:03:06"
+  },
+  {
+    "change": "changed-WI-TOWN OF NASEWAUPEE - DOOR COUNTY-TOWN OF NASEWAUPEE - DOOR COUNTY-25725",
+    "newEffectiveDate": "2020-07-27T15:02:58",
+    "oldEffectiveDate": "2019-08-13T14:03:07",
+    "newAddress1": "4009 PARK DR",
+    "oldAddress1": "2981 Stone Rd"
+  },
+  {
+    "change": "changed-WI-TOWN OF RICHFORD - WAUSHARA COUNTY-TOWN OF RICHFORD - WAUSHARA COUNTY-27142",
+    "newFax": "",
+    "oldFax": "920-787-1389",
+    "newEffectiveDate": "2020-07-27T12:02:57",
+    "oldEffectiveDate": "2019-09-09T08:06:48"
+  },
+  {
+    "change": "changed-WI-VILLAGE OF RANDOM LAKE - SHEBOYGAN COUNTY-VILLAGE OF RANDOM LAKE - SHEBOYGAN COUNTY-26870",
+    "newFax": "920-994-2390",
+    "oldFax": "920-994-0598",
+    "newEmail": "clerktreasurer@randomlakewi.com",
+    "oldEmail": "lcoenen@randomlakewi.com",
+    "newEffectiveDate": "2020-07-27T11:54:57",
+    "oldEffectiveDate": "2019-08-13T14:03:15",
+    "newAddress1": "96 Russell Drive",
+    "oldAddress1": "PO BOX 344",
+    "newAddress2": "PO Box 344",
+    "oldAddress2": ""
+  }
+]

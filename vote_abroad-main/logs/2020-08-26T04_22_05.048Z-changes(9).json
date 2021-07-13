@@ -1,0 +1,63 @@
+[
+  {
+    "change": "changed-MA-Lexington, Town of-Lexington Town Clerk-1472",
+    "newEmail": "ballots@lexingtonma.gov",
+    "oldEmail": "townclerk@lexingtonma.gov",
+    "newEffectiveDate": "2020-08-25T11:02:51",
+    "oldEffectiveDate": "2017-09-20T14:40:09"
+  },
+  {
+    "change": "changed-MI-Saline, City of (Washtenaw County)-Saline City Clerk-24549",
+    "newEmail": "kritchey@cityofsaline.org",
+    "oldEmail": "abloom@cityofsaline.org",
+    "newEffectiveDate": "2020-08-25T13:43:50",
+    "oldEffectiveDate": "2019-08-12T16:48:56"
+  },
+  {
+    "change": "changed-MT-Missoula-Missoula County Election Administrator-2234",
+    "newEmail": "election@missoulacounty.us",
+    "oldEmail": "dcausby@missoulacounty.us",
+    "newEffectiveDate": "2020-08-25T13:02:47",
+    "oldEffectiveDate": "2019-07-03T14:47:50"
+  },
+  {
+    "change": "changed-OH-Delaware-Director, Delaware County Board of Elections-2894",
+    "newEmail": "delaware@OhioSoS.gov",
+    "oldEmail": "boe@co.delaware.oh.us",
+    "newEffectiveDate": "2020-08-25T11:14:23",
+    "oldEffectiveDate": "2019-07-24T09:55:12"
+  },
+  {
+    "change": "changed-OH-Richland-Director, Richland County Board of Elections-2943",
+    "newEmail": "boardofelections@richlandcountyoh.gov",
+    "oldEmail": "boardofelections@richlandcountyoh.us",
+    "newEffectiveDate": "2020-08-25T14:51:04",
+    "oldEffectiveDate": "2015-08-31T15:17:08"
+  },
+  {
+    "change": "changed-PA-Cumberland-Cumberland County Board of Elections-3095",
+    "newEmail": "bureauofelections@ccpa.net",
+    "oldEmail": "morris@ccpa.net",
+    "newEffectiveDate": "2020-08-25T07:42:41",
+    "oldEffectiveDate": "2019-07-26T15:54:46"
+  },
+  {
+    "change": "changed-TX-Houston-Houston County Early Voting Clerk-3501",
+    "newEmail": "election@co.houston.tx.us",
+    "oldEmail": "clum@co.houston.tx.us",
+    "newEffectiveDate": "2020-08-25T08:23:48",
+    "oldEffectiveDate": "2019-08-29T15:13:37"
+  },
+  {
+    "change": "changed-WI-TOWN OF ERIN - WASHINGTON COUNTY-TOWN OF ERIN - WASHINGTON COUNTY-27037",
+    "newEmail": "erintownship@gmail.com",
+    "oldEmail": "erintown@netwurx.net",
+    "newEffectiveDate": "2020-08-25T15:05:37",
+    "oldEffectiveDate": "2018-09-12T08:47:53"
+  },
+  {
+    "change": "changed-WI-VILLAGE OF WILLIAMS BAY - WALWORTH COUNTY-VILLAGE OF WILLIAMS BAY - WALWORTH COUNTY-27003",
+    "newEffectiveDate": "2020-08-25T07:49:10",
+    "oldEffectiveDate": "2020-05-22T14:03:18"
+  }
+]

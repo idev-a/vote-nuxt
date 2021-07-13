@@ -1,0 +1,816 @@
+---
+- i: 161
+  n: Alameda Registrar of Voters
+  p: "(510) 272-6973"
+  f: "(510) 272-6982"
+  e: lolita.francisco@acgov.org
+  a1: 1225 Fallon St, Rm G1
+  a2: ''
+  a3: ''
+  c: Oakland
+  z: 94612-4229
+  d: '2015-08-17T13:48:00'
+  s: CA
+  j: Alameda
+  t: County
+- i: 162
+  n: Alpine County Clerk, Registrar of Voters
+  p: "(530) 694-2281"
+  f: "(530) 694-2491"
+  e: bhoward@alpinecountyca.gov
+  a1: P.O. Box 158
+  a2: ''
+  a3: ''
+  c: Markleeville
+  z: 96120-0158
+  d: '2015-08-17T13:48:00'
+  s: CA
+  j: Alpine
+  t: County
+- i: 163
+  n: Amador Registrar of Voters
+  p: "(209) 223-6465"
+  f: "(209) 223-6467"
+  e: elections@amadorgov.org
+  a1: 810 Court St
+  a2: ''
+  a3: ''
+  c: Jackson
+  z: 95642-2132
+  d: '2015-08-17T13:48:00'
+  s: CA
+  j: Amador
+  t: County
+- i: 164
+  n: Butte County Clerk, Registrar of Voters
+  p: "(530) 538-7761"
+  f: "(530) 538-6853"
+  e: elections@buttecounty.net
+  a1: 155 Nelson Ave
+  a2: ''
+  a3: ''
+  c: Oroville
+  z: 95965-3361
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Butte
+  t: County
+- i: 165
+  n: Calaveras County Clerk, Elections Department
+  p: "(209) 754-6375"
+  f: "(209) 754-6733"
+  e: BAndahl@co.calaveras.ca.us
+  a1: 891 Mountain Ranch Rd
+  a2: ''
+  a3: ''
+  c: San Andreas
+  z: 95249-9713
+  d: '2016-07-28T11:35:49'
+  s: CA
+  j: Calaveras
+  t: County
+- i: 166
+  n: Colusa County Clerk-Elections Department
+  p: "(530) 458-0500"
+  f: "(530) 458-0512"
+  e: csu@countyofcolusa.org
+  a1: 546 Jay St, Ste  200
+  a2: ''
+  a3: ''
+  c: Colusa
+  z: 95932-2400
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Colusa
+  t: County
+- i: 167
+  n: Contra Costa County Clerk - Elections Department
+  p: "(925) 335-7800"
+  f: "(925) 335-7843"
+  e: voter.services@vote.cccounty.us
+  a1: P.O. Box 271
+  a2: ''
+  a3: ''
+  c: Martinez
+  z: 94553-0027
+  d: '2015-08-17T13:48:00'
+  s: CA
+  j: Contra Costa
+  t: County
+- i: 194
+  n: |-
+    County of Sacramento
+    Voter Registration and Elections
+  p: "(916) 875-6451"
+  f: "(916) 854-9796"
+  e: militaryandoverseas@saccounty.net
+  a1: 7000 65th Street
+  a2: ''
+  a3: ''
+  c: Sacramento
+  z: 95823-2315
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Sacramento
+  t: County
+- i: 168
+  n: Del Norte County Clerk-Recorder-Elections
+  p: "(707) 464-7216"
+  f: "(707) 465-0321"
+  e: smealue@co.del-norte.ca.gov
+  a1: 981 H St, Rm 160
+  a2: ''
+  a3: ''
+  c: Crescent City
+  z: 95531-3457
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Del Norte
+  t: County
+- i: 169
+  n: El Dorado Registrar of Voters
+  p: "(530) 621-7480"
+  f: "(530) 626-5514"
+  e: VBM@edcgov.us
+  a1: 2850 Fairlane Court
+  a2: ''
+  a3: ''
+  c: Placerville
+  z: 95667-4100
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: El Dorado
+  t: County
+- i: 170
+  n: Fresno County Clerk, Registrar of Voters
+  p: "(559) 600-3026"
+  f: "(559) 488-3279"
+  e: clerk-elections@co.fresno.ca.us
+  a1: 2221 Kern St
+  a2: ''
+  a3: ''
+  c: Fresno
+  z: 93721-2613
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Fresno
+  t: County
+- i: 171
+  n: Glenn County Clerk-Elections
+  p: "(530) 934-6414"
+  f: "(530) 934-6571"
+  e: lteeter@countyofglenn.net
+  a1: 516 W Sycamore St, Fl 2
+  a2: ''
+  a3: ''
+  c: Willows
+  z: 95988-2740
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Glenn
+  t: County
+- i: 172
+  n: Humboldt County Clerk-Elections
+  p: "(707) 445-7678"
+  f: "(707) 445-7204"
+  e: ksanders@co.humboldt.ca.us
+  a1: 2426 6th Street
+  a2: ''
+  a3: ''
+  c: Eureka
+  z: 95501-4409
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Humboldt
+  t: County
+- i: 173
+  n: Imperial County Elections
+  p: "(442) 265-1060"
+  f: "(442) 265-1062"
+  e: debbieporter@co.imperial.ca.us
+  a1: 940 W. Main St, Ste 206
+  a2: ''
+  a3: ''
+  c: El Centro
+  z: 92243-2839
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Imperial
+  t: County
+- i: 174
+  n: Inyo County Clerk-Elections
+  p: "(760) 878-0224"
+  f: "(760) 878-1805"
+  e: kfoote@inyocounty.us
+  a1: P.O. Drawer F
+  a2: ''
+  a3: ''
+  c: Independence
+  z: 93526-0606
+  d: '2015-08-17T13:48:00'
+  s: CA
+  j: Inyo
+  t: County
+- i: 175
+  n: Kern County Clerk - Elections Office
+  p: "(661) 868-3590"
+  f: "(661) 868-3768"
+  e: elections@kerncounty.com
+  a1: 1115 Truxtun Ave
+  a2: ''
+  a3: ''
+  c: Bakersfield
+  z: 93301-4639
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Kern
+  t: County
+- i: 176
+  n: Kings County Elections Dept., Govt. Center
+  p: "(559) 852-4401"
+  f: "(559) 585-8453"
+  e: Corrina.flores@co.kings.ca.us
+  a1: 1400 W Lacey Blvd
+  a2: ''
+  a3: ''
+  c: Hanford
+  z: 93230-5997
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Kings
+  t: County
+- i: 177
+  n: Lake County Clerk, Registrar of Voters
+  p: "(707) 263-2372"
+  f: "(707) 263-2742"
+  e: dianef@co.lake.ca.us
+  a1: 255 N Forbes St
+  a2: ''
+  a3: ''
+  c: Lakeport
+  z: 95453-4747
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Lake
+  t: County
+- i: 178
+  n: Lassen County Clerk, Registrar of Voters
+  p: "(530) 251-8217"
+  f: "(530) 257-3480"
+  e: lcclerk@co.lassen.ca.us
+  a1: 220 S Lassen St, Ste 5
+  a2: ''
+  a3: ''
+  c: Susanville
+  z: 96130-4343
+  d: '2015-08-17T13:48:00'
+  s: CA
+  j: Lassen
+  t: County
+- i: 179
+  n: Los Angeles Registrar-Recorder County Clerk
+  p: "(562) 466-1323"
+  f: "(562) 864-2394"
+  e: militaryoverseasav@rrcc.lacounty.gov
+  a1: 12400 Imperial Highway
+  a2: ''
+  a3: ''
+  c: Norwalk
+  z: 90650-8357
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Los Angeles
+  t: County
+- i: 180
+  n: Madera County Clerk-Elections
+  p: "(559) 675-7720"
+  f: "(559) 675-7870"
+  e: electionsinfo@co.madera.ca.gov
+  a1: 200 W. 4th St
+  a2: ''
+  a3: ''
+  c: Madera
+  z: 93637-3548
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Madera
+  t: County
+- i: 181
+  n: Marin County Registrar of Voters
+  p: "(415) 473-6441"
+  f: "(415) 473-4244"
+  e: dbelben@marincounty.org
+  a1: 3501 Civic Center, Room 121
+  a2: ''
+  a3: ''
+  c: San Rafael
+  z: 94903-4183
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Marin
+  t: County
+- i: 182
+  n: Mariposa County Clerk, Registrar of Voters
+  p: "(209) 966-2007"
+  f: "(209) 966-6496"
+  e: cprogner@mariposacounty.org
+  a1: P.O. Box 247
+  a2: ''
+  a3: ''
+  c: Mariposa
+  z: 95338-0247
+  d: '2015-08-17T13:48:00'
+  s: CA
+  j: Mariposa
+  t: County
+- i: 183
+  n: Mendocino County Clerk-Elections
+  p: "(707) 234-6819"
+  f: "(707) 463-4257"
+  e: bartolok@mendocinocounty.org
+  a1: 501 Low Gap Rd, Rm 1020
+  a2: ''
+  a3: ''
+  c: Ukiah
+  z: 95482-3738
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Mendocino
+  t: County
+- i: 184
+  n: Merced County Registrar of Voters - Elections
+  p: "(209) 385-7541"
+  f: "(209) 385-7387"
+  e: mortega@co.merced.ca.us
+  a1: 2222 M St, Rm 14
+  a2: ''
+  a3: ''
+  c: Merced
+  z: 95340-3729
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Merced
+  t: County
+- i: 185
+  n: Modoc County Clerk-Elections
+  p: "(530) 233-6205"
+  f: "(530) 233-6666"
+  e: darcylocken@co.modoc.ca.us
+  a1: 108 E Modoc St
+  a2: ''
+  a3: ''
+  c: Alturas
+  z: 96101-4020
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Modoc
+  t: County
+- i: 186
+  n: Mono County Clerk-Elections
+  p: "(760) 932-5537"
+  f: "(760) 932-5531"
+  e: elections@mono.ca.gov
+  a1: P.O. Box 237
+  a2: ''
+  a3: ''
+  c: Bridgeport
+  z: '93517'
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Mono
+  t: County
+- i: 187
+  n: Monterey County Elections
+  p: "(831) 796-1499"
+  f: "(831) 755-5485"
+  e: elections@co.monterey.ca.us
+  a1: 1441 Schilling Place - North Building
+  a2: ''
+  a3: ''
+  c: Salinas
+  z: 93901-2109
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Monterey
+  t: County
+- i: 188
+  n: Napa County Clerk, Registrar of Voters
+  p: "(707) 299-1470"
+  f: "(707) 253-4390"
+  e: jennie.keener@countyofnapa.org
+  a1: 1127 1st Street, Suite E
+  a2: ''
+  a3: ''
+  c: Napa
+  z: 94559-2952
+  d: '2018-01-03T17:45:48'
+  s: CA
+  j: Napa
+  t: County
+- i: 189
+  n: Nevada County Clerk - Elections
+  p: "(530) 470-2740"
+  f: "(530) 265-9829"
+  e: elections.mail@co.nevada.ca
+  a1: 950 Maidu Ave, Ste 250
+  a2: ''
+  a3: ''
+  c: Nevada City
+  z: 95959-8600
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Nevada
+  t: County
+- i: 190
+  n: Orange County Registrar of Voters
+  p: "(714) 567-7560"
+  f: "(714) 567-7556"
+  e: jessica.castaneda@rov.ocgov.com
+  a1: 1300 S. Grand Ave Bldg. C
+  a2: ''
+  a3: ''
+  c: Santa Ana
+  z: 92705-4434
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Orange
+  t: County
+- i: 191
+  n: Placer County Registrar of Voters
+  p: "(530) 886-5650"
+  f: "(530) 886-5689"
+  e: vote@placer.ca.gov
+  a1: 2956 Richardson Dr.
+  a2: ''
+  a3: ''
+  c: Auburn
+  z: 95603-2640
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Placer
+  t: County
+- i: 192
+  n: Plumas County Clerk - Elections
+  p: "(530) 283-6256"
+  f: "(530) 283-6155"
+  e: marcydemartile@countyofplumas.com
+  a1: 520 Main St, Rm 102
+  a2: ''
+  a3: ''
+  c: Quincy
+  z: 95971-9366
+  d: '2015-08-17T13:48:00'
+  s: CA
+  j: Plumas
+  t: County
+- i: 193
+  n: Riverside Registrar of Voters
+  p: "(951) 486-7200"
+  f: "(951) 486-7272"
+  e: rovweb@co.riverside.ca.us
+  a1: 2724 Gateway Dr
+  a2: ''
+  a3: ''
+  c: Riverside
+  z: 92507-0918
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Riverside
+  t: County
+- i: 195
+  n: San Benito County Registrar of Voters
+  p: "(831) 636-4016"
+  f: "(831) 636-2939"
+  e: sbcvote@cosb.us
+  a1: 440 Fifth St, Rm 205
+  a2: ''
+  a3: ''
+  c: Hollister
+  z: 95023-3843
+  d: '2017-11-02T10:42:07'
+  s: CA
+  j: San Benito
+  t: County
+- i: 196
+  n: San Bernardino Registrar of Voters
+  p: "(909) 387-8300"
+  f: "(909) 386-8388"
+  e: mailballots@sbcountyelections.com
+  a1: 777 E Rialto Ave
+  a2: ''
+  a3: ''
+  c: San Bernardino
+  z: '92415'
+  d: '2017-09-06T14:19:10'
+  s: CA
+  j: San Bernardino
+  t: County
+- i: 197
+  n: San Diego Registrar of Voters
+  p: "(858) 505-7325"
+  f: "(858) 505-7294"
+  e: mayra.avitia@sdcounty.ca.gov
+  a1: 5600 Overland Avenue, Suite 100
+  a2: ''
+  a3: ''
+  c: San Diego
+  z: 92123-1278
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: San Diego
+  t: County
+- i: 198
+  n: San Francisco Elections, City Hall
+  p: "(415) 554-4375"
+  f: "(415) 554-4372"
+  e: sfvoteabroad@sfgov.org
+  a1: 1 Dr. Carlton B. Goodlett Pl, Rm 48
+  a2: ''
+  a3: ''
+  c: San Francisco
+  z: 94102-4608
+  d: '2017-10-10T13:45:32'
+  s: CA
+  j: San Francisco
+  t: County
+- i: 199
+  n: San Joaquin Registrar of Voters
+  p: "(209) 468-2890"
+  f: "(209) 468-9534"
+  e: vbm@sjgov.org
+  a1: 44 N San Joaquin Street, Suite 350
+  a2: ''
+  a3: ''
+  c: Stockton
+  z: 95202-2924
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: San Joaquin
+  t: County
+- i: 200
+  n: San Luis Obispo County Clerk-Elections
+  p: "(805) 781-5228"
+  f: "(805) 781-1111"
+  e: lzohns@co.slo.ca.us
+  a1: 1055 Monterey St, Rm D120
+  a2: ''
+  a3: ''
+  c: San Luis Obispo
+  z: 93408-1003
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: San Luis Obispo
+  t: County
+- i: 201
+  n: San Mateo County Clerk - Elections
+  p: "(650) 312-5222"
+  f: "(650) 312-5348"
+  e: registrar@smcare.org
+  a1: 40 Tower Rd
+  a2: ''
+  a3: ''
+  c: San Mateo
+  z: 94402-4098
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: San Mateo
+  t: County
+- i: 202
+  n: Santa Barbara County Clerk-Elections
+  p: "(805) 568-2200"
+  f: "(805) 568-2209"
+  e: votebymail2@co.santa-barbara.ca.us
+  a1: P.O. Box 61510
+  a2: ''
+  a3: ''
+  c: Santa Barbara
+  z: 93160-1510
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Santa Barbara
+  t: County
+- i: 203
+  n: Santa Clara Registrar of Voters
+  p: "(408) 299-8640"
+  f: "(408) 293-6002"
+  e: votebymail@rov.sccgov.org
+  a1: 1555 Berger Drive, Building 2
+  a2: ''
+  a3: ''
+  c: San Jose
+  z: 95112-2716
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Santa Clara
+  t: County
+- i: 204
+  n: Santa Cruz County Clerk - Elections
+  p: "(831) 454-2409"
+  f: "(831) 454-2445"
+  e: tricia.webber@co.santa-cruz.ca.us
+  a1: 701 Ocean St, Rm 210
+  a2: ''
+  a3: ''
+  c: Santa Cruz
+  z: 95060-4076
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Santa Cruz
+  t: County
+- i: 205
+  n: Shasta County Clerk-Elections
+  p: "(530) 225-5730"
+  f: "(530) 225-5454"
+  e: tgiovanni@co.shasta.ca.us
+  a1: 1643 Market Street
+  a2: ''
+  a3: ''
+  c: Redding
+  z: 96001-1022
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Shasta
+  t: County
+- i: 206
+  n: Sierra County Clerk-Elections
+  p: "(530) 289-3295"
+  f: "(530) 289-2830"
+  e: clerk-recorder@sierracounty.ca.gov
+  a1: P.O. Drawer D
+  a2: ''
+  a3: ''
+  c: Downieville
+  z: 95936-0398
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Sierra
+  t: County
+- i: 207
+  n: Siskiyou County Clerk-Elections
+  p: "(530) 842-8084"
+  f: "(530) 841-4110"
+  e: colleen@sisqvotes.org
+  a1: 510 N Main St.
+  a2: ''
+  a3: ''
+  c: Yreka
+  z: 96097-9910
+  d: '2015-08-17T13:48:00'
+  s: CA
+  j: Siskiyou
+  t: County
+- i: 208
+  n: Solano Registrar of Voters
+  p: "(707) 784-6675"
+  f: "(707) 784-6678"
+  e: elections@solanocounty.com
+  a1: 675 Texas St, Ste 2600
+  a2: ''
+  a3: ''
+  c: Fairfield
+  z: 94533-6338
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Solano
+  t: County
+- i: 209
+  n: Sonoma County Clerk, Registrar of Voters
+  p: "(707) 565-6800"
+  f: "(707) 565-6843"
+  e: militaryandoverseas@sonoma-county.org
+  a1: 435 Fiscal Drive
+  a2: ''
+  a3: ''
+  c: Santa Rosa
+  z: 95403-2820
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Sonoma
+  t: County
+- i: 210
+  n: Stanislaus County Clerk, Registrar of Voters
+  p: "(209) 525-5201"
+  f: "(209) 525-5803"
+  e: voteinfo@stancounty.com
+  a1: 1021 I St, Ste 101
+  a2: ''
+  a3: ''
+  c: Modesto
+  z: 95354-2331
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Stanislaus
+  t: County
+- i: 211
+  n: Sutter County Clerk-Elections
+  p: "(530) 822-7122"
+  f: "(530) 822-7587"
+  e: wasmith@co.sutter.ca.us
+  a1: 1435 Veterans Memorial Cir
+  a2: ''
+  a3: ''
+  c: Yuba City
+  z: 95993-3011
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Sutter
+  t: County
+- i: 212
+  n: Tehama County Clerk-Elections
+  p: "(530) 527-8190"
+  f: "(530) 527-1140"
+  e: jvise@co.tehama.ca.us
+  a1: P.O. Box 250
+  a2: ''
+  a3: ''
+  c: Red Bluff
+  z: 96080-0250
+  d: '2016-08-02T09:43:31'
+  s: CA
+  j: Tehama
+  t: County
+- i: 213
+  n: Trinity County Clerk - Elections
+  p: "(530) 623-1220"
+  f: "(530) 623-8398"
+  e: elections@trinitycounty.org
+  a1: P.O. Box 1215
+  a2: ''
+  a3: ''
+  c: Weaverville
+  z: 96093-1258
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Trinity
+  t: County
+- i: 214
+  n: Tulare County Registrar of Voters
+  p: "(559) 624-7303"
+  f: "(559) 737-4498"
+  e: mcypert@co.tulare.ca.us
+  a1: 5951 S. Mooney Blvd
+  a2: ''
+  a3: ''
+  c: Visalia
+  z: 93277-9394
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Tulare
+  t: County
+- i: 215
+  n: Tuolumne County Clerk - Elections
+  p: "(209) 533-5552"
+  f: "(209) 694-8931"
+  e: elections@tuolumnecounty.ca.gov
+  a1: 2 S Green St
+  a2: ''
+  a3: ''
+  c: Sonora
+  z: 95370-4696
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Tuolumne
+  t: County
+- i: 216
+  n: Ventura County Clerk-Elections
+  p: "(805) 654-2664"
+  f: "(805) 648-9200"
+  e: VenturaVoterRegistration@ventura.org
+  a1: 800 S Victoria Ave, L 1200
+  a2: ''
+  a3: ''
+  c: Ventura
+  z: 93009-1200
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Ventura
+  t: County
+- i: 217
+  n: Yolo County Elections Department
+  p: "(530) 666-8122"
+  f: "(530) 666-8123"
+  e: cntyclrk@yoloelections.org
+  a1: 625 Court Street, Room B05
+  a2: ''
+  a3: ''
+  c: Woodland
+  z: 95695-3475
+  d: '2017-09-06T14:18:25'
+  s: CA
+  j: Yolo
+  t: County
+- i: 218
+  n: Yuba County Clerk
+  p: "(530) 749-7855"
+  f: "(530) 749-7854"
+  e: elections@co.yuba.ca.us
+  a1: 915 8th St, Ste 107
+  a2: ''
+  a3: ''
+  c: Marysville
+  z: 95901-5273
+  d: '2015-08-17T13:48:00'
+  s: CA
+  j: Yuba
+  t: County
+

@@ -1,0 +1,821 @@
+[
+  {
+    "change": "changed-CA-Contra Costa-Contra Costa County Clerk - Elections Department-167",
+    "newFax": "(925) 335-7843",
+    "oldFax": "925-335-7843",
+    "newPhone": "(925) 335-7800",
+    "oldPhone": "925-335-7800",
+    "newEffectiveDate": "2021-04-02T11:45:45",
+    "oldEffectiveDate": "2019-11-20T14:48:36"
+  },
+  {
+    "change": "changed-CA-Sacramento-County of Sacramento Voter Registration and Elections-194",
+    "newEmail": "militaryandoverseas@saccounty.net",
+    "oldEmail": "mullenr@saccounty.net",
+    "newEffectiveDate": "2021-03-08T12:52:04",
+    "oldEffectiveDate": "2020-06-10T12:33:27"
+  },
+  {
+    "change": "changed-CA-Los Angeles-Los Angeles Registrar-Recorder County Clerk-179",
+    "newFax": "(562) 232-7924",
+    "oldFax": "(562) 864-6786",
+    "newEffectiveDate": "2020-10-23T07:13:14",
+    "oldEffectiveDate": "2019-09-17T14:01:53"
+  },
+  {
+    "change": "changed-CA-Nevada-Nevada County Clerk - Elections-189",
+    "newPhone": "(530) 265-1298",
+    "oldPhone": "(530) 265-1771",
+    "newEmail": "elections.mail@co.nevada.ca.us",
+    "oldEmail": "kristian.hamilton@co.nevada.ca.us",
+    "newEffectiveDate": "2020-10-23T09:19:51",
+    "oldEffectiveDate": "2019-07-15T13:12:58"
+  },
+  {
+    "change": "changed-CA-San Mateo-San Mateo County Clerk - Elections-201",
+    "newEmail": "registrar@smcacre.org",
+    "oldEmail": "kgallegos@smcare.org",
+    "newEffectiveDate": "2021-03-16T13:46:31",
+    "oldEffectiveDate": "2019-07-15T13:12:58"
+  },
+  {
+    "change": "changed-CA-Ventura-Ventura County Clerk-Elections-216",
+    "newEffectiveDate": "2021-04-02T11:49:41",
+    "oldEffectiveDate": "2020-09-24T11:03:54"
+  },
+  {
+    "change": "changed-CO-Eagle-Eagle County Clerk and Recorder-238",
+    "newEmail": "elections@eaglecounty.us",
+    "oldEmail": "stacey.jones@eaglecounty.us",
+    "newEffectiveDate": "2021-05-25T12:22:17",
+    "oldEffectiveDate": "2017-09-06T15:00:08"
+  },
+  {
+    "change": "changed-CT-East Hampton-East Hampton Town Clerk-323",
+    "newEmail": "townclerk@easthamptonct.gov",
+    "oldEmail": "swieleba@easthamptonct.gov",
+    "newEffectiveDate": "2020-10-28T14:10:08",
+    "oldEffectiveDate": "2019-06-25T09:56:31",
+    "newAddress1": "1 Community Drive",
+    "oldAddress1": "Town Hall, 20 East High Street",
+    "newZip": "06424",
+    "oldZip": "06424-1091"
+  },
+  {
+    "change": "changed-CT-Stamford-Stamford Town Clerk-416",
+    "newPhone": "203-977-5280",
+    "oldPhone": "203-977-5852",
+    "newEffectiveDate": "2021-01-26T10:28:04",
+    "oldEffectiveDate": "2020-05-26T08:00:17"
+  },
+  {
+    "change": "changed-FL-Broward-Broward Supervisor of Elections-460",
+    "newFax": "(954) 357-7033",
+    "oldFax": "954-357-7033",
+    "newPhone": "(954) 357-7050",
+    "oldPhone": "954-357-7050",
+    "newEffectiveDate": "2021-04-02T11:50:52",
+    "oldEffectiveDate": "2020-10-07T09:09:25"
+  },
+  {
+    "change": "changed-FL-Citrus-Citrus Supervisor of Elections-463",
+    "newEffectiveDate": "2021-01-21T10:16:41",
+    "oldEffectiveDate": "2019-08-27T14:50:51"
+  },
+  {
+    "change": "changed-FL-Duval-Duval Supervisor of Elections-470",
+    "newPhone": "904-255-8683",
+    "oldPhone": "904-630-1414",
+    "newEffectiveDate": "2021-01-20T14:03:00",
+    "oldEffectiveDate": "2019-10-29T13:16:02"
+  },
+  {
+    "change": "changed-FL-Manatee-Manatee Supervisor of Elections-495",
+    "newFax": "(941) 741-8788",
+    "oldFax": "941-741-8788",
+    "newPhone": "(941) 741-3823",
+    "oldPhone": "941-741-3823",
+    "newEffectiveDate": "2021-04-02T11:51:24",
+    "oldEffectiveDate": "2020-10-10T09:08:58"
+  },
+  {
+    "change": "changed-FL-Miami-Dade-Miami-Dade Supervisor of Elections-498",
+    "newFax": "(305) 499-8401",
+    "oldFax": "305-499-8401",
+    "newEffectiveDate": "2021-04-02T11:42:50",
+    "oldEffectiveDate": "2020-10-07T14:41:07"
+  },
+  {
+    "change": "changed-FL-Volusia-Volusia Supervisor of Elections-519",
+    "newEffectiveDate": "2021-04-15T07:12:09",
+    "oldEffectiveDate": "2020-09-08T13:21:34",
+    "newAddress1": "1750 S. Woodland Blvd.",
+    "oldAddress1": "125 W. New York Ave."
+  },
+  {
+    "change": "changed-GA-Bryan-Bryan County Voter Registration-537",
+    "newEmail": "cindyreynolds@bryan-county.org",
+    "oldEmail": "bryanUOCAVA@bryan-county.org",
+    "newEffectiveDate": "2021-03-22T12:49:11",
+    "oldEffectiveDate": "2015-08-31T13:36:24"
+  },
+  {
+    "change": "changed-GA-Candler-Candler County Board of Registration-543",
+    "newName": "Candler County Board of Registration",
+    "oldName": "Candler County Board of Elections and Registration",
+    "newEffectiveDate": "2021-03-22T12:49:52",
+    "oldEffectiveDate": "2020-08-19T10:56:51"
+  },
+  {
+    "change": "changed-GA-Catoosa-Catoosa County Board of Elections and Registration-545",
+    "newEmail": "catoosaelections@catoosa.com",
+    "oldEmail": "tonya.moore@catoosa.com",
+    "newEffectiveDate": "2021-03-22T12:50:42",
+    "oldEffectiveDate": "2019-08-09T11:48:10"
+  },
+  {
+    "change": "changed-GA-Cherokee-Cherokee County Elections &amp; Registration-550",
+    "newName": "Cherokee County Elections & Registration",
+    "oldName": "Cherokee County Elections & Registration",
+    "newFax": "(678) 493-4703",
+    "oldFax": "(770) 479-9791",
+    "newEmail": "andadover@cherokeega.com",
+    "oldEmail": "kstancil@cherokeega.com",
+    "newEffectiveDate": "2021-03-22T12:51:54",
+    "oldEffectiveDate": "2020-08-19T11:00:21"
+  },
+  {
+    "change": "changed-GA-Cobb-Cobb County Board of Elections and Registration-555",
+    "newEmail": "absentee@cobbcounty.org",
+    "oldEmail": "info@cobbelections.org",
+    "newEffectiveDate": "2021-03-22T12:53:37",
+    "oldEffectiveDate": "2020-09-01T09:45:46"
+  },
+  {
+    "change": "changed-GA-Dodge-Dodge County Elections Office-567",
+    "newEffectiveDate": "2021-03-22T12:54:43",
+    "oldEffectiveDate": "2019-11-05T13:21:08"
+  },
+  {
+    "change": "changed-GA-Echols-Echols County Election Superintendent-572",
+    "newEmail": "echolscoregistrar2@gmail.com",
+    "oldEmail": "echolsco.registrar@gmail.com",
+    "newEffectiveDate": "2021-03-22T12:55:21",
+    "oldEffectiveDate": "2017-09-06T15:05:24"
+  },
+  {
+    "change": "changed-GA-Fayette-Fayette County Board of Elections and Voter Registration-578",
+    "newEmail": "bhill@fayettecountyga.gov",
+    "oldEmail": "abridges@fayettecountyga.gov",
+    "newEffectiveDate": "2021-03-22T12:56:22",
+    "oldEffectiveDate": "2020-05-29T10:06:47"
+  },
+  {
+    "change": "changed-GA-Glascock-Glascock County Board of Registrars-584",
+    "newName": "Glascock County Board of Registrars",
+    "oldName": "Glascock Board of Registrars",
+    "newEffectiveDate": "2021-03-22T12:56:57",
+    "oldEffectiveDate": "2016-09-15T14:39:05"
+  },
+  {
+    "change": "changed-GA-Gwinnett-Gwinnett County Voter Registration and Elections-589",
+    "newEmail": "UniformedandOverseasCitizensAbsenteeVotingAct@gwinnettcounty.com",
+    "oldEmail": "absentee@gwinnettcounty.com",
+    "newEffectiveDate": "2021-03-22T12:57:43",
+    "oldEffectiveDate": "2019-11-05T10:58:31"
+  },
+  {
+    "change": "changed-GA-Haralson-Haralson County Board of Elections and Voter Registration-593",
+    "newEmail": "peppar.head@haralsoncountyga.gov",
+    "oldEmail": "hcelections@bellsouth.net",
+    "newEffectiveDate": "2021-03-22T12:59:04",
+    "oldEffectiveDate": "2015-08-31T13:36:24"
+  },
+  {
+    "change": "changed-GA-Newton-Newton County Board of Elections and Voter Registration-629",
+    "newEmail": "elections@co.newton.ga.us",
+    "oldEmail": "uocava107@co.newton.ga.us",
+    "newEffectiveDate": "2021-03-22T13:00:07",
+    "oldEffectiveDate": "2015-08-31T13:36:24"
+  },
+  {
+    "change": "changed-GA-Pierce-Pierce County Board of Elections and Registration-635",
+    "newEmail": "elections@piercecountyga.gov",
+    "oldEmail": "lea.parker@piercecountyga.gov",
+    "newEffectiveDate": "2021-03-22T13:01:15",
+    "oldEffectiveDate": "2016-02-05T16:50:24"
+  },
+  {
+    "change": "changed-GA-Schley-Schley County Board of Registrars-645",
+    "newFax": "(229) 937-5010",
+    "oldFax": "(229) 937-5588",
+    "newEffectiveDate": "2021-03-22T13:01:51",
+    "oldEffectiveDate": "2015-08-31T13:36:24"
+  },
+  {
+    "change": "changed-GA-Sumter-Sumter County Board of Elections and Voter Registration-651",
+    "newEmail": "Rhoward@sumtercountyga.us",
+    "oldEmail": "ccleveland@sumtercountyga.us",
+    "newEffectiveDate": "2021-03-22T13:02:34",
+    "oldEffectiveDate": "2019-08-09T11:48:10"
+  },
+  {
+    "change": "changed-GA-Terrell-Terrell County Board of Elections and Voter Registration-657",
+    "newEffectiveDate": "2021-03-22T13:04:10",
+    "oldEffectiveDate": "2016-03-30T15:25:08",
+    "newAddress1": "P.O. Box 715",
+    "oldAddress1": "P.O. Box 525",
+    "newZip": "39842",
+    "oldZip": "39842-0525"
+  },
+  {
+    "change": "changed-GA-Troup-Troup County Board of Elections and Registration-663",
+    "newEmail": "elections@troupcountyga.gov",
+    "oldEmail": "elections@troupco.org",
+    "newEffectiveDate": "2021-03-22T13:04:45",
+    "oldEffectiveDate": "2019-08-09T11:48:10"
+  },
+  {
+    "change": "changed-GA-Walton-Walton County Board of Elections and Registration-669",
+    "newEmail": "lisa.clark@co.walton.ga.us",
+    "oldEmail": "sgregg@co.walton.ga.us",
+    "newEffectiveDate": "2021-03-22T13:06:44",
+    "oldEffectiveDate": "2020-08-19T11:04:53",
+    "newAddress1": "303 S Hammond Dr.",
+    "oldAddress1": "303 S Hammond Dr"
+  },
+  {
+    "change": "changed-GA-Washington-Washington County Board of Elections and Registration-672",
+    "newName": "Washington County Board of Elections and Registration",
+    "oldName": "Washington County Board of Registrars",
+    "newEffectiveDate": "2021-03-22T13:08:17",
+    "oldEffectiveDate": "2020-02-03T15:28:19",
+    "newAddress1": "P.O. Box 5856",
+    "oldAddress1": "132 W Haynes St, Rm 108",
+    "newAddress2": "",
+    "oldAddress2": "P.O. Box 5856"
+  },
+  {
+    "change": "changed-GA-White-White County Board of Elections and Voter Registration-676",
+    "newName": "White County Board of Elections and Voter Registration",
+    "oldName": "White County Board of Registrars",
+    "newEffectiveDate": "2021-03-22T13:09:10",
+    "oldEffectiveDate": "2019-11-05T10:58:32"
+  },
+  {
+    "change": "changed-GA-Worth-Worth County Board of Elections and Voter Registration-681",
+    "newEmail": "wcboe.supervisor@gmail.com",
+    "oldEmail": "supervisor@worthelections.com",
+    "newEffectiveDate": "2021-03-22T13:10:17",
+    "oldEffectiveDate": "2020-02-04T19:27:01"
+  },
+  {
+    "change": "changed-ID-Bonner-Bonner County Clerk-794",
+    "newEmail": "uocava@bonnercountyid.gov",
+    "oldEmail": "elections@bonnercountyid.gov",
+    "newEffectiveDate": "2021-02-17T17:50:37",
+    "oldEffectiveDate": "2018-10-16T08:44:21"
+  },
+  {
+    "change": "changed-ID-Power-Power County Clerk-824",
+    "newEffectiveDate": "2021-03-22T15:52:46",
+    "oldEffectiveDate": "2016-09-08T07:55:59",
+    "newCity": "American Falls",
+    "oldCity": "American Fall"
+  },
+  {
+    "change": "changed-ID-Twin Falls-Twin Falls County Clerk-827",
+    "newEmail": "elections@tfco.org",
+    "oldEmail": "valerie.varadi@co.twin-falls.id.us",
+    "newEffectiveDate": "2021-03-22T15:57:07",
+    "oldEffectiveDate": "2017-09-18T15:26:02",
+    "newZip": "83303",
+    "oldZip": "83301"
+  },
+  {
+    "change": "changed-IA-Hardin-Hardin County Auditor-728",
+    "newEmail": "jlara@hardincountyia.gov",
+    "oldEmail": "jlara@co.hardin.ia.us",
+    "newEffectiveDate": "2020-10-19T12:56:58",
+    "oldEffectiveDate": "2019-08-19T13:42:48"
+  },
+  {
+    "change": "changed-KY-Boyd-Boyd County Clerk-1146",
+    "newEmail": "kevin.johnston@ky.gov",
+    "oldEmail": "scampbell@ky.gov",
+    "newEffectiveDate": "2021-06-14T14:10:39",
+    "oldEffectiveDate": "2020-09-14T11:32:59"
+  },
+  {
+    "change": "changed-KY-Clay-Clay County Clerk-1162",
+    "newEmail": "beverly.craft@ky.gov",
+    "oldEmail": "michael.baker@ky.gov",
+    "newEffectiveDate": "2021-06-14T14:10:39",
+    "oldEffectiveDate": "2019-09-04T10:54:39"
+  },
+  {
+    "change": "changed-KY-Crittenden-Crittenden County Clerk-1164",
+    "newEmail": "daryl.tabor@ky.gov",
+    "oldEmail": "carolyn.byford@ky.gov",
+    "newEffectiveDate": "2021-06-14T14:10:39",
+    "oldEffectiveDate": "2015-08-31T13:32:15"
+  },
+  {
+    "change": "changed-KY-Larue-Larue County Clerk-1198",
+    "newEmail": "rhonda.metcalf@ky.gov",
+    "oldEmail": "lindac.carter@ky.gov",
+    "newEffectiveDate": "2021-06-14T14:10:39",
+    "oldEffectiveDate": "2015-08-31T13:32:16"
+  },
+  {
+    "change": "changed-KY-Metcalfe-Metcalfe County Clerk-1221",
+    "newEmail": "shannon.fields@ky.gov",
+    "oldEmail": "carol.england@ky.gov",
+    "newEffectiveDate": "2021-06-14T14:10:39",
+    "oldEffectiveDate": "2015-08-31T13:32:16"
+  },
+  {
+    "change": "changed-KY-Pike-Pike County Clerk-1234",
+    "newEmail": "rhondak.taylor@ky.gov",
+    "oldEmail": "rhonda.taylor@ky.gov",
+    "newEffectiveDate": "2021-06-14T14:10:39",
+    "oldEffectiveDate": "2019-02-14T13:26:01"
+  },
+  {
+    "change": "changed-KY-Todd-Todd County Clerk-1246",
+    "newEffectiveDate": "2021-06-14T14:15:38",
+    "oldEffectiveDate": "2019-09-04T11:00:05",
+    "newAddress1": "P.O. Box 307",
+    "oldAddress1": "P O Box 307"
+  },
+  {
+    "change": "changed-MA-Franklin, Town of-Franklin Town Clerk-1419",
+    "newEmail": "townclerk@franklinma.gov",
+    "oldEmail": "TBURR@FRANKLINMA.GOV",
+    "newEffectiveDate": "2020-10-20T14:44:41",
+    "oldEffectiveDate": "2019-07-18T14:19:27"
+  },
+  {
+    "change": "changed-MA-Truro, Town of-Truro Town Clerk-1617",
+    "newEmail": "sjoseph@truro-ma.gov",
+    "oldEmail": "cslade@truro-ma.gov",
+    "newEffectiveDate": "2021-03-29T10:41:04",
+    "oldEffectiveDate": "2019-07-18T14:19:28"
+  },
+  {
+    "change": "changed-MI-Aloha Township (Cheboygan County)-Aloha Township Clerk-22001",
+    "newEmail": "alohaclerk@gmail.com",
+    "oldEmail": "alohatwp@gmail.com",
+    "newEffectiveDate": "2021-04-15T09:48:20",
+    "oldEffectiveDate": "2020-02-27T10:58:11"
+  },
+  {
+    "change": "changed-MI-Berrien County-Berrien County Clerk-22205",
+    "newPhone": "269-68606169",
+    "oldPhone": "269-983-7111 x8264",
+    "newEffectiveDate": "2021-03-11T10:43:12",
+    "oldEffectiveDate": "2019-08-12T16:48:53"
+  },
+  {
+    "change": "changed-MI-Byron Township (Kent County)-Byron Township Clerk-22391",
+    "newEmail": "elections@byrontownship.org",
+    "oldEmail": "peggy@byrontownship.org",
+    "newEffectiveDate": "2021-06-08T13:04:50",
+    "oldEffectiveDate": "2019-08-12T16:48:53"
+  },
+  {
+    "change": "changed-MO-Cooper-Cooper-2030",
+    "newEmail": "voterregistration@coopercountymo.gov",
+    "oldEmail": "cooper@sos.mo.gov",
+    "newEffectiveDate": "2020-10-19T17:06:05",
+    "oldEffectiveDate": "2019-08-23T16:07:11"
+  },
+  {
+    "change": "changed-MT-Deer Lodge-Deer Lodge County Election Administrator-2214",
+    "newPhone": "(406) 563-4046",
+    "oldPhone": "(406) 563-4060",
+    "newEffectiveDate": "2021-06-14T13:52:07",
+    "oldEffectiveDate": "2020-10-08T21:11:41"
+  },
+  {
+    "change": "changed-MT-Flathead-Flathead County Election Administrator-2217",
+    "newEffectiveDate": "2021-06-14T13:52:07",
+    "oldEffectiveDate": "2019-07-03T14:47:50",
+    "newAddress1": "40 11th St W Ste 230",
+    "oldAddress1": "800 S Main"
+  },
+  {
+    "change": "changed-MT-Golden Valley-Golden Valley County Election Administrator-2221",
+    "newEmail": "rebecca@goldenvalleymt.org",
+    "oldEmail": "clerk@goldenvalleymt.org",
+    "newEffectiveDate": "2021-06-14T13:52:07",
+    "oldEffectiveDate": "2017-09-08T09:01:51"
+  },
+  {
+    "change": "changed-MT-Hill-Hill County Election Administrator-2223",
+    "newPhone": "(406) 265-5481",
+    "oldPhone": "(406) 265-5481 x221",
+    "newEffectiveDate": "2021-06-14T13:52:07",
+    "oldEffectiveDate": "2019-07-03T14:47:50"
+  },
+  {
+    "change": "changed-MT-Lake-Lake County Election Administrator-2226",
+    "newEmail": "tkramer@lakemt.gov",
+    "oldEmail": "kharding@lakemt.gov",
+    "newEffectiveDate": "2021-06-14T13:52:07",
+    "oldEffectiveDate": "2017-09-08T09:01:51"
+  },
+  {
+    "change": "changed-MT-Lewis and Clark-Lewis and Clark County Election Administrator-2227",
+    "newPhone": "(406) 447-8339",
+    "oldPhone": "(406) 447-8338",
+    "newEffectiveDate": "2021-06-14T13:52:07",
+    "oldEffectiveDate": "2019-07-03T14:47:50"
+  },
+  {
+    "change": "changed-MT-Lincoln-Lincoln County Election Administrator-2229",
+    "newPhone": "(406) 283-2302",
+    "oldPhone": "(406) 283-2301",
+    "newEmail": "pbuff@libby.org",
+    "oldEmail": "cnelson@libby.org",
+    "newEffectiveDate": "2021-06-14T13:52:07",
+    "oldEffectiveDate": "2020-08-27T11:35:42"
+  },
+  {
+    "change": "changed-MT-Madison-Madison County Election Administrator-2230",
+    "newEmail": "pmckenzie@madisoncountymt.gov",
+    "oldEmail": "kmumme@madisoncountymt.gov",
+    "newEffectiveDate": "2021-06-14T13:52:07",
+    "oldEffectiveDate": "2019-07-03T14:47:50"
+  },
+  {
+    "change": "changed-MT-Missoula-Missoula County Election Administrator-2234",
+    "newEmail": "electioninfo@missoulacounty.us",
+    "oldEmail": "election@missoulacounty.us",
+    "newEffectiveDate": "2021-06-14T13:52:07",
+    "oldEffectiveDate": "2020-10-07T13:02:47",
+    "newZip": "59802-4216",
+    "oldZip": "59801"
+  },
+  {
+    "change": "changed-MT-Petroleum-Petroleum County Election Administrator-2237",
+    "newEmail": "jhoge@petroleumcountymt.org",
+    "oldEmail": "jtucek@petroleumcountymt.org",
+    "newEffectiveDate": "2021-06-14T13:52:07",
+    "oldEffectiveDate": "2019-07-03T14:47:50"
+  },
+  {
+    "change": "changed-MT-Silver Bow-Silver Bow County Election Administrator-2249",
+    "newEmail": "lsajor@bsb.mt.gov",
+    "oldEmail": "shollis@bsb.mt.gov",
+    "newEffectiveDate": "2021-06-14T13:52:07",
+    "oldEffectiveDate": "2015-08-31T14:39:40"
+  },
+  {
+    "change": "changed-MT-Treasure-Treasure County Election Administrator-2254",
+    "newEmail": "msears@treasurecountymt.com",
+    "oldEmail": "msears@treasurecountymt.net",
+    "newEffectiveDate": "2021-06-14T13:52:07",
+    "oldEffectiveDate": "2020-10-08T21:13:21"
+  },
+  {
+    "change": "changed-MT-Valley-Valley County Election Administrator-2255",
+    "newEmail": "mpippin@valleycountymt.gov",
+    "oldEmail": "taberg@valleycountymt.gov",
+    "newEffectiveDate": "2021-06-14T13:52:07",
+    "oldEffectiveDate": "2019-09-03T09:46:14"
+  },
+  {
+    "change": "changed-NH-Greenfield, Town of-Town Clerk of Greenfield-2592",
+    "newEmail": "greenfielddeputyclerk@gmail.com",
+    "oldEmail": "greenfieldnhtc@gmail.com",
+    "newEffectiveDate": "2020-10-19T22:40:13",
+    "oldEffectiveDate": "2017-09-25T10:22:26"
+  },
+  {
+    "change": "changed-NM-Eddy-Eddy County Clerk-2770",
+    "newEmail": "darlene@co.eddy.nm.us",
+    "oldEmail": "rvan@co.eddy.nm.us",
+    "newEffectiveDate": "2021-05-07T07:48:24",
+    "oldEffectiveDate": "2018-09-05T16:42:14"
+  },
+  {
+    "change": "changed-NY-Dutchess-Dutchess County Board of Elections-2825",
+    "newEffectiveDate": "2021-05-03T10:05:45",
+    "oldEffectiveDate": "2015-08-31T15:14:54",
+    "newAddress1": "112 Delafield Street, Suite 200",
+    "oldAddress1": "47 Cannon St.",
+    "newFwabOffice": false,
+    "oldFwabOffice": true
+  },
+  {
+    "change": "changed-NY-Essex-Essex County Board of Elections-2827",
+    "newEmail": "elections@essexcounty.ny.gov",
+    "oldEmail": "essexelections@co.essex.ny.us",
+    "newEffectiveDate": "2020-10-29T13:36:56",
+    "oldEffectiveDate": "2015-08-31T15:14:54"
+  },
+  {
+    "change": "changed-ND-Bottineau-Bottineau County Auditor-2363",
+    "newEmail": "emily.deschamp@co.bottineau.nd.us",
+    "oldEmail": "lisa.herbel@co.bottineau.nd.us",
+    "newEffectiveDate": "2021-06-14T14:17:25",
+    "oldEffectiveDate": "2015-08-31T14:46:02"
+  },
+  {
+    "change": "changed-ND-Bowman-Bowman County Auditor-2364",
+    "newEmail": "mischumacher@bowmancountynd.gov",
+    "oldEmail": "stivis@bowmancountynd.gov",
+    "newEffectiveDate": "2021-06-14T14:17:25",
+    "oldEffectiveDate": "2019-07-22T15:47:37"
+  },
+  {
+    "change": "changed-ND-Burleigh-Burleigh County Auditor-2366",
+    "newEmail": "levetter@nd.gov",
+    "oldEmail": "burleighauditor@nd.gov",
+    "newEffectiveDate": "2021-06-14T14:17:25",
+    "oldEffectiveDate": "2020-02-10T13:16:57"
+  },
+  {
+    "change": "changed-ND-Grand Forks-Grand Forks County Auditor-2376",
+    "newPhone": "(701) 780-8200",
+    "oldPhone": "(701) 780-8201",
+    "newEffectiveDate": "2021-06-14T14:17:25",
+    "oldEffectiveDate": "2019-07-22T15:47:37"
+  },
+  {
+    "change": "changed-ND-Morton-Morton County Auditor-2388",
+    "newFax": "(701) 667-3380",
+    "oldFax": "(701) 667-3453",
+    "newEffectiveDate": "2021-06-14T14:17:25",
+    "oldEffectiveDate": "2015-08-31T14:46:02"
+  },
+  {
+    "change": "changed-ND-Ransom-Ransom County Auditor-2395",
+    "newEmail": "ngentzkow@nd.gov",
+    "oldEmail": "nicole.gentzkow@co.ransom.nd.us",
+    "newEffectiveDate": "2021-06-14T14:17:25",
+    "oldEffectiveDate": "2019-07-22T15:47:37"
+  },
+  {
+    "change": "changed-ND-Richland-Richland County Auditor-2397",
+    "newEmail": "sfossum@co.richland.nd.us",
+    "oldEmail": "lhage@co.richland.nd.us",
+    "newEffectiveDate": "2021-06-14T14:17:25",
+    "oldEffectiveDate": "2019-07-22T15:47:37"
+  },
+  {
+    "change": "changed-ND-Sioux-Sioux County Auditor-2401",
+    "newEmail": "luharrison@nd.gov",
+    "oldEmail": "cllecompte@nd.gov",
+    "newEffectiveDate": "2021-06-14T14:17:25",
+    "oldEffectiveDate": "2019-07-22T15:47:37"
+  },
+  {
+    "change": "changed-ND-Stark-Stark County Auditor-2403",
+    "newEmail": "krichard@starkcountynd.gov",
+    "oldEmail": "khaag@starkcountynd.gov",
+    "newEffectiveDate": "2021-06-14T14:17:26",
+    "oldEffectiveDate": "2015-08-31T14:46:02"
+  },
+  {
+    "change": "changed-ND-Stutsman-Stutsman County Auditor-2405",
+    "newEmail": "jalonge@stutsmancounty.gov",
+    "oldEmail": "nmeland@stutsmancounty.gov",
+    "newEffectiveDate": "2021-06-14T14:17:26",
+    "oldEffectiveDate": "2019-07-22T15:47:37"
+  },
+  {
+    "change": "changed-OH-Cuyahoga-Director, Cuyahoga County Board of Elections-2891",
+    "newPhone": "(216) 443-6413",
+    "oldPhone": "(216) 443-6515",
+    "newEmail": "militaryandoverseasvoting@cuyahogacounty.gov",
+    "oldEmail": "Votebymail@Cuyahogacounty.us",
+    "newEffectiveDate": "2021-03-11T11:36:50",
+    "oldEffectiveDate": "2020-06-15T12:37:03"
+  },
+  {
+    "change": "changed-OK-Tulsa-Secretary, Tulsa County Election Board-3033",
+    "newFax": "(918) 596-4536",
+    "oldFax": "1 (918) 596-4536",
+    "newEffectiveDate": "2021-04-02T11:52:42",
+    "oldEffectiveDate": "2020-09-24T09:08:28"
+  },
+  {
+    "change": "changed-PA-Beaver-Beaver County Board of Elections-3078",
+    "newEmail": "csukala@beavercountypa.gov",
+    "oldEmail": "dmandity@beavercountypa.gov",
+    "newEffectiveDate": "2021-02-10T11:07:46",
+    "oldEffectiveDate": "2019-07-26T15:54:46"
+  },
+  {
+    "change": "changed-RI-West Greenwich-West Greenwich Board of Canvassers-3178",
+    "newEmail": "townclerk@wgtownri.org",
+    "oldEmail": "okfgrow@aol.com",
+    "newEffectiveDate": "2021-01-13T12:58:26",
+    "oldEffectiveDate": "2019-09-24T11:30:45"
+  },
+  {
+    "change": "changed-TN-Cannon-Cannon County Election Commission-3301",
+    "newEffectiveDate": "2021-03-01T07:33:52",
+    "oldEffectiveDate": "2015-08-31T11:22:43",
+    "newAddress1": "120 South Tatum Street",
+    "oldAddress1": "301 W Main St, Ste 244",
+    "newZip": "37190",
+    "oldZip": "37190-1100"
+  },
+  {
+    "change": "changed-TN-Clay-Clay County Election Commission-3307",
+    "newEmail": "mdavis@claycountytnelections.com",
+    "oldEmail": "wdanielsclayelection@twlakes.net",
+    "newEffectiveDate": "2021-06-08T10:44:43",
+    "oldEffectiveDate": "2016-09-01T13:21:23"
+  },
+  {
+    "change": "changed-TN-Madison-Madison County Election Commission-3348",
+    "newEmail": "Madison.Commission@tn.gov",
+    "oldEmail": "amoser@madisoncountytn.gov",
+    "newEffectiveDate": "2021-06-16T14:40:27",
+    "oldEffectiveDate": "2017-09-06T16:29:57"
+  },
+  {
+    "change": "changed-TN-Sevier-Sevier County Election Commission-3371",
+    "newEmail": "elections@seviercountytn.gov",
+    "oldEmail": "sevierelect@yahoo.com",
+    "newEffectiveDate": "2021-02-02T08:40:22",
+    "oldEffectiveDate": "2016-09-01T15:26:16"
+  },
+  {
+    "change": "changed-TX-Austin-Austin County Early Voting Clerk (Not the City of Austin)-3396",
+    "newName": "Austin County Early Voting Clerk (Not the City of Austin)",
+    "oldName": "Austin County Early Voting Clerk",
+    "newEffectiveDate": "2020-10-27T15:59:10",
+    "oldEffectiveDate": "2018-04-18T12:02:59"
+  },
+  {
+    "change": "changed-TX-Bandera-Bandera County Early Voting Clerk-3398",
+    "newEmail": "rdouglas@banderacounty.org",
+    "oldEmail": "elections@banderacounty.org",
+    "newEffectiveDate": "2021-01-15T09:12:38",
+    "oldEffectiveDate": "2019-08-29T15:13:37"
+  },
+  {
+    "change": "changed-TX-Caldwell-Caldwell County Early Voting Clerk-3416",
+    "newEmail": "kimber.daniel@co.caldwell.tx.us",
+    "oldEmail": "pamela.ohlendorf@co.caldwell.tx.us",
+    "newEffectiveDate": "2021-03-24T11:42:43",
+    "oldEffectiveDate": "2018-04-18T12:02:59",
+    "newAddress2": "Suite C",
+    "oldAddress2": ""
+  },
+  {
+    "change": "changed-TX-Clay-Clay County Early Voting Clerk-3427",
+    "newEffectiveDate": "2021-06-14T14:24:11",
+    "oldEffectiveDate": "2019-08-29T15:13:37",
+    "newAddress1": "P.O. Box 548 / 214 N. Main",
+    "oldAddress1": "PO Box 548 / 214 N. Main"
+  },
+  {
+    "change": "changed-TX-Cottle-Cottle County Early Voting Clerk-3439",
+    "newEffectiveDate": "2021-06-14T14:24:11",
+    "oldEffectiveDate": "2018-08-08T16:26:30",
+    "newAddress1": "P.O. Box 717",
+    "oldAddress1": "PO Box 717"
+  },
+  {
+    "change": "changed-TX-Deaf Smith-Deaf Smith County Early Voting Clerk-3447",
+    "newEmail": "rgarman@deafsmithcounty.texas.gov",
+    "oldEmail": "dscclerk@wtrt.net",
+    "newEffectiveDate": "2021-04-27T09:32:55",
+    "oldEffectiveDate": "2019-08-29T15:13:37"
+  },
+  {
+    "change": "changed-TX-Denton-Denton County Early Voting Clerk-3449",
+    "newEmail": "elections@dentoncounty.gov",
+    "oldEmail": "elections@dentoncounty.com",
+    "newEffectiveDate": "2021-01-07T12:51:22",
+    "oldEffectiveDate": "2015-08-31T11:03:24"
+  },
+  {
+    "change": "changed-TX-Gillespie-Gillespie County Early Voting Clerk-3474",
+    "newFax": "(830) 990-2307",
+    "oldFax": "830-990-2307",
+    "newEffectiveDate": "2021-06-14T14:24:11",
+    "oldEffectiveDate": "2020-09-25T15:37:12",
+    "newAddress1": "P.O. Box 351",
+    "oldAddress1": "PO Box 351"
+  },
+  {
+    "change": "changed-TX-Gray-Gray County Early Voting Clerk-3478",
+    "newEffectiveDate": "2021-06-14T14:24:11",
+    "oldEffectiveDate": "2018-10-09T09:48:36",
+    "newAddress1": "P.O. Box 2493",
+    "oldAddress1": "PO Box 2493"
+  },
+  {
+    "change": "changed-TX-Hamilton-Hamilton County Early Voting Clerk-3485",
+    "newPhone": "(254) 386-1203",
+    "oldPhone": "(254) 386-1205",
+    "newEffectiveDate": "2021-01-15T09:06:15",
+    "oldEffectiveDate": "2019-08-29T15:13:37"
+  },
+  {
+    "change": "changed-TX-Harris-Harris County Early Voting Clerk-3489",
+    "newFax": "(713) 755-4977",
+    "oldFax": "(713) 755-4983",
+    "newPhone": "(713) 274-8600",
+    "oldPhone": "(713) 755-3852",
+    "newEmail": "county.clerk@cco.hctx.net",
+    "oldEmail": "FPCA@cco.hctx.net",
+    "newEffectiveDate": "2021-01-07T12:54:28",
+    "oldEffectiveDate": "2020-02-06T10:02:50",
+    "newAddress1": "P.O. Box 1525",
+    "oldAddress1": "P.O. Box 1148",
+    "newZip": "77251-1525",
+    "oldZip": "77251-1148"
+  },
+  {
+    "change": "changed-TX-Hockley-Hockley County Early Voting Clerk-3498",
+    "newEmail": "jrose@hockleycounty.org",
+    "oldEmail": "csmart@hockleycounty.org",
+    "newEffectiveDate": "2021-06-16T09:23:02",
+    "oldEffectiveDate": "2019-08-29T15:13:37"
+  },
+  {
+    "change": "changed-TX-Houston-Houston County Early Voting Clerk (Not the City of Houston)-3501",
+    "newName": "Houston County Early Voting Clerk (Not the City of Houston)",
+    "oldName": "Houston County Early Voting Clerk",
+    "newEffectiveDate": "2020-10-28T10:16:38",
+    "oldEffectiveDate": "2020-08-25T08:23:48"
+  },
+  {
+    "change": "changed-TX-Hunt-Hunt County Early Voting Clerk-3504",
+    "newEmail": "jash@huntcounty.net",
+    "oldEmail": "jmartinez@huntcounty.net",
+    "newEffectiveDate": "2021-03-29T10:41:51",
+    "oldEffectiveDate": "2020-08-28T10:37:36"
+  },
+  {
+    "change": "changed-TX-Kaufman-Kaufman County Early Voting Clerk-3517",
+    "newPhone": "(469) 376-4595",
+    "oldPhone": "469-376-4595",
+    "newEffectiveDate": "2021-06-14T14:24:12",
+    "oldEffectiveDate": "2020-09-24T12:39:17"
+  },
+  {
+    "change": "changed-TX-Kenedy-Kenedy County Early Voting Clerk-3519",
+    "newEffectiveDate": "2021-06-14T14:24:12",
+    "oldEffectiveDate": "2019-05-22T15:55:31",
+    "newAddress1": "P.O. Box 243",
+    "oldAddress1": "PO Box 243"
+  },
+  {
+    "change": "changed-TX-Limestone-Limestone County Early Voting Clerk-3535",
+    "newEffectiveDate": "2021-06-14T14:24:12",
+    "oldEffectiveDate": "2018-04-18T12:02:59",
+    "newAddress1": "P.O. Box 468",
+    "oldAddress1": "PO Box 468"
+  },
+  {
+    "change": "changed-TX-Lynn-Lynn County Early Voting Clerk-3541",
+    "newEmail": "karen.strickland@co.lynn.tx.us",
+    "oldEmail": "susan.tipton@co.lynn.tx.us",
+    "newEffectiveDate": "2021-01-04T12:37:49",
+    "oldEffectiveDate": "2018-04-18T12:02:59"
+  },
+  {
+    "change": "changed-TX-Nueces-Nueces County Early Voting Clerk-3566",
+    "newFax": "",
+    "oldFax": "(361) 888-0329",
+    "newEmail": "votebymail@nuecesco.com",
+    "oldEmail": "vote.by.mail@nuecesco.com",
+    "newEffectiveDate": "2020-10-28T14:07:26",
+    "oldEffectiveDate": "2020-08-10T15:16:01"
+  },
+  {
+    "change": "changed-TX-Sabine-Sabine County Early Voting Clerk-3590",
+    "newFax": "(409) 220-8353",
+    "oldFax": "(409) 787-3795",
+    "newEffectiveDate": "2021-01-13T09:16:06",
+    "oldEffectiveDate": "2016-10-26T12:01:31"
+  },
+  {
+    "change": "changed-TX-Smith-Smith County Early Voting Clerk-3600",
+    "newEmail": "scelections@smith-county.com",
+    "oldEmail": "jstanfield@smith-county.com",
+    "newEffectiveDate": "2021-01-29T12:50:04",
+    "oldEffectiveDate": "2018-04-18T12:13:31"
+  },
+  {
+    "change": "changed-UT-Cache-Cache County Clerk/Auditor-3645",
+    "newEffectiveDate": "2020-11-02T11:08:02",
+    "oldEffectiveDate": "2020-10-13T08:36:58"
+  },
+  {
+    "change": "changed-VA-Pulaski-Pulaski General Registrar-3775",
+    "newEmail": "vote@pulaskicounty.org",
+    "oldEmail": "kwebb@pulaskicounty.org",
+    "newEffectiveDate": "2021-02-03T10:03:19",
+    "oldEffectiveDate": "2015-09-03T10:01:30"
+  }
+]

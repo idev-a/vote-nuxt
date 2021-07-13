@@ -1,0 +1,22 @@
+{
+  "title": "2018-DE-StatePrimary",
+  "date": "2018-09-06",
+  "state": "DE",
+  "ocdDivisionId": "ocd-division/country:us/state:de",
+  "notes": "no election notes for now",
+  "googleCivicInfoId": "4499",
+  "rules": [
+    {
+      "date": "2018-08-20T00:00:36+08:00",
+      "submissionOptions": [
+        "mail"
+      ],
+      "rule": "postmarked by",
+      "stage": "Registration",
+      "voterType": [
+        "Citizen"
+      ],
+      "notes": "no notes for now"
+    }
+  ]
+}

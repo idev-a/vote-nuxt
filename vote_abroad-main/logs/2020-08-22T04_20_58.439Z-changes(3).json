@@ -1,0 +1,29 @@
+[
+  {
+    "change": "changed-MA-Manchester-by-the-Sea, Town of-Manchester-by-the-Sea Town Clerk-1483",
+    "newEmail": "townclerk@manchester.ma.us",
+    "oldEmail": "stpierrec@manchester.ma.us",
+    "newEffectiveDate": "2020-08-21T12:58:41",
+    "oldEffectiveDate": "2019-07-18T14:19:28"
+  },
+  {
+    "change": "changed-OH-Warren-Director, Warren County Board of Elections-2956",
+    "newEmail": "wcboe@warrencountyohio.gov",
+    "oldEmail": "WCBOE@CO.WARREN.OH.US",
+    "newEffectiveDate": "2020-08-21T08:05:43",
+    "oldEffectiveDate": "2015-09-18T09:14:22"
+  },
+  {
+    "change": "changed-OR-Washington-Washington County Clerk, Elections Office-3072",
+    "newEffectiveDate": "2020-08-21T15:01:58",
+    "oldEffectiveDate": "2015-08-31T14:50:32",
+    "newAddress1": "2925 NE Alocek Dr",
+    "oldAddress1": "3700 SW Murray Blvd, Ste 101",
+    "newAddress2": "STE 170",
+    "oldAddress2": "",
+    "newCity": "Hillsboro",
+    "oldCity": "Beaverton",
+    "newZip": "97124",
+    "oldZip": "97005-2365"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "change": "changed-MI-Dryden Township (Lapeer County)-Dryden Township Clerk-22777",
+    "newEmail": "Kdiefenbach@Drydentownship.com",
+    "oldEmail": "brumley@drydentownship.com",
+    "newEffectiveDate": "2020-09-16T15:51:19",
+    "oldEffectiveDate": "2019-08-12T16:48:53"
+  },
+  {
+    "change": "changed-MI-Eaton Rapids, City of (Eaton County)-Eaton Rapids City Clerk-22811",
+    "newEmail": "lboomer@cityofeatonrapids.com",
+    "oldEmail": "kreinecke@cityofeatonrapids.com",
+    "newEffectiveDate": "2020-09-16T13:03:28",
+    "oldEffectiveDate": "2019-08-12T16:48:53"
+  },
+  {
+    "change": "changed-MI-Tyrone Township (Kent County)-Tyrone Township Clerk-24871",
+    "newFax": "616-632-7655",
+    "oldFax": "810-629-0047",
+    "newPhone": "616-632-7640",
+    "oldPhone": "810-629-8631",
+    "newEmail": "theclerk@tyronetownship.us",
+    "oldEmail": "elections@tyronetownship.us",
+    "newEffectiveDate": "2020-09-16T18:01:41",
+    "oldEffectiveDate": "2020-08-06T13:59:08"
+  },
+  {
+    "change": "changed-MI-Tyrone Township (Livingston County)-Tyrone Township Clerk-24873",
+    "newFax": "810-629-0047",
+    "oldFax": "616-678-5513",
+    "newPhone": "810-629-8631",
+    "oldPhone": "616-678-4779",
+    "newEffectiveDate": "2020-09-16T12:02:28",
+    "oldEffectiveDate": "2020-08-06T13:57:53"
+  },
+  {
+    "change": "changed-MN-Chisago-Chisago County Gov Center-1929",
+    "newPhone": "(651) 213-8500",
+    "oldPhone": "(651) 213-8509",
+    "newEmail": "elections@chisagocounty.us",
+    "oldEmail": "Bridgitte.Konrad@chisagocounty.us",
+    "newEffectiveDate": "2020-09-16T07:43:05",
+    "oldEffectiveDate": "2020-09-07T20:23:24"
+  }
+]

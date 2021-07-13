@@ -1,0 +1,51 @@
+[
+  {
+    "change": "changed-KS-Lincoln-Lincoln County Clerk-1084",
+    "newEmail": "LCCLERK@LINCOLNCOKS.ORG",
+    "oldEmail": "lcclerk@lincolnks.org",
+    "newEffectiveDate": "2020-10-07T09:33:59",
+    "oldEffectiveDate": "2017-09-25T08:30:15"
+  },
+  {
+    "change": "changed-MI-Swartz Creek, City of (Genesee County)-Swartz Creek City Clerk-24797",
+    "newEmail": "colger@cityofswartzcreek.org",
+    "oldEmail": "ceskew@cityofswartzcreek.org",
+    "newEffectiveDate": "2020-10-07T08:20:40",
+    "oldEffectiveDate": "2019-08-12T16:48:56"
+  },
+  {
+    "change": "changed-MT-Deer Lodge-Deer Lodge County Election Administrator-2214",
+    "newEmail": "awilson@adlc.us",
+    "oldEmail": "jwicks@adlc.us",
+    "newEffectiveDate": "2020-10-08T21:11:41",
+    "oldEffectiveDate": "2019-07-03T14:47:50"
+  },
+  {
+    "change": "changed-MT-Garfield-Garfield County Election Administrator-2219",
+    "newEmail": "clerk@garfieldco.us",
+    "oldEmail": "gccr@midrivers.com",
+    "newEffectiveDate": "2020-10-08T21:12:11",
+    "oldEffectiveDate": "2015-08-31T14:39:40"
+  },
+  {
+    "change": "changed-MT-Meagher-Meagher County Election Administrator-2232",
+    "newEmail": "pplachy@meagherco.net",
+    "oldEmail": "dogle@meagherco.net",
+    "newEffectiveDate": "2020-10-08T21:12:47",
+    "oldEffectiveDate": "2017-09-08T09:01:51"
+  },
+  {
+    "change": "changed-MT-Treasure-Treasure County Election Administrator-2254",
+    "newEmail": "msears@treasurecountymt.net",
+    "oldEmail": "clerkrecorder@rangeweb.net",
+    "newEffectiveDate": "2020-10-08T21:13:21",
+    "oldEffectiveDate": "2015-08-31T14:39:40"
+  },
+  {
+    "change": "changed-RI-East Providence-East Providence Board of Canvassers-3152",
+    "newEmail": "lshattuck-moore@eastprovidenceri.gov",
+    "oldEmail": "lshattuck-moore@cityofeastprov.com",
+    "newEffectiveDate": "2020-10-08T15:22:32",
+    "oldEffectiveDate": "2019-09-24T11:30:45"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "change": "changed-MI-Huron Township (Wayne County)-Huron Charter Township-23427",
+    "newName": "Huron Charter Township",
+    "oldName": "Huron Township Clerk",
+    "newFax": "734-753-4985",
+    "oldFax": "",
+    "newPhone": "734-753-4466",
+    "oldPhone": "989-476-0012",
+    "newEmail": "jcady@hurontownship-mi.gov",
+    "oldEmail": "huron.township@hotmail.com",
+    "newEffectiveDate": "2020-09-17T12:18:47",
+    "oldEffectiveDate": "2019-08-12T16:48:54",
+    "newAddress1": "22950 Huron River Drive",
+    "oldAddress1": "7951 Pioneer Drive",
+    "newCity": "New Boston",
+    "oldCity": "Port Hope",
+    "newZip": "48164",
+    "oldZip": "48468"
+  },
+  {
+    "change": "changed-TX-Reagan-Reagan County Early Voting Clerk-3580",
+    "newEmail": "terri.curry@reagancounty.org",
+    "oldEmail": "rcclerk@reagancounty.org",
+    "newEffectiveDate": "2020-09-17T11:10:37",
+    "oldEffectiveDate": "2015-08-31T11:03:25"
+  }
+]

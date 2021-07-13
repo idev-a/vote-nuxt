@@ -1,0 +1,33 @@
+# This workflow will do a clean install of node dependencies, run updateLeos.js
+# then commit the changes to the repository
+
+name: Update Local Election Officials
+
+on:
+  schedule:
+    - cron: "04 04 * * *"
+
+jobs:
+  updateLeos:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js 14.x
+        uses: actions/setup-node@v1
+        with:
+          node-version: "14.x"
+      - uses: actions/cache@v2.0.0
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+      - run: npm ci
+      - run: npm run updateLeos
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Updated Leos
+          commit_user_name: Update Leos Bot
+          commit_user_email: alex@democratsabroad.org
+          commit_author: Update Leos Bot <alex@democratsabroad.org>

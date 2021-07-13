@@ -1,0 +1,23 @@
+[
+  {
+    "change": "changed-MI-Harbor Springs, City of (Emmet County)-Harbor Springs City Clerk-23275",
+    "newEmail": "cityclerk@cityofharborsprings.com",
+    "oldEmail": "mmain@cityofharborsprings.com",
+    "newEffectiveDate": "2020-10-01T09:00:50",
+    "oldEffectiveDate": "2019-08-12T16:48:54"
+  },
+  {
+    "change": "changed-NJ-Bergen-Bergen County Board of Elections - FWAB-25139",
+    "newEmail": "electionsclerk@co.Bergen.nj.us",
+    "oldEmail": "fedballots@co.Bergen.nj.us",
+    "newEffectiveDate": "2020-10-01T09:23:11",
+    "oldEffectiveDate": "2019-08-02T14:22:24"
+  },
+  {
+    "change": "changed-UT-Salt Lake-Salt Lake County Clerk-3660",
+    "newFax": "(385) 468-7365",
+    "oldFax": "(385) 468-7401",
+    "newEffectiveDate": "2020-10-01T11:28:08",
+    "oldEffectiveDate": "2020-07-16T09:36:14"
+  }
+]

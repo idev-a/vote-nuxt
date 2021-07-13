@@ -1,0 +1,16 @@
+[
+  {
+    "change": "changed-MT-Lincoln-Lincoln County Election Administrator-2229",
+    "newEmail": "cnelson@libby.org",
+    "oldEmail": "leigh@libby.org",
+    "newEffectiveDate": "2020-08-27T11:35:42",
+    "oldEffectiveDate": "2017-09-08T09:01:51"
+  },
+  {
+    "change": "changed-TX-Hays-Hays County Early Voting Clerk-3493",
+    "newEffectiveDate": "2020-08-27T15:02:20",
+    "oldEffectiveDate": "2019-08-29T15:13:37",
+    "newAddress1": "712 South Stagecoach Trail, Ste. 1012",
+    "oldAddress1": "712 South Stagecoach Trail, Ste. 101"
+  }
+]

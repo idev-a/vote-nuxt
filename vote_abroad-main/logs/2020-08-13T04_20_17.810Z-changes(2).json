@@ -1,0 +1,16 @@
+[
+  {
+    "change": "changed-CO-Arapahoe-Arapahoe County Clerk and Recorder-221",
+    "newFax": "303-795-4511",
+    "oldFax": "303-795-4712",
+    "newEffectiveDate": "2020-08-12T14:09:09",
+    "oldEffectiveDate": "2019-06-26T08:19:08"
+  },
+  {
+    "change": "changed-TX-Live Oak-Live Oak County Early Voting Clerk-3537",
+    "newEmail": "locctxelections@gmail.com",
+    "oldEmail": "elections@co.live-oak.tx.us",
+    "newEffectiveDate": "2020-08-12T13:29:31",
+    "oldEffectiveDate": "2019-08-29T15:13:37"
+  }
+]

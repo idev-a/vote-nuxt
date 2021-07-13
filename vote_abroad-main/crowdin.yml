@@ -1,0 +1,27 @@
+#
+# Your crowdin's credentials
+#
+"project_identifier" : "votefromabroad"
+"api_key" : "43cabaa3f5e045faefc729760d584327"
+"base_path" : ""
+#"base_url" : ""
+
+#
+# Choose file structure in crowdin
+# e.g. true or false
+#
+"preserve_hierarchy": true
+
+#
+# Files configuration
+#
+files: [
+ {
+  "source" : "/content/en/**/*.md",
+  "translation" : "/content/%two_letters_code%/**/%file_name%.%file_extension%"
+ },
+ {
+   "source" : "/lang/en-US.json",
+   "translation" : "/lang/%locale%.json"
+ }
+]

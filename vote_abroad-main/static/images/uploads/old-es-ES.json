@@ -1,0 +1,55 @@
+{
+  "title": "Espñol",
+  "home": "Página de inicio",
+  "posts": "Mensajes",
+  "about": "Sobre nosotros",
+  "homepage": {
+    "subtitle": "demo de i18n nuxt"
+  },
+  "elections": {
+    "electionTypes": {
+      "primary": "Primaria",
+      "Special Primary": "Primaria especial",
+      "State Primary": "Primaria estatal",
+      "General Election": "Elecciones generales",
+      "CD 8 Special Primary": "CD 8 primaria especial",
+      "CD 8 Special General": "CD 8 especial General",
+      "State Primary Runoff": "Escurrimiento primario estatal",
+      "General Runoff": "Escurrimiento general",
+      "Territory Primary": "Primaria del territorio",
+      "Federal Primary": "Primaria federal",
+      "Federal Primary Runoff": "Escurrimiento primario federal",
+      "CD 18 Special General": "CD 18 especial General"
+    }
+  },
+  "request": {
+    "yourInformation": "Su información",
+    "firstName": "Nombre",
+    "middleName": "Segundo nombre",
+    "lastName": "Apellido",
+    "suffix": "Sufijo",
+    "previousName": "Nombre anterior",
+    "previousNameInstructions": "¿Usted ha votado previamente bajo un nombre diferente?",
+    "addressAbroad": "Su dirección en el extranjero",
+    "addressAbroadInstructions": "Por favor agregar su dirección internacional",
+    "addressAbroadAlternate": "Necesito utilizar un formato diferente para mi dirección.",
+    "votingAddress": "Dirección electoral",
+    "votingAddressInstructions": "Entrada la última dirección que vivió en los Estados Unidos. Si usted nunca ha vivido en los Estados Unidos, nosotros la última dirección de los Estados Unidos de sus padre(s) ciudadano de los Estados Unidos",
+    "votingAddressAlternateFormat": "usar ruta Rural o dirección Descripción",
+    "forwardingAddress": "La dirección de reenvío",
+    "forwardingAddressInstructions": "¿Te gusta su boleta enviada a una dirección diferente de su dirección residencial actual?",
+    "country": "País",
+    "address1": "Address1",
+    "address2": "Address2",
+    "tel": "Su número de teléfono actual",
+    "idTypes": {
+      "SSN": "Número de seguro social",
+      "SSN4": "los últimos 4 dígitos de su número de Seguridad Social",
+      "StateID": "ID estado",
+      "TerritoryID": "Identificación del territorio",
+      "TribalID": "Identificación tribal",
+      "MilitaryID": "Identificación militar",
+      "PassportNumber": "Número de pasaporte"
+    }
+  }
+}

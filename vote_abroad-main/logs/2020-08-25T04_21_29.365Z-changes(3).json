@@ -1,0 +1,25 @@
+[
+  {
+    "change": "changed-OH-Medina-Director, Medina County Board of Elections-2925",
+    "newEffectiveDate": "2020-08-24T12:07:23",
+    "oldEffectiveDate": "2019-07-24T09:55:12",
+    "newAddress1": "P.O. Box 506",
+    "oldAddress1": "3800 Stonegate Dr., Ste. C, P.O. Box 506",
+    "newZip": "44258",
+    "oldZip": "44258-0506"
+  },
+  {
+    "change": "changed-TX-Washington-Washington County Early Voting Clerk-3627",
+    "newPhone": "(979) 277-6200 x5311",
+    "oldPhone": "(979) 277-6200 x123",
+    "newEmail": "cjackson@wacounty.com",
+    "oldEmail": "cfoster@wacounty.com",
+    "newEffectiveDate": "2020-08-24T14:12:18",
+    "oldEffectiveDate": "2019-08-29T15:13:38"
+  },
+  {
+    "change": "changed-WI-TOWN OF CLAY BANKS - DOOR COUNTY-TOWN OF CLAY BANKS - DOOR COUNTY-25718",
+    "newEffectiveDate": "2020-08-24T14:35:19",
+    "oldEffectiveDate": "2019-08-13T14:03:07"
+  }
+]

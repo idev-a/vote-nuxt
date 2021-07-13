@@ -1,0 +1,82 @@
+[
+  {
+    "change": "changed-CA-Alameda-Alameda Registrar of Voters-161",
+    "newEmail": "ROV_FVAP@acgov.org",
+    "oldEmail": "rov_fvap@acgov.org",
+    "newEffectiveDate": "2020-09-08T15:32:16",
+    "oldEffectiveDate": "2020-09-04T14:31:51"
+  },
+  {
+    "change": "changed-CA-San Luis Obispo-San Luis Obispo County Clerk-Elections-200",
+    "newPhone": "(805) 781-5228",
+    "oldPhone": "(805) 781-5249",
+    "newEffectiveDate": "2020-09-08T17:45:11",
+    "oldEffectiveDate": "2019-09-12T16:37:21"
+  },
+  {
+    "change": "changed-FL-Miami-Dade-Miami-Dade Supervisor of Elections-498",
+    "newFax": "1 (305) 499-8401",
+    "oldFax": "305-499-8401",
+    "newEffectiveDate": "2020-09-08T14:41:07",
+    "oldEffectiveDate": "2020-01-02T15:48:52"
+  },
+  {
+    "change": "changed-FL-Volusia-Volusia Supervisor of Elections-519",
+    "newFax": "386-822-5715",
+    "oldFax": "386-943-7073",
+    "newEffectiveDate": "2020-09-08T13:21:34",
+    "oldEffectiveDate": "2019-08-13T15:35:04"
+  },
+  {
+    "change": "changed-KY-Whitley-Whitley County Clerk-1254",
+    "newEmail": "carolyn.willis@ky.gov",
+    "oldEmail": "kay.schwartz@ky.gov",
+    "newEffectiveDate": "2020-09-08T11:55:08",
+    "oldEffectiveDate": "2019-02-14T14:28:54"
+  },
+  {
+    "change": "changed-MA-Marion, Town of-Marion Town Clerk-1486",
+    "newEmail": "lmagauran@marionma.gov",
+    "oldEmail": "mbissonnette@marionma.gov",
+    "newEffectiveDate": "2020-09-08T08:49:01",
+    "oldEffectiveDate": "2019-07-18T14:19:28"
+  },
+  {
+    "change": "changed-MA-Plymouth, Town of-Plymouth Town Clerk-1556",
+    "newPhone": "(508) 332-3301",
+    "oldPhone": "(508) 747-1620",
+    "newEmail": "psears@plymouth-ma.gov",
+    "oldEmail": "lpizer@townhall.plymouth.ma.us",
+    "newEffectiveDate": "2020-09-08T13:45:04",
+    "oldEffectiveDate": "2019-07-18T14:19:28"
+  },
+  {
+    "change": "changed-PA-Centre-Centre County Board of Elections-3088",
+    "newEmail": "elections@centrecountypa.gov",
+    "oldEmail": "jemckinley@centrecountypa.gov",
+    "newEffectiveDate": "2020-09-08T15:33:37",
+    "oldEffectiveDate": "2017-09-06T16:47:37"
+  },
+  {
+    "change": "changed-SD-Hand-Hand County Auditor-3256",
+    "newEmail": "auditor@handcountysd.org",
+    "oldEmail": "auditor.handcoem@midconetwork.com",
+    "newEffectiveDate": "2020-09-08T13:28:01",
+    "oldEffectiveDate": "2015-08-31T14:51:50"
+  },
+  {
+    "change": "changed-WI-TOWN OF FARMINGTON - WASHINGTON COUNTY-TOWN OF FARMINGTON - WASHINGTON COUNTY-27038",
+    "newFax": "",
+    "oldFax": "262-447-1018",
+    "newPhone": "262-429-1087",
+    "oldPhone": "262-447-1018",
+    "newEmail": "clkpatty.hoerig@charter.net",
+    "oldEmail": "csclerk@charter.net",
+    "newEffectiveDate": "2020-09-08T13:20:08",
+    "oldEffectiveDate": "2018-09-12T13:30:32",
+    "newAddress1": "1807 COUNTY ROAD A",
+    "oldAddress1": "2171 COUNTY ROAD A",
+    "newZip": "53090",
+    "oldZip": "53090-9083"
+  }
+]

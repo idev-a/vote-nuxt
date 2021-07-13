@@ -1,0 +1,72 @@
+[
+  {
+    "change": "changed-CO-San Miguel-San Miguel County Clerk and Recorder-276",
+    "newEffectiveDate": "2020-10-13T13:26:50",
+    "oldEffectiveDate": "2017-09-06T14:26:05",
+    "newAddress1": "PO Box 548",
+    "oldAddress1": "305 W Colorado Ave"
+  },
+  {
+    "change": "changed-MI-Alpena Township (Alpena County)-Alpena Township Clerk-22007",
+    "newEmail": "palevichm@alpenatownship.com",
+    "oldEmail": "bleauk@alpenatownship.com",
+    "newEffectiveDate": "2020-10-13T10:21:33",
+    "oldEffectiveDate": "2019-08-12T16:48:52"
+  },
+  {
+    "change": "changed-MI-Antwerp Township (Van Buren County)-Antwerp Township Clerk-22025",
+    "newEmail": "creyna@antwerptownship.com",
+    "oldEmail": "hmitchell@antwerptownship.com",
+    "newEffectiveDate": "2020-10-13T23:02:39",
+    "oldEffectiveDate": "2019-08-12T16:48:52"
+  },
+  {
+    "change": "changed-MI-Burton, City of (Genesee County)-Burton City Clerk-22381",
+    "newEmail": "r.boggs@burtonmi.gov",
+    "oldEmail": "r.hayman@burtonmi.gov",
+    "newEffectiveDate": "2020-10-13T07:45:50",
+    "oldEffectiveDate": "2019-08-12T16:48:53"
+  },
+  {
+    "change": "changed-MI-Polkton Township (Ottawa County)-Polkton Township Clerk-24339",
+    "newEmail": "clerk@polktontownship.com",
+    "oldEmail": "polktontwp@altelco.net",
+    "newEffectiveDate": "2020-10-13T10:18:56",
+    "oldEffectiveDate": "2019-08-12T16:48:55"
+  },
+  {
+    "change": "changed-MI-Sumpter Township (Wayne County)-Sumpter Township Clerk-24783",
+    "newEmail": "clerk@sumptertwp.org",
+    "oldEmail": "sumpter-clerk@comcast.net",
+    "newEffectiveDate": "2020-10-13T11:41:00",
+    "oldEffectiveDate": "2019-08-12T16:48:56"
+  },
+  {
+    "change": "changed-MO-Kansas City-Kansas City Board-2055",
+    "newPhone": "(816) 842-4820",
+    "oldPhone": "(816) 842-4820 x238",
+    "newEffectiveDate": "2020-10-13T20:48:54",
+    "oldEffectiveDate": "2020-09-14T12:24:15"
+  },
+  {
+    "change": "changed-RI-Burrillville-Burrillville Board of Canvassers-3145",
+    "newEmail": "elections@burrillville.org",
+    "oldEmail": "lphaneuf@burrillville.org",
+    "newEffectiveDate": "2020-10-13T09:08:08",
+    "oldEffectiveDate": "2019-09-24T11:30:45"
+  },
+  {
+    "change": "changed-SD-Charles Mix-Charles Mix County Auditor-3238",
+    "newEmail": "ddavenport@charlesmix.org",
+    "oldEmail": "drolston@charlesmix.org",
+    "newEffectiveDate": "2020-10-13T15:16:37",
+    "oldEffectiveDate": "2019-09-18T11:20:08"
+  },
+  {
+    "change": "changed-WA-Columbia-Columbia County Auditor (Not Washington D.C.)-4060",
+    "newName": "Columbia County Auditor (Not Washington D.C.)",
+    "oldName": "Columbia County Auditor",
+    "newEffectiveDate": "2020-10-13T17:35:02",
+    "oldEffectiveDate": "2019-07-23T16:01:32"
+  }
+]

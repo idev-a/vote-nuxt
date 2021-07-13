@@ -1,0 +1,4718 @@
+[
+  {
+    "change": "changed-AL-Autauga-Autauga County Absentee Elections Manager-307",
+    "newFax": "",
+    "oldFax": "(334) 361-3738",
+    "newPhone": "334-358-6718",
+    "oldPhone": "334-303-1178",
+    "newEffectiveDate": "2019-10-03T13:17:45",
+    "oldEffectiveDate": "2017-09-18T15:55:09",
+    "newAddress1": "PO Box 681864",
+    "oldAddress1": "P.O. Box 681864",
+    "newAddress2": "Prattville",
+    "oldAddress2": ""
+  },
+  {
+    "change": "changed-AL-Baldwin-Baldwin County Circuit Clerk-331",
+    "newEmail": "absentee.elections@baldwincountyal.gov",
+    "oldEmail": "jody.campbell@alacourt.gov",
+    "newEffectiveDate": "2019-07-16T10:57:34",
+    "oldEffectiveDate": "2017-09-18T15:55:09",
+    "newAddress1": "312 Courthouse Square Ste 10",
+    "oldAddress1": "312 Courthouse Square, Ste 10",
+    "newAddress2": "Bay Minette",
+    "oldAddress2": ""
+  },
+  {
+    "change": "changed-AL-Barbour-Barbour County Absentee Elections Manager-360",
+    "newFax": "",
+    "oldFax": "(334) 687-1599",
+    "newPhone": "334-689-2713",
+    "oldPhone": "334-687-1530",
+    "newEmail": "paige.smith@alacourt.gov",
+    "oldEmail": "susanhshorter@earthlink.net",
+    "newEffectiveDate": "2019-07-16T10:57:34",
+    "oldEffectiveDate": "2017-09-18T15:55:09",
+    "newAddress1": "303 East Broad Street Room 201",
+    "oldAddress1": "303 E Broad St Rm 101",
+    "newAddress2": "Eufaula",
+    "oldAddress2": ""
+  },
+  {
+    "change": "changed-AL-Bibb-Bibb County Absentee Elections Manager-566",
+    "newPhone": "205-926-3103",
+    "oldPhone": "205-926-3105",
+    "newEmail": "kayla.cooner@alacourt.gov",
+    "oldEmail": "adlangston@gmail.com",
+    "newEffectiveDate": "2019-07-16T10:57:34",
+    "oldEffectiveDate": "2017-09-18T15:55:09",
+    "newAddress1": "35 Court Square East",
+    "oldAddress1": "8 Ct Sq W, Suite B",
+    "newAddress2": "Centreville",
+    "oldAddress2": ""
+  },
+  {
+    "change": "changed-AL-Blount-Blount County Circuit Clerk-646",
+    "newFax": "",
+    "oldFax": "(205) 625-4016",
+    "newPhone": "205-625-4121",
+    "oldPhone": "205-625-4153",
+    "newEmail": "droybal@blountcountyal.gov",
+    "oldEmail": "cindy.massey@alacourt.gov",
+    "newEffectiveDate": "2019-07-16T10:57:34",
+    "oldEffectiveDate": "2017-09-18T15:55:09",
+    "newAddress1": "220 2nd Ave East",
+    "oldAddress1": "220 2nd Ave E",
+    "newAddress2": "Oneonta",
+    "oldAddress2": ""
+  },
+  {
+    "change": "changed-AL-Bullock-Bullock County Circuit Clerk-866",
+    "newFax": "",
+    "oldFax": "(334) 738-2282",
+    "newEffectiveDate": "2019-07-16T10:57:34",
+    "oldEffectiveDate": "2017-09-18T15:55:09",
+    "newAddress1": "PO Box 230",
+    "oldAddress1": "P.O. Box 230",
+    "newAddress2": "Union Springs",
+    "oldAddress2": "",
+    "newZip": "36089",
+    "oldZip": "36089-0230"
+  },
+  {
+    "change": "changed-AL-Butler-Butler County Circuit Clerk-901",
+    "newFax": "",
+    "oldFax": "(334) 382-7488",
+    "newEffectiveDate": "2019-07-16T10:57:34",
+    "oldEffectiveDate": "2017-09-18T15:55:09",
+    "newAddress1": "PO Box 236",
+    "oldAddress1": "P.O. Box 236",
+    "newAddress2": "Greenville",
+    "oldAddress2": ""
+  },
+  {
+    "change": "changed-AL-Calhoun-Calhoun County Absentee Elections Manager-950",
+    "newFax": "",
+    "oldFax": "(256) 241-2790",
+    "newPhone": "256-241-2822",
+    "oldPhone": "(256) 241-2822",
+    "newEffectiveDate": "2019-07-16T10:57:34",
+    "oldEffectiveDate": "2017-09-18T15:55:09",
+    "newAddress1": "1702 Noble St., Suite 111",
+    "oldAddress1": "1702 Nobile St, Ste 111",
+    "newAddress2": "Anniston",
+    "oldAddress2": ""
+  },
+  {
+    "change": "changed-AL-Chambers-Chambers County Circuit Clerk-1135",
+    "newFax": "",
+    "oldFax": "(334) 864-4368",
+    "newEffectiveDate": "2019-07-16T10:57:34",
+    "oldEffectiveDate": "2017-09-18T15:55:09",
+    "newAddress1": "2 Lafayette Street S, Ste B-114",
+    "oldAddress1": "2 Lafayette St",
+    "newAddress2": "Lafayette",
+    "oldAddress2": ""
+  },
+  {
+    "change": "changed-AL-Cherokee-Cherokee County Circuit Clerk-1193",
+    "newEffectiveDate": "2019-07-16T10:57:34",
+    "oldEffectiveDate": "2017-09-18T15:55:09",
+    "newAddress1": "100 Main Street, Room 203",
+    "oldAddress1": "100 Main St, Rm 203",
+    "newAddress2": "Centre",
+    "oldAddress2": ""
+  },
+  {
+    "change": "changed-AL-Chilton-Chilton County Circuit Clerk-1241",
+    "newEffectiveDate": "2019-07-16T10:57:34",
+    "oldEffectiveDate": "2017-09-18T15:55:09",
+    "newAddress1": "PO Box 1946",
+    "oldAddress1": "P.O. Box 1946",
+    "newAddress2": "Clanton",
+    "oldAddress2": ""
+  },
+  {
+    "change": "changed-AL-Choctaw-Choctaw County Circuit Clerk-1256",
+    "newFax": "",
+    "oldFax": "(205) 459-3218",
+    "newEmail": "Carol.Mason@vote.alabama.gov",
+    "oldEmail": "stephanie.cave@alacourt.gov",
+    "newEffectiveDate": "2019-07-16T10:57:34",
+    "oldEffectiveDate": "2017-09-18T15:57:13",
+    "newAddress1": "117 S Mulberry St Ste 10",
+    "oldAddress1": "117 South Mulberry Avenue Suite 10",
+    "newAddress2": "Butler",
+    "oldAddress2": ""
+  },
+  {
+    "change": "changed-AL-Clarke-Clarke County Circuit Court-1301",
+    "newEmail": "summer.padgett@alacourt.gov",
+    "oldEmail": "summer.scruggs@alacourt.gov",
+    "newEffectiveDate": "2019-07-16T10:57:34",
+    "oldEffectiveDate": "2017-09-18T15:55:09",
+    "newAddress1": "PO Box 921",
+    "oldAddress1": "P.O. Box 28",
+    "newAddress2": "Grove Hill",
+    "oldAddress2": ""
+  },
+  {
+    "change": "changed-AL-Clay-Clay County Circuit Clerk-1311",
+    "newFax": "",
+    "oldFax": "254-354-2249",
+    "newPhone": "256-354-7926",
+    "oldPhone": "256-354-2454",
+    "newEmail": "julie.poe@alacourt.gov",
+    "oldEmail": "ronaldrobertson@claycountyal.com",
+    "newEffectiveDate": "2019-07-16T10:57:34",
+    "oldEffectiveDate": "2017-09-18T15:55:09",
+    "newAddress1": "PO Box 816",
+    "oldAddress1": "P.O. Box 155",
+    "newAddress2": "Ashland",
+    "oldAddress2": "",
+    "newZip": "36251",
+    "oldZip": "36251-0814"
+  },
+  {
+    "change": "changed-AL-Clebume-Clebume County Circuit Clerk-1349",
+    "newFax": "",
+    "oldFax": "(256) 463-2257",
+    "newEffectiveDate": "2019-07-16T10:57:34",
+    "oldEffectiveDate": "2017-09-18T15:55:09",
+    "newAddress1": "120 Vickery Street, Room 202",
+    "oldAddress1": "120 Vickery St, Ste 202",
+    "newAddress2": "Heflin",
+    "oldAddress2": ""
+  },
+  {
+    "change": "changed-AL-Coffee-Coffee County Absentee Elections Manager-1409",
+    "newPhone": "334-894-1100",
+    "oldPhone": "(334) 894-1100",
+    "newEffectiveDate": "2019-07-16T10:57:34",
+    "oldEffectiveDate": "2017-09-18T15:55:09",
+    "newAddress1": "PO Box 427",
+    "oldAddress1": "P.O. Box 427",
+    "newAddress2": "New Brockton",
+    "oldAddress2": ""
+  },
+  {
+    "change": "changed-AL-Colbert-Colbert County Circuit Clerk-1416",
+    "newFax": "",
+    "oldFax": "(256) 386-8505",
+    "newPhone": "256-386-8511",
+    "oldPhone": "256-314-5850",
+    "newEmail": "mark.eady@alacourt.gov",
+    "oldEmail": "nancy.hearn@alacourt.gov",
+    "newEffectiveDate": "2019-07-16T10:57:34",
+    "oldEffectiveDate": "2017-09-18T15:55:09",
+    "newAddress1": "PO Box 740370",
+    "oldAddress1": "P.O. Box 740370",
+    "newAddress2": "Tuscumbia",
+    "oldAddress2": ""
+  },
+  {
+    "change": "changed-AL-Conecuh-Conecuh County  Circuit Clerk-1492",
+    "newFax": "",
+    "oldFax": "(251) 578-7013",
+    "newEffectiveDate": "2019-07-16T10:57:34",
+    "oldEffectiveDate": "2017-09-18T15:55:09",
+    "newAddress1": "111 Court Street Room 203",
+    "oldAddress1": "111 Ct St Rm 203",
+    "newAddress2": "Evergreen",
+    "oldAddress2": ""
+  },
+  {
+    "change": "changed-AL-Coosa-Coosa County Circuit Clerk-1518",
+    "newPhone": "256-377-4919 x1",
+    "oldPhone": "256-377-2678",
+    "newEmail": "deanprobatejudge@outlook.com",
+    "oldEmail": "jeff.wood@alacourt.gov",
+    "newEffectiveDate": "2019-07-19T11:46:58",
+    "oldEffectiveDate": "2017-09-18T15:55:09",
+    "newAddress1": "PO Box 218",
+    "oldAddress1": "P.O. Box 98",
+    "newAddress2": "Rockford",
+    "oldAddress2": ""
+  },
+  {
+    "change": "changed-AL-Covington-Covington County Circuit Clerk-1546",
+    "newPhone": "334-804-2521",
+    "oldPhone": "334-428-2520",
+    "newEffectiveDate": "2019-07-16T10:57:34",
+    "oldEffectiveDate": "2017-09-18T15:55:09",
+    "newAddress1": "1-K North Court Square",
+    "oldAddress1": "1-K N Ct Sq",
+    "newAddress2": "Andalusia",
+    "oldAddress2": ""
+  },
+  {
+    "change": "changed-AZ-Apache-Apache County Recorder-194",
+    "newPhone": "(928) 337-7516",
+    "oldPhone": "(928) 337-7515",
+    "newEffectiveDate": "2019-07-12T08:09:43",
+    "oldEffectiveDate": "2017-09-25T17:50:24"
+  },
+  {
+    "change": "changed-AZ-All-Arizona Secretary of State Elections Division-7441",
+    "newFax": "(602) 364-2087",
+    "oldFax": "(602) 542-6172",
+    "newEffectiveDate": "2019-04-15T10:43:52",
+    "oldEffectiveDate": "2015-08-17T13:46:32"
+  },
+  {
+    "change": "changed-AZ-Cochise-Cochise County Recorder-1402",
+    "newPhone": "(520) 432-8358",
+    "oldPhone": "(888) 457-4513",
+    "newEffectiveDate": "2019-07-12T08:09:43",
+    "oldEffectiveDate": "2016-06-22T09:43:34"
+  },
+  {
+    "change": "changed-AZ-Coconino-Coconino County Recorder-1406",
+    "newPhone": "(928) 679-7860",
+    "oldPhone": "(800) 793-6181",
+    "newEffectiveDate": "2019-07-12T08:09:43",
+    "oldEffectiveDate": "2017-08-31T17:39:11"
+  },
+  {
+    "change": "changed-AZ-Graham-Graham County Recorder-2636",
+    "newFax": "(928) 428-8829",
+    "oldFax": "(928) 428-8828",
+    "newEffectiveDate": "2019-07-12T08:09:43",
+    "oldEffectiveDate": "2017-09-25T17:50:24"
+  },
+  {
+    "change": "changed-AZ-Maricopa-Maricopa County Recorder-4158",
+    "newEffectiveDate": "2019-07-12T08:09:43",
+    "oldEffectiveDate": "2017-08-31T17:39:11",
+    "newAddress1": "111 S 3rd Ave",
+    "oldAddress1": "510 S. Third Ave.",
+    "newZip": "85003-2212",
+    "oldZip": "85003"
+  },
+  {
+    "change": "changed-AZ-Mohave-Mohave County Recorder-4513",
+    "newPhone": "(928) 753-0767",
+    "oldPhone": "(888) 607-0733",
+    "newEffectiveDate": "2019-07-12T08:09:43",
+    "oldEffectiveDate": "2016-06-23T12:34:53"
+  },
+  {
+    "change": "changed-AZ-Navajo-Navajo County Recorder-4722",
+    "newPhone": "(928) 524-4192",
+    "oldPhone": "(928) 524-4191",
+    "newEffectiveDate": "2019-07-12T08:09:43",
+    "oldEffectiveDate": "2017-09-25T17:50:24"
+  },
+  {
+    "change": "changed-AZ-Pinal-Pinal County Recorder-5286",
+    "newPhone": "(520) 866-6854",
+    "oldPhone": "(520) 866-6830",
+    "newEffectiveDate": "2019-07-12T08:09:43",
+    "oldEffectiveDate": "2017-08-31T17:39:11",
+    "newAddress1": "P.O. Box 848",
+    "oldAddress1": "31 North Pinal Street, Bldg. E"
+  },
+  {
+    "change": "changed-AR-Columbia-Columbia County Clerk-1457",
+    "newEffectiveDate": "2019-08-14T14:32:15",
+    "oldEffectiveDate": "2015-08-31T13:54:57",
+    "newAddress1": "101 Boundary St., Ste 101",
+    "oldAddress1": "One Court Sq, Ste 1"
+  },
+  {
+    "change": "changed-CA-Alameda-Alameda Registrar of Voters-58",
+    "newFax": "(510) 470-7995",
+    "oldFax": "(510) 272-6982",
+    "newPhone": "(510) 272-6953",
+    "oldPhone": "(510) 272-6973",
+    "newEffectiveDate": "2020-01-24T15:46:35",
+    "oldEffectiveDate": "2015-08-17T13:48:00",
+    "newAddress1": "1225 Fallon St, Rm G-1",
+    "oldAddress1": "1225 Fallon St, Rm G1"
+  },
+  {
+    "change": "changed-CA-Alpine-Alpine County Clerk, Registrar of Voters-139",
+    "newEmail": "ttremayne@alpinecountyca.gov",
+    "oldEmail": "bhoward@alpinecountyca.gov",
+    "newEffectiveDate": "2019-07-15T13:12:58",
+    "oldEffectiveDate": "2015-08-17T13:48:00"
+  },
+  {
+    "change": "changed-CA-Amador-Amador Registrar of Voters-146",
+    "newPhone": "(209) 223-6270",
+    "oldPhone": "(209) 223-6465",
+    "newEmail": "kgrady@amadorgov.org",
+    "oldEmail": "elections@amadorgov.org",
+    "newEffectiveDate": "2019-07-15T13:12:58",
+    "oldEffectiveDate": "2015-08-17T13:48:00"
+  },
+  {
+    "change": "changed-CA-Butte-Butte County Clerk, Registrar of Voters-913",
+    "newPhone": "(530) 552-3400",
+    "oldPhone": "(530) 538-7761",
+    "newEffectiveDate": "2019-12-16T15:21:35",
+    "oldEffectiveDate": "2017-09-06T14:18:25",
+    "newZip": "95965-3411",
+    "oldZip": "95965-3361"
+  },
+  {
+    "change": "changed-CA-Calaveras-Calaveras County Clerk, Elections Department-935",
+    "newEmail": "ayepez@co.calaveras.ca.us",
+    "oldEmail": "BAndahl@co.calaveras.ca.us",
+    "newEffectiveDate": "2019-09-11T14:23:44",
+    "oldEffectiveDate": "2016-07-28T11:35:49"
+  },
+  {
+    "change": "changed-CA-Colusa-Colusa County Clerk-Elections Department-1475",
+    "newPhone": "(530) 458-0504",
+    "oldPhone": "(530) 458-0500",
+    "newEffectiveDate": "2019-07-15T13:12:58",
+    "oldEffectiveDate": "2017-09-06T14:18:25"
+  },
+  {
+    "change": "changed-CA-Contra Costa-Contra Costa County Clerk - Elections Department-1497",
+    "newFax": "925-335-7843",
+    "oldFax": "(925) 335-7843",
+    "newPhone": "925-335-7800",
+    "oldPhone": "(925) 335-7800",
+    "newEffectiveDate": "2019-11-20T14:48:36",
+    "oldEffectiveDate": "2015-08-17T13:48:00"
+  },
+  {
+    "change": "changed-CA-Sacramento-County of Sacramento Voter Registration and Elections-5838",
+    "newName": "County of Sacramento Voter Registration and Elections",
+    "oldName": "County of Sacramento\nVoter Registration and Elections",
+    "newPhone": "(916) 875-6565",
+    "oldPhone": "(916) 875-6451",
+    "newEmail": "tomosovichw@saccounty.net",
+    "oldEmail": "militaryandoverseas@saccounty.net",
+    "newEffectiveDate": "2019-11-05T15:20:54",
+    "oldEffectiveDate": "2017-09-06T14:18:25",
+    "newAddress1": "7000 65th Street, Suite A",
+    "oldAddress1": "7000 65th Street"
+  },
+  {
+    "change": "changed-CA-Del Norte-Del Norte County Clerk-Recorder-Elections-1811",
+    "newEmail": "anorthrup@co.del-norte.ca.gov",
+    "oldEmail": "smealue@co.del-norte.ca.gov",
+    "newEffectiveDate": "2019-07-15T13:12:58",
+    "oldEffectiveDate": "2017-09-06T14:18:25"
+  },
+  {
+    "change": "changed-CA-El Dorado-El Dorado Registrar of Voters-2068",
+    "newPhone": "(530) 621-7493",
+    "oldPhone": "(530) 621-7480",
+    "newEmail": "edced@edcgov.us",
+    "oldEmail": "VBM@edcgov.us",
+    "newEffectiveDate": "2019-09-11T14:24:59",
+    "oldEffectiveDate": "2017-09-06T14:18:25",
+    "newAddress1": "P.O. Box 678001",
+    "oldAddress1": "2850 Fairlane Court",
+    "newZip": "95667-8001",
+    "oldZip": "95667-4100"
+  },
+  {
+    "change": "changed-CA-Fresno-Fresno County Clerk, Registrar of Voters-2443",
+    "newPhone": "(559) 600-3045",
+    "oldPhone": "(559) 600-3026",
+    "newEmail": "vnajera@fresnocountyca.gov",
+    "oldEmail": "clerk-elections@co.fresno.ca.us",
+    "newEffectiveDate": "2019-09-11T14:26:30",
+    "oldEffectiveDate": "2017-09-06T14:18:25"
+  },
+  {
+    "change": "changed-CA-Glenn-Glenn County Clerk-Elections-2589",
+    "newEmail": "elections@countyofglenn.net",
+    "oldEmail": "lteeter@countyofglenn.net",
+    "newEffectiveDate": "2019-09-11T14:25:40",
+    "oldEffectiveDate": "2017-09-06T14:18:25",
+    "newAddress1": "516 W Sycamore St, 2nd Floor",
+    "oldAddress1": "516 W Sycamore St, Fl 2",
+    "newZip": "95988-2747",
+    "oldZip": "95988-2740"
+  },
+  {
+    "change": "changed-CA-Humboldt-Humboldt County Clerk-Elections-3219",
+    "newPhone": "(707) 445-7481",
+    "oldPhone": "(707) 445-7678",
+    "newEmail": "Ljackson@co.humboldt.ca.us",
+    "oldEmail": "humboldt_elections@co.humboldt.ca.us",
+    "newEffectiveDate": "2019-07-15T13:12:58",
+    "oldEffectiveDate": "2018-11-01T10:12:55",
+    "newZip": "95501-0788",
+    "oldZip": "95501-4409"
+  },
+  {
+    "change": "changed-CA-Imperial-Imperial County Elections-3256",
+    "newEffectiveDate": "2019-09-11T14:30:02",
+    "oldEffectiveDate": "2017-09-06T14:18:25"
+  },
+  {
+    "change": "changed-CA-Inyo-Inyo County Clerk-Elections-3273",
+    "newPhone": "(760) 878-0410",
+    "oldPhone": "(760) 878-0224",
+    "newEmail": "mhartshorn@inyocounty.us",
+    "oldEmail": "kfoote@inyocounty.us",
+    "newEffectiveDate": "2019-07-15T13:12:58",
+    "oldEffectiveDate": "2015-08-17T13:48:00"
+  },
+  {
+    "change": "changed-CA-Kern-Kern County Clerk - Elections Office-3511",
+    "newEffectiveDate": "2019-09-11T14:30:43",
+    "oldEffectiveDate": "2017-09-06T14:18:25",
+    "newAddress1": "1115 Truxtun Ave, First Floor",
+    "oldAddress1": "1115 Truxtun Ave"
+  },
+  {
+    "change": "changed-CA-Kings-Kings County Elections Dept., Govt. Center-3541",
+    "newPhone": "(559) 852-4404",
+    "oldPhone": "(559) 852-4401",
+    "newEmail": "melinda.hernandez@co.kings.ca.us",
+    "oldEmail": "nini.duarte@co.kings.ca.us",
+    "newEffectiveDate": "2019-07-15T13:12:58",
+    "oldEffectiveDate": "2017-09-06T14:18:25"
+  },
+  {
+    "change": "changed-CA-Lake-Lake County Clerk, Registrar of Voters-3632",
+    "newEmail": "catherine.mcmullen@lakecountyca.gov",
+    "oldEmail": "dianef@co.lake.ca.us",
+    "newEffectiveDate": "2019-07-15T13:12:58",
+    "oldEffectiveDate": "2017-09-06T14:18:25",
+    "newZip": "95453-4748",
+    "oldZip": "95453-4747"
+  },
+  {
+    "change": "changed-CA-Lassen-Lassen County Clerk, Registrar of Voters-3713",
+    "newEmail": "jbustamante@co.lassen.ca.us",
+    "oldEmail": "lcclerk@co.lassen.ca.us",
+    "newEffectiveDate": "2019-07-15T13:12:58",
+    "oldEffectiveDate": "2015-08-17T13:48:00"
+  },
+  {
+    "change": "changed-CA-Los Angeles-Los Angeles Registrar-Recorder County Clerk-3975",
+    "newFax": "(562) 864-6786",
+    "oldFax": "(562) 232-7924",
+    "newPhone": "(800) 815-2666 *2",
+    "oldPhone": "(562) 345-8260",
+    "newEmail": "militaryoverseasAV@rrcc.lacounty.gov",
+    "oldEmail": "militaryoverseasav@rrcc.lacounty.gov",
+    "newEffectiveDate": "2019-09-17T14:01:53",
+    "oldEffectiveDate": "2017-09-06T14:18:25",
+    "newAddress1": "P.O. Box 30450",
+    "oldAddress1": "12400 Imperial Highway",
+    "newCity": "Los Angeles",
+    "oldCity": "Norwalk",
+    "newZip": "90030-0450",
+    "oldZip": "90650-8357"
+  },
+  {
+    "change": "changed-CO-Arapahoe-Arapahoe County Clerk and Recorder-202",
+    "newEffectiveDate": "2019-06-26T08:19:08",
+    "oldEffectiveDate": "2017-09-06T15:00:08",
+    "newAddress1": "5334 S Prince Stf",
+    "oldAddress1": "5334 S Prince St"
+  },
+  {
+    "change": "changed-CO-Baca-Baca County Clerk and Recorder-317",
+    "newEffectiveDate": "2017-09-06T15:00:08",
+    "oldEffectiveDate": "2018-11-01 09:23:22"
+  },
+  {
+    "change": "changed-CO-Chaffee-Chaffee County Clerk and Recorder-1134",
+    "newEmail": "kgrauer@chaffeecounty.org",
+    "oldEmail": "pbarnett@chaffeecounty.org",
+    "newEffectiveDate": "2019-06-26T08:19:08",
+    "oldEffectiveDate": "2017-09-06T15:00:08"
+  },
+  {
+    "change": "changed-CO-Clear Creek-Clear Creek County Clerk and Recorder-1340",
+    "newPhone": "303-679-2339",
+    "oldPhone": "303-679-2341",
+    "newEmail": "bcorbett@co.clear-creek.co.us",
+    "oldEmail": "pphipps@co.clear-creek.co.us",
+    "newEffectiveDate": "2018-12-20T07:38:02",
+    "oldEffectiveDate": "2017-09-06T15:00:08"
+  },
+  {
+    "change": "changed-CO-Conejos-Conejos County Clerk and Recorder-1493",
+    "newEmail": "nruybal@co.conejos.co.us",
+    "oldEmail": "marci@co.conejos.co.us",
+    "newEffectiveDate": "2019-08-15T12:03:17",
+    "oldEffectiveDate": "2017-09-06T15:00:08"
+  },
+  {
+    "change": "changed-CO-Costilla-Costilla County Clerk and Recorder-1533",
+    "newEmail": "miranda.esquibel@costillacounty-co.gov",
+    "oldEmail": "miranda.esquibel@costillacounty.net",
+    "newEffectiveDate": "2019-08-15T12:03:47",
+    "oldEffectiveDate": "2017-09-06T15:00:08"
+  },
+  {
+    "change": "changed-CO-Crowley-Crowley County Clerk and Recorder-1595",
+    "newEmail": "melinda.carter@crowleycounty.net",
+    "oldEmail": "lnichols@crowleycounty.net",
+    "newEffectiveDate": "2019-06-26T08:19:08",
+    "oldEffectiveDate": "2017-09-06T15:00:08"
+  },
+  {
+    "change": "changed-CO-Delta-Delta County Clerk and Recorder-1827",
+    "newEmail": "elections@deltacounty.com",
+    "oldEmail": "rloy@deltacounty.com",
+    "newEffectiveDate": "2019-06-26T08:19:08",
+    "oldEffectiveDate": "2017-09-06T15:00:08"
+  },
+  {
+    "change": "changed-CO-Denver-Denver County Clerk and Recorder, Elections Division-1839",
+    "newPhone": "720-865-4945",
+    "oldPhone": "720-865-4921",
+    "newEffectiveDate": "2018-08-20T13:36:28",
+    "oldEffectiveDate": "2017-09-06T15:00:08"
+  },
+  {
+    "change": "changed-CT-Andover-Andover Town Clerk-168",
+    "newPhone": "860-742-0188 x2",
+    "oldPhone": "(860) 742-0188 x2",
+    "newEffectiveDate": "2019-06-25T09:56:31",
+    "oldEffectiveDate": "2017-09-05T14:35:49",
+    "newAddress1": "Town Office Building, 17 School Road",
+    "oldAddress1": "17 School Road"
+  },
+  {
+    "change": "changed-CT-Ansonia-Ansonia Town Clerk-185",
+    "newPhone": "203-736-5980",
+    "oldPhone": "(203) 736-5980",
+    "newEffectiveDate": "2019-06-25T09:56:31",
+    "oldEffectiveDate": "2017-09-06T09:11:33",
+    "newAddress1": "City Hall, 253 Main Street",
+    "oldAddress1": "253 Main St"
+  },
+  {
+    "change": "changed-CT-Ashford-Ashford Town Clerk-246",
+    "newPhone": "860-487-4401",
+    "oldPhone": "(860) 487-4401",
+    "newEffectiveDate": "2019-06-25T09:56:31",
+    "oldEffectiveDate": "2015-08-31T16:12:35",
+    "newAddress1": "Ashford Town Office Building, 5 Town Hall Road",
+    "oldAddress1": "5 Town Hall Rd"
+  },
+  {
+    "change": "changed-CT-Avon-Avon Town Clerk-311",
+    "newFax": "860-677-8426",
+    "oldFax": "860-677-8428",
+    "newPhone": "860-409-4311",
+    "oldPhone": "(860) 409-4311",
+    "newEffectiveDate": "2019-06-25T09:56:31",
+    "oldEffectiveDate": "2015-08-31T16:12:35",
+    "newAddress1": "Town Hall, 60 West Main Street",
+    "oldAddress1": "60 West Main St"
+  },
+  {
+    "change": "changed-CT-Barkhamsted-Barkhamsted Town Clerk-363",
+    "newPhone": "860-379-8665",
+    "oldPhone": "(860) 379-8665",
+    "newEffectiveDate": "2019-06-25T09:56:31",
+    "oldEffectiveDate": "2016-07-28T16:10:31",
+    "newAddress1": "Town Hall, 67 Ripley Hill Road",
+    "oldAddress1": "67 Ripley Hill Rd"
+  },
+  {
+    "change": "changed-CT-Beacon Falls-Beacon Falls Town Clerk-422",
+    "newFax": "203-720-8204",
+    "oldFax": "203-729-1078",
+    "newPhone": "203-729-8254",
+    "oldPhone": "(203) 729-8254",
+    "newEffectiveDate": "2019-06-25T09:56:31",
+    "oldEffectiveDate": "2015-08-31T16:12:35",
+    "newAddress1": "10 Maple Avenue,",
+    "oldAddress1": "10 Maple Ave"
+  },
+  {
+    "change": "changed-CT-Berlin-Berlin Town Clerk-535",
+    "newPhone": "860-828-7075",
+    "oldPhone": "(860) 828-7036",
+    "newEffectiveDate": "2019-06-25T09:56:31",
+    "oldEffectiveDate": "2017-09-06T09:17:09",
+    "newAddress1": "Town Hall, 240 Kensington Road",
+    "oldAddress1": "240 Kensington Rd"
+  },
+  {
+    "change": "changed-CT-Bethany-Bethany Town Clerk-556",
+    "newPhone": "203-393-2100 x1104",
+    "oldPhone": "(203) 393-2100 x104",
+    "newEffectiveDate": "2019-06-25T09:56:31",
+    "oldEffectiveDate": "2015-08-31T16:12:35",
+    "newAddress1": "Town Hall, 40 Peck Road",
+    "oldAddress1": "40 Peck Rd"
+  },
+  {
+    "change": "changed-CT-Bethel-Bethel Town Clerk-558",
+    "newPhone": "203-794-8505",
+    "oldPhone": "(203) 794-8505",
+    "newEffectiveDate": "2019-06-25T09:56:31",
+    "oldEffectiveDate": "2017-09-06T09:20:49",
+    "newAddress1": "Town Hall, 1 School Street",
+    "oldAddress1": "1 School St"
+  },
+  {
+    "change": "changed-CT-Bethlehem-Bethlehem Town Clerk-561",
+    "newFax": "203-266-7670",
+    "oldFax": "860-769-3597",
+    "newPhone": "203-266-7510",
+    "oldPhone": "(203) 266-7510 x207",
+    "newEffectiveDate": "2019-06-25T09:56:31",
+    "oldEffectiveDate": "2015-08-31T16:12:35",
+    "newAddress1": "36 Main Street, South, P.O. Box 160",
+    "oldAddress1": "P.O. Box 160"
+  },
+  {
+    "change": "changed-CT-Bloomfield-Bloomfield Town Clerk-633",
+    "newFax": "860-769-3547",
+    "oldFax": "860-769-3598",
+    "newPhone": "860-769-3507",
+    "oldPhone": "(860) 769-3507",
+    "newEffectiveDate": "2019-06-25T09:56:31",
+    "oldEffectiveDate": "2015-08-31T16:12:35",
+    "newAddress1": "800 Bloomfield Avenue",
+    "oldAddress1": "P.O. Box 337"
+  },
+  {
+    "change": "changed-CT-Bolton-Bolton Town Clerk-661",
+    "newPhone": "860-649-8066 x6106",
+    "oldPhone": "(860) 649-8066 x6106",
+    "newEffectiveDate": "2019-06-25T09:56:31",
+    "oldEffectiveDate": "2015-08-31T16:12:35",
+    "newAddress1": "Town Hall, 222 Bolton Center Road",
+    "oldAddress1": "222 Bolton Center Rd"
+  },
+  {
+    "change": "changed-CT-Bozrah-Bozrah Town Clerk-713",
+    "newPhone": "860-889-2689 x2",
+    "oldPhone": "(860) 889-2689 x201",
+    "newEffectiveDate": "2019-06-25T09:56:31",
+    "oldEffectiveDate": "2015-08-31T16:12:35",
+    "newAddress1": "Town Hall, 1 River Road",
+    "oldAddress1": "1 River Rd"
+  },
+  {
+    "change": "changed-CT-Branford-Branford Town Clerk-733",
+    "newPhone": "203-315-0633",
+    "oldPhone": "(203) 315-0678",
+    "newEffectiveDate": "2019-06-25T09:56:31",
+    "oldEffectiveDate": "2017-09-06T09:21:27",
+    "newAddress1": "Town Hall, 1019 Main Street, P.O. Box 150",
+    "oldAddress1": "P.O. Box 150"
+  },
+  {
+    "change": "changed-CT-Bridgeport-Bridgeport Town Clerk-754",
+    "newPhone": "203-576-7278",
+    "oldPhone": "(203) 576-7208",
+    "newEffectiveDate": "2019-06-25T09:56:31",
+    "oldEffectiveDate": "2015-08-31T16:12:35",
+    "newAddress1": "City Hall, 45 Lyon Terrace",
+    "oldAddress1": "45 Lyon Terrace, City Hall Rm 124"
+  },
+  {
+    "change": "changed-CT-Bridgewater-Bridgewater Town Clerk-758",
+    "newPhone": "860-354-5102",
+    "oldPhone": "(860) 354-5102",
+    "newEffectiveDate": "2019-06-25T09:56:31",
+    "oldEffectiveDate": "2015-08-31T16:12:35",
+    "newAddress1": "Town Hall, 44 Main Street, South, P.O. Box 216",
+    "oldAddress1": "P.O. Box 216"
+  },
+  {
+    "change": "changed-CT-Bristol-Bristol Town Clerk-776",
+    "newPhone": "860-584-6200",
+    "oldPhone": "(860) 584-6200",
+    "newEffectiveDate": "2019-06-25T09:56:31",
+    "oldEffectiveDate": "2016-10-14T08:55:33",
+    "newAddress1": "City Hall, 111 North Main Street",
+    "oldAddress1": "111 N Main St"
+  },
+  {
+    "change": "changed-CT-Brookfield-Brookfield Town Clerk-792",
+    "newPhone": "203-775-7313",
+    "oldPhone": "(203) 775-7313",
+    "newEffectiveDate": "2019-06-25T09:56:31",
+    "oldEffectiveDate": "2015-08-31T16:12:35",
+    "newAddress1": "Municipal Center, 100 Pocono Road, P.O. Box 5106",
+    "oldAddress1": "P.O. Box 5106"
+  },
+  {
+    "change": "changed-CT-Brooklyn-Brooklyn Town Clerk-804",
+    "newPhone": "860-779-3411 x17",
+    "oldPhone": "(860) 779-3411 X17",
+    "newEffectiveDate": "2019-06-25T09:56:31",
+    "oldEffectiveDate": "2017-09-06T09:22:11",
+    "newAddress1": "Town Hall, 4 Wolf Den Road, P.O. Box 356",
+    "oldAddress1": "P.O. Box 356"
+  },
+  {
+    "change": "changed-CT-Burlington-Burlington Town Clerk-879",
+    "newPhone": "860-673-6789 x2",
+    "oldPhone": "(860) 673-6789 x2",
+    "newEffectiveDate": "2019-06-25T09:56:31",
+    "oldEffectiveDate": "2015-08-31T16:12:35",
+    "newAddress1": "Burlington Town Hall, 200 Spielman Highway",
+    "oldAddress1": "200 Spielman Hwy"
+  },
+  {
+    "change": "changed-DE-Kent-Department of Elections - Kent County Office-3504",
+    "newEmail": "absenteekc@delaware.gov",
+    "oldEmail": "absenteekc@state.de.us",
+    "newEffectiveDate": "2019-09-16T12:08:52",
+    "oldEffectiveDate": "2015-08-17T13:53:13"
+  },
+  {
+    "change": "changed-DE-New Castle-Department of Elections - New Castle County Office-4767",
+    "newEmail": "absentee@delaware.gov",
+    "oldEmail": "absentee@state.de.us",
+    "newEffectiveDate": "2019-09-16T12:08:52",
+    "oldEffectiveDate": "2015-08-17T13:53:13"
+  },
+  {
+    "change": "changed-DE-Sussex-Department of Elections - Sussex County Office-6478",
+    "newEmail": "absenteesc@delaware.gov",
+    "oldEmail": "absenteesc@state.de.us",
+    "newEffectiveDate": "2019-09-16T12:08:52",
+    "oldEffectiveDate": "2015-08-17T13:53:13"
+  },
+  {
+    "change": "changed-FL-Alachua-Alachua Supervisor of Elections-55",
+    "newFax": "352-374-5264",
+    "oldFax": "(352) 374-5264",
+    "newPhone": "352-374-5252",
+    "oldPhone": "(352) 374-5252",
+    "newEffectiveDate": "2019-08-13T15:35:04",
+    "oldEffectiveDate": "2017-09-06T14:37:56",
+    "newAddress1": "515 N. Main St., Suite 300",
+    "oldAddress1": "515 N Main St, Ste 300"
+  },
+  {
+    "change": "changed-FL-Baker-Baker Supervisor of Elections-327",
+    "newFax": "904-259-2799",
+    "oldFax": "(904) 259-2799",
+    "newPhone": "904-259-6339",
+    "oldPhone": "(904) 259-6339",
+    "newEmail": "vote@bakercountyfl.org",
+    "oldEmail": "debbie.cain@bakercountyfl.org",
+    "newEffectiveDate": "2019-08-13T15:35:04",
+    "oldEffectiveDate": "2017-09-06T14:37:56",
+    "newAddress1": "PO Box 505",
+    "oldAddress1": "32 N 5th St, Ste A"
+  },
+  {
+    "change": "changed-FL-Bay-Bay County Supervisor of Elections-410",
+    "newFax": "850-784-6141",
+    "oldFax": "(850) 767-3450",
+    "newPhone": "850-784-6100",
+    "oldPhone": "(850) 784-6100",
+    "newEffectiveDate": "2019-08-28T15:02:03",
+    "oldEffectiveDate": "2017-09-06T14:37:56",
+    "newAddress1": "830 West 11th Street",
+    "oldAddress1": "830 W 11th St"
+  },
+  {
+    "change": "changed-FL-Bradford-Bradford Supervisor of Elections-715",
+    "newFax": "904-966-6165",
+    "oldFax": "(904) 966-6165",
+    "newPhone": "904-966-6266",
+    "oldPhone": "(904) 966-6266",
+    "newEmail": "Bradsoe@bradfordcountyfl.gov",
+    "oldEmail": "bradsoe@bradfordcountyfl.gov",
+    "newEffectiveDate": "2019-08-27T14:50:51",
+    "oldEffectiveDate": "2017-09-06T14:37:56",
+    "newAddress1": "PO Box 58",
+    "oldAddress1": "945 N Temple Ave Ste C"
+  },
+  {
+    "change": "changed-FL-Brevard-Brevard Supervisor of Elections-748",
+    "newFax": "321-637-5460",
+    "oldFax": "(321) 637-5460",
+    "newPhone": "321-633-2127",
+    "oldPhone": "(321) 633-2127",
+    "newEffectiveDate": "2019-08-27T14:50:51",
+    "oldEffectiveDate": "2017-09-06T14:37:56",
+    "newAddress1": "PO Box 410819",
+    "oldAddress1": "2725 Judge Fran Jamieson Way, Bldg C"
+  },
+  {
+    "change": "changed-FL-Broward-Broward Supervisor of Elections-815",
+    "newFax": "954-357-7070",
+    "oldFax": "(954) 357-7070",
+    "newPhone": "954-357-7050",
+    "oldPhone": "(954) 357-7050",
+    "newEffectiveDate": "2019-08-13T15:35:04",
+    "oldEffectiveDate": "2017-09-06T14:58:53",
+    "newAddress1": "115 S. Andrews Avenue, Room 102",
+    "oldAddress1": "115 S Andrews Ave, Rm 102",
+    "newZip": "33302",
+    "oldZip": "33301"
+  },
+  {
+    "change": "changed-FL-Calhoun-Calhoun Supervisor of Elections-952",
+    "newFax": "850-674-2449",
+    "oldFax": "(850) 674-2449",
+    "newPhone": "850-674-8568",
+    "oldPhone": "(850) 674-8568",
+    "newEmail": "soe@votecalhoun.com",
+    "oldEmail": "soecalco@fairpoint.net",
+    "newEffectiveDate": "2019-08-13T15:35:04",
+    "oldEffectiveDate": "2017-09-06T14:37:56",
+    "newAddress1": "20859 Central Avenue East,  Room 117",
+    "oldAddress1": "20859 Central Ave E, Rm 117"
+  },
+  {
+    "change": "changed-FL-Charlotte-Charlotte Supervisor of Elections-1158",
+    "newFax": "941-833-5434",
+    "oldFax": "(941) 833-5422",
+    "newPhone": "941-833-5400",
+    "oldPhone": "(941) 833-5400",
+    "newEffectiveDate": "2020-02-03T11:49:42",
+    "oldEffectiveDate": "2017-09-06T14:37:56",
+    "newAddress1": "226 Taylor Street, Unit 120",
+    "oldAddress1": "226 Taylor St, Unit 120"
+  },
+  {
+    "change": "changed-FL-Citrus-Citrus Supervisor of Elections-1271",
+    "newFax": "352-564-7121",
+    "oldFax": "(352) 341-6749",
+    "newPhone": "352-564-7120",
+    "oldPhone": "(352) 341-6740",
+    "newEffectiveDate": "2019-08-27T14:50:51",
+    "oldEffectiveDate": "2017-09-06T14:37:56",
+    "newAddress1": "PO Box 1870",
+    "oldAddress1": "120 N Apopka Ave",
+    "newCity": "Lecanto",
+    "oldCity": "Inverness",
+    "newZip": "34460-1870",
+    "oldZip": "34450"
+  },
+  {
+    "change": "changed-FL-Clay-Clay Supervisor of Elections-1313",
+    "newFax": "904-284-0935",
+    "oldFax": "(904) 284-0935",
+    "newPhone": "904-269-6350",
+    "oldPhone": "(904) 269-6350",
+    "newEmail": "VBMrequests@clayelections.com",
+    "oldEmail": "mail@clayelections.com",
+    "newEffectiveDate": "2019-08-27T14:50:51",
+    "oldEffectiveDate": "2017-09-06T14:37:56",
+    "newAddress1": "500 N. Orange Ave.",
+    "oldAddress1": "500 N Orange Ave"
+  },
+  {
+    "change": "changed-FL-Collier-Collier Supervisor of Elections-1445",
+    "newFax": "239-774-9468",
+    "oldFax": "(239) 774-9468",
+    "newPhone": "239-252-8683",
+    "oldPhone": "(239) 252-8683",
+    "newEmail": "mailballot@colliercountyfl.gov",
+    "oldEmail": "supervisorofelections@colliergov.net",
+    "newEffectiveDate": "2019-08-13T15:35:04",
+    "oldEffectiveDate": "2017-09-06T14:37:56",
+    "newAddress1": "Rev Dr MLK Bldg, 3750 Enterprise Ave",
+    "oldAddress1": "3750 Enterprise Ave"
+  },
+  {
+    "change": "changed-FL-Columbia-Columbia Supervisor of Elections-1459",
+    "newFax": "386-755-7233",
+    "oldFax": "(386) 755-7233",
+    "newPhone": "386-758-1026",
+    "oldPhone": "(386) 758-1026",
+    "newEffectiveDate": "2019-08-13T15:35:04",
+    "oldEffectiveDate": "2017-09-06T14:37:56",
+    "newAddress1": "971 W. Duval Street, Suite 102",
+    "oldAddress1": "971 W Duval St, Ste 102"
+  },
+  {
+    "change": "changed-FL-DeSoto-DeSoto Supervisor of Elections-1777",
+    "newFax": "863-993-4875",
+    "oldFax": "(863) 993-4875",
+    "newPhone": "863-993-4871",
+    "oldPhone": "(863) 993-4871",
+    "newEffectiveDate": "2019-08-13T15:35:04",
+    "oldEffectiveDate": "2017-09-06T14:37:56",
+    "newAddress1": "201 East Oak Street, Suite 104",
+    "oldAddress1": "201 E Oak St, Ste 104"
+  },
+  {
+    "change": "changed-FL-Dixie-Dixie Supervisor of Elections-1875",
+    "newFax": "352-498-1218",
+    "oldFax": "(352) 498-1218",
+    "newPhone": "352-498-1216",
+    "oldPhone": "(352) 498-1216",
+    "newEffectiveDate": "2019-08-13T15:35:04",
+    "oldEffectiveDate": "2017-09-06T14:37:56",
+    "newAddress1": "229 NE 351 Hwy., Suite A",
+    "oldAddress1": "229 NE 351 Hwy., Ste A"
+  },
+  {
+    "change": "changed-FL-Duval-Duval Supervisor of Elections-1964",
+    "newFax": "904-301-3867",
+    "oldFax": "(904) 301-3867",
+    "newPhone": "904-630-1414",
+    "oldPhone": "(904) 630-8015",
+    "newEffectiveDate": "2019-10-29T13:16:02",
+    "oldEffectiveDate": "2017-09-06T14:37:56",
+    "newAddress1": "105 East Monroe Street",
+    "oldAddress1": "105 E Monroe St"
+  },
+  {
+    "change": "changed-FL-Escambia-Escambia Supervisor of Elections-2164",
+    "newFax": "850-595-3914",
+    "oldFax": "(850) 595-3914",
+    "newPhone": "850-595-3900",
+    "oldPhone": "(850) 595-3900",
+    "newEffectiveDate": "2019-08-27T14:50:51",
+    "oldEffectiveDate": "2017-09-06T14:37:56",
+    "newAddress1": "PO Box 12601",
+    "oldAddress1": "213 Palafox Pl, 2nd Fl"
+  },
+  {
+    "change": "changed-FL-Flagler-Flagler Supervisor of Elections-2296",
+    "newFax": "386-313-4171",
+    "oldFax": "(386) 313-4171",
+    "newPhone": "386-313-4170",
+    "oldPhone": "(386) 313-4170",
+    "newEffectiveDate": "2019-08-13T15:35:04",
+    "oldEffectiveDate": "2017-09-06T14:37:56",
+    "newAddress1": "1769 E. Moody Blvd., Building 2, Suite 101",
+    "oldAddress1": "1769 E Moody Blvd, Bldg 2, Ste 101"
+  },
+  {
+    "change": "changed-FL-Franklin-Franklin Supervisor of Elections-2374",
+    "newFax": "850-653-9092",
+    "oldFax": "(850) 653-9092",
+    "newPhone": "850-653-9520",
+    "oldPhone": "(850) 653-9520",
+    "newEmail": "Heather@votefranklin.com",
+    "oldEmail": "heather@votefranklin.com",
+    "newEffectiveDate": "2019-08-13T15:35:04",
+    "oldEffectiveDate": "2017-09-06T14:37:56",
+    "newAddress1": "47 Avenue F",
+    "oldAddress1": "47 Ave F"
+  },
+  {
+    "change": "changed-FL-Gadsden-Gadsden Supervisor of Elections-2466",
+    "newFax": "850-627-6144",
+    "oldFax": "(850) 627-6144",
+    "newPhone": "850-627-9910",
+    "oldPhone": "(850) 627-9910",
+    "newEffectiveDate": "2019-08-13T15:45:26",
+    "oldEffectiveDate": "2017-09-06T14:37:56",
+    "newAddress1": "16 South Madison Street",
+    "oldAddress1": "16 S Madison St",
+    "newZip": "32351",
+    "oldZip": "32353"
+  },
+  {
+    "change": "changed-FL-Gilchrist-Gilchrist Supervisor of Elections-2549",
+    "newFax": "352-463-3196",
+    "oldFax": "(352) 463-3196",
+    "newPhone": "352-463-3194",
+    "oldPhone": "(352) 463-3194",
+    "newEffectiveDate": "2019-08-13T15:35:04",
+    "oldEffectiveDate": "2017-09-06T14:37:56",
+    "newAddress1": "112 South Main Street, Room 128",
+    "oldAddress1": "112 S Main St, Rm 128"
+  },
+  {
+    "change": "changed-GA-Appling-Appling Registrar Office-198",
+    "newEmail": "ac001elections@gmail.com",
+    "oldEmail": "applingregdon@yahoo.com",
+    "newEffectiveDate": "2019-08-09T11:48:10",
+    "oldEffectiveDate": "2015-08-31T13:36:24"
+  },
+  {
+    "change": "changed-GA-Clarke-Athens-Clarke County Board of Elections-1302",
+    "newEmail": "paula.williams@accgov.com",
+    "oldEmail": "UOCAVA@accgov.com",
+    "newEffectiveDate": "2019-08-09T11:48:10",
+    "oldEffectiveDate": "2018-06-06T17:24:27"
+  },
+  {
+    "change": "changed-GA-Atkinson-Atkinson County Election Superintendent-270",
+    "newPhone": "(912) 422-3003",
+    "oldPhone": "(912) 422-8113",
+    "newEffectiveDate": "2019-08-09T11:48:10",
+    "oldEffectiveDate": "2015-08-31T13:36:24",
+    "newZip": "31642-1234",
+    "oldZip": "31642-0855"
+  },
+  {
+    "change": "changed-GA-Banks-Banks County Registrars-351",
+    "newFax": "(888) 294-0416",
+    "oldFax": "(706) 677-4102",
+    "newEffectiveDate": "2019-11-05T10:58:31",
+    "oldEffectiveDate": "2015-08-31T13:36:24"
+  },
+  {
+    "change": "changed-GA-Barrow-Barrow County Board of Elections and Registration-384",
+    "newPhone": "(770) 307-3110",
+    "oldPhone": "(770) 307-3510",
+    "newEmail": "lcash@barrowga.org",
+    "oldEmail": "mfranklin@barrowga.org",
+    "newEffectiveDate": "2019-08-09T11:48:10",
+    "oldEffectiveDate": "2015-08-31T13:36:24"
+  },
+  {
+    "change": "changed-GA-Bartow-Bartow County Elections and Voter Registration-396",
+    "newEffectiveDate": "2019-08-09T11:48:10",
+    "oldEffectiveDate": "2015-08-31T13:36:24",
+    "newZip": "30120-3182",
+    "oldZip": "30120-3181"
+  },
+  {
+    "change": "changed-GA-Berrien-Berrien County Board of Elections and Registration-548",
+    "newPhone": "(229) 686-3442",
+    "oldPhone": "(229) 686-5213 x2",
+    "newEffectiveDate": "2020-02-03T15:30:54",
+    "oldEffectiveDate": "2015-08-31T13:36:24",
+    "newAddress1": "201 N Davis St, Room 142",
+    "oldAddress1": "201 N Davis St"
+  },
+  {
+    "change": "changed-GA-Bleckley-Bleckley County Chief Registrar-625",
+    "newFax": "(478) 298-6830",
+    "oldFax": "(478) 934-0822",
+    "newPhone": "(478) 934-3200",
+    "oldPhone": "(478) 934-3212",
+    "newEffectiveDate": "2019-11-05T10:58:31",
+    "oldEffectiveDate": "2015-08-31T13:36:24"
+  },
+  {
+    "change": "changed-GA-Brantley-Brantley County Board of Elections and Registrations-735",
+    "newEffectiveDate": "2019-08-09T11:48:10",
+    "oldEffectiveDate": "2015-08-31T13:36:24",
+    "newZip": "31553-0326",
+    "oldZip": "31553"
+  },
+  {
+    "change": "changed-GA-Brooks-Brooks County Election Supervisor-808",
+    "newEffectiveDate": "2019-08-09T11:48:10",
+    "oldEffectiveDate": "2015-08-31T13:36:24",
+    "newZip": "31643-0665",
+    "oldZip": "31643"
+  },
+  {
+    "change": "changed-GA-Bulloch-Bulloch County Board of Elections-865",
+    "newEffectiveDate": "2019-08-09T11:48:10",
+    "oldEffectiveDate": "2017-09-06T15:05:24",
+    "newAddress1": "113 N Main St, Ste 201",
+    "oldAddress1": "113 N Main St"
+  },
+  {
+    "change": "changed-GA-Butts-Butts County Board of Elections and Registration-918",
+    "newEmail": "tlunsford@buttscounty.org",
+    "oldEmail": "buttsuocava@buttscounty.org",
+    "newEffectiveDate": "2020-02-03T15:26:12",
+    "oldEffectiveDate": "2015-08-31T13:36:24",
+    "newAddress1": "625 W. Third St, Ste 5",
+    "oldAddress1": "625 Third St, Ste 5"
+  },
+  {
+    "change": "changed-HI-Honolulu-Honolulu County Clerk-3150",
+    "newEmail": "elections@honolulu.gov",
+    "oldEmail": "clerks@honolulu.gov",
+    "newEffectiveDate": "2019-07-17T13:21:53",
+    "oldEffectiveDate": "2015-08-17T14:01:34"
+  },
+  {
+    "change": "changed-HI-Maui-Maui County Clerk-4265",
+    "newEmail": "elections@mauicounty.us",
+    "oldEmail": "county.clerk@mauicounty.us",
+    "newEffectiveDate": "2019-08-14T15:51:04",
+    "oldEffectiveDate": "2015-08-17T14:01:34",
+    "newAddress1": "200 S High St",
+    "oldAddress1": "200 S High St, Rm 708",
+    "newZip": "96793-9920",
+    "oldZip": "96793-2155"
+  },
+  {
+    "change": "changed-ID-Bonner-Bonner County Clerk-667",
+    "newEmail": "elections@bonnercountyid.gov",
+    "oldEmail": "cwurm@bonnercountyid.gov",
+    "newEffectiveDate": "2018-10-16T08:44:21",
+    "oldEffectiveDate": "2017-09-18T14:59:53"
+  },
+  {
+    "change": "changed-IL-Adams-Adams County Clerk-21",
+    "newEffectiveDate": "2019-08-30T13:09:17",
+    "oldEffectiveDate": "2017-09-06T16:01:04",
+    "newZip": "62301",
+    "oldZip": "62306-1169"
+  },
+  {
+    "change": "changed-IL-Alexander-Alexander County Clerk-81",
+    "newEffectiveDate": "2019-08-30T13:09:17",
+    "oldEffectiveDate": "2015-08-31T15:41:35"
+  },
+  {
+    "change": "changed-IL-Bloomington-Bloomington City Board of Election Commissioners-643",
+    "newEffectiveDate": "2019-08-30T13:09:17",
+    "oldEffectiveDate": "2018-02-27T13:58:29"
+  },
+  {
+    "change": "changed-IL-Bond-Bond County Clerk-665",
+    "newEmail": "bococlerk@bondcountyil.com",
+    "oldEmail": "countyclerk@bondcountyil.com",
+    "newEffectiveDate": "2019-08-30T13:09:17",
+    "oldEffectiveDate": "2015-08-31T15:41:35"
+  },
+  {
+    "change": "changed-IL-Boone-Boone County Clerk-672",
+    "newEmail": "jstapler@boonecountyil.org",
+    "oldEmail": "ebluege@boonecountyil.org",
+    "newEffectiveDate": "2019-08-30T13:09:17",
+    "oldEffectiveDate": "2017-09-06T16:01:04"
+  },
+  {
+    "change": "changed-IL-Brown-Brown County Clerk-816",
+    "newEmail": "countyclerk@browncoil.org",
+    "oldEmail": "jlham1009@hotmail.com",
+    "newEffectiveDate": "2019-08-30T13:09:17",
+    "oldEffectiveDate": "2015-08-31T15:41:35"
+  },
+  {
+    "change": "changed-IL-Bureau-Bureau County Clerk-870",
+    "newEmail": "countyclerk@bureaucounty-il.gov",
+    "oldEmail": "bureaucckami@yahoo.com",
+    "newEffectiveDate": "2019-08-30T13:09:17",
+    "oldEffectiveDate": "2016-08-16T16:09:47"
+  },
+  {
+    "change": "changed-IL-Calhoun-Calhoun County Clerk-955",
+    "newEffectiveDate": "2019-08-30T13:09:17",
+    "oldEffectiveDate": "2017-09-06T16:01:04"
+  },
+  {
+    "change": "changed-IL-Carroll-Carroll County Clerk-1035",
+    "newEffectiveDate": "2019-08-30T13:09:17",
+    "oldEffectiveDate": "2017-09-06T16:04:28",
+    "newAddress1": "301 N. Main St.                   PO BOX 152",
+    "oldAddress1": "301 N. Main St."
+  },
+  {
+    "change": "changed-IL-Cass-Cass County Clerk-1075",
+    "newPhone": "(217) 452-7217",
+    "oldPhone": "(217) 452-2277",
+    "newEffectiveDate": "2019-08-30T13:09:17",
+    "oldEffectiveDate": "2017-09-06T16:04:28"
+  },
+  {
+    "change": "changed-IL-Champaign-Champaign County Clerk-1137",
+    "newEffectiveDate": "2019-08-30T13:09:17",
+    "oldEffectiveDate": "2017-09-06T16:01:04"
+  },
+  {
+    "change": "changed-IL-Chicago-Chicago City Board of Election Commissioners-1231",
+    "newEffectiveDate": "2020-01-16T12:28:03",
+    "oldEffectiveDate": "2020-02-04T16:40:27"
+  },
+  {
+    "change": "changed-IL-Christian-Christian County Clerk-1261",
+    "newEffectiveDate": "2019-09-06T15:43:50",
+    "oldEffectiveDate": "2017-09-06T16:01:04",
+    "newAddress1": "PO BOX 647",
+    "oldAddress1": "101 S. Main Street",
+    "newAddress2": "",
+    "oldAddress2": "P.O. Box 647"
+  },
+  {
+    "change": "changed-IL-Clark-Clark County Clerk-1291",
+    "newEffectiveDate": "2019-08-30T13:09:17",
+    "oldEffectiveDate": "2015-08-31T15:41:35"
+  },
+  {
+    "change": "changed-IL-Clay-Clay County Clerk-1316",
+    "newEffectiveDate": "2019-08-30T13:09:17",
+    "oldEffectiveDate": "2017-09-06T16:01:04",
+    "newAddress1": "111 Chestnut St. Room 106    PO BOX 160",
+    "oldAddress1": "111 Chestnut St. Room 106"
+  },
+  {
+    "change": "changed-IL-Clinton-Clinton County Clerk-1371",
+    "newEmail": "ccclerk@clintonco.illinois.gov",
+    "oldEmail": "angela.peters@clintonco.illinois.gov",
+    "newEffectiveDate": "2019-08-30T13:09:17",
+    "oldEffectiveDate": "2017-09-06T16:01:04",
+    "newAddress1": "850 Fairfax St., Rm 230        PO BOX 308",
+    "oldAddress1": "850 Fairfax St., Rm 230"
+  },
+  {
+    "change": "changed-IL-Coles-Coles County Clerk-1434",
+    "newPhone": "(217) 348-0537",
+    "oldPhone": "(217) 348-0501",
+    "newEmail": "jcoe@co.coles.il.us",
+    "oldEmail": "elections@co.coles.il.us",
+    "newEffectiveDate": "2019-08-30T13:09:17",
+    "oldEffectiveDate": "2017-09-06T16:01:04"
+  },
+  {
+    "change": "changed-IL-Cook-Cook County Clerk-1507",
+    "newFax": "(312) 603-9786",
+    "oldFax": "(312) 603-9788",
+    "newEmail": "clerk.yarbrough@cookcountyil.gov",
+    "oldEmail": "UOCAVA.Voting@cookcountyil.gov",
+    "newEffectiveDate": "2019-08-30T13:09:17",
+    "oldEffectiveDate": "2017-09-06T16:01:04"
+  },
+  {
+    "change": "changed-IL-Crawford-Crawford County Clerk-1566",
+    "newEmail": "countyclerk@crawfordcountyclerk.net",
+    "oldEmail": "elections@crawfordcountyclerk.net",
+    "newEffectiveDate": "2019-08-30T13:09:17",
+    "oldEffectiveDate": "2017-09-06T16:04:28",
+    "newAddress1": "100 Douglas St.                  PO BOX 616",
+    "oldAddress1": "100 Douglas St."
+  },
+  {
+    "change": "changed-IL-Cumberland-Cumberland County Clerk-1610",
+    "newEffectiveDate": "2019-08-30T13:09:17",
+    "oldEffectiveDate": "2017-09-06T16:01:04",
+    "newAddress1": "140 Court House Square       PO BOX 146",
+    "oldAddress1": "140 Court House Square"
+  },
+  {
+    "change": "changed-IN-Blackford-Blackford County Circuit Court Clerk-606",
+    "newEmail": "Lcoons@blackfordcounty.com",
+    "oldEmail": "jgilland@blackfordcounty.com",
+    "newEffectiveDate": "2019-07-15T09:59:05",
+    "oldEffectiveDate": "2017-09-06T16:09:31"
+  },
+  {
+    "change": "changed-IN-Brown-Brown County Clerk-817",
+    "newPhone": "(812) 988-5510",
+    "oldPhone": "(812) 988-5511",
+    "newEmail": "smithk@browncounty-in.us",
+    "oldEmail": "owensjp@browncounty-in.us",
+    "newEffectiveDate": "2019-07-15T09:56:18",
+    "oldEffectiveDate": "2017-09-06T16:09:31",
+    "newAddress1": "P.O. Box 85, 20 East Main St",
+    "oldAddress1": "P.O. Box 85"
+  },
+  {
+    "change": "changed-IN-Clark-Clark County Circuit Court Clerk-1292",
+    "newEmail": "vote@co.clark.in.us",
+    "oldEmail": "vote@clarkcountyvoters.com",
+    "newEffectiveDate": "2019-07-15T09:56:18",
+    "oldEffectiveDate": "2016-01-15T15:18:27",
+    "newAddress1": "501 E. Court Ave, Rm 139",
+    "oldAddress1": "501 E. Court Ave, Rm 131"
+  },
+  {
+    "change": "changed-IN-Clay-Clay County Circuit Court Clerk-1317",
+    "newFax": "(812) 448-9006",
+    "oldFax": "(812) 446-9602",
+    "newEffectiveDate": "2018-09-24T11:08:33",
+    "oldEffectiveDate": "2015-08-31T15:45:22"
+  },
+  {
+    "change": "changed-IN-Clinton-Clinton County Circuit Court Clerk-1372",
+    "newEffectiveDate": "2017-09-06T16:09:31",
+    "oldEffectiveDate": "2018-10-25 11:23:21"
+  },
+  {
+    "change": "changed-IN-Crawford-Crawford County Circuit Court Clerk-1567",
+    "newEmail": "clerkholzbog@crawfordcountyin.com",
+    "oldEmail": "clerk@crawfordcountyin.com",
+    "newEffectiveDate": "2019-07-15T09:56:18",
+    "oldEffectiveDate": "2015-08-31T15:45:22",
+    "newAddress1": "715 Judicial Plaza Dr, PO Box 375",
+    "oldAddress1": "715 Judicial Plaza Dr"
+  },
+  {
+    "change": "changed-IN-DeKalb-DeKalb County Circuit Court Clerk-1766",
+    "newName": "DeKalb County Circuit Court Clerk",
+    "oldName": "De Kalb County Circuit Court Clerk",
+    "newEmail": "KBishop@co.dekalb.in.us",
+    "oldEmail": "Clerkvoterreg@co.dekalb.in.us",
+    "newEffectiveDate": "2019-09-17T12:08:33",
+    "oldEffectiveDate": "2017-09-06T16:09:31",
+    "newJurisdictionName": "DeKalb",
+    "oldJurisdictionName": "De Kalb"
+  },
+  {
+    "change": "changed-IN-Delaware-Delaware County Board of Voter Registration-1817",
+    "newPhone": "(765) 747-7726",
+    "oldPhone": "(765) 747-7812",
+    "newEmail": "rspangler@co.delaware.in.us",
+    "oldEmail": "delawarecoelection@co.delaware.in.us",
+    "newEffectiveDate": "2019-07-15T09:56:18",
+    "oldEffectiveDate": "2015-08-31T15:45:22"
+  },
+  {
+    "change": "changed-IA-Adair-Adair County Auditor-14",
+    "newEffectiveDate": "2019-08-19T13:42:48",
+    "oldEffectiveDate": "2016-07-28T16:17:24",
+    "newAddress1": "400 Public Square Ste 5",
+    "oldAddress1": "400 Public Sq Ste 5",
+    "newZip": "50849",
+    "oldZip": "50849-1259"
+  },
+  {
+    "change": "changed-IA-Adams-Adams County Auditor-19",
+    "newEffectiveDate": "2019-08-19T13:42:48",
+    "oldEffectiveDate": "2017-09-27T13:06:16",
+    "newAddress1": "500 9th Street",
+    "oldAddress1": "500 9th St.",
+    "newZip": "50841",
+    "oldZip": "50841-0028"
+  },
+  {
+    "change": "changed-IA-Allamakee-Allamakee County Auditor-99",
+    "newEffectiveDate": "2019-08-19T13:42:48",
+    "oldEffectiveDate": "2015-08-31T15:48:26",
+    "newAddress1": "110 Allamakee Street",
+    "oldAddress1": "110 Allamakee St",
+    "newZip": "52172",
+    "oldZip": "52172-1744"
+  },
+  {
+    "change": "changed-IA-Appanoose-Appanoose County Auditor-195",
+    "newEffectiveDate": "2019-08-19T13:42:48",
+    "oldEffectiveDate": "2017-09-27T13:06:16",
+    "newAddress1": "201 N. 12th Street",
+    "oldAddress1": "201 N. 12th St",
+    "newZip": "52544",
+    "oldZip": "52544-1711"
+  },
+  {
+    "change": "changed-IA-Audubon-Audubon County Auditor-293",
+    "newFax": "(712) 563-2428",
+    "oldFax": "(712) 563 2556",
+    "newPhone": "(712) 563-2584",
+    "oldPhone": "(712) 563 2584",
+    "newEffectiveDate": "2019-08-19T13:42:48",
+    "oldEffectiveDate": "2015-08-31T15:48:26",
+    "newAddress1": "318 Leroy Street #4",
+    "oldAddress1": "318 Leroy St #4",
+    "newZip": "50025",
+    "oldZip": "50025-0549"
+  },
+  {
+    "change": "changed-IA-Benton-Benton County Auditor-508",
+    "newEmail": "hrippel@co.benton.ia.us",
+    "oldEmail": "bcauditor@co.benton.ia.us",
+    "newEffectiveDate": "2019-08-19T13:42:48",
+    "oldEffectiveDate": "2017-09-27T13:06:16",
+    "newAddress1": "PO Box 549",
+    "oldAddress1": "P.O. Box 549"
+  },
+  {
+    "change": "changed-IA-Black Hawk-Black Hawk County Auditor-603",
+    "newEmail": "gveeder@co.black-hawk.ia.us",
+    "oldEmail": "election@co.black-hawk.ia.us",
+    "newEffectiveDate": "2019-08-19T13:42:48",
+    "oldEffectiveDate": "2017-09-27T13:06:16",
+    "newAddress1": "316 E. 5th Street",
+    "oldAddress1": "316 E. 5th St",
+    "newZip": "50703",
+    "oldZip": "50703-0549"
+  },
+  {
+    "change": "changed-IA-Boone-Boone County Auditor-671",
+    "newEffectiveDate": "2019-08-19T13:42:48",
+    "oldEffectiveDate": "2016-08-10T22:36:51",
+    "newAddress1": "201 State Street",
+    "oldAddress1": "201 State St",
+    "newZip": "50036",
+    "oldZip": "50036-3536"
+  },
+  {
+    "change": "changed-IA-Bremer-Bremer County Auditor-746",
+    "newEffectiveDate": "2019-08-19T13:42:48",
+    "oldEffectiveDate": "2017-09-27T13:06:16",
+    "newAddress1": "415 E. Bremer",
+    "oldAddress1": "415 E. Bremer Ave"
+  },
+  {
+    "change": "changed-IA-Buchanan-Buchanan County Auditor-844",
+    "newEffectiveDate": "2019-08-19T13:42:48",
+    "oldEffectiveDate": "2017-09-27T13:06:16",
+    "newAddress1": "PO Box 317",
+    "oldAddress1": "P.O. Box 317",
+    "newZip": "50644",
+    "oldZip": "50644-0317"
+  },
+  {
+    "change": "changed-IA-Buena Vista-Buena Vista County Auditor-855",
+    "newFax": "(712) 749-2703",
+    "oldFax": "(712) 732-2603",
+    "newPhone": "(712) 749-2542",
+    "oldPhone": "(712) 749-2703",
+    "newEffectiveDate": "2019-08-19T13:42:48",
+    "oldEffectiveDate": "2017-09-27T13:06:16",
+    "newAddress1": "PO Box 220",
+    "oldAddress1": "P.O. Box 220",
+    "newZip": "50588",
+    "oldZip": "50588-0220"
+  },
+  {
+    "change": "changed-IA-Butler-Butler County Auditor-902",
+    "newFax": "(319) 267-2625",
+    "oldFax": "(319) 267-4016",
+    "newEffectiveDate": "2019-08-19T13:42:48",
+    "oldEffectiveDate": "2017-09-27T13:06:16",
+    "newAddress1": "PO Box 325",
+    "oldAddress1": "P.O. Box 325",
+    "newZip": "50602",
+    "oldZip": "50602-1428"
+  },
+  {
+    "change": "changed-IA-Calhoun-Calhoun County Auditor-954",
+    "newEffectiveDate": "2019-08-19T13:42:48",
+    "oldEffectiveDate": "2017-09-27T13:06:16",
+    "newAddress1": "416 4th Street, Ste. 1",
+    "oldAddress1": "416 4th St Ste. 1",
+    "newZip": "50579",
+    "oldZip": "50579-2400"
+  },
+  {
+    "change": "changed-IA-Carroll-Carroll County Auditor-1034",
+    "newEmail": "kirlbeck@carrollcountyiowa.org",
+    "oldEmail": "ccaud@co.carroll.ia.us",
+    "newEffectiveDate": "2019-08-19T13:42:48",
+    "oldEffectiveDate": "2015-08-31T15:48:26",
+    "newAddress1": "114 E. 6th Street",
+    "oldAddress1": "114 E. 6th St",
+    "newZip": "51401",
+    "oldZip": "51401-2400"
+  },
+  {
+    "change": "changed-IA-Cass-Cass County Auditor-1074",
+    "newEffectiveDate": "2019-08-19T13:42:48",
+    "oldEffectiveDate": "2017-09-27T13:06:16",
+    "newAddress1": "5 W. 7th Street",
+    "oldAddress1": "5 W. 7th St",
+    "newZip": "50022",
+    "oldZip": "50022-1461"
+  },
+  {
+    "change": "changed-IA-Cedar-Cedar County Auditor-1109",
+    "newEffectiveDate": "2019-08-19T13:42:48",
+    "oldEffectiveDate": "2017-09-27T13:06:16",
+    "newAddress1": "400 Cedar Street",
+    "oldAddress1": "400 Cedar St",
+    "newZip": "52772",
+    "oldZip": "52772-1748"
+  },
+  {
+    "change": "changed-IA-Cerro Gordo-Cerro Gordo County Auditor-1133",
+    "newEmail": "awedmore@cgcounty.org",
+    "oldEmail": "kkline@co.cerro-gordo.ia.us",
+    "newEffectiveDate": "2019-08-19T13:42:48",
+    "oldEffectiveDate": "2015-08-31T15:48:26",
+    "newZip": "50401",
+    "oldZip": "50401-3220"
+  },
+  {
+    "change": "changed-IA-Cherokee-Cherokee County Auditor-1195",
+    "newEffectiveDate": "2019-08-19T13:42:48",
+    "oldEffectiveDate": "2015-08-31T15:48:26",
+    "newAddress1": "520 W. Main, Drawer H",
+    "oldAddress1": "520 W. Main Drawer H",
+    "newZip": "51012",
+    "oldZip": "51012-1700"
+  },
+  {
+    "change": "changed-IA-Chickasaw-Chickasaw County Auditor-1233",
+    "newEffectiveDate": "2019-08-19T13:42:48",
+    "oldEffectiveDate": "2017-09-27T13:06:16",
+    "newAddress1": "Box 311",
+    "oldAddress1": "Box 311, 8 E. Prospect",
+    "newZip": "50659",
+    "oldZip": "50659-0311"
+  },
+  {
+    "change": "changed-IA-Clarke-Clarke County Auditor-1303",
+    "newEmail": "jwhite@clarkecountyiowa.org",
+    "oldEmail": "jwhite@clarkcountyiowa.net",
+    "newEffectiveDate": "2019-08-19T13:42:48",
+    "oldEffectiveDate": "2017-09-27T13:06:16",
+    "newZip": "50213",
+    "oldZip": "50213-2411"
+  },
+  {
+    "change": "changed-KS-Decatur-Decatur County Clerk-1787",
+    "newEmail": "nurban@dccoks.org",
+    "oldEmail": "noraurban@yahoo.com",
+    "newEffectiveDate": "2019-07-26T14:40:41",
+    "oldEffectiveDate": "2017-09-25T08:30:15"
+  },
+  {
+    "change": "changed-KY-Ballard-Ballard County Clerk-337",
+    "newEmail": "katie.mercer@ky.gov",
+    "oldEmail": "lynn.lane2@ky.gov",
+    "newEffectiveDate": "2019-02-14T10:20:11",
+    "oldEffectiveDate": "2015-08-31T13:32:15"
+  },
+  {
+    "change": "changed-KY-Barren-Barren County Clerk-378",
+    "newEmail": "helena.birdwell@ky.gov",
+    "oldEmail": "joanne.london@ky.gov",
+    "newEffectiveDate": "2019-02-14T10:21:27",
+    "oldEffectiveDate": "2015-08-31T13:32:15",
+    "newAddress1": "117-1A North Public Square",
+    "oldAddress1": "117 N Public Sq, Ste 1A"
+  },
+  {
+    "change": "changed-KY-Boone-Boone County Clerk-674",
+    "newEffectiveDate": "2019-09-04T10:54:39",
+    "oldEffectiveDate": "2020-02-04T13:32:15"
+  },
+  {
+    "change": "changed-KY-Bourbon-Bourbon County Clerk-692",
+    "newEffectiveDate": "2019-02-14T10:26:10",
+    "oldEffectiveDate": "2015-08-31T13:32:15",
+    "newZip": "40362",
+    "oldZip": "40361-0312"
+  },
+  {
+    "change": "changed-KY-Breathitt-Breathitt County Clerk-741",
+    "newEffectiveDate": "2019-06-24T16:07:29",
+    "oldEffectiveDate": "2017-09-12T16:14:43"
+  },
+  {
+    "change": "changed-KY-Breckinridge-Breckinridge County Clerk-742",
+    "newPhone": "(270) 756-6166",
+    "oldPhone": "(270) 756-2246",
+    "newEffectiveDate": "2019-09-04T10:54:39",
+    "oldEffectiveDate": "2017-09-12T16:14:43"
+  },
+  {
+    "change": "changed-KY-Bullitt-Bullitt County Clerk-864",
+    "newPhone": "(502) 543-2513 x204",
+    "oldPhone": "(502) 543-2513 x201",
+    "newEffectiveDate": "2019-09-04T10:54:39",
+    "oldEffectiveDate": "2015-08-31T13:32:15"
+  },
+  {
+    "change": "changed-KY-Campbell-Campbell County Clerk-989",
+    "newPhone": "(859) 292-3885",
+    "oldPhone": "(859) 292-3850 x3885",
+    "newEffectiveDate": "2019-09-04T10:54:39",
+    "oldEffectiveDate": "2017-09-12T16:14:43"
+  },
+  {
+    "change": "changed-KY-Carlisle-Carlisle County Clerk-1021",
+    "newEmail": "becky.martin@ky.gov",
+    "oldEmail": "michael.toon@ky.gov",
+    "newEffectiveDate": "2019-02-14T10:36:03",
+    "oldEffectiveDate": "2015-08-31T13:32:15"
+  },
+  {
+    "change": "changed-LA-Claiborne-Claiborne Parish Registrar of Voters-1274",
+    "newEffectiveDate": "2019-05-31T15:40:41",
+    "oldEffectiveDate": "2015-08-17T14:04:39",
+    "newZip": "71040-3929",
+    "oldZip": "71040-3914"
+  },
+  {
+    "change": "changed-LA-East Carroll-E Carroll Parish Registrar of Voters-1982",
+    "newEffectiveDate": "2019-05-31T15:40:41",
+    "oldEffectiveDate": "2017-09-06T16:15:29",
+    "newZip": "71254-0708",
+    "oldZip": "70802-5806"
+  },
+  {
+    "change": "changed-ME-All-Maine Division of Elections-96",
+    "newName": "Maine Division of Elections",
+    "oldName": "Bureau of Corporations, Elections, and Commissions",
+    "newEffectiveDate": "2019-07-12T17:08:04",
+    "oldEffectiveDate": "2015-08-31T15:35:14",
+    "newAddress1": "101 State House Station",
+    "oldAddress1": "Division of Elections"
+  },
+  {
+    "change": "changed-MD-Anne Arundel-Anne Arundel County Board of Elections-181",
+    "newFax": "(410) 222-6824",
+    "oldFax": "(410) 222-6833",
+    "newEffectiveDate": "2019-07-02T10:58:54",
+    "oldEffectiveDate": "2018-03-14T11:41:31"
+  },
+  {
+    "change": "changed-MD-Baltimore City-Baltimore City Board of Elections-341",
+    "newEffectiveDate": "2019-09-13T09:24:53",
+    "oldEffectiveDate": "2018-03-14T11:41:19",
+    "newJurisdictionType": "County",
+    "oldJurisdictionType": "City"
+  },
+  {
+    "change": "changed-MD-Calvert-Calvert County Board of Elections-967",
+    "newEmail": "elections@calvertcountymd.gov",
+    "oldEmail": "elections@co.cal.md.us",
+    "newEffectiveDate": "2019-07-02T10:59:21",
+    "oldEffectiveDate": "2018-03-14T11:40:52"
+  },
+  {
+    "change": "changed-MD-Carroll-Carroll County Board of Elections-1038",
+    "newEmail": "ccboe@carrollcountymd.gov",
+    "oldEmail": "ccboe@ccg.carr.org",
+    "newEffectiveDate": "2019-07-02T10:59:43",
+    "oldEffectiveDate": "2018-03-14T11:40:31"
+  },
+  {
+    "change": "changed-MD-Cecil-Cecil County Board of Elections-1107",
+    "newEmail": "rlavoie@ccgov.org",
+    "oldEmail": "dtowery@ccgov.org",
+    "newEffectiveDate": "2019-07-02T11:00:01",
+    "oldEffectiveDate": "2018-03-14T11:40:20"
+  },
+  {
+    "change": "changed-MD-Howard-Howard County Board of Elections-3184",
+    "newEmail": "guy.mickley@maryland.gov",
+    "oldEmail": "gmickley@howardcountymd.gov",
+    "newEffectiveDate": "2019-07-02T11:00:23",
+    "oldEffectiveDate": "2018-03-14T11:39:07"
+  },
+  {
+    "change": "changed-MD-Kent-Kent County Board of Elections-3505",
+    "newEffectiveDate": "2018-03-14T11:38:57",
+    "oldEffectiveDate": "2018-11-01T11:38:57"
+  },
+  {
+    "change": "changed-MD-Montgomery-Montgomery County Board of Elections-4576",
+    "newPhone": "(240) 777-8550",
+    "oldPhone": "(240) 777-8500",
+    "newEffectiveDate": "2019-07-02T11:00:56",
+    "oldEffectiveDate": "2018-03-14T11:37:48"
+  },
+  {
+    "change": "changed-MD-Saint Mary's-Saint Mary's County Board of Elections-6267",
+    "newName": "Saint Mary's County Board of Elections",
+    "oldName": "St Marys County Board of Elections",
+    "newPhone": "(301) 475-4200 *1625",
+    "oldPhone": "(301) 475-4200 x1625",
+    "newEmail": "wendy.adkins@stmarysmd.com",
+    "oldEmail": "wendy.adkins@co.saint-marys.md.us",
+    "newEffectiveDate": "2019-07-16T15:38:40",
+    "oldEffectiveDate": "2018-03-14T11:37:12",
+    "newJurisdictionName": "Saint Mary's",
+    "oldJurisdictionName": "St Marys"
+  },
+  {
+    "change": "changed-MA-Abington, Town of-Abington Town Clerk-3",
+    "newEmail": "lmadams@abingtonma.gov",
+    "oldEmail": "ladams@abingtonma.gov",
+    "newEffectiveDate": "2019-07-18T14:19:28",
+    "oldEffectiveDate": "2017-09-20T14:40:09"
+  },
+  {
+    "change": "changed-MA-Acushnet, Town of-Acushnet Town Clerk-10",
+    "newEffectiveDate": "2019-07-18T14:19:27",
+    "oldEffectiveDate": "2017-09-20T14:40:08",
+    "newAddress1": "130 MAIN ST.",
+    "oldAddress1": "122 MAIN ST."
+  },
+  {
+    "change": "changed-MA-Alford, Town of-Alford Town Clerk-86",
+    "newEmail": "thomascurtin50@verizon.net",
+    "oldEmail": "elections@sec.state.ma.us",
+    "newEffectiveDate": "2019-07-18T14:19:27",
+    "oldEffectiveDate": "2017-09-20T14:40:08"
+  },
+  {
+    "change": "changed-MA-Amesbury, Town of-Amesbury City Clerk-152",
+    "newName": "Amesbury City Clerk",
+    "oldName": "Amesbury Town Clerk",
+    "newEffectiveDate": "2019-07-18T14:19:27",
+    "oldEffectiveDate": "2017-09-20T14:40:08"
+  },
+  {
+    "change": "changed-MA-Amherst, Town of-Amherst Town Clerk-155",
+    "newEffectiveDate": "2019-07-18T14:19:27",
+    "oldEffectiveDate": "2017-09-20T14:40:08",
+    "newAddress1": "TOWN HALL, 4 BOLTWOOD AVE.",
+    "oldAddress1": "4 BOLTWOOD AVE."
+  },
+  {
+    "change": "changed-MA-Andover, Town of-Andover Town Clerk-170",
+    "newEmail": "austin.simko@andoverma.us",
+    "oldEmail": "townclerk@andoverma.gov",
+    "newEffectiveDate": "2019-07-18T14:19:27",
+    "oldEffectiveDate": "2017-09-20T14:40:08",
+    "newAddress1": "TOWN OFFICES, 36 BARTLET ST.",
+    "oldAddress1": "36 BARTLET ST."
+  },
+  {
+    "change": "changed-MA-Aquinnah, Town of-Aquinnah Town Clerk-200",
+    "newEmail": "townclerk@aquinnah-ma.gov",
+    "oldEmail": "aqhcpc@comcast.net",
+    "newEffectiveDate": "2019-07-18T14:19:27",
+    "oldEffectiveDate": "2017-09-20T14:40:08",
+    "newAddress1": "955 STATE RD.",
+    "oldAddress1": "65 STATE RD."
+  },
+  {
+    "change": "changed-MA-Ashfield, Town of-Ashfield Town Clerk-245",
+    "newEffectiveDate": "2019-07-18T14:19:27",
+    "oldEffectiveDate": "2017-09-20T14:40:08",
+    "newAddress1": "412 MAIN ST., PO BOX 560",
+    "oldAddress1": "412 MAIN ST.",
+    "newAddress2": "",
+    "oldAddress2": "P.O. BOX 560"
+  },
+  {
+    "change": "changed-MA-Ayer, Town of-Ayer Town Clerk-315",
+    "newFax": "(978) 772-3017",
+    "oldFax": "(978) 772-8222",
+    "newEmail": "scopeland@ayer.ma.us",
+    "oldEmail": "clerk@ayer.ma.us",
+    "newEffectiveDate": "2019-07-18T14:19:27",
+    "oldEffectiveDate": "2017-09-20T14:40:08"
+  },
+  {
+    "change": "changed-MI-Acme Township (Grand Traverse County)-Acme Township Clerk-8",
+    "newFax": "231-938-1510",
+    "oldFax": "",
+    "newEffectiveDate": "2019-08-12T16:48:52",
+    "oldEffectiveDate": "2018-04-11T11:13:14",
+    "newAddress1": "6042 Acme Road",
+    "oldAddress1": "6042 Acme Rd"
+  },
+  {
+    "change": "changed-MI-Ada Township (Kent County)-Ada Township Clerk-13",
+    "newFax": "616-676-5870",
+    "oldFax": "(616) 676-5870",
+    "newEffectiveDate": "2019-08-12T16:48:52",
+    "oldEffectiveDate": "2018-04-11T11:13:14",
+    "newAddress1": "7330 Thornapple River Dr, PO Box 370",
+    "oldAddress1": "7330 Thornapple River Dr"
+  },
+  {
+    "change": "changed-MI-Adams Township (Houghton County)-Adams Township Clerk-34",
+    "newFax": "",
+    "oldFax": "(906) 482-1073",
+    "newPhone": "989-387-1501",
+    "oldPhone": "906-281-5616",
+    "newEmail": "redsgreenhouse@yahoo.com",
+    "oldEmail": "dlpindral@hotmail.com",
+    "newEffectiveDate": "2019-08-12T16:48:52",
+    "oldEffectiveDate": "2018-04-11T11:13:14",
+    "newAddress1": "6175 Moores Junction",
+    "oldAddress1": "P.O. Box 520",
+    "newCity": "Sterling",
+    "oldCity": "South Range",
+    "newZip": "48659",
+    "oldZip": "49963"
+  },
+  {
+    "change": "changed-MI-Adams Township (Arenac County)-Adams Township Clerk-32",
+    "newPhone": "517-287-5766",
+    "oldPhone": "989-654-3202",
+    "newEmail": "adamstownship@frontiernet.net",
+    "oldEmail": "redsgreenhouse@yahoo.com",
+    "newEffectiveDate": "2019-08-12T16:48:52",
+    "oldEffectiveDate": "2018-04-11T11:13:14",
+    "newAddress1": "5675 Knowles Rd., PO Box 336",
+    "oldAddress1": "7127 Morley Rd.",
+    "newCity": "North Adams",
+    "oldCity": "Sterling",
+    "newZip": "49262",
+    "oldZip": "48659"
+  },
+  {
+    "change": "changed-MI-Adams Township (Hillsdale County)-Adams Township Clerk-33",
+    "newFax": "906-482-1073",
+    "oldFax": "",
+    "newPhone": "906-281-5616",
+    "oldPhone": "517-287-5766",
+    "newEmail": "dlpindral@hotmail.com",
+    "oldEmail": "adamstownship@frontiernet.net",
+    "newEffectiveDate": "2019-08-12T16:48:52",
+    "oldEffectiveDate": "2018-04-11T11:13:14",
+    "newAddress1": "Post Office 520",
+    "oldAddress1": "5675 Knowles Rd.",
+    "newCity": "South Range",
+    "oldCity": "North Adams",
+    "newZip": "49963",
+    "oldZip": "49262"
+  },
+  {
+    "change": "changed-MI-Addison Township (Oakland County)-Addison Township Clerk-38",
+    "newFax": "248-628-2207",
+    "oldFax": "(248) 628-2207",
+    "newPhone": "248-628-3317",
+    "oldPhone": "248-628-5409 x216",
+    "newEffectiveDate": "2019-08-12T16:48:52",
+    "oldEffectiveDate": "2018-04-11T11:13:14"
+  },
+  {
+    "change": "changed-MI-Adrian, City of (Lenawee County)-Adrian City Clerk-42",
+    "newFax": "517-264-8016",
+    "oldFax": "517-264-4833",
+    "newPhone": "517-264-4866",
+    "oldPhone": "517-264-4833",
+    "newEffectiveDate": "2019-08-12T16:48:52",
+    "oldEffectiveDate": "2018-04-11T11:13:14"
+  },
+  {
+    "change": "changed-MI-Adrian Township (Lenawee County)-Adrian Township Clerk-41",
+    "newEffectiveDate": "2019-08-12T16:48:52",
+    "oldEffectiveDate": "2018-04-11T11:13:14"
+  },
+  {
+    "change": "changed-MI-Aetna Township (Mecosta County)-Aetna Township Clerk-44",
+    "newFax": "231-856-7610",
+    "oldFax": "",
+    "newEffectiveDate": "2019-08-12T16:48:52",
+    "oldEffectiveDate": "2018-04-11T11:13:14",
+    "newAddress1": "196 N. Cass",
+    "oldAddress1": "P.O. Box 228"
+  },
+  {
+    "change": "changed-MI-Aetna Township (Missaukee County)-Aetna Township Clerk-45",
+    "newEffectiveDate": "2018-10-15T10:01:19",
+    "oldEffectiveDate": "2018-04-11T11:13:14",
+    "newAddress1": "651 S 8 Mile Road",
+    "oldAddress1": "651 S 8 Mile Rd"
+  },
+  {
+    "change": "changed-MI-Akron Township (Tuscola County)-Akron Township Clerk-53",
+    "newEffectiveDate": "2019-08-12T16:48:52",
+    "oldEffectiveDate": "2018-04-11T11:13:14",
+    "newAddress1": "4280 W Bay City Forestville Road",
+    "oldAddress1": "6649 Vassar Rd"
+  },
+  {
+    "change": "changed-MI-Alabaster Township (Iosco County)-Alabaster Township Clerk-54",
+    "newFax": "989-362-1899",
+    "oldFax": "(989) 362-1899",
+    "newEffectiveDate": "2018-10-15T10:01:19",
+    "oldEffectiveDate": "2018-04-11T11:13:14"
+  },
+  {
+    "change": "changed-MI-Alaiedon Township (Ingham County)-Alaiedon Township Clerk-56",
+    "newFax": "517-676-9332",
+    "oldFax": "(517) 676-9332",
+    "newEffectiveDate": "2019-08-12T16:48:52",
+    "oldEffectiveDate": "2018-04-11T11:13:14"
+  },
+  {
+    "change": "changed-MI-Alamo Township (Kalamazoo County)-Alamo Township Clerk-59",
+    "newEffectiveDate": "2019-08-12T16:48:52",
+    "oldEffectiveDate": "2018-04-11T11:13:14",
+    "newAddress1": "7901 North 6th Street",
+    "oldAddress1": "7901 North 6th St"
+  },
+  {
+    "change": "changed-MI-Albee Township (Saginaw County)-Albee Township Clerk-68",
+    "newFax": "989-770-5001",
+    "oldFax": "(989) 770-5001",
+    "newPhone": "989-770-4153",
+    "oldPhone": "989-770-4844",
+    "newEffectiveDate": "2018-10-15T10:01:19",
+    "oldEffectiveDate": "2018-04-11T11:13:14"
+  },
+  {
+    "change": "changed-MI-Albert Township (Montmorency County)-Albert Township Clerk-70",
+    "newFax": "989-786-1160",
+    "oldFax": "(989) 786-1160",
+    "newEffectiveDate": "2019-08-12T16:48:52",
+    "oldEffectiveDate": "2018-04-11T11:13:14",
+    "newAddress1": "4360 Hanson Ave",
+    "oldAddress1": "P.O. Box 153",
+    "newZip": "49756",
+    "oldZip": "49756-0153"
+  },
+  {
+    "change": "changed-MI-Albion, City of (Calhoun County)-Albion City Clerk-75",
+    "newFax": "517-629-2238",
+    "oldFax": "(517) 629-2238",
+    "newPhone": "517-629-7864",
+    "oldPhone": "517-629-7864 x3143",
+    "newEffectiveDate": "2019-08-12T16:48:52",
+    "oldEffectiveDate": "2018-04-11T11:13:14"
+  },
+  {
+    "change": "changed-MI-Albion Township (Calhoun County)-Albion Township Clerk-74",
+    "newFax": "517-629-2768",
+    "oldFax": "(517) 629-2768",
+    "newEffectiveDate": "2019-08-12T16:48:52",
+    "oldEffectiveDate": "2018-04-11T11:13:14",
+    "newAddress1": "28400  H Drive South",
+    "oldAddress1": "28400  H Dr S"
+  },
+  {
+    "change": "changed-MI-Alcona County-Alcona County Clerk-77",
+    "newEffectiveDate": "2019-08-12T16:48:52",
+    "oldEffectiveDate": "2018-04-11T11:13:14",
+    "newAddress1": "106 5th Street, PO Box 308",
+    "oldAddress1": "106 5th St., P. O. Box 308",
+    "newZip": "48740",
+    "oldZip": "48740-0308"
+  },
+  {
+    "change": "changed-MI-Alcona Township (Alcona County)-Alcona Township Clerk-78",
+    "newFax": "989-471-2016",
+    "oldFax": "(989) 471-2016",
+    "newEffectiveDate": "2019-08-12T16:48:52",
+    "oldEffectiveDate": "2018-04-11T11:13:14"
+  },
+  {
+    "change": "changed-MN-Anoka-Anoka County Elections-182",
+    "newEffectiveDate": "2019-07-01T14:11:56",
+    "oldEffectiveDate": "2017-09-06T17:03:55",
+    "newAddress1": "2100 3rd Ave, Ste W130",
+    "oldAddress1": "325 E Main St, Ste W130"
+  },
+  {
+    "change": "changed-MN-Blue Earth-Blue Earth County Elections-648",
+    "newEmail": "Michael.Stalberger@blueearthcountymn.gov",
+    "oldEmail": "karen.myers@blueearthcountymn.gov",
+    "newEffectiveDate": "2019-08-12T14:22:35",
+    "oldEffectiveDate": "2017-09-06T17:03:55"
+  },
+  {
+    "change": "changed-MN-Carlton-Carlton County Auditor-1023",
+    "newEmail": "Kathy.Kortuem@co.carlton.mn.us",
+    "oldEmail": "paul.gassert@co.carlton.mn.us",
+    "newEffectiveDate": "2019-08-12T14:23:09",
+    "oldEffectiveDate": "2017-09-06T17:03:55"
+  },
+  {
+    "change": "changed-MN-Carver-Carver County Government Center - Administration Bldg-1056",
+    "newName": "Carver County Government Center - Administration Bldg",
+    "oldName": "Government Center - Administration Bldg",
+    "newEffectiveDate": "2019-07-01T14:11:56",
+    "oldEffectiveDate": "2015-08-31T14:36:27"
+  },
+  {
+    "change": "changed-MN-Cass-Cass County Auditor-Treasurer's Office-1077",
+    "newName": "Cass County Auditor-Treasurer's Office",
+    "oldName": "Cass County Auditor-Treasurers Office",
+    "newEmail": "cass.voter@co.cass.mn.us",
+    "oldEmail": "valerie.kuschel@co.cass.mn.us",
+    "newEffectiveDate": "2019-08-12T14:23:48",
+    "oldEffectiveDate": "2017-09-06T17:03:55"
+  },
+  {
+    "change": "changed-MN-Chippewa-Chippewa County Courthouse-1246",
+    "newEmail": "MMay@co.chippewa.mn.us",
+    "oldEmail": "jclauson@co.chippewa.mn.us",
+    "newEffectiveDate": "2019-08-12T14:24:59",
+    "oldEffectiveDate": "2017-09-06T17:03:55"
+  },
+  {
+    "change": "changed-MN-Cottonwood-Cottonwood County Courthouse-1538",
+    "newEmail": "Donna.torkelson@co.cottonwood.mn.us",
+    "oldEmail": "jan.h.johnson@co.cottonwood.mn.us",
+    "newEffectiveDate": "2019-08-12T14:25:21",
+    "oldEffectiveDate": "2015-08-31T14:36:27"
+  },
+  {
+    "change": "changed-MS-DeSoto-DeSoto County Registrar-1778",
+    "newEffectiveDate": "2019-06-25T13:18:14",
+    "oldEffectiveDate": "2017-09-08T11:25:13",
+    "newAddress1": "2535 Hwy 51 S, Room 201",
+    "oldAddress1": "2535 Hwy 51 S"
+  },
+  {
+    "change": "changed-MO-Adair-Adair-16",
+    "newEmail": "adair@sos.mo.gov",
+    "oldEmail": "scollop@adaircomo.com",
+    "newEffectiveDate": "2019-08-23T16:07:11",
+    "oldEffectiveDate": "2017-09-26T13:38:57",
+    "newAddress1": "106 W. Washington St, 2nd Floor",
+    "oldAddress1": "106 W. Washington St, 2nd Fl."
+  },
+  {
+    "change": "changed-MO-Andrew-Andrew-172",
+    "newEmail": "andrew@sos.mo.gov",
+    "oldEmail": "clerk@andrewcounty.org",
+    "newEffectiveDate": "2019-08-23T16:07:11",
+    "oldEffectiveDate": "2015-09-01T11:03:59"
+  },
+  {
+    "change": "changed-MO-Atchison-Atchison-263",
+    "newEmail": "atchison@sos.mo.gov",
+    "oldEmail": "acclerk@rpt.coop",
+    "newEffectiveDate": "2019-08-23T16:07:11",
+    "oldEffectiveDate": "2015-09-01T11:03:59"
+  },
+  {
+    "change": "changed-MO-Audrain-Audrain-292",
+    "newEmail": "audrain@sos.mo.gov",
+    "oldEmail": "sharvey@audraincounty.org",
+    "newEffectiveDate": "2019-08-23T16:07:11",
+    "oldEffectiveDate": "2017-09-26T13:38:57"
+  },
+  {
+    "change": "changed-MO-Barry-Barry-385",
+    "newEmail": "barry@sos.mo.gov",
+    "oldEmail": "barrycountyclerk@centurytel.net",
+    "newEffectiveDate": "2019-08-23T16:07:11",
+    "oldEffectiveDate": "2017-09-26T13:38:57"
+  },
+  {
+    "change": "changed-MO-Barton-Barton-392",
+    "newEmail": "barton@sos.mo.gov",
+    "oldEmail": "countyclerk@countyofbarton.com",
+    "newEffectiveDate": "2019-08-23T16:07:11",
+    "oldEffectiveDate": "2017-09-26T13:38:57"
+  },
+  {
+    "change": "changed-MO-Boone-Boone-675",
+    "newEffectiveDate": "2020-01-22T11:59:01",
+    "oldEffectiveDate": "2017-09-26T13:38:57",
+    "newAddress1": "801 E. Walnut, Rm 236",
+    "oldAddress1": "801 E. Walnut, Room 236"
+  },
+  {
+    "change": "changed-MO-Buchanan-Buchanan-845",
+    "newPhone": "(816) 271-1412",
+    "oldPhone": "(816) 271-1411",
+    "newEmail": "buchanan@sos.mo.gov",
+    "oldEmail": "mgarvey@co.buchanan.mo.us",
+    "newEffectiveDate": "2019-09-17T09:42:13",
+    "oldEffectiveDate": "2017-09-26T13:38:57",
+    "newAddress1": "411 Jules, Rm 121",
+    "oldAddress1": "411 Jules, Room 121"
+  },
+  {
+    "change": "changed-MO-Butler-Butler-905",
+    "newEmail": "butler@sos.mo.gov",
+    "oldEmail": "tdbutler@tcmax.net",
+    "newEffectiveDate": "2019-08-23T16:07:11",
+    "oldEffectiveDate": "2017-09-26T13:38:57",
+    "newAddress1": "100 N. Main Rm 202",
+    "oldAddress1": "100 N. Main Room 202"
+  },
+  {
+    "change": "changed-MO-Caldwell-Caldwell-939",
+    "newEmail": "caldwell@sos.mo.gov",
+    "oldEmail": "countyclerk1@gmail.com",
+    "newEffectiveDate": "2019-08-23T16:07:11",
+    "oldEffectiveDate": "2017-09-26T13:38:57"
+  },
+  {
+    "change": "changed-MO-Callaway-Callaway-963",
+    "newEmail": "callaway@sos.mo.gov",
+    "oldEmail": "deniseh@callawaycounty.org",
+    "newEffectiveDate": "2019-08-23T16:07:11",
+    "oldEffectiveDate": "2017-09-26T13:38:57"
+  },
+  {
+    "change": "changed-MO-Camden-Camden-978",
+    "newEmail": "camden@sos.mo.gov",
+    "oldEmail": "rowland_todd@camdenmo.org",
+    "newEffectiveDate": "2019-08-23T16:07:11",
+    "oldEffectiveDate": "2017-09-26T13:38:57"
+  },
+  {
+    "change": "changed-MO-Cape Girardeau-Cape Girardeau-1013",
+    "newEmail": "capegirardeau@sos.mo.gov",
+    "oldEmail": "kclark@capecounty.us",
+    "newEffectiveDate": "2019-09-17T09:43:38",
+    "oldEffectiveDate": "2017-09-26T13:38:57"
+  },
+  {
+    "change": "changed-MO-Carroll-Carroll-1039",
+    "newEmail": "carroll@sos.mo.gov",
+    "oldEmail": "countyclerk@carrollcomo.org",
+    "newEffectiveDate": "2019-08-23T16:07:11",
+    "oldEffectiveDate": "2017-09-26T13:38:57"
+  },
+  {
+    "change": "changed-MT-Beaverhead-Beaverhead County Election Administrator-450",
+    "newEmail": "sreynolds@beaverheadcounty.org",
+    "oldEmail": "dscott@beaverheadcounty.org",
+    "newEffectiveDate": "2019-07-03T14:47:50",
+    "oldEffectiveDate": "2015-08-31T14:39:40"
+  },
+  {
+    "change": "changed-MT-Blaine-Blaine County Election Administrator-612",
+    "newEmail": "twilliams@blainecounty-mt.gov",
+    "oldEmail": "sboardman@blainecounty-mt.gov",
+    "newEffectiveDate": "2019-07-03T14:47:50",
+    "oldEffectiveDate": "2015-08-31T14:39:40"
+  },
+  {
+    "change": "changed-MT-Cascade-Cascade County Election Administrator-1059",
+    "newEmail": "rfmoore@cascadecountymt.gov",
+    "oldEmail": "rmoore@cascadecountymt.gov",
+    "newEffectiveDate": "2019-07-03T14:47:50",
+    "oldEffectiveDate": "2016-09-19T12:53:59"
+  },
+  {
+    "change": "changed-MT-Deer Lodge-Deer Lodge County Election Administrator-1796",
+    "newEmail": "jwicks@adlc.us",
+    "oldEmail": "jblodnick@adlc.us",
+    "newEffectiveDate": "2019-07-03T14:47:50",
+    "oldEffectiveDate": "2017-09-08T09:01:51"
+  },
+  {
+    "change": "changed-MT-Fallon-Fallon County Election Administrator-2232",
+    "newEmail": "newellk@falloncounty.net",
+    "oldEmail": "falloncc@midrivers.com",
+    "newEffectiveDate": "2019-07-03T14:47:50",
+    "oldEffectiveDate": "2015-08-31T14:39:40"
+  },
+  {
+    "change": "changed-MT-Flathead-Flathead County Election Administrator-2300",
+    "newEmail": "dpierson@flathead.mt.gov",
+    "oldEmail": "electionweb@flathead.mt.gov",
+    "newEffectiveDate": "2019-07-03T14:47:50",
+    "oldEffectiveDate": "2015-08-31T14:39:40"
+  },
+  {
+    "change": "changed-MT-Gallatin-Gallatin County Election Administrator-2479",
+    "newEmail": "casey.hayes@gallatin.mt.gov",
+    "oldEmail": "gallatin.elections@gallatin.mt.gov",
+    "newEffectiveDate": "2019-07-03T14:47:50",
+    "oldEffectiveDate": "2020-01-26T14:39:40"
+  },
+  {
+    "change": "changed-MT-Glacier-Glacier County Election Administrator-2572",
+    "newEmail": "mbkennerly@glaciercountymt.org",
+    "oldEmail": "gmhall@glaciercountymt.org",
+    "newEffectiveDate": "2019-07-03T14:47:50",
+    "oldEffectiveDate": "2015-08-31T14:39:40"
+  },
+  {
+    "change": "changed-MT-Granite-Granite County Election Administrator-2660",
+    "newEmail": "sgraham@co.granite.mt.us",
+    "oldEmail": "graclerk@co.granite.mt.us",
+    "newEffectiveDate": "2019-07-03T14:47:50",
+    "oldEffectiveDate": "2015-08-31T14:39:40"
+  },
+  {
+    "change": "changed-NE-Antelope-Antelope County Clerk-186",
+    "newEmail": "clerk@antelopecounty.org",
+    "oldEmail": "antelopeclerk@frontiernet.net",
+    "newEffectiveDate": "2019-02-28T10:38:50",
+    "oldEffectiveDate": "2017-09-06T16:34:00"
+  },
+  {
+    "change": "changed-NE-Brown-Brown County Clerk-820",
+    "newEmail": "travis.hobbs@nebraska.gov",
+    "oldEmail": "bcclerk@threeriver.net",
+    "newEffectiveDate": "2019-07-23T14:06:48",
+    "oldEffectiveDate": "2015-08-31T12:37:00"
+  },
+  {
+    "change": "changed-NE-Cass-Cass Election Commissioner-1080",
+    "newEmail": "linnm@cassne.org",
+    "oldEmail": "nancyj@cassne.org",
+    "newEffectiveDate": "2019-07-23T14:06:48",
+    "oldEffectiveDate": "2017-09-06T16:34:00"
+  },
+  {
+    "change": "changed-NE-Chase-Chase County Clerk-1167",
+    "newEmail": "clerk@chase.nacone.org",
+    "oldEmail": "ccclerk@chase3000.com",
+    "newEffectiveDate": "2019-07-23T14:06:48",
+    "oldEffectiveDate": "2017-09-06T16:34:00"
+  },
+  {
+    "change": "changed-NV-Carson City-Carson City County Clerk-1047",
+    "newEffectiveDate": "2019-08-29T08:46:01",
+    "oldEffectiveDate": "2015-08-31T14:41:15",
+    "newZip": "89701",
+    "oldZip": "89701-4475"
+  },
+  {
+    "change": "changed-NV-Churchill-Churchill County Clerk-1266",
+    "newEffectiveDate": "2019-08-29T08:46:01",
+    "oldEffectiveDate": "2020-01-29T19:05:02",
+    "newZip": "89406",
+    "oldZip": "89406-2748"
+  },
+  {
+    "change": "changed-NV-Clark-Clark County Registrar of Voters-1296",
+    "newEmail": "eballotrequest@clarkcountynv.gov",
+    "oldEmail": "eballotrequest@ClarkCountyNV.gov",
+    "newEffectiveDate": "2019-08-29T08:46:01",
+    "oldEffectiveDate": "2015-08-31T14:41:15"
+  },
+  {
+    "change": "changed-NV-Douglas-Douglas County Clerk-1905",
+    "newFax": "(775) 783-6060",
+    "oldFax": "(775) 782-6060",
+    "newPhone": "(775) 783-6095",
+    "oldPhone": "(775) 782-9023",
+    "newEmail": "vote@douglasnv.us",
+    "oldEmail": "election@co.douglas.nv.us",
+    "newEffectiveDate": "2019-08-29T08:46:01",
+    "oldEffectiveDate": "2018-02-13T07:36:55",
+    "newZip": "89423",
+    "oldZip": "89423-0218"
+  },
+  {
+    "change": "changed-NV-Elko-Elko County Clerk-2097",
+    "newEmail": "kjakeman@elkocountynv.net",
+    "oldEmail": "cfosmo@elkocountynv.net",
+    "newEffectiveDate": "2019-08-29T08:46:01",
+    "oldEffectiveDate": "2015-08-31T14:41:15",
+    "newZip": "89801",
+    "oldZip": "89801-3700"
+  },
+  {
+    "change": "changed-NV-Esmeralda-Esmeralda County Clerk-2167",
+    "newEmail": "celgan@esmeraldacountynv.org",
+    "oldEmail": "celgan@citlink.net",
+    "newEffectiveDate": "2019-08-29T08:46:01",
+    "oldEffectiveDate": "2015-08-31T14:41:15",
+    "newZip": "89013",
+    "oldZip": "89013-0547"
+  },
+  {
+    "change": "changed-NV-Eureka-Eureka County Clerk-2181",
+    "newFax": "(775) 237-5614",
+    "oldFax": "(775) 237-6015",
+    "newPhone": "(775) 237-5263",
+    "oldPhone": "(775) 237-5262",
+    "newEmail": "lhoehne@eurekacountynv.gov",
+    "oldEmail": "Bconley@EurekaCountyNV.gov",
+    "newEffectiveDate": "2019-08-30T14:46:38",
+    "oldEffectiveDate": "2017-06-30T08:41:59",
+    "newAddress1": "P.O. Box 694",
+    "oldAddress1": "P.O. Box 677",
+    "newZip": "89316",
+    "oldZip": "89316-0677"
+  },
+  {
+    "change": "changed-NV-Humboldt-Humboldt County Clerk-3221",
+    "newEmail": "county.clerk@hcnv.us",
+    "oldEmail": "coclerk@hcnv.us",
+    "newEffectiveDate": "2019-08-29T08:46:01",
+    "oldEffectiveDate": "2015-08-31T14:41:15",
+    "newZip": "89445",
+    "oldZip": "89445-3199"
+  },
+  {
+    "change": "changed-NV-Lander-Lander County Clerk-3692",
+    "newEffectiveDate": "2019-08-29T08:46:01",
+    "oldEffectiveDate": "2015-08-31T14:41:15",
+    "newAddress1": "50 State Route 305",
+    "oldAddress1": "315 S Humboldt St",
+    "newZip": "89820",
+    "oldZip": "89820-9998"
+  },
+  {
+    "change": "changed-NV-Lincoln-Lincoln County Clerk-3861",
+    "newPhone": "775-962-8038",
+    "oldPhone": "(775) 962-5390",
+    "newEffectiveDate": "2019-08-29T08:46:01",
+    "oldEffectiveDate": "2015-08-31T14:41:15",
+    "newZip": "89043",
+    "oldZip": "89043-0090"
+  },
+  {
+    "change": "changed-NV-Lyon-Lyon County Clerk-4042",
+    "newEffectiveDate": "2019-08-29T08:46:01",
+    "oldEffectiveDate": "2015-08-31T14:41:15",
+    "newZip": "89447",
+    "oldZip": "89447-2571"
+  },
+  {
+    "change": "changed-NV-Mineral-Mineral County Clerk-4485",
+    "newEffectiveDate": "2019-08-29T08:46:01",
+    "oldEffectiveDate": "2015-08-31T14:41:15",
+    "newZip": "89415",
+    "oldZip": "89415-1450"
+  },
+  {
+    "change": "changed-NV-Nye-Nye County Clerk-4940",
+    "newEffectiveDate": "2019-08-29T08:46:01",
+    "oldEffectiveDate": "2015-08-31T14:41:15",
+    "newZip": "89049",
+    "oldZip": "89049-1031"
+  },
+  {
+    "change": "changed-NV-Pershing-Pershing County Clerk-5230",
+    "newEffectiveDate": "2019-08-29T08:46:01",
+    "oldEffectiveDate": "2015-08-31T14:41:15",
+    "newZip": "89419",
+    "oldZip": "89419-0820"
+  },
+  {
+    "change": "changed-NV-Storey-Storey County Clerk-6392",
+    "newEmail": "vstephens@storeycounty.org",
+    "oldEmail": "clerk@storeycounty.org",
+    "newEffectiveDate": "2019-08-29T08:46:01",
+    "oldEffectiveDate": "2015-08-31T14:41:15",
+    "newAddress1": "County Courthouse26 S B St, Drawer D",
+    "oldAddress1": "County Courthouse\n26 S B St, Drawer D",
+    "newZip": "89440",
+    "oldZip": "89440-0139"
+  },
+  {
+    "change": "changed-NV-Washoe-Washoe Registrar of Voters-6960",
+    "newEffectiveDate": "2019-08-23T11:32:04",
+    "oldEffectiveDate": "2015-08-31T14:41:15",
+    "newAddress1": "1001 E. 9th Street",
+    "oldAddress1": "P.O. Box 11130",
+    "newZip": "89512",
+    "oldZip": "89520-0027"
+  },
+  {
+    "change": "changed-NV-White Pine-White Pine County Clerk-7186",
+    "newEffectiveDate": "2019-08-29T08:46:01",
+    "oldEffectiveDate": "2018-09-28T14:41:15",
+    "newZip": "89301",
+    "oldZip": "89301-1994"
+  },
+  {
+    "change": "changed-NH-Berlin, City of-City Clerk of Berlin-541",
+    "newFax": "(603) 752-8586",
+    "oldFax": "",
+    "newEmail": "sfortin@berlinnh.gov",
+    "oldEmail": "eriendeau@berlinnh.gov",
+    "newEffectiveDate": "2019-07-25T15:46:05",
+    "oldEffectiveDate": "2016-09-28T14:56:08"
+  },
+  {
+    "change": "changed-NH-Dover, City of-City Clerk of Dover-1919",
+    "newEmail": "s.mistretta@dover.nh.gov",
+    "oldEmail": "k.lavertu@dover.nh.gov",
+    "newEffectiveDate": "2019-07-25T15:46:05",
+    "oldEffectiveDate": "2015-08-31T15:02:50"
+  },
+  {
+    "change": "changed-NH-Lebanon, City of-City Clerk of Lebanon-3751",
+    "newEmail": "cityclerk@lebanonnh.gov",
+    "oldEmail": "cityclerk@lebcity.com",
+    "newEffectiveDate": "2020-01-09T07:57:16",
+    "oldEffectiveDate": "2015-08-31T15:02:50"
+  },
+  {
+    "change": "changed-NH-Allenstown, Town of-Town Clerk of Allenstown-117",
+    "newFax": "",
+    "oldFax": "(603) 485-8669",
+    "newEmail": "kpelissier@allentownnh.gov",
+    "oldEmail": "kpelissier@allenstownnh.gov",
+    "newEffectiveDate": "2019-07-25T15:52:34",
+    "oldEffectiveDate": "2017-09-25T10:22:26"
+  },
+  {
+    "change": "changed-NJ-Atlantic-Atlantic County Clerk - FPCA-273",
+    "newName": "Atlantic County Clerk - FPCA",
+    "oldName": "Atlantic County Board of Elections - FWAB",
+    "newFax": "(609) 909-5111",
+    "oldFax": "(609) 645-5875",
+    "newPhone": "(609) 909-5842",
+    "oldPhone": "(609) 645-5867",
+    "newEmail": "evote_request@aclink.org",
+    "oldEmail": "evote_submit@aclink.org",
+    "newEffectiveDate": "2019-08-02T14:22:24",
+    "oldEffectiveDate": "2017-09-08T09:10:36",
+    "newAddress1": "5901 Main St",
+    "oldAddress1": "5903 Main St"
+  },
+  {
+    "change": "changed-NJ-Bergen-Bergen County Board of Elections - FWAB-525",
+    "newFax": "(201) 336-6242",
+    "oldFax": "201-336-6242",
+    "newPhone": "(201) 336-6230",
+    "oldPhone": "201-336-6230",
+    "newEffectiveDate": "2019-08-02T14:22:24",
+    "oldEffectiveDate": "2016-10-11T09:49:19"
+  },
+  {
+    "change": "changed-NJ-Bergen-Bergen County Clerk - FPCA-525",
+    "newName": "Bergen County Clerk - FPCA",
+    "oldName": "Bergen County Board of Elections - FWAB",
+    "newFax": "(201) 336-7005",
+    "oldFax": "201-336-6242",
+    "newPhone": "(201) 336-7020",
+    "oldPhone": "201-336-6230",
+    "newEmail": "electionsclerk@co.Bergen.nj.us",
+    "oldEmail": "fedballots@co.Bergen.nj.us",
+    "newEffectiveDate": "2019-08-02T14:22:24",
+    "oldEffectiveDate": "2016-10-11T09:49:19",
+    "newAddress1": "1 Bergen County Plaza, Rm 130",
+    "oldAddress1": "1 Bergen County Plaza, Rm 310"
+  },
+  {
+    "change": "changed-NJ-Burlington-Burlington County Board of Elections - FWAB-880",
+    "newPhone": "(609) 265-5062",
+    "oldPhone": "(609) 265-5229",
+    "newEffectiveDate": "2018-07-23T09:17:45",
+    "oldEffectiveDate": "2017-11-03T17:56:12"
+  },
+  {
+    "change": "changed-NJ-Burlington-Burlington County Clerk - FPCA-880",
+    "newName": "Burlington County Clerk - FPCA",
+    "oldName": "Burlington County Board of Elections - FWAB",
+    "newFax": "(609) 265-0696",
+    "oldFax": "(609) 265-3131",
+    "newPhone": "(609) 265-5122",
+    "oldPhone": "(609) 265-5229",
+    "newEmail": "osballot@co.burlington.nj.us",
+    "oldEmail": "osreturn@co.burlington.nj.us",
+    "newEffectiveDate": "2019-08-02T14:22:24",
+    "oldEffectiveDate": "2017-11-03T17:56:12",
+    "newAddress1": "50 Rancocas Rd, 3rd Floor       P.O. Box 6000",
+    "oldAddress1": "50 Rancocas Rd, 1st Floor"
+  },
+  {
+    "change": "changed-NJ-Camden-Camden County Board of Elections - FWAB-980",
+    "newEffectiveDate": "2019-08-02T14:22:24",
+    "oldEffectiveDate": "2016-10-11T09:50:15",
+    "newAddress1": "100 University Court P.O. Box 258",
+    "oldAddress1": "100 University Court PO Box 258"
+  },
+  {
+    "change": "changed-NJ-Camden-Camden County Clerk - FPCA-980",
+    "newName": "Camden County Clerk - FPCA",
+    "oldName": "Camden County Board of Elections - FWAB",
+    "newFax": "(856) 374-6398",
+    "oldFax": "(856) 401-8689",
+    "newPhone": "(856) 225-7219",
+    "oldPhone": "(856) 401-8683",
+    "newEmail": "electdiv@camdencounty.com",
+    "oldEmail": "vote@camdencounty.com",
+    "newEffectiveDate": "2017-09-08T09:10:36",
+    "oldEffectiveDate": "2016-10-11T09:50:15",
+    "newAddress1": "100 University Court, P.O. Box 218",
+    "oldAddress1": "100 University Court PO Box 258"
+  },
+  {
+    "change": "changed-NJ-Cape May-Cape May County Clerk - FPCA-1014",
+    "newName": "Cape May County Clerk - FPCA",
+    "oldName": "Cape May County Board of Elections - FWAB",
+    "newFax": "(609) 463-0966",
+    "oldFax": "(609) 465-1639",
+    "newPhone": "(609) 465-1013",
+    "oldPhone": "(609) 465-1050",
+    "newEmail": "clerk.elections@co.cape-may.nj.us",
+    "oldEmail": "clerk@co.cape-may.nj.us",
+    "newEffectiveDate": "2019-08-02T14:22:24",
+    "oldEffectiveDate": "2017-09-08T09:10:36",
+    "newAddress1": "7 N Main St, P.O. Box 5000",
+    "oldAddress1": "10 W. Mechanic St",
+    "newAddress2": "",
+    "oldAddress2": "P.O. Box 5000"
+  },
+  {
+    "change": "changed-NJ-Cumberland-Cumberland County Board of Elections - FWAB-1613",
+    "newEmail": "votebymailreturn@co.cumberland.nj.us",
+    "oldEmail": "lizbethhe@co.cumberland.nj.us",
+    "newEffectiveDate": "2019-08-02T14:22:24",
+    "oldEffectiveDate": "2017-09-08T09:10:36"
+  },
+  {
+    "change": "changed-NJ-Cumberland-Cumberland County Clerk - FPCA-1613",
+    "newName": "Cumberland County Clerk - FPCA",
+    "oldName": "Cumberland County Board of Elections - FWAB",
+    "newFax": "(856) 455-1410",
+    "oldFax": "(856) 451-3172",
+    "newPhone": "(856) 453-4860",
+    "oldPhone": "(856) 453-5801",
+    "newEmail": "ccclerknj@co.cumberland.nj.us",
+    "oldEmail": "lizbethhe@co.cumberland.nj.us",
+    "newEffectiveDate": "2019-08-02T14:22:24",
+    "oldEffectiveDate": "2017-09-08T09:10:36",
+    "newAddress1": "P.O. Box 100",
+    "oldAddress1": "555 Shiloh Pike"
+  },
+  {
+    "change": "changed-NJ-Essex-Essex County Board of Elections - FWAB-2169",
+    "newEmail": "bellotreturn2020@clerk.essexcountynj.org",
+    "oldEmail": "jejoja17@verizon.net",
+    "newEffectiveDate": "2019-08-02T14:22:24",
+    "oldEffectiveDate": "2017-09-08T09:10:36"
+  },
+  {
+    "change": "changed-NJ-Essex-Essex County Clerk - FPCA-2169",
+    "newName": "Essex County Clerk - FPCA",
+    "oldName": "Essex County Board of Elections - FWAB",
+    "newPhone": "(973) 621-4921",
+    "oldPhone": "(973) 621-5071",
+    "newEmail": "jferry@clerk.essexcountynj.org",
+    "oldEmail": "jejoja17@verizon.net",
+    "newEffectiveDate": "2018-05-09T17:32:16",
+    "oldEffectiveDate": "2017-09-08T09:10:36",
+    "newAddress1": "P.O. Box 690",
+    "oldAddress1": "465 Dr. Martin Luther King, Jr. Blvd., 4th Fl, Rm 411",
+    "newZip": "07101-0690",
+    "oldZip": "07102"
+  },
+  {
+    "change": "changed-NJ-Gloucester-Gloucester County Board of Elections - FWAB-2593",
+    "newFax": "(856) 251-1645",
+    "oldFax": "(856) 251-1646",
+    "newEmail": "boe@co.gloucester.nj.us",
+    "oldEmail": "ccelections@co.gloucester.nj.us",
+    "newEffectiveDate": "2019-08-02T14:22:24",
+    "oldEffectiveDate": "2017-09-08T09:10:36"
+  },
+  {
+    "change": "changed-NJ-Gloucester-Gloucester County Clerk - FPCA-2593",
+    "newName": "Gloucester County Clerk - FPCA",
+    "oldName": "Gloucester County Board of Elections - FWAB",
+    "newPhone": "(856) 384-4532",
+    "oldPhone": "(856) 384-4500",
+    "newEffectiveDate": "2019-08-02T14:22:24",
+    "oldEffectiveDate": "2017-09-08T09:10:36",
+    "newAddress1": "P.O. Box 129",
+    "oldAddress1": "P.O. Box 352"
+  },
+  {
+    "change": "changed-NJ-Hudson-Hudson County Clerk - FPCA-3200",
+    "newName": "Hudson County Clerk - FPCA",
+    "oldName": "Hudson County Board of Elections - FWAB",
+    "newFax": "(201) 369-3478",
+    "oldFax": "(201) 369-3436",
+    "newPhone": "(201) 369-3470 x6",
+    "oldPhone": "(201) 369-3435",
+    "newEmail": "vote@hcnj.us",
+    "oldEmail": "eballot@hcnj.us",
+    "newEffectiveDate": "2019-08-02T14:29:55",
+    "oldEffectiveDate": "2016-10-17T08:11:32"
+  },
+  {
+    "change": "changed-NJ-Hunterdon-Hunterdon County Clerk - FPCA-3229",
+    "newName": "Hunterdon County Clerk - FPCA",
+    "oldName": "Hunterdon County Board of Elections - FWAB",
+    "newFax": "(908) 782-4068",
+    "oldFax": "(908) 806-4686",
+    "newPhone": "(908) 788-1214",
+    "oldPhone": "(908) 788-1190",
+    "newEmail": "countyclerk@co.hunterdon.nj.us",
+    "oldEmail": "eballot@co.hunterdon.nj.us",
+    "newEffectiveDate": "2015-08-31T15:10:24",
+    "oldEffectiveDate": "2017-09-08T09:10:36",
+    "newAddress1": "Hall of Records, 71 Main St",
+    "oldAddress1": "P.O. Box 2900"
+  },
+  {
+    "change": "changed-NM-Bernalillo-Bernalillo County Clerk-546",
+    "newPhone": "505-468-1291",
+    "oldPhone": "505-468-1290",
+    "newEffectiveDate": "2019-08-16T13:42:35",
+    "oldEffectiveDate": "2017-09-12T16:20:19"
+  },
+  {
+    "change": "changed-NM-Catron-Catron County Clerk-1101",
+    "newFax": "575-336-4535",
+    "oldFax": "575-533-6453",
+    "newEffectiveDate": "2019-08-16T13:44:25",
+    "oldEffectiveDate": "2017-09-12T16:20:19",
+    "newAddress1": "Catron County Courthouse P.O. Box 197",
+    "oldAddress1": "Catron County Courthouse PO Box 197"
+  },
+  {
+    "change": "changed-NM-Cibola-Cibola County Clerk-1268",
+    "newEffectiveDate": "2019-08-16T13:42:35",
+    "oldEffectiveDate": "2017-09-12T16:20:19",
+    "newAddress1": "P.O. Box 190",
+    "oldAddress1": "PO Box 190"
+  },
+  {
+    "change": "changed-NM-Colfax-Colfax County Clerk-1436",
+    "newEffectiveDate": "2019-08-16T13:42:35",
+    "oldEffectiveDate": "2017-09-12T16:20:19",
+    "newAddress1": "P.O. Box 159",
+    "oldAddress1": "PO Box 159"
+  },
+  {
+    "change": "changed-NM-Curry-Curry County Clerk-1625",
+    "newEffectiveDate": "2019-08-16T13:42:35",
+    "oldEffectiveDate": "2017-09-12T16:20:19",
+    "newAddress1": "417 Gidding St., Suite 130",
+    "oldAddress1": "417 Gidding St., Suite 130"
+  },
+  {
+    "change": "changed-NM-Eddy-Eddy County Clerk-2037",
+    "newEmail": "rvan@co.eddy.nm.us",
+    "oldEmail": "robin@co.eddy.nm.us",
+    "newEffectiveDate": "2018-09-05T16:42:14",
+    "oldEffectiveDate": "2017-09-12T16:20:19"
+  },
+  {
+    "change": "changed-NM-Grant-Grant County Clerk-2669",
+    "newFax": "575-574-0076",
+    "oldFax": "575-574-0073",
+    "newEffectiveDate": "2019-08-16T13:42:35",
+    "oldEffectiveDate": "2017-09-12T16:20:19"
+  },
+  {
+    "change": "changed-NM-Guadalupe-Guadalupe County Clerk-2805",
+    "newEmail": "pmartinez@guadco.us",
+    "oldEmail": "pmartinez@guadco-nm.us",
+    "newEffectiveDate": "2019-08-16T13:42:35",
+    "oldEffectiveDate": "2017-09-12T16:20:19"
+  },
+  {
+    "change": "changed-NM-Hidalgo-Hidalgo County Clerk-3071",
+    "newEmail": "melissa.delagarza@hidalgocounty.org",
+    "oldEmail": "hidclk@aznex.net",
+    "newEffectiveDate": "2019-08-16T13:44:25",
+    "oldEffectiveDate": "2017-09-12T16:20:19"
+  },
+  {
+    "change": "changed-NM-Luna-Luna County Clerk-4011",
+    "newEffectiveDate": "2019-08-16T13:44:25",
+    "oldEffectiveDate": "2017-09-12T16:20:19",
+    "newZip": "88031-1838",
+    "oldZip": "88031"
+  },
+  {
+    "change": "changed-NM-McKinley-McKinley County Clerk-4299",
+    "newFax": "505-726-8117",
+    "oldFax": "505-863-1419",
+    "newPhone": "505-722-4469",
+    "oldPhone": "505-863-6866",
+    "newEmail": "clerk@co.mckinley.nm.us",
+    "oldEmail": "mcuster@co.mckinley.nm.us",
+    "newEffectiveDate": "2019-08-16T13:42:35",
+    "oldEffectiveDate": "2017-09-12T16:20:19",
+    "newZip": "87301-1268",
+    "oldZip": "87301"
+  },
+  {
+    "change": "changed-NM-Mora-Mora County Clerk-4607",
+    "newEmail": "cjarellano@countyofmora.com",
+    "oldEmail": "vgurule@countyofmora.com",
+    "newEffectiveDate": "2019-08-16T13:42:35",
+    "oldEffectiveDate": "2017-09-12T16:20:19"
+  },
+  {
+    "change": "changed-NM-Otero-Otero County Clerk-5083",
+    "newEmail": "fedballots2018@co.otero.nm.us",
+    "oldEmail": "oteroclerk@co.otero.nm.us",
+    "newEffectiveDate": "2019-08-16T13:42:35",
+    "oldEffectiveDate": "2017-09-12T16:20:19"
+  },
+  {
+    "change": "changed-NY-Allegany-Allegany County Board of Elections-104",
+    "newEffectiveDate": "2019-09-16T14:53:50",
+    "oldEffectiveDate": "2015-08-31T15:14:54",
+    "newAddress1": "10 Willets Ave",
+    "oldAddress1": "6 Schuyler St"
+  },
+  {
+    "change": "changed-NY-Clinton-Clinton County Board of Elections-1380",
+    "newEffectiveDate": "2019-07-15T14:29:52",
+    "oldEffectiveDate": "2016-08-01T11:28:56",
+    "newAddress1": "Co. Government Ctr. 137 Margaret St., Ste 104",
+    "oldAddress1": "Co. Government Ctr. Ste 104, 137 Margaret St"
+  },
+  {
+    "change": "changed-NY-Erie-Erie County Board of Elections-2156",
+    "newEmail": "Robin.Sion@erie.gov",
+    "oldEmail": "maryann.gray@erie.gov",
+    "newEffectiveDate": "2019-07-15T14:29:52",
+    "oldEffectiveDate": "2017-09-08T09:26:02"
+  },
+  {
+    "change": "changed-NY-Franklin-Franklin County Board of Elections-2400",
+    "newEmail": "boe@franklincony.org",
+    "oldEmail": "boe@co.franklin.ny.us",
+    "newEffectiveDate": "2019-07-15T14:29:52",
+    "oldEffectiveDate": "2015-08-31T15:14:54"
+  },
+  {
+    "change": "changed-NY-Fulton-Fulton County Board of Elections-2461",
+    "newEmail": "boe@fultoncountyny.gov",
+    "oldEmail": "boe@co.fulton.ny.us",
+    "newEffectiveDate": "2019-07-31T12:55:23",
+    "oldEffectiveDate": "2015-08-31T15:14:54"
+  },
+  {
+    "change": "changed-NC-Alamance-Alamance County Board of Elections-57",
+    "newEmail": "Alamance.BOElections@alamance-nc.com",
+    "oldEmail": "ALAMANCE.boe@ncsbe.gov",
+    "newEffectiveDate": "2019-05-24T10:47:10",
+    "oldEffectiveDate": "2015-08-31T11:53:31",
+    "newAddress1": "115 South Maple Street",
+    "oldAddress1": "115 S Maple St",
+    "newZip": "27253",
+    "oldZip": "27253-2804"
+  },
+  {
+    "change": "changed-NC-Alexander-Alexander County Board of Elections-82",
+    "newEmail": "elections@alexandercountync.gov",
+    "oldEmail": "ALEXANDER.boe@ncsbe.gov",
+    "newEffectiveDate": "2019-05-24T10:47:10",
+    "oldEffectiveDate": "2015-08-31T11:53:31",
+    "newAddress1": "PO Box 326",
+    "oldAddress1": "P.O. Box 326",
+    "newZip": "28681",
+    "oldZip": "28681-0326"
+  },
+  {
+    "change": "changed-NC-Alleghany-Alleghany County Board of Elections-105",
+    "newEmail": "alleghanyelections@outlook.com",
+    "oldEmail": "ALLEGHANY.boe@ncsbe.gov",
+    "newEffectiveDate": "2019-05-24T10:47:10",
+    "oldEffectiveDate": "2015-08-31T11:53:31",
+    "newAddress1": "PO Box 65",
+    "oldAddress1": "P.O. Box 65",
+    "newZip": "28675",
+    "oldZip": "28675-0065"
+  },
+  {
+    "change": "changed-NC-Anson-Anson County Board of Elections-183",
+    "newEmail": "sadams@co.anson.nc.us",
+    "oldEmail": "ANSON.boe@ncsbe.gov",
+    "newEffectiveDate": "2019-05-24T10:47:10",
+    "oldEffectiveDate": "2017-09-19T09:38:43",
+    "newAddress1": "PO Box 768",
+    "oldAddress1": "P.O. Box 768",
+    "newZip": "28170",
+    "oldZip": "28170-0768"
+  },
+  {
+    "change": "changed-NC-Ashe-Ashe County Board of Elections-244",
+    "newEmail": "johnshepherd@ashecountygov.com",
+    "oldEmail": "ASHE.boe@ncsbe.gov",
+    "newEffectiveDate": "2019-05-24T10:47:10",
+    "oldEffectiveDate": "2015-08-31T11:53:31",
+    "newAddress1": "150 Government Circle, Suite 2100",
+    "oldAddress1": "150 Gov. Cir, Ste 2100",
+    "newZip": "28640",
+    "oldZip": "28640-8959"
+  },
+  {
+    "change": "changed-NC-Avery-Avery County Board of Elections-308",
+    "newEmail": "sheila.ollis@averycountync.gov",
+    "oldEmail": "AVERY.boe@ncsbe.gov",
+    "newEffectiveDate": "2019-05-24T10:47:10",
+    "oldEffectiveDate": "2015-08-31T11:53:31",
+    "newAddress1": "PO Box 145",
+    "oldAddress1": "P.O. Box 145",
+    "newZip": "28657",
+    "oldZip": "28657-0145"
+  },
+  {
+    "change": "changed-NC-Beaufort-Beaufort County Board of Elections-434",
+    "newEmail": "BEAUFORT.boe@co.beaufort.nc.us",
+    "oldEmail": "BEAUFORT.boe@ncsbe.gov",
+    "newEffectiveDate": "2019-05-24T10:47:10",
+    "oldEffectiveDate": "2015-08-31T11:53:31",
+    "newAddress1": "PO Box 1016",
+    "oldAddress1": "P.O. Box 1016",
+    "newZip": "27889",
+    "oldZip": "27889-1016"
+  },
+  {
+    "change": "changed-NC-Bertie-Bertie County Board of Elections-552",
+    "newEmail": "elections@bertie.nc.gov",
+    "oldEmail": "BERTIE.boe@ncsbe.gov",
+    "newEffectiveDate": "2019-05-24T10:47:10",
+    "oldEffectiveDate": "2015-08-31T11:53:31",
+    "newAddress1": "PO Box 312",
+    "oldAddress1": "P.O. Box 312",
+    "newZip": "27983",
+    "oldZip": "27983-0312"
+  },
+  {
+    "change": "changed-NC-Bladen-Bladen County Board of Elections-610",
+    "newEmail": "elections@bladenco.org",
+    "oldEmail": "BLADEN.boe@ncsbe.gov",
+    "newEffectiveDate": "2019-05-24T10:47:10",
+    "oldEffectiveDate": "2015-08-31T11:53:31",
+    "newAddress1": "PO Box 512",
+    "oldAddress1": "P.O. Box 512",
+    "newZip": "28337",
+    "oldZip": "28337-0512"
+  },
+  {
+    "change": "changed-NC-Brunswick-Brunswick County Board of Elections-837",
+    "newEmail": "elections@brunswickcountync.gov",
+    "oldEmail": "BRUNSWICK.boe@ncsbe.gov",
+    "newEffectiveDate": "2019-05-24T10:47:10",
+    "oldEffectiveDate": "2015-08-31T11:53:31",
+    "newAddress1": "PO Box 2",
+    "oldAddress1": "P.O. Box 2",
+    "newZip": "28422",
+    "oldZip": "28422-0002"
+  },
+  {
+    "change": "changed-NC-Buncombe-Buncombe County Board of Elections-867",
+    "newEffectiveDate": "2019-05-24T10:47:10",
+    "oldEffectiveDate": "2020-01-24T09:40:01",
+    "newAddress1": "PO Box 7468",
+    "oldAddress1": "P.O. Box 7468"
+  },
+  {
+    "change": "changed-NC-Burke-Burke County Board of Elections-872",
+    "newEmail": "BURKE.boe@burkenc.org",
+    "oldEmail": "BURKE.boe@ncsbe.gov",
+    "newEffectiveDate": "2019-05-24T10:47:10",
+    "oldEffectiveDate": "2016-05-19T09:18:50",
+    "newAddress1": "PO Box 798",
+    "oldAddress1": "P.O. Box 798",
+    "newZip": "28680",
+    "oldZip": "28680-0798"
+  },
+  {
+    "change": "changed-NC-Cabarrus-Cabarrus County Board of Elections-922",
+    "newEmail": "cabarrus.boe@cabarruscounty.us",
+    "oldEmail": "CABARRUS.boe@ncsbe.gov",
+    "newEffectiveDate": "2019-05-24T10:47:10",
+    "oldEffectiveDate": "2015-08-31T11:53:31",
+    "newAddress1": "PO Box 1315",
+    "oldAddress1": "P.O. Box 1315",
+    "newZip": "28026",
+    "oldZip": "28026-1315"
+  },
+  {
+    "change": "changed-NC-Caldwell-Caldwell County Board of Elections-940",
+    "newEmail": "election@caldwellcountync.org",
+    "oldEmail": "CALDWELL.boe@ncsbe.gov",
+    "newEffectiveDate": "2019-07-19T10:00:52",
+    "oldEffectiveDate": "2015-08-31T11:53:31",
+    "newAddress1": "PO Box 564",
+    "oldAddress1": "P.O. Box 564",
+    "newZip": "28645",
+    "oldZip": "28645-0564"
+  },
+  {
+    "change": "changed-NC-Camden-Camden County Board of Elections-979",
+    "newEmail": "ELECTIONS@CAMDENCOUNTYNC.GOV",
+    "oldEmail": "CAMDEN.boe@ncsbe.gov",
+    "newEffectiveDate": "2019-05-24T10:47:10",
+    "oldEffectiveDate": "2015-08-31T11:53:31",
+    "newAddress1": "PO Box 206",
+    "oldAddress1": "P.O. Box 206",
+    "newZip": "27921",
+    "oldZip": "27921-0206"
+  },
+  {
+    "change": "changed-NC-Carteret-Carteret County Board of Elections-1055",
+    "newEmail": "boemail@carteretcountync.gov",
+    "oldEmail": "CARTERET.boe@ncsbe.gov",
+    "newEffectiveDate": "2019-05-24T10:47:10",
+    "oldEffectiveDate": "2017-09-19T09:38:43",
+    "newAddress1": "1702 Live Oak Street, Suite 200",
+    "oldAddress1": "1702 Live Oak St Ste 200",
+    "newZip": "28516",
+    "oldZip": "28516-1519"
+  },
+  {
+    "change": "changed-NC-Caswell-Caswell County Board of Elections-1092",
+    "newPhone": "(336) 694-4010 x2",
+    "oldPhone": "(336) 694-4010",
+    "newEmail": "elections@caswellcountync.gov",
+    "oldEmail": "CASWELL.boe@ncsbe.gov",
+    "newEffectiveDate": "2019-07-19T10:00:52",
+    "oldEffectiveDate": "2015-08-31T11:53:31",
+    "newAddress1": "PO Box 698",
+    "oldAddress1": "P.O. Box 698",
+    "newZip": "27379",
+    "oldZip": "27379-0698"
+  },
+  {
+    "change": "changed-NC-Catawba-Catawba County Board of Elections-1095",
+    "newEmail": "elections@catawbacountync.gov",
+    "oldEmail": "CATAWBA.boe@ncsbe.gov",
+    "newEffectiveDate": "2019-05-24T10:47:10",
+    "oldEffectiveDate": "2015-08-31T11:53:31",
+    "newAddress1": "PO Box 132",
+    "oldAddress1": "P.O. Box 132",
+    "newZip": "28658",
+    "oldZip": "28658-0389"
+  },
+  {
+    "change": "changed-NC-Chatham-Chatham County Board of Elections-1173",
+    "newEmail": "elections@chathamnc.org",
+    "oldEmail": "CHATHAM.boe@ncsbe.gov",
+    "newEffectiveDate": "2019-05-24T10:47:10",
+    "oldEffectiveDate": "2015-08-31T11:53:31",
+    "newAddress1": "PO Box 111",
+    "oldAddress1": "P.O. Box 111",
+    "newZip": "27312",
+    "oldZip": "27312-0111"
+  },
+  {
+    "change": "changed-NC-Cherokee-Cherokee County Board of Elections-1197",
+    "newEmail": "ccboe@cherokeecounty-nc.gov",
+    "oldEmail": "CHEROKEE.boe@gmail.com",
+    "newEffectiveDate": "2019-05-24T10:47:10",
+    "oldEffectiveDate": "2015-08-31T11:53:31",
+    "newAddress1": "40 Peachtree Street",
+    "oldAddress1": "40 Peachtree St, Ste B",
+    "newZip": "28906",
+    "oldZip": "28906-2944"
+  },
+  {
+    "change": "changed-ND-Adams-Adams County Auditor-24",
+    "newEmail": "kfaller@nd.gov",
+    "oldEmail": "pcarroll@nd.gov",
+    "newEffectiveDate": "2019-07-22T15:47:37",
+    "oldEffectiveDate": "2015-08-31T14:46:02"
+  },
+  {
+    "change": "changed-ND-Barnes-Barnes County Auditor-366",
+    "newPhone": "(701) 845-8500 x6666",
+    "oldPhone": "(701) 845-6666",
+    "newEffectiveDate": "2019-07-22T15:47:37",
+    "oldEffectiveDate": "2015-08-31T14:46:02"
+  },
+  {
+    "change": "changed-ND-Bowman-Bowman County Auditor-699",
+    "newEffectiveDate": "2019-07-22T15:47:37",
+    "oldEffectiveDate": "2015-08-31T14:46:02",
+    "newZip": "58623-4342",
+    "oldZip": "58623"
+  },
+  {
+    "change": "changed-ND-Cass-Cass County Auditor-1079",
+    "newEmail": "montplaisirm@casscountynd.gov",
+    "oldEmail": "election@casscountynd.gov",
+    "newEffectiveDate": "2019-07-22T15:47:37",
+    "oldEffectiveDate": "2015-08-31T14:46:02"
+  },
+  {
+    "change": "changed-ND-Dickey-Dickey County Auditor-1863",
+    "newPhone": "(701) 349-3249",
+    "oldPhone": "(701) 349-3249 x3",
+    "newEffectiveDate": "2019-07-22T15:47:37",
+    "oldEffectiveDate": "2017-09-06T16:35:31"
+  },
+  {
+    "change": "changed-ND-Eddy-Eddy County Auditor-2036",
+    "newEffectiveDate": "2019-07-22T15:47:37",
+    "oldEffectiveDate": "2015-08-31T14:48:02",
+    "newAddress1": "524 Central Ave, Ste 201",
+    "oldAddress1": "524 Central Ave"
+  },
+  {
+    "change": "changed-ND-Grand Forks-Grand Forks County Auditor-2648",
+    "newPhone": "(701) 780-8201",
+    "oldPhone": "(701) 780-8200",
+    "newEffectiveDate": "2019-07-22T15:47:37",
+    "oldEffectiveDate": "2015-08-31T14:46:02"
+  },
+  {
+    "change": "changed-ND-Grant-Grant County Auditor-2667",
+    "newEmail": "sarmeier@nd.gov",
+    "oldEmail": "lmutschelknaus@nd.gov",
+    "newEffectiveDate": "2019-07-22T15:47:37",
+    "oldEffectiveDate": "2015-08-31T14:46:02"
+  },
+  {
+    "change": "changed-ND-Griggs-Griggs County Auditor-2782",
+    "newEmail": "samantha.larson@griggscountynd.gov",
+    "oldEmail": "elections@griggscountynd.gov",
+    "newEffectiveDate": "2019-07-22T15:47:37",
+    "oldEffectiveDate": "2015-08-31T14:46:02"
+  },
+  {
+    "change": "changed-OH-Adams-Director, Adams County Board of Elections-26",
+    "newEmail": "adams@OhioSoS.gov",
+    "oldEmail": "adams@ohiosecretaryofstate.gov",
+    "newEffectiveDate": "2019-08-22T09:44:18",
+    "oldEffectiveDate": "2015-08-31T15:17:08"
+  },
+  {
+    "change": "changed-OH-Allen-Director, Allen County Board of Elections-112",
+    "newEmail": "allen@OhioSoS.gov",
+    "oldEmail": "allen@ohiosecretaryofstate.gov",
+    "newEffectiveDate": "2019-08-22T09:44:18",
+    "oldEffectiveDate": "2015-08-31T15:17:08",
+    "newAddress1": "204 N. Main St, Lower Level",
+    "oldAddress1": "204 N. Main St"
+  },
+  {
+    "change": "changed-OH-Ashland-Director, Ashland County Board of Elections-249",
+    "newEmail": "ashland@OhioSoS.gov",
+    "oldEmail": "ashland@OhioSecretaryofState.gov",
+    "newEffectiveDate": "2019-08-22T09:44:18",
+    "oldEffectiveDate": "2015-08-31T15:17:08",
+    "newAddress1": "110 Cottage St, Suite 106",
+    "oldAddress1": "110 Cottage St"
+  },
+  {
+    "change": "changed-OH-Ashtabula-Director, Ashtabula County Board of Elections-256",
+    "newEmail": "ashtabula@OhioSoS.gov",
+    "oldEmail": "elections@co.ashtabula.oh.us",
+    "newEffectiveDate": "2019-08-22T14:47:23",
+    "oldEffectiveDate": "2015-08-31T15:17:08"
+  },
+  {
+    "change": "changed-OH-Athens-Director, Athens County Board of Elections-265",
+    "newEmail": "athens@OhioSoS.gov",
+    "oldEmail": "ATHENS@OHIOSECRETARYOFSTATE.GOV",
+    "newEffectiveDate": "2019-08-22T09:44:18",
+    "oldEffectiveDate": "2015-08-31T15:17:08"
+  },
+  {
+    "change": "changed-OH-Auglaize-Director, Auglaize County Board of Elections-294",
+    "newEmail": "auglaize@OhioSos.gov",
+    "oldEmail": "auglaize@ohiosecretaryofstate.gov",
+    "newEffectiveDate": "2019-08-22T09:44:18",
+    "oldEffectiveDate": "2015-08-31T15:17:08"
+  },
+  {
+    "change": "changed-OH-Belmont-Director, Belmont County Board of Elections-482",
+    "newEmail": "belmont@OhioSos.gov",
+    "oldEmail": "belmont@ohiosecretaryofstate.gov",
+    "newEffectiveDate": "2019-08-22T09:44:18",
+    "oldEffectiveDate": "2015-08-31T15:17:08",
+    "newAddress1": "52180 National Road",
+    "oldAddress1": "103 Plaza Dr, Ste B"
+  },
+  {
+    "change": "changed-OH-Brown-Director, Brown County Board of Elections-821",
+    "newEmail": "brown@OhioSoS.gov",
+    "oldEmail": "brown@ohiosecretaryofstate.gov",
+    "newEffectiveDate": "2019-08-22T09:44:18",
+    "oldEffectiveDate": "2015-08-31T15:17:08",
+    "newAddress1": "Admin Building, 800 Mt. Orab Pike, Ste 111",
+    "oldAddress1": "800 Mt. Orab Pike, Ste 111"
+  },
+  {
+    "change": "changed-OH-Butler-Director, Butler County Board of Elections-907",
+    "newEmail": "butler@OhioSoS.gov",
+    "oldEmail": "BallotReturn@butlercountyohio.org",
+    "newEffectiveDate": "2019-08-22T09:44:18",
+    "oldEffectiveDate": "2016-08-01T11:29:40"
+  },
+  {
+    "change": "changed-OH-Carroll-Director, Carroll County Board of Elections-1041",
+    "newEmail": "carroll@OhioSoS.gov",
+    "oldEmail": "carroll@ohiosecretaryofstate.gov",
+    "newEffectiveDate": "2019-08-22T09:44:18",
+    "oldEffectiveDate": "2015-08-31T15:17:08"
+  },
+  {
+    "change": "changed-OH-Clermont-Director, Clermont County Board of Elections-1353",
+    "newEmail": "clermont@OhioSos.gov",
+    "oldEmail": "clermont@ohiosecretaryofstate.gov",
+    "newEffectiveDate": "2019-08-22T09:44:18",
+    "oldEffectiveDate": "2015-08-31T15:17:08"
+  },
+  {
+    "change": "changed-OH-Clinton-Director, Clinton County Board of Elections-1375",
+    "newEmail": "clinton@OhioSoS.gov",
+    "oldEmail": "vote4@cinci.rr.com",
+    "newEffectiveDate": "2019-08-22T09:50:27",
+    "oldEffectiveDate": "2017-09-06T16:37:32",
+    "newAddress1": "111 S. Nelson Ave., Ste. 4",
+    "oldAddress1": "46 S. South St, Rm 126",
+    "newZip": "45177-2067",
+    "oldZip": "45177-2214"
+  },
+  {
+    "change": "changed-OH-Coshocton-Director, Coshocton County Board of Elections-1532",
+    "newEmail": "coshocto@OhioSoS.gov",
+    "oldEmail": "COSHOCTO@OHIOSECRETARYOFSTATE.GOV",
+    "newEffectiveDate": "2019-08-22T09:44:18",
+    "oldEffectiveDate": "2015-08-31T15:17:08"
+  },
+  {
+    "change": "changed-OH-Crawford-Director, Crawford County Board of Elections-1570",
+    "newEmail": "crawford@OhioSoS.gov",
+    "oldEmail": "crawford@ohiosecretaryofstate.gov",
+    "newEffectiveDate": "2019-08-22T09:44:18",
+    "oldEffectiveDate": "2015-08-31T15:17:08"
+  },
+  {
+    "change": "changed-OH-Cuyahoga-Director, Cuyahoga County Board of Elections-1639",
+    "newPhone": "(216) 443-6472",
+    "oldPhone": "(216) 443-3200",
+    "newEmail": "Votebymail@Cuyahogacounty.us",
+    "oldEmail": "votebymail@cuyahogacounty.us",
+    "newEffectiveDate": "2020-02-03T09:02:29",
+    "oldEffectiveDate": "2020-02-04T13:25:09",
+    "newZip": "44115-2415",
+    "oldZip": "44115-2497"
+  },
+  {
+    "change": "changed-OH-Darke-Director, Darke County Board of Elections-1736",
+    "newEmail": "darke@OhioSoS.gov",
+    "oldEmail": "darke@ohiosecretaryofstate.gov",
+    "newEffectiveDate": "2019-08-22T09:44:18",
+    "oldEffectiveDate": "2015-08-31T15:17:08",
+    "newAddress1": "300 Garst Ave, Ste. 7",
+    "oldAddress1": "300 Garst Ave",
+    "newZip": "45331-2389",
+    "oldZip": "45331-1409"
+  },
+  {
+    "change": "changed-OH-Defiance-Director, Defiance County Board of Elections-1808",
+    "newEmail": "defiance@OhioSoS.gov",
+    "oldEmail": "defiance@ohiosecretaryofstate.gov",
+    "newEffectiveDate": "2019-08-22T09:44:18",
+    "oldEffectiveDate": "2015-08-31T15:17:08"
+  },
+  {
+    "change": "changed-OK-Carter-Secretary, Carter County Election Board-1053",
+    "newEffectiveDate": "2019-08-15T15:54:18",
+    "oldEffectiveDate": "2018-02-22T13:59:08",
+    "newAddress1": "25 A St. NW, Ste. 100",
+    "oldAddress1": "106 Hinkle St SW",
+    "newZip": "73401-9272",
+    "oldZip": "73401-6412"
+  },
+  {
+    "change": "changed-OR-Baker-Baker County Clerk, Elections Office-329",
+    "newEmail": "skirby@bakercounty.org",
+    "oldEmail": "ccarpenter@bakercounty.org",
+    "newEffectiveDate": "2019-07-19T13:43:32",
+    "oldEffectiveDate": "2015-08-31T14:50:32",
+    "newZip": "97814-3365",
+    "oldZip": "97814-3398"
+  },
+  {
+    "change": "changed-OR-Benton-Benton County Clerk, Elections Office-513",
+    "newEffectiveDate": "2019-07-19T13:43:32",
+    "oldEffectiveDate": "2017-09-06T16:41:56",
+    "newZip": "97330-4734",
+    "oldZip": "97330-0888"
+  },
+  {
+    "change": "changed-OR-Columbia-Columbia County Clerk, Elections Office-1461",
+    "newEmail": "elections@co.columbia.or.us",
+    "oldEmail": "betty.huser@co.columbia.or.us",
+    "newEffectiveDate": "2019-07-19T13:43:32",
+    "oldEffectiveDate": "2015-08-31T14:50:32",
+    "newAddress1": "230 Strand St",
+    "oldAddress1": "Columbia County Courthouse, 230 Strand St",
+    "newCity": "St. Helens",
+    "oldCity": "Saint Helens"
+  },
+  {
+    "change": "changed-OR-Coos-Coos County Clerk, Elections Office-1517",
+    "newEffectiveDate": "2019-07-19T13:43:32",
+    "oldEffectiveDate": "2017-09-06T16:41:56",
+    "newAddress1": "250 N Baxter St",
+    "oldAddress1": "Coos County Courthouse, 250 N Baxter St",
+    "newZip": "97423-1875",
+    "oldZip": "97423-1899"
+  },
+  {
+    "change": "changed-OR-Crook-Crook County Clerk, Elections Office-1584",
+    "newEmail": "elections@co.crook.or.us",
+    "oldEmail": "cc_clerk@co.crook.or.us",
+    "newEffectiveDate": "2019-07-19T13:43:32",
+    "oldEffectiveDate": "2017-09-06T16:41:56",
+    "newAddress1": "300 NE 3rd St, Rm 23",
+    "oldAddress1": "300 NE 3rd, Rm 23"
+  },
+  {
+    "change": "changed-OR-Deschutes-Deschutes County Clerk, Elections Office-1846",
+    "newEffectiveDate": "2019-07-19T13:43:32",
+    "oldEffectiveDate": "2017-09-06T16:41:56",
+    "newAddress1": "PO Box 6005",
+    "oldAddress1": "P.O. Box 6005"
+  },
+  {
+    "change": "changed-OR-Douglas-Douglas County Clerk, Elections Office-1906",
+    "newEffectiveDate": "2019-07-19T13:43:32",
+    "oldEffectiveDate": "2015-08-31T14:50:32",
+    "newAddress1": "PO Box 10",
+    "oldAddress1": "P.O. Box 10"
+  },
+  {
+    "change": "changed-OR-Gilliam-Gilliam County Clerk, Elections Office-2559",
+    "newEffectiveDate": "2019-07-19T13:43:32",
+    "oldEffectiveDate": "2015-08-31T14:50:32",
+    "newAddress1": "PO Box 427",
+    "oldAddress1": "P.O. Box 427"
+  },
+  {
+    "change": "changed-OR-Harney-Harney County Clerk, Elections Office-2934",
+    "newEffectiveDate": "2019-07-19T13:43:32",
+    "oldEffectiveDate": "2015-08-31T14:50:32",
+    "newAddress1": "450 N Buena Vista, #14",
+    "oldAddress1": "450 N Buena Vista, 14",
+    "newZip": "97720-1565",
+    "oldZip": "97720-1533"
+  },
+  {
+    "change": "changed-OR-Jackson-Jackson County Clerk, Elections Office-3337",
+    "newEmail": "elections@jacksoncounty.org",
+    "oldEmail": "walkercd@jacksoncounty.org",
+    "newEffectiveDate": "2019-07-19T13:43:32",
+    "oldEffectiveDate": "2017-09-06T16:41:56"
+  },
+  {
+    "change": "changed-OR-Jefferson-Jefferson County Clerk, Elections Office-3389",
+    "newEmail": "kate.zemke@co.jefferson.or.us",
+    "oldEmail": "kathy.marston@co.jefferson.or.us",
+    "newEffectiveDate": "2019-07-19T13:43:32",
+    "oldEffectiveDate": "2015-08-31T14:50:32"
+  },
+  {
+    "change": "changed-OR-Josephine-Josephine County Clerk, Elections Office-3451",
+    "newEffectiveDate": "2019-07-19T13:43:32",
+    "oldEffectiveDate": "2015-08-31T14:50:32",
+    "newAddress1": "PO Box 69",
+    "oldAddress1": "P.O. Box 69"
+  },
+  {
+    "change": "changed-OR-Klamath-Klamath County Clerk, Elections Office-3563",
+    "newEmail": "elections@klamathcounty.org",
+    "oldEmail": "KlamathCountyElections@klamathcounty.org",
+    "newEffectiveDate": "2019-07-19T13:43:32",
+    "oldEffectiveDate": "2017-09-06T16:41:56"
+  },
+  {
+    "change": "changed-PA-Adams-Adams County Board of Elections-27",
+    "newEmail": "acrouse@adamscounty.us",
+    "oldEmail": "mdutko@adamscounty.us",
+    "newEffectiveDate": "2019-07-26T15:54:46",
+    "oldEffectiveDate": "2015-08-31T15:18:08"
+  },
+  {
+    "change": "changed-PA-Allegheny-Allegheny County Board of Elections-107",
+    "newEmail": "Military/OverseasVoting@AlleghenyCounty.us",
+    "oldEmail": "Military/OverseasVoting@alleghenycounty.us",
+    "newEffectiveDate": "2019-02-07T09:40:56",
+    "oldEffectiveDate": "2020-01-28T11:04:44",
+    "newAddress1": "542 Forbes Ave, Ste 604",
+    "oldAddress1": "542 Forbes Ave, Ste 601"
+  },
+  {
+    "change": "changed-PA-Beaver-Beaver County Board of Elections-439",
+    "newEffectiveDate": "2019-07-26T15:54:46",
+    "oldEffectiveDate": "2015-08-31T15:18:08",
+    "newAddress1": "810 Third St.",
+    "oldAddress1": "Beaver County Courthouse"
+  },
+  {
+    "change": "changed-PA-Bedford-Bedford County Board of Elections-456",
+    "newEffectiveDate": "2019-07-26T15:54:46",
+    "oldEffectiveDate": "2016-10-19T09:03:57",
+    "newAddress1": "200 S Juliana St",
+    "oldAddress1": "200 S Juliana St, 3rd Fl"
+  },
+  {
+    "change": "changed-PA-Berks-Berks County Board of Elections-533",
+    "newEffectiveDate": "2019-07-26T15:54:46",
+    "oldEffectiveDate": "2015-08-31T15:18:08",
+    "newAddress1": "633 Court St., 1st Floor",
+    "oldAddress1": "Berks County Courthouse/Services Ctr."
+  },
+  {
+    "change": "changed-PA-Blair-Blair County Board of Elections-617",
+    "newFax": "(814) 693-3144",
+    "oldFax": "(814) 693-3033",
+    "newEffectiveDate": "2019-07-26T15:54:46",
+    "oldEffectiveDate": "2015-08-31T15:18:08",
+    "newAddress1": "423 Allegheny St., Ste 47",
+    "oldAddress1": "Blair County Courthouse",
+    "newZip": "16648-9978",
+    "oldZip": "16648-2022"
+  },
+  {
+    "change": "changed-PA-Bucks-Bucks County Board of Elections-853",
+    "newPhone": "(215) 348-6154",
+    "oldPhone": "(215) 348-6153",
+    "newEffectiveDate": "2019-07-26T15:54:46",
+    "oldEffectiveDate": "2018-01-24T09:52:21"
+  },
+  {
+    "change": "changed-PA-Butler-Butler County Board of Elections-908",
+    "newEffectiveDate": "2019-07-29T15:02:35",
+    "oldEffectiveDate": "2017-09-06T16:47:37",
+    "newAddress1": "124 West Diamond St. P.O. Box 1208",
+    "oldAddress1": "P.O. Box 1208",
+    "newZip": "16001",
+    "oldZip": "16003-1208"
+  },
+  {
+    "change": "changed-PA-Cameron-Cameron County Board of Elections-983",
+    "newEmail": "elections@cameroncountypa.com",
+    "oldEmail": "camcocomm@cameroncountypa.com",
+    "newEffectiveDate": "2019-07-26T15:54:46",
+    "oldEffectiveDate": "2017-09-06T16:47:37"
+  },
+  {
+    "change": "changed-PA-Carbon-Carbon County Board of Elections-1016",
+    "newEffectiveDate": "2019-07-26T15:54:46",
+    "oldEffectiveDate": "2015-08-31T15:18:08",
+    "newAddress1": "76 Susquehanna St. P.O. Box 170",
+    "oldAddress1": "P.O. Box 170"
+  },
+  {
+    "change": "changed-PA-Centre-Centre County Board of Elections-1131",
+    "newEmail": "jemckinley@centrecountypa.gov",
+    "oldEmail": "lmstefanko@centrecountypa.gov",
+    "newEffectiveDate": "2017-09-06T16:47:37",
+    "oldEffectiveDate": "2020-01-27T16:47:37"
+  },
+  {
+    "change": "changed-PA-Chester-Chester County Board of Elections-1210",
+    "newEmail": "ccelectionofficials@chesco.org",
+    "oldEmail": "sburke@chesco.org",
+    "newEffectiveDate": "2019-07-26T15:54:46",
+    "oldEffectiveDate": "2016-01-06T11:06:03",
+    "newAddress1": "601 Westtown Road, Ste 150 P.O. Box 2747",
+    "oldAddress1": "601 Westtown Road, Ste 150"
+  },
+  {
+    "change": "changed-PA-Clearfield-Clearfield County Board of Elections-1344",
+    "newFax": "(814) 765-2642",
+    "oldFax": "(814) 765-2640",
+    "newEffectiveDate": "2019-07-26T15:54:46",
+    "oldEffectiveDate": "2017-09-06T16:47:37"
+  },
+  {
+    "change": "changed-PA-Clinton-Clinton County Board of Elections-1376",
+    "newPhone": "(570) 893-4019",
+    "oldPhone": "(570) 893-4043",
+    "newEffectiveDate": "2019-07-26T15:54:46",
+    "oldEffectiveDate": "2017-09-06T16:47:37",
+    "newAddress1": "2 Piper Way",
+    "oldAddress1": "232 E. Main St",
+    "newCity": "Suite 300",
+    "oldCity": "Lock Haven",
+    "newZip": "17745-0928",
+    "oldZip": "17745-1385"
+  },
+  {
+    "change": "changed-PA-Crawford-Crawford County Board of Elections-1571",
+    "newEmail": "steuta@co.crawford.pa.us",
+    "oldEmail": "rlittle@co.crawford.pa.us",
+    "newEffectiveDate": "2019-07-26T15:54:46",
+    "oldEffectiveDate": "2020-01-26T09:02:41",
+    "newAddress1": "Crawford County Courthouse 903 Diamond Park",
+    "oldAddress1": "Crawford County Courthouse"
+  },
+  {
+    "change": "changed-PR-All-Absentee Voting Administrative Board (JAVA)-97",
+    "newPhone": "(787) 764-5601",
+    "oldPhone": "(787) 777-8357",
+    "newEmail": "java@cee.gobierno.pr",
+    "oldEmail": "java@cee.pr.gov",
+    "newEffectiveDate": "2019-06-28T14:29:39",
+    "oldEffectiveDate": "2018-11-01T10:07:01"
+  },
+  {
+    "change": "changed-RI-Barrington-Barrington Board of Canvassers-379",
+    "newPhone": "(401) 247-1900 x306",
+    "oldPhone": "(401) 247-1900",
+    "newEffectiveDate": "2019-09-24T11:30:45",
+    "oldEffectiveDate": "2015-09-01T11:08:08",
+    "newZip": "02806",
+    "oldZip": "02806-2406"
+  },
+  {
+    "change": "changed-RI-Bristol-Bristol Board of Canvassers-777",
+    "newEmail": "lpcirillo@bristolri.gov",
+    "oldEmail": "lpcirillo@bristolri.us",
+    "newEffectiveDate": "2019-09-24T11:30:45",
+    "oldEffectiveDate": "2015-09-01T11:08:08",
+    "newZip": "02809",
+    "oldZip": "02809-2234"
+  },
+  {
+    "change": "changed-RI-Burrillville-Burrillville Board of Canvassers-894",
+    "newPhone": "(401) 568-4300 x124",
+    "oldPhone": "(401) 568-4300",
+    "newEffectiveDate": "2019-09-24T11:30:45",
+    "oldEffectiveDate": "2015-09-01T11:08:08",
+    "newZip": "02830",
+    "oldZip": "02830-1403"
+  },
+  {
+    "change": "changed-RI-Central Falls-Central Falls Board of Canvassers-1129",
+    "newFax": "(401) 724-2031",
+    "oldFax": "(401) 727-7406",
+    "newPhone": "(401) 616-2414",
+    "oldPhone": "(401) 727-7450",
+    "newEffectiveDate": "2019-09-24T11:30:45",
+    "oldEffectiveDate": "2017-09-06T17:06:11",
+    "newZip": "02863",
+    "oldZip": "02863-2835"
+  },
+  {
+    "change": "changed-RI-Charlestown-Charlestown Board of Canvassers-1152",
+    "newEffectiveDate": "2019-09-24T11:30:45",
+    "oldEffectiveDate": "2015-09-01T11:08:08",
+    "newAddress1": "4540 South County Trail",
+    "oldAddress1": "4540 South County Trl",
+    "newZip": "02813",
+    "oldZip": "02813-3454"
+  },
+  {
+    "change": "changed-RI-Coventry-Coventry Board of Canvassers-1544",
+    "newEffectiveDate": "2019-09-24T11:30:45",
+    "oldEffectiveDate": "2015-09-01T11:08:08",
+    "newZip": "02816",
+    "oldZip": "02816-8909"
+  },
+  {
+    "change": "changed-RI-Cranston-Cranston Board of Canvassers-1561",
+    "newPhone": "(401) 780-3128",
+    "oldPhone": "(401) 780-3126",
+    "newEmail": "nlima@cranstonri.org",
+    "oldEmail": "tbucci@CranstonRI.org",
+    "newEffectiveDate": "2019-09-24T11:30:45",
+    "oldEffectiveDate": "2015-09-01T11:08:08",
+    "newZip": "02910",
+    "oldZip": "02910-2786"
+  },
+  {
+    "change": "changed-RI-Cumberland-Cumberland Board of Canvassers-1615",
+    "newPhone": "(401) 728-2400 x131",
+    "oldPhone": "(401) 728-2400",
+    "newEffectiveDate": "2019-09-24T11:30:45",
+    "oldEffectiveDate": "2015-09-01T11:08:08",
+    "newZip": "02864",
+    "oldZip": "02864-8388"
+  },
+  {
+    "change": "changed-RI-East Greenwich-East Greenwich Board of Canvassers-1987",
+    "newEffectiveDate": "2019-09-24T11:30:45",
+    "oldEffectiveDate": "2017-09-06T17:06:11",
+    "newAddress1": "PO Box 111, 125 Main St",
+    "oldAddress1": "125 Main St, PO Box 111",
+    "newZip": "02818",
+    "oldZip": "02818-0111"
+  },
+  {
+    "change": "changed-RI-East Providence-East Providence Board of Canvassers-1999",
+    "newPhone": "(401) 435-7502",
+    "oldPhone": "(401) 435-7503",
+    "newEffectiveDate": "2019-09-24T11:30:45",
+    "oldEffectiveDate": "2015-09-01T11:08:08",
+    "newZip": "02914",
+    "oldZip": "02914-4530"
+  },
+  {
+    "change": "changed-RI-Exeter-Exeter Board of Canvassers-2201",
+    "newEffectiveDate": "2019-09-24T11:30:45",
+    "oldEffectiveDate": "2015-09-01T11:08:08",
+    "newZip": "02822",
+    "oldZip": "02822-2447"
+  },
+  {
+    "change": "changed-RI-Foster-Foster Board of Canvassers-2350",
+    "newPhone": "(401) 392-9200 x118",
+    "oldPhone": "(401) 392-9200",
+    "newEmail": "ssprague@townoffoster.com",
+    "oldEmail": "sdillon@townoffoster.com",
+    "newEffectiveDate": "2019-09-24T11:30:45",
+    "oldEffectiveDate": "2017-09-06T17:06:11",
+    "newZip": "02825",
+    "oldZip": "02825-1226"
+  },
+  {
+    "change": "changed-RI-Glocester-Glocester Board of Canvassers-2592",
+    "newPhone": "(401) 568-6206 x0",
+    "oldPhone": "(401) 568-6206",
+    "newEmail": "JeanFecteau@glocesterri.org",
+    "oldEmail": "jeanfecteau@glocesterri.org",
+    "newEffectiveDate": "2019-09-24T11:30:45",
+    "oldEffectiveDate": "2015-09-01T11:08:08",
+    "newAddress1": "1145 Putnam Pike, PO Drawer B",
+    "oldAddress1": "1145 Putnam Pike",
+    "newZip": "02814",
+    "oldZip": "02814-0702"
+  },
+  {
+    "change": "changed-RI-Hopkinton-Hopkinton Board of Canvassers-3162",
+    "newEffectiveDate": "2019-09-24T11:30:45",
+    "oldEffectiveDate": "2017-09-06T17:06:11",
+    "newAddress1": "One Townhouse Rd",
+    "oldAddress1": "1 Townhouse Rd",
+    "newZip": "02833",
+    "oldZip": "02833-1142"
+  },
+  {
+    "change": "changed-RI-Jamestown-Jamestown Board of Canvassers-3355",
+    "newEffectiveDate": "2019-09-24T11:30:45",
+    "oldEffectiveDate": "2017-09-06T17:06:11",
+    "newZip": "02835",
+    "oldZip": "02835-1149"
+  },
+  {
+    "change": "changed-RI-Johnston-Johnston Board of Canvassers-3438",
+    "newEffectiveDate": "2019-09-24T11:30:45",
+    "oldEffectiveDate": "2017-09-06T17:06:11",
+    "newZip": "02919",
+    "oldZip": "02919-7192"
+  },
+  {
+    "change": "changed-RI-Lincoln-Lincoln Board of Canvassers-3864",
+    "newFax": "(401) 333-3648",
+    "oldFax": "(401) 753-7107",
+    "newEmail": "mclauson@lincolnri.org",
+    "oldEmail": "kallen@lincolnri.org",
+    "newEffectiveDate": "2019-09-24T11:30:45",
+    "oldEffectiveDate": "2017-09-06T17:06:11",
+    "newAddress1": "PO Box 100, 100 Old River Rd",
+    "oldAddress1": "100 Old River Rd, PO Box 100",
+    "newZip": "02865",
+    "oldZip": "02865-1332"
+  },
+  {
+    "change": "changed-RI-Little Compton-Little Compton Board of Canvassers-3916",
+    "newEffectiveDate": "2019-09-24T11:30:45",
+    "oldEffectiveDate": "2017-09-06T17:06:11",
+    "newAddress1": "PO Box 226, 40 Commons",
+    "oldAddress1": "40 Commons, PO Box 226",
+    "newZip": "02837",
+    "oldZip": "02837-0226"
+  },
+  {
+    "change": "changed-RI-Middletown-Middletown Board of Canvassers-4432",
+    "newEffectiveDate": "2019-09-24T11:30:45",
+    "oldEffectiveDate": "2015-09-01T11:08:08",
+    "newZip": "02842",
+    "oldZip": "02842-5267"
+  },
+  {
+    "change": "changed-RI-Narragansett-Narragansett Board of Canvassers-4710",
+    "newEmail": "tdonovan@narragansettri.gov",
+    "oldEmail": "airons@narragansettri.gov",
+    "newEffectiveDate": "2019-09-24T11:30:45",
+    "oldEffectiveDate": "2015-09-01T11:08:08",
+    "newZip": "02882",
+    "oldZip": "02882-3612"
+  },
+  {
+    "change": "changed-SC-Abbeville-Abbeville Board of Voter Registration-1",
+    "newEffectiveDate": "2019-06-18T10:22:10",
+    "oldEffectiveDate": "2015-08-31T11:46:38",
+    "newAddress1": "903 W Greenwood St., Ste 2500",
+    "oldAddress1": "901 W Greenwood St."
+  },
+  {
+    "change": "changed-SC-Bamberg-Bamberg Board of Voter Registration-344",
+    "newFax": "(803) 245-7968",
+    "oldFax": "(803) 245-3027",
+    "newEmail": "johnsonmc@bambergcounty.sc.gov",
+    "oldEmail": "jeffcoatpp@bambergcounty.sc.gov",
+    "newEffectiveDate": "2019-06-18T10:22:10",
+    "oldEffectiveDate": "2015-08-31T11:46:38"
+  },
+  {
+    "change": "changed-SC-Beaufort-Beaufort Board of Voter Registration-435",
+    "newFax": "(843) 255-9429",
+    "oldFax": "(843) 524-0617",
+    "newEffectiveDate": "2019-06-18T10:22:10",
+    "oldEffectiveDate": "2016-09-30T13:00:21"
+  },
+  {
+    "change": "changed-SC-Berkeley-Berkeley Board of Voter Registration-529",
+    "newEmail": "ahammons@berkeleycountysc.gov",
+    "oldEmail": "charrell@berkeleycountysc.gov",
+    "newEffectiveDate": "2019-06-18T10:22:10",
+    "oldEffectiveDate": "2015-08-31T11:46:38"
+  },
+  {
+    "change": "changed-SC-Calhoun-Calhoun Board of Voter Registration-957",
+    "newFax": "(803) 874-2014",
+    "oldFax": "(803) 874-1242",
+    "newEffectiveDate": "2019-06-18T10:22:10",
+    "oldEffectiveDate": "2015-08-31T11:46:38",
+    "newAddress1": "102 Courthouse Dr, Ste 115",
+    "oldAddress1": "102 Courthouse Dr, Ste 113"
+  },
+  {
+    "change": "changed-SC-Charleston-Charleston Board of Voter Registration-1149",
+    "newFax": "(843) 974-6419",
+    "oldFax": "(843) 745-2236",
+    "newEmail": "voterregistration@charlestoncounty.org",
+    "oldEmail": "absentee@charlestoncounty.org",
+    "newEffectiveDate": "2019-06-18T10:22:10",
+    "oldEffectiveDate": "2015-08-31T11:46:38"
+  },
+  {
+    "change": "changed-SC-Cherokee-Cherokee Board of Voter Registration-1199",
+    "newEmail": "vote.cherokee@elections.sc.gov",
+    "oldEmail": "Suzanne.turner@cherokeecountysc.com",
+    "newEffectiveDate": "2019-06-18T10:22:10",
+    "oldEffectiveDate": "2016-07-25T13:20:41"
+  },
+  {
+    "change": "changed-SC-Chester-Chester Board of Voter Registration-1211",
+    "newFax": "(855) 946-0429",
+    "oldFax": "(803) 581-2696",
+    "newEmail": "kroach@chestercounty.org",
+    "oldEmail": "tgraham@chestercounty.org",
+    "newEffectiveDate": "2019-06-18T10:22:10",
+    "oldEffectiveDate": "2015-08-31T11:46:38",
+    "newAddress1": "P.O. Box 750",
+    "oldAddress1": "P.O. Box 580"
+  },
+  {
+    "change": "changed-SC-Chesterfield-Chesterfield Board of Voter Registration-1220",
+    "newEffectiveDate": "2019-06-18T10:22:10",
+    "oldEffectiveDate": "2015-08-31T11:46:38",
+    "newAddress1": "205 W Main St",
+    "oldAddress1": "416 W Blvd"
+  },
+  {
+    "change": "changed-SC-Colleton-Colleton Board of Voter Registration-1444",
+    "newEmail": "voterregistration@colletoncounty.org",
+    "oldEmail": "aupchurch@colletoncounty.org",
+    "newEffectiveDate": "2019-06-18T10:22:10",
+    "oldEffectiveDate": "2015-08-31T11:46:38"
+  },
+  {
+    "change": "changed-SC-Dorchester-Dorchester Board of Voter Registration-1891",
+    "newFax": "(843) 832-0186",
+    "oldFax": "(843) 563-0186",
+    "newPhone": "(843) 832-0132",
+    "oldPhone": "(843) 563-0132",
+    "newEmail": "mmurray1@dorchestercounty.net",
+    "oldEmail": "vote@dorchestercounty.net",
+    "newEffectiveDate": "2019-06-18T10:22:10",
+    "oldEffectiveDate": "2015-08-31T11:46:38"
+  },
+  {
+    "change": "changed-SC-Edgefield-Edgefield Board of Voter Registration-2049",
+    "newEmail": "tbutler@edgefieldcounty.sc.gov",
+    "oldEmail": "vote@edgefieldcounty.sc.gov",
+    "newEffectiveDate": "2019-06-18T10:33:58",
+    "oldEffectiveDate": "2015-08-31T11:46:38",
+    "newAddress1": "210 Penn St, Ste 1",
+    "oldAddress1": "P.O. Box 442",
+    "newZip": "29824",
+    "oldZip": "29824-0442"
+  },
+  {
+    "change": "changed-SC-Fairfield-Fairfield Board of Voter Registration-2216",
+    "newEmail": "jackie.beaver@fairfieldsc.com",
+    "oldEmail": "voterreg@fairfieldsc.com",
+    "newEffectiveDate": "2019-06-18T10:22:10",
+    "oldEffectiveDate": "2015-08-31T11:46:38",
+    "newAddress1": "P.O. Box 60",
+    "oldAddress1": "P.O. Drawer 60"
+  },
+  {
+    "change": "changed-SD-Brown-Brown County Auditor-822",
+    "newEmail": "Cathy.McNickle@browncounty.sd.gov",
+    "oldEmail": "Maxine.Fischer@browncounty.sd.gov",
+    "newEffectiveDate": "2019-05-23T08:39:49",
+    "oldEffectiveDate": "2015-08-31T14:51:50"
+  },
+  {
+    "change": "changed-SD-Buffalo-Buffalo County Auditor-860",
+    "newEmail": "buffalo.aud@midstatesd.net",
+    "oldEmail": "elaine.wulff@state.sd.us",
+    "newEffectiveDate": "2019-05-23T08:39:49",
+    "oldEffectiveDate": "2015-08-31T14:51:50"
+  },
+  {
+    "change": "changed-SD-Campbell-Campbell County Auditor-990",
+    "newEmail": "campbellcommission@yahoo.com",
+    "oldEmail": "campbellauditor@outlook.com",
+    "newEffectiveDate": "2019-05-23T08:39:49",
+    "oldEffectiveDate": "2017-09-06T16:12:44"
+  },
+  {
+    "change": "changed-SD-Charles Mix-Charles Mix County Auditor-1148",
+    "newEmail": "drolston@charlesmix.org",
+    "oldEmail": "cmixaud@hcinet.net",
+    "newEffectiveDate": "2019-09-18T11:20:08",
+    "oldEffectiveDate": "2015-08-31T14:51:50"
+  },
+  {
+    "change": "changed-SD-Custer-Custer County Auditor-1634",
+    "newEmail": "tcornelison@custercountysd.com",
+    "oldEmail": "countyauditors@custercountysd.com",
+    "newEffectiveDate": "2019-05-23T08:39:49",
+    "oldEffectiveDate": "2017-09-06T16:12:44"
+  },
+  {
+    "change": "changed-SD-Day-Day County Auditor-1758",
+    "newEmail": "auditor@daycounty.org",
+    "oldEmail": "dcaud@itctel.com",
+    "newEffectiveDate": "2019-09-18T11:20:28",
+    "oldEffectiveDate": "2015-08-31T14:51:50"
+  },
+  {
+    "change": "changed-SD-Deuel-Deuel County Auditor-1851",
+    "newEmail": "dcaud1@itctel.com",
+    "oldEmail": "plynde@itctel.com",
+    "newEffectiveDate": "2019-05-23T08:39:49",
+    "oldEffectiveDate": "2017-09-06T16:12:44"
+  },
+  {
+    "change": "changed-TN-Bedford-Bedford County Election Commission-457",
+    "newEffectiveDate": "2019-09-24T08:46:31",
+    "oldEffectiveDate": "2017-09-06T16:29:57",
+    "newAddress1": "100 Public Square West",
+    "oldAddress1": "1 Public Sq, Ste 20",
+    "newAddress2": "Basement",
+    "oldAddress2": "",
+    "newZip": "37160-3985",
+    "oldZip": "37160-3953"
+  },
+  {
+    "change": "changed-TN-Bradley-Bradley County Election Commission-721",
+    "newEmail": "bradley.commission@tn.gov",
+    "oldEmail": "fgreen@bradleyelections.com",
+    "newEffectiveDate": "2020-01-23T07:53:02",
+    "oldEffectiveDate": "2015-08-31T11:22:43"
+  },
+  {
+    "change": "changed-TN-Carroll-Carroll County Election Commission-1042",
+    "newEmail": "carroll.commission@tn.gov",
+    "oldEmail": "election@carroll.tn.org",
+    "newEffectiveDate": "2020-01-23T07:53:31",
+    "oldEffectiveDate": "2017-09-06T16:29:57"
+  },
+  {
+    "change": "changed-TN-Cheatham-Cheatham County Election Commission-1181",
+    "newEmail": "vote@cheathamcountytn.gov",
+    "oldEmail": "votecheatham@gmail.com",
+    "newEffectiveDate": "2019-05-24T07:57:47",
+    "oldEffectiveDate": "2018-04-25T11:26:56",
+    "newZip": "37015-1454",
+    "oldZip": "37015"
+  },
+  {
+    "change": "changed-TN-Chester-Chester County Election Commission-1212",
+    "newEmail": "chester.commission@tn.gov",
+    "oldEmail": "election@chesterelection.com",
+    "newEffectiveDate": "2020-01-23T07:54:08",
+    "oldEffectiveDate": "2016-09-01T13:22:08"
+  },
+  {
+    "change": "changed-TN-Cocke-Cocke County Election Commission-1405",
+    "newEmail": "cocke.commission@tn.gov",
+    "oldEmail": "ccec@cockecounty.net",
+    "newEffectiveDate": "2020-01-23T07:56:42",
+    "oldEffectiveDate": "2015-08-31T11:22:43"
+  },
+  {
+    "change": "changed-TN-Crockett-Crockett County Election Commission-1581",
+    "newEmail": "crockett.commission@tn.gov",
+    "oldEmail": "crockettvote@crockettnet.com",
+    "newEffectiveDate": "2019-11-21T16:07:47",
+    "oldEffectiveDate": "2017-09-06T16:29:57"
+  },
+  {
+    "change": "changed-TX-Anderson-Anderson County Early Voting Clerk-165",
+    "newEffectiveDate": "2019-08-29T15:13:37",
+    "oldEffectiveDate": "2018-04-18T12:02:59",
+    "newAddress1": "703 N. Mallard St., Ste 116",
+    "oldAddress1": "703 N. Mallard St.",
+    "newAddress2": "",
+    "oldAddress2": "Ste 116"
+  },
+  {
+    "change": "changed-TX-Archer-Archer County Early Voting Clerk-210",
+    "newEffectiveDate": "2019-08-29T15:13:37",
+    "oldEffectiveDate": "2018-04-18T12:02:59",
+    "newCity": "Archer City",
+    "oldCity": "Archer CIty"
+  },
+  {
+    "change": "changed-TX-Armstrong-Armstrong County Early Voting Clerk-232",
+    "newFax": "(806) 553-5980",
+    "oldFax": "(806) 226-5301",
+    "newPhone": "(806) 553-2861",
+    "oldPhone": "(806) 226-2081",
+    "newEffectiveDate": "2019-08-29T15:13:37",
+    "oldEffectiveDate": "2018-04-18T12:02:59"
+  },
+  {
+    "change": "changed-TX-Atascosa-Atascosa County Early Voting Clerk-261",
+    "newEffectiveDate": "2019-08-29T15:13:37",
+    "oldEffectiveDate": "2018-04-18T12:02:59",
+    "newAddress1": "914 North Main, Suite 115",
+    "oldAddress1": "914 North Main"
+  },
+  {
+    "change": "changed-TX-Bailey-Bailey County Early Voting Clerk-324",
+    "newFax": "(806) 272-3076",
+    "oldFax": "(806) 272-3538",
+    "newPhone": "(806) 272-3165",
+    "oldPhone": "(806) 272-3044",
+    "newEmail": "elections@co.bailey.tx.us",
+    "oldEmail": "elections@banderacounty.org",
+    "newEffectiveDate": "2019-08-29T15:13:37",
+    "oldEffectiveDate": "2018-04-18T12:02:59",
+    "newAddress1": "300 South First St., Ste. 200",
+    "oldAddress1": "300 South First St.",
+    "newAddress2": "",
+    "oldAddress2": "Ste. 200"
+  },
+  {
+    "change": "changed-TX-Bandera-Bandera County Early Voting Clerk-345",
+    "newFax": "(830) 796-3321",
+    "oldFax": "(830) 796-8146",
+    "newEmail": "elections@banderacounty.org",
+    "oldEmail": "elections@co.bailey.tx.us",
+    "newEffectiveDate": "2019-08-29T15:13:37",
+    "oldEffectiveDate": "2018-04-18T12:02:59"
+  },
+  {
+    "change": "changed-TX-Bee-Bee County Early Voting Clerk-464",
+    "newEmail": "elections@co.bee.tx.us",
+    "oldEmail": "mirella.davis@co.bee.tx.us",
+    "newEffectiveDate": "2019-08-29T15:13:37",
+    "oldEffectiveDate": "2018-04-18T12:02:59",
+    "newAddress1": "107 S St. Mary's St., PO Drawer B",
+    "oldAddress1": "107 S St. Marys St.,",
+    "newAddress2": "",
+    "oldAddress2": "PO Drawer B"
+  },
+  {
+    "change": "changed-TX-Bell-Bell County Early Voting Clerk-473",
+    "newEmail": "Melinda.luedecke@bellcounty.texas.gov",
+    "oldEmail": "Melinda.Luedecke@Bellcounty.texas.gov",
+    "newEffectiveDate": "2019-08-29T15:13:37",
+    "oldEffectiveDate": "2018-04-18T12:02:59"
+  },
+  {
+    "change": "changed-TX-Bexar-Bexar County Early Voting Clerk-565",
+    "newFax": "(210) 335-0371",
+    "oldFax": "(210) 335-0343",
+    "newEmail": "fpca@bexar.org",
+    "oldEmail": "FPCA@bexar.org",
+    "newEffectiveDate": "2019-12-05T12:33:05",
+    "oldEffectiveDate": "2018-04-18T12:02:59",
+    "newAddress2": "",
+    "oldAddress2": "Ste. 100"
+  },
+  {
+    "change": "changed-TX-Blanco-Blanco County Clerk-622",
+    "newName": "Blanco County Clerk",
+    "oldName": "Blanco County Early Voting Clerk",
+    "newEffectiveDate": "2019-12-20T11:36:16",
+    "oldEffectiveDate": "2018-04-18T12:02:59"
+  },
+  {
+    "change": "changed-TX-Bosque-Bosque County Early Voting Clerk-682",
+    "newEffectiveDate": "2019-08-29T15:13:37",
+    "oldEffectiveDate": "2018-04-18T12:02:59"
+  },
+  {
+    "change": "changed-TX-Brazoria-Brazoria County Early Voting Clerk-739",
+    "newFax": "(979) 864-1011",
+    "oldFax": "(979) 864-1164",
+    "newPhone": "(979) 864-1662",
+    "oldPhone": "(979) 864-1371",
+    "newEmail": "cclerkelections@brazoria-county.com",
+    "oldEmail": "susanc@brazoria-county.com",
+    "newEffectiveDate": "2019-08-29T15:13:37",
+    "oldEffectiveDate": "2018-04-18T12:02:59"
+  },
+  {
+    "change": "changed-UT-Beaver-Beaver County Clerk/Auditor-440",
+    "newName": "Beaver County Clerk/Auditor",
+    "oldName": "Beaver County Clerk",
+    "newFax": "(435) 213-1752",
+    "oldFax": "(435) 438-6462",
+    "newEffectiveDate": "2019-09-11T11:57:58",
+    "oldEffectiveDate": "2015-08-31T14:53:37",
+    "newAddress1": "105 E Center Street",
+    "oldAddress1": "P.O. Box 392"
+  },
+  {
+    "change": "changed-UT-Box Elder-Box Elder County Clerk-702",
+    "newPhone": "(435) 734-3393",
+    "oldPhone": "(435) 734-3355",
+    "newEffectiveDate": "2019-09-11T11:58:24",
+    "oldEffectiveDate": "2015-08-31T14:53:37"
+  },
+  {
+    "change": "changed-UT-Cache-Cache County Clerk/Auditor-926",
+    "newName": "Cache County Clerk/Auditor",
+    "oldName": "Cache County Clerk",
+    "newEffectiveDate": "2019-05-29T08:36:58",
+    "oldEffectiveDate": "2015-08-31T14:53:37"
+  },
+  {
+    "change": "changed-UT-Carbon-Carbon County Clerk/Auditor-1017",
+    "newName": "Carbon County Clerk/Auditor",
+    "oldName": "Carbon County Clerk",
+    "newPhone": "(435) 636-3221",
+    "oldPhone": "(435) 636-3224",
+    "newEmail": "seth.marsing@carbon.utah.gov",
+    "oldEmail": "seth.oveson@carbon.utah.gov",
+    "newEffectiveDate": "2019-09-11T11:58:48",
+    "oldEffectiveDate": "2015-08-31T14:53:37"
+  },
+  {
+    "change": "changed-UT-Daggett-Daggett County Clerk/Treasurer-1699",
+    "newName": "Daggett County Clerk/Treasurer",
+    "oldName": "Daggett County Clerk",
+    "newEffectiveDate": "2019-09-11T11:59:26",
+    "oldEffectiveDate": "2017-09-19T08:57:18",
+    "newAddress1": "95 N 1st West, P.O. Box 400",
+    "oldAddress1": "P.O. Box 400"
+  },
+  {
+    "change": "changed-UT-Davis-Davis County Clerk/Auditor-1749",
+    "newName": "Davis County Clerk/Auditor",
+    "oldName": "Davis County Clerk",
+    "newPhone": "(801) 451-3213",
+    "oldPhone": "(801) 451-3324",
+    "newEmail": "bmckenzie@co.davis.ut.us",
+    "oldEmail": "bmckenzie@daviscountyutah.gov",
+    "newEffectiveDate": "2019-09-11T11:59:56",
+    "oldEffectiveDate": "2015-08-31T14:53:37"
+  },
+  {
+    "change": "changed-UT-Duchesne-Duchesne County Clerk/Auditor-1938",
+    "newName": "Duchesne County Clerk/Auditor",
+    "oldName": "Duchesne County Clerk",
+    "newEffectiveDate": "2019-09-11T12:00:29",
+    "oldEffectiveDate": "2015-08-31T14:53:37",
+    "newAddress1": "734 N Center St, P.O. Box 270",
+    "oldAddress1": "P.O. Box 270"
+  },
+  {
+    "change": "changed-UT-Emery-Emery County Clerk/Auditor-2130",
+    "newName": "Emery County Clerk/Auditor",
+    "oldName": "Emery County Clerk",
+    "newEffectiveDate": "2019-09-11T12:01:06",
+    "oldEffectiveDate": "2017-09-19T08:57:18",
+    "newAddress1": "5 East Main, P.O. Box 907",
+    "oldAddress1": "P.O. Box 907"
+  },
+  {
+    "change": "changed-UT-Garfield-Garfield County Auditor/Clerk-2493",
+    "newName": "Garfield County Auditor/Clerk",
+    "oldName": "Garfield County Clerk",
+    "newPhone": "(435) 676-1120",
+    "oldPhone": "(435) 676-8826",
+    "newEffectiveDate": "2019-09-11T12:01:42",
+    "oldEffectiveDate": "2015-08-31T14:53:37"
+  },
+  {
+    "change": "changed-UT-Grand-Grand County Clerk/Auditor-2644",
+    "newName": "Grand County Clerk/Auditor",
+    "oldName": "Grand County Clerk",
+    "newEmail": "cbaird@grandcountyutah.net",
+    "oldEmail": "dcarroll@grandcountyutah.net",
+    "newEffectiveDate": "2019-05-29T08:36:58",
+    "oldEffectiveDate": "2015-08-31T14:53:37"
+  },
+  {
+    "change": "changed-UT-Iron-Iron County Clerk-3289",
+    "newEffectiveDate": "2019-09-11T12:02:29",
+    "oldEffectiveDate": "2015-08-31T14:53:37",
+    "newAddress1": "68 S. 100 E., P.O. Box 429",
+    "oldAddress1": "P.O. Box 429"
+  },
+  {
+    "change": "changed-UT-Kane-Kane County Clerk / Auditor-3470",
+    "newName": "Kane County Clerk / Auditor",
+    "oldName": "Kane County Clerk",
+    "newEffectiveDate": "2019-05-29T08:36:58",
+    "oldEffectiveDate": "2015-08-31T14:53:37"
+  },
+  {
+    "change": "changed-UT-Millard-Millard County Clerk-4452",
+    "newEffectiveDate": "2019-09-11T14:57:17",
+    "oldEffectiveDate": "2015-08-31T14:53:37",
+    "newAddress1": "765 S Highway 99, Ste. 6",
+    "oldAddress1": "765 S Highway 99, Ste 6"
+  },
+  {
+    "change": "changed-UT-Morgan-Morgan County Clerk-4621",
+    "newEffectiveDate": "2019-05-29T08:36:58",
+    "oldEffectiveDate": "2017-09-19T08:57:18",
+    "newAddress1": "48 West Young Street",
+    "oldAddress1": "P.O. Box 886"
+  },
+  {
+    "change": "changed-UT-Piute-Piute County Clerk/Auditor-5315",
+    "newName": "Piute County Clerk/Auditor",
+    "oldName": "Piute County Clerk",
+    "newEffectiveDate": "2019-09-11T12:03:58",
+    "oldEffectiveDate": "2015-08-31T14:53:37",
+    "newAddress1": "550 N. Main, P.O. Box 99",
+    "oldAddress1": "P.O. Box 99"
+  },
+  {
+    "change": "changed-UT-Rich-Rich County Clerk-5624",
+    "newEffectiveDate": "2019-09-11T12:04:42",
+    "oldEffectiveDate": "2015-08-31T14:53:37",
+    "newAddress1": "20 South Main, P.O. Box 218",
+    "oldAddress1": "P.O. Box 218"
+  },
+  {
+    "change": "changed-UT-Salt Lake-Salt Lake County Clerk-5866",
+    "newName": "Salt Lake County Clerk",
+    "oldName": "Salt Lake County Clerk Elections Division",
+    "newEffectiveDate": "2019-05-29T08:50:00",
+    "oldEffectiveDate": "2017-09-19T08:57:18",
+    "newAddress1": "2001 S State St, #S1-200",
+    "oldAddress1": "2001 S State St, #S1100",
+    "newZip": "84114",
+    "oldZip": "84190"
+  },
+  {
+    "change": "changed-UT-San Juan-San Juan County Clerk-5879",
+    "newEffectiveDate": "2019-09-11T12:05:27",
+    "oldEffectiveDate": "2015-08-31T14:53:37"
+  },
+  {
+    "change": "changed-VT-Barnard-Barnard Town Clerk-365",
+    "newEffectiveDate": "2019-06-12T11:57:30",
+    "oldEffectiveDate": "2015-07-07T15:41:18",
+    "newZip": "05031",
+    "oldZip": "05031-0274"
+  },
+  {
+    "change": "changed-VT-Berlin-Berlin Town Clerk-536",
+    "newEmail": "townclerk@berlinvt.org",
+    "oldEmail": "berlintownclerk@berlinvt.org",
+    "newEffectiveDate": "2019-06-12T11:45:18",
+    "oldEffectiveDate": "2015-07-07T15:41:18"
+  },
+  {
+    "change": "changed-VA-Buchanan-Buchanan General Registrar-846",
+    "newEmail": "registrar@buchanancounty-va.gov",
+    "oldEmail": "govote027@vmmicro.net",
+    "newEffectiveDate": "2019-07-15T14:39:03",
+    "oldEffectiveDate": "2015-09-03T10:01:30"
+  },
+  {
+    "change": "changed-VA-Campbell-Campbell General Registrar-992",
+    "newEmail": "klmartin@co.campbell.va.us",
+    "oldEmail": "ktdanos@co.campbell.va.us",
+    "newEffectiveDate": "2018-09-19T09:46:41",
+    "oldEffectiveDate": "2017-09-28T08:27:01"
+  },
+  {
+    "change": "changed-WA-Adams-Adams County Auditor-28",
+    "newEmail": "elections@co.adams.wa.us",
+    "oldEmail": "heidih@co.adams.wa.us",
+    "newEffectiveDate": "2019-07-23T16:01:32",
+    "oldEffectiveDate": "2015-08-31T14:55:37"
+  },
+  {
+    "change": "changed-WA-Benton-Benton County Auditor-515",
+    "newEffectiveDate": "2019-07-23T16:01:32",
+    "oldEffectiveDate": "2015-08-31T14:55:37",
+    "newAddress1": "P.O. Box 1440",
+    "oldAddress1": "P.O. Box 470",
+    "newZip": "99350-9995",
+    "oldZip": "99350-0470"
+  },
+  {
+    "change": "changed-WA-Chelan-Chelan County Auditor-1184",
+    "newEffectiveDate": "2019-07-23T16:01:32",
+    "oldEffectiveDate": "2017-09-06T15:50:27",
+    "newZip": "98801-0400",
+    "oldZip": "98807-0400"
+  },
+  {
+    "change": "changed-WA-Clallam-Clallam County Auditor-1277",
+    "newEmail": "elections@co.clallam.wa.us",
+    "oldEmail": "auditor@co.clallam.wa.us",
+    "newEffectiveDate": "2019-07-16T08:59:12",
+    "oldEffectiveDate": "2017-09-06T15:50:27",
+    "newZip": "98362-3000",
+    "oldZip": "98362-3026"
+  },
+  {
+    "change": "changed-WA-Clark-Clark County Auditor-1299",
+    "newFax": "(564) 397-2394",
+    "oldFax": "(360) 397-2394",
+    "newPhone": "(564) 397-2345",
+    "oldPhone": "(360) 397-2345",
+    "newEffectiveDate": "2019-07-23T16:01:32",
+    "oldEffectiveDate": "2015-08-31T14:55:37"
+  },
+  {
+    "change": "changed-WA-Columbia-Columbia County Auditor-1463",
+    "newEmail": "anne_higgins@co.columbia.wa.us",
+    "oldEmail": "sharon_richter@co.columbia.wa.us",
+    "newEffectiveDate": "2019-07-23T16:01:32",
+    "oldEffectiveDate": "2015-08-31T14:55:37"
+  },
+  {
+    "change": "changed-WA-Douglas-Douglas County Auditor-1908",
+    "newPhone": "(509) 888-6402",
+    "oldPhone": "(509) 745-8527 x6407",
+    "newEffectiveDate": "2019-07-23T16:01:32",
+    "oldEffectiveDate": "2017-09-06T15:50:27"
+  },
+  {
+    "change": "changed-WA-Ferry-Ferry County Auditor-2280",
+    "newEmail": "delections@co.ferry.wa.us",
+    "oldEmail": "elections@co.ferry.wa.us",
+    "newEffectiveDate": "2019-07-23T16:01:32",
+    "oldEffectiveDate": "2017-09-06T15:50:27"
+  },
+  {
+    "change": "changed-WA-Grant-Grant County Auditor-2673",
+    "newPhone": "(509) 754-2011 x2704",
+    "oldPhone": "(509) 754-2011 x2793",
+    "newEmail": "elections@grantcountywa.gov",
+    "oldEmail": "elections@co.grant.wa.us",
+    "newEffectiveDate": "2019-07-23T16:01:32",
+    "oldEffectiveDate": "2017-09-06T15:55:02"
+  },
+  {
+    "change": "changed-WA-Grays Harbor-Grays Harbor County Auditor-2710",
+    "newPhone": "(360) 249-4232",
+    "oldPhone": "(360) 964-1556",
+    "newEffectiveDate": "2019-07-23T16:01:32",
+    "oldEffectiveDate": "2017-09-06T15:50:27"
+  },
+  {
+    "change": "changed-WV-Barbour-Barbour Clerk of the County Commission-361",
+    "newEffectiveDate": "2019-07-16T13:32:40",
+    "oldEffectiveDate": "2015-08-31T15:01:08",
+    "newAddress1": "26 N. Main St.",
+    "oldAddress1": "8 N Main St",
+    "newZip": "26416",
+    "oldZip": "26416-1150"
+  },
+  {
+    "change": "changed-WV-Berkeley-Berkeley Clerk of the County Commission-530",
+    "newFax": "(304) 260-4882",
+    "oldFax": "(304) 267-1794",
+    "newEffectiveDate": "2019-07-16T13:32:40",
+    "oldEffectiveDate": "2015-08-31T15:01:08",
+    "newAddress1": "400 W. Stephen St., Suite 106",
+    "oldAddress1": "100 West King St",
+    "newZip": "25401",
+    "oldZip": "25401-3247"
+  },
+  {
+    "change": "changed-WV-Boone-Boone Clerk of the County Commission-677",
+    "newEffectiveDate": "2019-07-16T13:32:40",
+    "oldEffectiveDate": "2015-08-31T15:01:08",
+    "newZip": "25130",
+    "oldZip": "25130-1174"
+  },
+  {
+    "change": "changed-WV-Braxton-Braxton Clerk of the County Commission-737",
+    "newFax": "(304) 765-2093",
+    "oldFax": "(304) 765-2947",
+    "newEffectiveDate": "2019-07-16T13:32:40",
+    "oldEffectiveDate": "2015-08-31T15:01:08",
+    "newAddress1": "300 Main St., PO Box 486",
+    "oldAddress1": "P.O. Box 486",
+    "newZip": "26601",
+    "oldZip": "26601-0486"
+  },
+  {
+    "change": "changed-WV-Brooke-Brooke Clerk of the County Commission-791",
+    "newPhone": "(304) 737-3661",
+    "oldPhone": "(304) 737-3668",
+    "newEmail": "barbetta@mail.wvnet.edu",
+    "oldEmail": "brookecounty@wvsos.com",
+    "newEffectiveDate": "2019-07-16T13:32:40",
+    "oldEffectiveDate": "2015-08-31T15:01:08",
+    "newZip": "26070",
+    "oldZip": "26070-1742"
+  },
+  {
+    "change": "changed-WV-Cabell-Cabell Clerk of the County Commission-923",
+    "newPhone": "(304) 526-8625",
+    "oldPhone": "(304) 526-8633",
+    "newEmail": "psmith@cabellcountyclerk.org",
+    "oldEmail": "cabellcounty@wvsos.com",
+    "newEffectiveDate": "2019-07-16T13:32:40",
+    "oldEffectiveDate": "2015-08-31T15:01:08",
+    "newZip": "25701",
+    "oldZip": "25701-2083"
+  },
+  {
+    "change": "changed-WV-Calhoun-Calhoun Clerk of the County Commission-959",
+    "newFax": "(304) 354-6447",
+    "oldFax": "(304) 354-6725",
+    "newEmail": "calhounclerk@gmail.com",
+    "oldEmail": "calhouncounty@wvsos.com",
+    "newEffectiveDate": "2019-08-30T14:44:13",
+    "oldEffectiveDate": "2015-08-31T15:01:08",
+    "newAddress1": "363 Main Street, Suite 201",
+    "oldAddress1": "P.O. Box 230",
+    "newAddress2": "PO Box 230",
+    "oldAddress2": "",
+    "newZip": "26147",
+    "oldZip": "26147-0230"
+  },
+  {
+    "change": "changed-WV-Clay-Clay Clerk of the County Commission-1328",
+    "newFax": "(304) 587-4202",
+    "oldFax": "(304) 587-7329",
+    "newEffectiveDate": "2019-07-16T13:32:40",
+    "oldEffectiveDate": "2015-08-31T15:01:08",
+    "newAddress1": "246 Main St., P.O. Box 190",
+    "oldAddress1": "P.O. Box 190",
+    "newZip": "25043",
+    "oldZip": "25043-0190"
+  },
+  {
+    "change": "changed-WV-Doddridge-Doddridge Clerk of the County Commission-1878",
+    "newEffectiveDate": "2019-07-16T13:32:40",
+    "oldEffectiveDate": "2015-08-31T15:01:08",
+    "newAddress1": "108 E. Court St, Suite 1",
+    "oldAddress1": "118 E. Court St, Rm 102",
+    "newZip": "26456",
+    "oldZip": "26456-1262"
+  },
+  {
+    "change": "changed-WV-Fayette-Fayette Clerk of the County Commission-2262",
+    "newEmail": "aliciadtreadway07@yahoo.com",
+    "oldEmail": "fayettecounty@wvsos.com",
+    "newEffectiveDate": "2020-01-22T14:28:36",
+    "oldEffectiveDate": "2015-08-31T15:01:08",
+    "newAddress1": "100 Court St., Suite 1, P.O. Box 569",
+    "oldAddress1": "P.O. Box 569",
+    "newZip": "25840",
+    "oldZip": "25840-0569"
+  },
+  {
+    "change": "changed-WV-Gilmer-Gilmer Clerk of the County Commission-2565",
+    "newEffectiveDate": "2019-07-16T13:32:40",
+    "oldEffectiveDate": "2015-08-31T15:01:08",
+    "newZip": "26351",
+    "oldZip": "26351-1246"
+  },
+  {
+    "change": "changed-WV-Grant-Grant Clerk of the County Commission-2674",
+    "newEffectiveDate": "2019-07-16T13:32:40",
+    "oldEffectiveDate": "2015-08-31T15:01:08",
+    "newZip": "26847",
+    "oldZip": "26847-1705"
+  },
+  {
+    "change": "changed-WV-Greenbrier-Greenbrier Clerk of the County Commission-2729",
+    "newEffectiveDate": "2019-07-16T13:32:40",
+    "oldEffectiveDate": "2015-08-31T15:01:08",
+    "newAddress1": "912 Court St. N., PO Box 506",
+    "oldAddress1": "200 N Court St",
+    "newZip": "24901",
+    "oldZip": "24901-1170"
+  },
+  {
+    "change": "changed-WV-Hampshire-Hampshire Clerk of the County Commission-2870",
+    "newEffectiveDate": "2019-07-16T13:32:40",
+    "oldEffectiveDate": "2015-08-31T15:01:08",
+    "newAddress1": "19 East Main St., PO Box 806",
+    "oldAddress1": "66 N. High St",
+    "newZip": "26757",
+    "oldZip": "26757-1600"
+  },
+  {
+    "change": "changed-WV-Hancock-Hancock Clerk of the County Commission-2888",
+    "newEffectiveDate": "2019-07-16T13:32:40",
+    "oldEffectiveDate": "2015-08-31T15:01:08",
+    "newAddress1": "102 North Court St., PO Box 367",
+    "oldAddress1": "P.O. Box 367",
+    "newZip": "26047",
+    "oldZip": "26047-0367"
+  },
+  {
+    "change": "changed-WV-Hardy-Hardy Clerk of the County Commission-2924",
+    "newEffectiveDate": "2019-07-16T13:32:40",
+    "oldEffectiveDate": "2015-08-31T15:01:08",
+    "newAddress1": "204 Washington St, Rm 111",
+    "oldAddress1": "204 Washington St, Rm 1111",
+    "newZip": "26836",
+    "oldZip": "26836-1155"
+  },
+  {
+    "change": "changed-WV-Harrison-Harrison Clerk of the County Commission-2949",
+    "newEffectiveDate": "2019-07-16T13:32:40",
+    "oldEffectiveDate": "2015-08-31T15:01:08",
+    "newZip": "26301",
+    "oldZip": "26301-2955"
+  },
+  {
+    "change": "changed-WV-Jackson-Jackson Clerk of the County Commission-3341",
+    "newPhone": "(304) 373-2250",
+    "oldPhone": "(304) 373-2258",
+    "newEmail": "cheryl.bright@jacksoncountywv.com",
+    "oldEmail": "jacksoncounty@wvsos.com",
+    "newEffectiveDate": "2019-07-16T13:32:40",
+    "oldEffectiveDate": "2015-08-31T15:01:08",
+    "newAddress1": "100 Court St. North, P.O. Box 800",
+    "oldAddress1": "P.O. Box 800",
+    "newZip": "25271",
+    "oldZip": "25271-0800"
+  },
+  {
+    "change": "changed-WV-Jefferson-Jefferson Clerk of the County Commission-3394",
+    "newPhone": "304-728-3246",
+    "oldPhone": "304-728-3386",
+    "newEffectiveDate": "2019-07-16T13:32:40",
+    "oldEffectiveDate": "2016-02-10T07:42:03",
+    "newAddress1": "100 East Washington St., P.O. Box 208",
+    "oldAddress1": "P.O. Box 208",
+    "newZip": "25414",
+    "oldZip": "25414-1072"
+  },
+  {
+    "change": "changed-WV-Kanawha-Kanawha Clerk of the County Commission-3467",
+    "newEmail": "veramccormick@kanawha.us",
+    "oldEmail": "kanawhacounty@wvsos.com",
+    "newEffectiveDate": "2019-07-16T13:32:40",
+    "oldEffectiveDate": "2015-08-31T15:01:08",
+    "newAddress1": "415 Quarrier Street",
+    "oldAddress1": "P.O. Box 3226",
+    "newZip": "25301",
+    "oldZip": "25332-3226"
+  },
+  {
+    "change": "added-WI-ADAMS COUNTY-ADAMS COUNTY-7509",
+    "newId": 7509,
+    "newName": "ADAMS COUNTY",
+    "newFax": "608-339-4514",
+    "newPhone": "608-339-4556",
+    "newEmail": "countyclerkdept@co.adams.wi.us",
+    "newEffectiveDate": "2019-08-13T14:03:04",
+    "newAddress1": "PO BOX 278",
+    "newAddress2": "",
+    "newAddress3": "",
+    "newCity": "FRIENDSHIP",
+    "newState": "WI",
+    "newZip": "53934-0278",
+    "newJurisdictionName": "ADAMS COUNTY",
+    "newJurisdictionType": "County"
+  },
+  {
+    "change": "added-WI-ASHLAND COUNTY-ASHLAND COUNTY-7528",
+    "newId": 7528,
+    "newName": "ASHLAND COUNTY",
+    "newFax": "715-682-7032",
+    "newPhone": "715-682-7000 x713",
+    "newEmail": "heather.schutte@co.ashland.wi.us",
+    "newEffectiveDate": "2019-08-13T14:03:04",
+    "newAddress1": "201 MAIN ST W RM 202",
+    "newAddress2": "",
+    "newAddress3": "",
+    "newCity": "ASHLAND",
+    "newState": "WI",
+    "newZip": "54806-1652",
+    "newJurisdictionName": "ASHLAND COUNTY",
+    "newJurisdictionType": "County"
+  },
+  {
+    "change": "added-WI-BARRON COUNTY-BARRON COUNTY-7545",
+    "newId": 7545,
+    "newName": "BARRON COUNTY",
+    "newFax": "715-537-6820",
+    "newPhone": "715-537-6200",
+    "newEmail": "DEEANN.COOK@CO.BARRON.WI.US",
+    "newEffectiveDate": "2019-08-13T14:03:04",
+    "newAddress1": "335 E MONROE AVE RM 2130",
+    "newAddress2": "",
+    "newAddress3": "",
+    "newCity": "BARRON",
+    "newState": "WI",
+    "newZip": "54812-1482",
+    "newJurisdictionName": "BARRON COUNTY",
+    "newJurisdictionType": "County"
+  },
+  {
+    "change": "added-WI-BAYFIELD COUNTY-BAYFIELD COUNTY-7581",
+    "newId": 7581,
+    "newName": "BAYFIELD COUNTY",
+    "newFax": "715-373-6153",
+    "newPhone": "715-373-6100",
+    "newEmail": "SFIBERT@BAYFIELDCOUNTY.ORG",
+    "newEffectiveDate": "2019-08-13T14:03:04",
+    "newAddress1": "117 E 5TH ST",
+    "newAddress2": "",
+    "newAddress3": "",
+    "newCity": "WASHBURN",
+    "newState": "WI",
+    "newZip": "54891-4522",
+    "newJurisdictionName": "BAYFIELD COUNTY",
+    "newJurisdictionType": "County"
+  },
+  {
+    "change": "added-WI-BROWN COUNTY-BROWN COUNTY-7610",
+    "newId": 7610,
+    "newName": "BROWN COUNTY",
+    "newFax": "920-448-4498",
+    "newPhone": "920-448-4019",
+    "newEmail": "juno_sl@co.brown.wi.us",
+    "newEffectiveDate": "2019-08-13T14:03:04",
+    "newAddress1": "PO BOX 23600",
+    "newAddress2": "",
+    "newAddress3": "",
+    "newCity": "GREEN BAY",
+    "newState": "WI",
+    "newZip": "54301",
+    "newJurisdictionName": "BROWN COUNTY",
+    "newJurisdictionType": "County"
+  },
+  {
+    "change": "added-WI-BUFFALO COUNTY-BUFFALO COUNTY-7635",
+    "newId": 7635,
+    "newName": "BUFFALO COUNTY",
+    "newFax": "608-685-6213",
+    "newPhone": "608-685-6209",
+    "newEmail": "ROXANN.HALVERSON@BUFFALOCOUNTY.COM",
+    "newEffectiveDate": "2019-08-13T14:03:05",
+    "newAddress1": "P.O. BOX 58",
+    "newAddress2": "",
+    "newAddress3": "",
+    "newCity": "ALMA",
+    "newState": "WI",
+    "newZip": "54610",
+    "newJurisdictionName": "BUFFALO COUNTY",
+    "newJurisdictionType": "County"
+  },
+  {
+    "change": "added-WI-BURNETT COUNTY-BURNETT COUNTY-7659",
+    "newId": 7659,
+    "newName": "BURNETT COUNTY",
+    "newFax": "715-349-2169",
+    "newPhone": "715-349-2173",
+    "newEmail": "WHINRICHS@BURNETTCOUNTY.ORG",
+    "newEffectiveDate": "2019-08-13T14:03:05",
+    "newAddress1": "7410 COUNTY ROAD K STE 105",
+    "newAddress2": "",
+    "newAddress3": "",
+    "newCity": "SIREN",
+    "newState": "WI",
+    "newZip": "54872-9067",
+    "newJurisdictionName": "BURNETT COUNTY",
+    "newJurisdictionType": "County"
+  },
+  {
+    "change": "added-WI-CALUMET COUNTY-CALUMET COUNTY-7684",
+    "newId": 7684,
+    "newName": "CALUMET COUNTY",
+    "newFax": "920-849-1469",
+    "newPhone": "920-849-1458",
+    "newEmail": "beth.hauser@calumetcounty.org",
+    "newEffectiveDate": "2019-08-13T14:03:05",
+    "newAddress1": "206 COURT ST",
+    "newAddress2": "",
+    "newAddress3": "",
+    "newCity": "CHILTON",
+    "newState": "WI",
+    "newZip": "53014-1127",
+    "newJurisdictionName": "CALUMET COUNTY",
+    "newJurisdictionType": "County"
+  },
+  {
+    "change": "added-WI-CHIPPEWA COUNTY-CHIPPEWA COUNTY-7702",
+    "newId": 7702,
+    "newName": "CHIPPEWA COUNTY",
+    "newFax": "715-726-7987",
+    "newPhone": "715-726-7985",
+    "newEmail": "jsadler@co.chippewa.wi.us",
+    "newEffectiveDate": "2019-08-13T14:03:05",
+    "newAddress1": "711 N BRIDGE ST RM 109",
+    "newAddress2": "",
+    "newAddress3": "",
+    "newCity": "CHIPPEWA FLS",
+    "newState": "WI",
+    "newZip": "54729-1845",
+    "newJurisdictionName": "CHIPPEWA COUNTY",
+    "newJurisdictionType": "County"
+  },
+  {
+    "change": "added-WI-CITY OF ABBOTSFORD - MULTIPLE COUNTIES-CITY OF ABBOTSFORD - MULTIPLE COUNTIES-7772",
+    "newId": 7772,
+    "newName": "CITY OF ABBOTSFORD - MULTIPLE COUNTIES",
+    "newFax": "715-223-8891",
+    "newPhone": "715-223-3444 x102",
+    "newEmail": "d.grady@ci.abbotsford.wi.us",
+    "newEffectiveDate": "2019-08-13T14:03:06",
+    "newAddress1": "PO BOX 589",
+    "newAddress2": "",
+    "newAddress3": "",
+    "newCity": "ABBOTSFORD",
+    "newState": "WI",
+    "newZip": "54405-0589",
+    "newJurisdictionName": "CITY OF ABBOTSFORD - MULTIPLE COUNTIES",
+    "newJurisdictionType": "City"
+  },
+  {
+    "change": "added-WI-CITY OF ADAMS - ADAMS COUNTY-CITY OF ADAMS - ADAMS COUNTY-7527",
+    "newId": 7527,
+    "newName": "CITY OF ADAMS - ADAMS COUNTY",
+    "newFax": "608-339-8170",
+    "newPhone": "608-339-6516",
+    "newEmail": "jwinters@cityofadams-wi.gov",
+    "newEffectiveDate": "2019-08-13T14:03:04",
+    "newAddress1": "PO BOX 1009",
+    "newAddress2": "",
+    "newAddress3": "",
+    "newCity": "ADAMS",
+    "newState": "WI",
+    "newZip": "53910-1009",
+    "newJurisdictionName": "CITY OF ADAMS - ADAMS COUNTY",
+    "newJurisdictionType": "City"
+  },
+  {
+    "change": "added-WI-CITY OF ALGOMA - KEWAUNEE COUNTY-CITY OF ALGOMA - KEWAUNEE COUNTY-8332",
+    "newId": 8332,
+    "newName": "CITY OF ALGOMA - KEWAUNEE COUNTY",
+    "newFax": "920-487-3499",
+    "newPhone": "920-487-5203",
+    "newEmail": "jamie.jackson@algomacity.org",
+    "newEffectiveDate": "2019-08-13T14:03:09",
+    "newAddress1": "416 FREMONT ST",
+    "newAddress2": "",
+    "newAddress3": "",
+    "newCity": "ALGOMA",
+    "newState": "WI",
+    "newZip": "54201-1353",
+    "newJurisdictionName": "CITY OF ALGOMA - KEWAUNEE COUNTY",
+    "newJurisdictionType": "City"
+  },
+  {
+    "change": "added-WI-CITY OF ALMA - BUFFALO COUNTY-CITY OF ALMA - BUFFALO COUNTY-7655",
+    "newId": 7655,
+    "newName": "CITY OF ALMA - BUFFALO COUNTY",
+    "newFax": "608-685-3330",
+    "newPhone": "608-685-3330",
+    "newEmail": "cityalma277@gmail.com",
+    "newEffectiveDate": "2019-08-13T14:03:05",
+    "newAddress1": "PO BOX 277",
+    "newAddress2": "",
+    "newAddress3": "",
+    "newCity": "ALMA",
+    "newState": "WI",
+    "newZip": "54610-0277",
+    "newJurisdictionName": "CITY OF ALMA - BUFFALO COUNTY",
+    "newJurisdictionType": "City"
+  },
+  {
+    "change": "added-WI-CITY OF ALTOONA - EAU CLAIRE COUNTY-CITY OF ALTOONA - EAU CLAIRE COUNTY-8029",
+    "newId": 8029,
+    "newName": "CITY OF ALTOONA - EAU CLAIRE COUNTY",
+    "newFax": "715-839-1800",
+    "newPhone": "715-839-6092",
+    "newEmail": "CINDYB@CI.ALTOONA.WI.US",
+    "newEffectiveDate": "2018-09-12T10:08:45",
+    "newAddress1": "1303 LYNN AVE",
+    "newAddress2": "",
+    "newAddress3": "",
+    "newCity": "ALTOONA",
+    "newState": "WI",
+    "newZip": "54720-1942",
+    "newJurisdictionName": "CITY OF ALTOONA - EAU CLAIRE COUNTY",
+    "newJurisdictionType": "City"
+  },
+  {
+    "change": "added-WI-CITY OF AMERY - POLK COUNTY-CITY OF AMERY - POLK COUNTY-8781",
+    "newId": 8781,
+    "newName": "CITY OF AMERY - POLK COUNTY",
+    "newFax": "715-268-4870",
+    "newPhone": "715-268-3411",
+    "newEmail": "patty.bjorklund@amerywi.gov",
+    "newEffectiveDate": "2019-08-13T14:03:11",
+    "newAddress1": "118 CENTER ST W",
+    "newAddress2": "",
+    "newAddress3": "",
+    "newCity": "AMERY",
+    "newState": "WI",
+    "newZip": "54001-1151",
+    "newJurisdictionName": "CITY OF AMERY - POLK COUNTY",
+    "newJurisdictionType": "City"
+  },
+  {
+    "change": "added-WI-CITY OF ANTIGO - LANGLADE COUNTY-CITY OF ANTIGO - LANGLADE COUNTY-8399",
+    "newId": 8399,
+    "newName": "CITY OF ANTIGO - LANGLADE COUNTY",
+    "newFax": "715-627-7099",
+    "newPhone": "715-623-3633 x102",
+    "newEmail": "KMATUCHESKI@ANTIGO-CITY.ORG",
+    "newEffectiveDate": "2019-08-13T14:03:09",
+    "newAddress1": "700 EDISON ST",
+    "newAddress2": "",
+    "newAddress3": "",
+    "newCity": "ANTIGO",
+    "newState": "WI",
+    "newZip": "54409-1955",
+    "newJurisdictionName": "CITY OF ANTIGO - LANGLADE COUNTY",
+    "newJurisdictionType": "City"
+  },
+  {
+    "change": "added-WI-CITY OF APPLETON - MULTIPLE COUNTIES-CITY OF APPLETON - MULTIPLE COUNTIES-8691",
+    "newId": 8691,
+    "newName": "CITY OF APPLETON - MULTIPLE COUNTIES",
+    "newFax": "920-832-5823",
+    "newPhone": "920-832-6443",
+    "newEmail": "kami.lynch@appleton.org",
+    "newEffectiveDate": "2018-09-12T09:14:18",
+    "newAddress1": "100 N APPLETON ST",
+    "newAddress2": "",
+    "newAddress3": "",
+    "newCity": "APPLETON",
+    "newState": "WI",
+    "newZip": "54911-4702",
+    "newJurisdictionName": "CITY OF APPLETON - MULTIPLE COUNTIES",
+    "newJurisdictionType": "City"
+  },
+  {
+    "change": "added-WI-CITY OF ARCADIA - TREMPEALEAU COUNTY-CITY OF ARCADIA - TREMPEALEAU COUNTY-9148",
+    "newId": 9148,
+    "newName": "CITY OF ARCADIA - TREMPEALEAU COUNTY",
+    "newFax": "608-323-3242",
+    "newPhone": "608-323-3359",
+    "newEmail": "cityclerk@cityofarcadiawi.com",
+    "newEffectiveDate": "2019-08-13T14:03:16",
+    "newAddress1": "203 W MAIN ST",
+    "newAddress2": "",
+    "newAddress3": "",
+    "newCity": "ARCADIA",
+    "newState": "WI",
+    "newZip": "54612-1329",
+    "newJurisdictionName": "CITY OF ARCADIA - TREMPEALEAU COUNTY",
+    "newJurisdictionType": "City"
+  },
+  {
+    "change": "added-WI-CITY OF ASHLAND - MULTIPLE COUNTIES-CITY OF ASHLAND - MULTIPLE COUNTIES-7543",
+    "newId": 7543,
+    "newName": "CITY OF ASHLAND - MULTIPLE COUNTIES",
+    "newFax": "715-682-7048",
+    "newPhone": "715-682-7071",
+    "newEmail": "doliphant@coawi.org",
+    "newEffectiveDate": "2018-09-12T12:34:59",
+    "newAddress1": "601 MAIN ST W",
+    "newAddress2": "",
+    "newAddress3": "",
+    "newCity": "ASHLAND",
+    "newState": "WI",
+    "newZip": "54806-1537",
+    "newJurisdictionName": "CITY OF ASHLAND - MULTIPLE COUNTIES",
+    "newJurisdictionType": "City"
+  },
+  {
+    "change": "added-WI-CITY OF AUGUSTA - EAU CLAIRE COUNTY-CITY OF AUGUSTA - EAU CLAIRE COUNTY-8030",
+    "newId": 8030,
+    "newName": "CITY OF AUGUSTA - EAU CLAIRE COUNTY",
+    "newFax": "715-286-5606",
+    "newPhone": "715-286-2555",
+    "newEmail": "cityclerk@cityofaugusta.org",
+    "newEffectiveDate": "2019-08-13T14:03:08",
+    "newAddress1": "145 W LINCOLN ST",
+    "newAddress2": "",
+    "newAddress3": "",
+    "newCity": "AUGUSTA",
+    "newState": "WI",
+    "newZip": "54722-9152",
+    "newJurisdictionName": "CITY OF AUGUSTA - EAU CLAIRE COUNTY",
+    "newJurisdictionType": "City"
+  },
+  {
+    "change": "changed-WY-Hot Springs-Hot Springs County Clerk-3171",
+    "newEmail": "RoseD@hscounty.com",
+    "oldEmail": "ninaw@hscounty.com",
+    "newEffectiveDate": "2019-07-29T15:52:03",
+    "oldEffectiveDate": "2015-08-31T14:59:23"
+  },
+  {
+    "change": "changed-WY-Lincoln-Lincoln County Clerk-3870",
+    "newEmail": "ABrunski@lcwy.org",
+    "oldEmail": "jwagner@lcwy.org",
+    "newEffectiveDate": "2019-07-29T15:52:03",
+    "oldEffectiveDate": "2017-09-07T12:49:46"
+  },
+  {
+    "change": "changed-WY-Natrona-Natrona County Clerk-4720",
+    "newEmail": "TGood@natronacounty-wy.gov",
+    "oldEmail": "rvitto@natronacounty-wy.gov",
+    "newEffectiveDate": "2019-07-29T15:52:03",
+    "oldEffectiveDate": "2015-08-31T14:59:23"
+  },
+  {
+    "change": "changed-WY-Sublette-Sublette County Clerk-6418",
+    "newEmail": "Carrie.Long@sublettewyo.com",
+    "oldEmail": "maryl@sublettewyo.com",
+    "newEffectiveDate": "2019-07-29T15:52:03",
+    "oldEffectiveDate": "2015-08-31T14:59:23"
+  },
+  {
+    "change": "changed-WY-Sweetwater-Sweetwater County Clerk-6497",
+    "newEmail": "LaneC@sweet.wy.us",
+    "oldEmail": "davisd@sweet.wy.us",
+    "newEffectiveDate": "2019-07-29T15:52:03",
+    "oldEffectiveDate": "2015-08-31T14:59:23"
+  }
+]

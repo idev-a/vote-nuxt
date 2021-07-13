@@ -1,0 +1,135 @@
+[
+  {
+    "change": "changed-AL-Blount-Blount County Circuit Clerk-6",
+    "newPhone": "205-625-4153",
+    "oldPhone": "205-625-4121",
+    "newEffectiveDate": "2021-07-06T11:26:43",
+    "oldEffectiveDate": "2019-07-16T10:57:34"
+  },
+  {
+    "change": "changed-AL-Choctaw-Choctaw County Circuit Clerk-13",
+    "newEmail": "candace.jenkins@alacourt.gov",
+    "oldEmail": "Carol.Mason@vote.alabama.gov",
+    "newEffectiveDate": "2021-07-06T11:26:43",
+    "oldEffectiveDate": "2019-07-16T10:57:34"
+  },
+  {
+    "change": "changed-AL-Coffee-Coffee County Absentee Elections Manager-17",
+    "newPhone": "334-347-2519",
+    "oldPhone": "334-894-1100",
+    "newEffectiveDate": "2021-07-06T11:26:43",
+    "oldEffectiveDate": "2019-07-16T10:57:34"
+  },
+  {
+    "change": "changed-AL-Covington-Covington County Circuit Clerk-21",
+    "newPhone": "334-804-2520",
+    "oldPhone": "334-804-2521",
+    "newEffectiveDate": "2021-07-06T11:26:43",
+    "oldEffectiveDate": "2019-07-16T10:57:34"
+  },
+  {
+    "change": "changed-AL-Dale-Dale County Circuit Clerk-24",
+    "newPhone": "334-774-5003",
+    "oldPhone": "334-774-5006",
+    "newEffectiveDate": "2021-07-06T11:26:43",
+    "oldEffectiveDate": "2019-07-16T10:57:34"
+  },
+  {
+    "change": "changed-AL-Etowah-Etowah County Circuit Clerk-29",
+    "newPhone": "256-549-2174",
+    "oldPhone": "256-549-2181",
+    "newEffectiveDate": "2021-07-06T11:40:46",
+    "oldEffectiveDate": "2019-07-16T10:57:34"
+  },
+  {
+    "change": "changed-AL-Franklin-Franklin County Circuit Clerk-31",
+    "newPhone": "256-332-8865",
+    "oldPhone": "256-332-8861",
+    "newEffectiveDate": "2021-07-06T11:26:43",
+    "oldEffectiveDate": "2019-07-16T10:57:34"
+  },
+  {
+    "change": "changed-AL-Greene-Greene County Circuit Clerk-33",
+    "newPhone": "205-372-3598",
+    "oldPhone": "205-372-6917",
+    "newEffectiveDate": "2021-07-06T11:26:43",
+    "oldEffectiveDate": "2019-07-16T10:57:34"
+  },
+  {
+    "change": "changed-AL-Jackson-Jackson County Circuit Clerk-37",
+    "newEffectiveDate": "2021-07-06T11:41:11",
+    "oldEffectiveDate": "2019-07-16T10:57:34",
+    "newAddress1": "PO Box 459",
+    "oldAddress1": "102 E Laurel St",
+    "newZip": "35768",
+    "oldZip": "35771"
+  },
+  {
+    "change": "changed-AL-Lee-Lee County Circuit Clerk-43",
+    "newName": "Lee County Circuit Clerk",
+    "oldName": "Lee County Absentee Manager",
+    "newEmail": "",
+    "oldEmail": "absentee@leeco.us",
+    "newEffectiveDate": "2021-07-06T11:26:43",
+    "oldEffectiveDate": "2020-10-15T10:57:34"
+  },
+  {
+    "change": "changed-AL-Marengo-Marengo County Probate/AEM-48",
+    "newName": "Marengo County Probate/AEM",
+    "oldName": "Marengo County Circuit Clerk",
+    "newPhone": "334-295-2210",
+    "oldPhone": "334-295-2224",
+    "newEmail": "marengoprobate@gmail.com",
+    "oldEmail": "Kenny.Freeman@alacourt.gov",
+    "newEffectiveDate": "2021-07-06T11:26:43",
+    "oldEffectiveDate": "2019-07-16T10:57:34",
+    "newAddress1": "PO Box 480668",
+    "oldAddress1": "PO Box 480566"
+  },
+  {
+    "change": "changed-AL-Marshall-Marshall County Circuit Clerk-50",
+    "newPhone": "256-571-7790",
+    "oldPhone": "256-571-7785",
+    "newEffectiveDate": "2021-07-06T11:26:43",
+    "oldEffectiveDate": "2019-07-16T10:57:34"
+  },
+  {
+    "change": "changed-AL-Montgomery-Montgomery County Circuit Clerk-53",
+    "newPhone": "334-832-1281",
+    "oldPhone": "334-832-1260",
+    "newEffectiveDate": "2021-07-06T11:26:43",
+    "oldEffectiveDate": "2019-07-16T10:57:34"
+  },
+  {
+    "change": "changed-AL-Perry-Perry County Circuit Clerk-55",
+    "newEffectiveDate": "2021-07-06T11:26:43",
+    "oldEffectiveDate": "2019-07-16T10:57:34",
+    "newAddress1": "PO Box 508",
+    "oldAddress1": "PO Box 505"
+  },
+  {
+    "change": "changed-AL-Tallapoosa-Tallapoosa County Circuit Clerk-64",
+    "newPhone": "256-825-1059",
+    "oldPhone": "256-496-3106",
+    "newEffectiveDate": "2021-07-06T11:26:43",
+    "oldEffectiveDate": "2019-07-16T10:57:34"
+  },
+  {
+    "change": "changed-AL-Walker-Walker County Circuit Clerk-66",
+    "newEffectiveDate": "2021-07-06T11:26:43",
+    "oldEffectiveDate": "2019-09-19T14:32:08",
+    "newAddress1": "1803 3rd Ave Ste 205",
+    "oldAddress1": "1801 3rd Ave Ste 205"
+  },
+  {
+    "change": "changed-TX-Dawson-Dawson County Early Voting Clerk-3446",
+    "newFax": "(806) 810-2036",
+    "oldFax": "(806) 872-2473",
+    "newPhone": "(806) 810-2035",
+    "oldPhone": "(806) 872-3778",
+    "newEmail": "clare.christy@co.dawson.tx.us",
+    "oldEmail": "dawsonclerk@windstream.net",
+    "newEffectiveDate": "2021-07-07T09:31:43",
+    "oldEffectiveDate": "2019-08-29T15:13:37"
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "error": "Cannot read property 'replace' of null",
+    "fvapData": {
+      "id": 26438,
+      "website": null,
+      "name": "OUTAGAMIE COUNTY",
+      "faxNumber": "920-832-2200",
+      "phoneNumber": "920-832-5078",
+      "secondaryPhoneNumber": "",
+      "faxNote": null,
+      "phoneNote": null,
+      "secondaryPhoneNote": "",
+      "email": "Lori.O&apos;Bright@outagamie.org",
+      "secondaryEmail": "",
+      "display": false,
+      "effectiveDate": "2018-09-05T04:01:19",
+      "address": {
+        "id": 58123,
+        "primaryStreetLine": "410 S WALNUT ST",
+        "secondaryStreetLine": null,
+        "tertiaryStreetLine": null,
+        "quaternaryStreetLine": null,
+        "city": "APPLETON",
+        "state": {
+          "id": 49,
+          "abbreviation": "WI",
+          "name": "Wisconsin",
+          "urlEnding": "wisconsin",
+          "censusCode": "55",
+          "ordinalPosition": 1,
+          "active": true,
+          "allowWriteIn": true,
+          "allowBallotInitiatives": false,
+          "allowFpcaPartyWriteIn": true
+        },
+        "zipcode": "54911-5920",
+        "militaryState": null,
+        "militaryPostOffice": null,
+        "country": {
+          "id": 224,
+          "code": "USA",
+          "name": "United States",
+          "continent": {
+            "id": 1,
+            "name": "North America"
+          },
+          "region": {
+            "id": 15,
+            "name": "North America"
+          },
+          "active": true
+        },
+        "usTerritories": [
+          11,
+          91,
+          173,
+          224,
+          230
+        ],
+        "military": false,
+        "usterritory": true,
+        "htmlDisplay": "410 S WALNUT ST&lt;br /&gt;APPLETON, WI 54911-5920 USA"
+      },
+      "jurisdiction": {
+        "id": 8662,
+        "name": "OUTAGAMIE COUNTY",
+        "state": {
+          "id": 49,
+          "abbreviation": "WI",
+          "name": "Wisconsin",
+          "urlEnding": "wisconsin",
+          "censusCode": "55",
+          "ordinalPosition": 1,
+          "active": true,
+          "allowWriteIn": true,
+          "allowBallotInitiatives": false,
+          "allowFpcaPartyWriteIn": true
+        },
+        "active": true,
+        "type": {
+          "id": 2,
+          "name": "County",
+          "active": true
+        },
+        "fpcaExists": false,
+        "fwabExists": false,
+        "fpcaUrl": "",
+        "fwabUrl": "",
+        "fipsCode": null,
+        "officesSize": 1,
+        "leosSize": 0
+      },
+      "fpcaOffice": true,
+      "fwabOffice": true,
+      "selectedLeos": null
+    }
+  }
+]

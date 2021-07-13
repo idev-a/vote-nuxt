@@ -1,0 +1,39 @@
+[
+  {
+    "change": "changed-FL-Broward-Broward Supervisor of Elections-460",
+    "newFax": "1 (954) 357-7033",
+    "oldFax": "954-357-7070",
+    "newEffectiveDate": "2020-09-24T09:09:25",
+    "oldEffectiveDate": "2019-08-13T15:35:04"
+  },
+  {
+    "change": "changed-FL-Manatee-Manatee Supervisor of Elections-495",
+    "newFax": "1 (941) 741-8788",
+    "oldFax": "941-741-3820",
+    "newEffectiveDate": "2020-09-24T09:08:58",
+    "oldEffectiveDate": "2019-08-13T15:35:04"
+  },
+  {
+    "change": "changed-FL-St. Lucie-St. Lucie Supervisor of Elections-514",
+    "newFax": "772-462-1534",
+    "oldFax": "772-462-1439",
+    "newEffectiveDate": "2020-09-24T14:59:11",
+    "oldEffectiveDate": "2019-08-13T15:35:04"
+  },
+  {
+    "change": "changed-OK-Tulsa-Secretary, Tulsa County Election Board-3033",
+    "newFax": "1 (918) 596-4536",
+    "oldFax": "(918) 596-4536",
+    "newEffectiveDate": "2020-09-24T09:08:28",
+    "oldEffectiveDate": "2020-09-23T10:38:47"
+  },
+  {
+    "change": "changed-TX-Kaufman-Kaufman County Early Voting Clerk-3517",
+    "newPhone": "469-376-4595",
+    "oldPhone": "(972) 932-0791",
+    "newEmail": "elections@kaufmancounty.net",
+    "oldEmail": "posteen@kaufmancounty.net",
+    "newEffectiveDate": "2020-09-24T12:39:17",
+    "oldEffectiveDate": "2019-08-29T15:13:37"
+  }
+]

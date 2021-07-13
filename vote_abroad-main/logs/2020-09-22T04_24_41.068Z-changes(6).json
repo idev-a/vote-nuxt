@@ -1,0 +1,48 @@
+[
+  {
+    "change": "changed-FL-Orange-Orange Supervisor of Elections-503",
+    "newFax": "407-254-6598",
+    "oldFax": "407-254-6577",
+    "newEffectiveDate": "2020-09-21T10:42:55",
+    "oldEffectiveDate": "2019-08-13T15:35:04"
+  },
+  {
+    "change": "changed-MI-Emmet County-Emmet County Clerk-22869",
+    "newFax": "231-348-0602",
+    "oldFax": "231-348-0633",
+    "newEmail": "ahughey@emmetcounty.org",
+    "oldEmail": "jbunker@emmetcounty.org",
+    "newEffectiveDate": "2020-09-21T18:23:58",
+    "oldEffectiveDate": "2019-08-12T16:48:53"
+  },
+  {
+    "change": "changed-MI-Ottawa County-Ottawa County Clerk-24233",
+    "newEmail": "elections@miottawa.org",
+    "oldEmail": "jroebuck@miottawa.org",
+    "newEffectiveDate": "2020-09-21T12:55:33",
+    "oldEffectiveDate": "2019-08-12T16:48:55"
+  },
+  {
+    "change": "changed-MT-Prairie-Prairie County Election Administrator-2242",
+    "newEmail": "cr@prairiecounty.org",
+    "oldEmail": "cr@prairie.org",
+    "newEffectiveDate": "2020-09-21T16:13:19",
+    "oldEffectiveDate": "2019-07-03T14:47:50"
+  },
+  {
+    "change": "changed-RI-Woonsocket-Woonsocket Board of Canvassers-3181",
+    "newPhone": "(401) 767-9223",
+    "oldPhone": "(401) 767-9221",
+    "newEmail": "mnarducci@woonsocketri.org",
+    "oldEmail": "ecorriveau@woonsocketri.org",
+    "newEffectiveDate": "2020-09-21T13:18:22",
+    "oldEffectiveDate": "2019-09-24T11:30:45"
+  },
+  {
+    "change": "changed-SC-Fairfield-Fairfield Board of Voter Registration-3201",
+    "newEmail": "jackie.beaver@fairfield.sc.gov",
+    "oldEmail": "jackie.beaver@fairfieldsc.com",
+    "newEffectiveDate": "2020-09-21T10:12:20",
+    "oldEffectiveDate": "2019-06-18T10:22:10"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "change": "changed-MI-Wilson Township (Alpena County)-Wilson Township Clerk-25075",
+    "newPhone": "989-464-8392",
+    "oldPhone": "989-464-6122",
+    "newEmail": "mwerthclerk@gmail.com",
+    "oldEmail": "pwalkerwilpwp@gmail.com",
+    "newEffectiveDate": "2020-09-03T11:52:17",
+    "oldEffectiveDate": "2020-02-27T11:51:23",
+    "newAddress1": "8303 Napper Road",
+    "oldAddress1": "6120 Herron Road",
+    "newCity": "Alpena",
+    "oldCity": "Herron",
+    "newZip": "49707",
+    "oldZip": "49744"
+  },
+  {
+    "change": "changed-NH-Stratford, Town of-Town Clerk of Stratford-2708",
+    "newEmail": "tctc@stratfordnh.town",
+    "oldEmail": "stratfordnh.tctc@gmail.com",
+    "newEffectiveDate": "2020-09-03T12:09:58",
+    "oldEffectiveDate": "2017-09-27T09:24:57",
+    "newAddress1": "P.O. Box 366",
+    "oldAddress1": "P.O. Box 368"
+  },
+  {
+    "change": "changed-PA-Montgomery-Montgomery County Board of Elections-3120",
+    "newEffectiveDate": "2020-09-03T12:35:13",
+    "oldEffectiveDate": "2019-07-26T15:54:46",
+    "newAddress1": "PO Box 311",
+    "oldAddress1": "One Montgomery Plaza P.O. Box 311, Ste 602  425 Swede St.",
+    "newAddress2": "",
+    "oldAddress2": "P.O. Box 311, Ste 602",
+    "newAddress3": "",
+    "oldAddress3": "Airy and Swede Streets"
+  },
+  {
+    "change": "changed-TN-McMinn-McMinn County Election Commission-3352",
+    "newEmail": "McMinn.Commission@tn.gov",
+    "oldEmail": "elections@mcminnelections.com",
+    "newEffectiveDate": "2020-09-03T10:59:38",
+    "oldEffectiveDate": "2019-01-30T12:55:25"
+  }
+]
